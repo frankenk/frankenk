@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v2
         with:
-          feed-url: http://rss.cnn.com/rss/cnn_topstories.rss
+          feed-url: https://www.bleepingcomputer.com/feed/
           readme-section: feed
 # Add section to repo README
 # <!--START_SECTION:feed-->
