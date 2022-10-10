@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Despite the attacks, which have killed at least 11 people, Ukraine says it will continue its offensive actions](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-10-22/index.html)
-* [Biden pledged advanced air defense systems to Ukraine](https://www.cnn.com/europe/live-news/russia-ukraine-war-news-10-10-22#h_41294d04001fdcae771da5132a3028cd)
-* [Putin warns Crimea bridge blast can't go 'unanswered'](https://www.cnn.com/2022/10/10/europe/ukraine-kyiv-missile-strikes-russia-intl/index.html)
-* [Analysis: Mystery swirls over who blew up Putin's bridge](https://www.cnn.com/2022/10/10/europe/russia-ukraine-strikes-crimea-bridge-analysis-cmd-intl/index.html)
-* [Vindman: Putin telegraphing where he's going to go this winter](https://www.cnn.com/videos/world/2022/10/10/russian-strikes-ukraine-putin-crimea-bridge-vindman-taylor-newday-vpx.cnn)
+* [Hackers behind IcedID malware attacks diversify delivery tactics](https://www.bleepingcomputer.com/news/security/hackers-behind-icedid-malware-attacks-diversify-delivery-tactics/)
+* [Toyota discloses data leak after access key exposed on GitHub](https://www.bleepingcomputer.com/news/security/toyota-discloses-data-leak-after-access-key-exposed-on-github/)
+* [Fortinet says critical auth bypass bug is exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-says-critical-auth-bypass-bug-is-exploited-in-attacks/)
+* [US airports' sites taken down in DDoS attacks by pro-Russian hackers](https://www.bleepingcomputer.com/news/security/us-airports-sites-taken-down-in-ddos-attacks-by-pro-russian-hackers/)
+* [Intel confirms leaked Alder Lake BIOS Source Code is authentic](https://www.bleepingcomputer.com/news/security/intel-confirms-leaked-alder-lake-bios-source-code-is-authentic/)
 <!--END_SECTION:feed-->
 
 <!--
