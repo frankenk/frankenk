@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5018427 update released with 30 bug fixes, improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5018427-update-released-with-30-bug-fixes-improvements/)
+* [Windows 10 KB5018410 and KB5018419 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5018410-and-kb5018419-updates-released/)
+* [Microsoft October 2022 Patch Tuesday fixes zero-day used in attacks, 84 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2022-patch-tuesday-fixes-zero-day-used-in-attacks-84-flaws/)
 * [Microsoft Exchange servers hacked to deploy LockBit ransomware](https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-lockbit-ransomware/)
 * [Russia labels Meta an 'extremist' org, sends legal threats to users](https://www.bleepingcomputer.com/news/technology/russia-labels-meta-an-extremist-org-sends-legal-threats-to-users/)
-* [Critical VM2 flaw lets attackers run code outside the sandbox](https://www.bleepingcomputer.com/news/security/critical-vm2-flaw-lets-attackers-run-code-outside-the-sandbox/)
-* [Windows 11 22H2 blocked due to Windows Hello issues on some systems](https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-blocked-due-to-windows-hello-issues-on-some-systems/)
-* [Hacking group POLONIUM uses ‘Creepy’ malware against Israel](https://www.bleepingcomputer.com/news/security/hacking-group-polonium-uses-creepy-malware-against-israel/)
 <!--END_SECTION:feed-->
 
 <!--
