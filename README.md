@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Exchange servers hacked to deploy LockBit ransomware](https://www.bleepingcomputer.com/news/security/microsoft-exchange-servers-hacked-to-deploy-lockbit-ransomware/)
+* [Russia labels Meta an 'extremist' org, sends legal threats to users](https://www.bleepingcomputer.com/news/technology/russia-labels-meta-an-extremist-org-sends-legal-threats-to-users/)
 * [Critical VM2 flaw lets attackers run code outside the sandbox](https://www.bleepingcomputer.com/news/security/critical-vm2-flaw-lets-attackers-run-code-outside-the-sandbox/)
 * [Windows 11 22H2 blocked due to Windows Hello issues on some systems](https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-blocked-due-to-windows-hello-issues-on-some-systems/)
 * [Hacking group POLONIUM uses ‘Creepy’ malware against Israel](https://www.bleepingcomputer.com/news/security/hacking-group-polonium-uses-creepy-malware-against-israel/)
-* [Caffeine service lets anyone launch Microsoft 365 phishing attacks](https://www.bleepingcomputer.com/news/security/caffeine-service-lets-anyone-launch-microsoft-365-phishing-attacks/)
-* [Hackers behind IcedID malware attacks diversify delivery tactics](https://www.bleepingcomputer.com/news/security/hackers-behind-icedid-malware-attacks-diversify-delivery-tactics/)
 <!--END_SECTION:feed-->
 
 <!--
