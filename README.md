@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google simplifies sign-ins with Chrome, Android passkey support](https://www.bleepingcomputer.com/news/google/google-simplifies-sign-ins-with-chrome-android-passkey-support/)
+* [Google Forms abused in new COVID-19 phishing wave in the U.S.](https://www.bleepingcomputer.com/news/security/google-forms-abused-in-new-covid-19-phishing-wave-in-the-us/)
 * [All Windows versions can now block admin brute-force attacks](https://www.bleepingcomputer.com/news/microsoft/all-windows-versions-can-now-block-admin-brute-force-attacks/)
 * [Android leaks some traffic even when 'Always-on VPN' is enabled](https://www.bleepingcomputer.com/news/google/android-leaks-some-traffic-even-when-always-on-vpn-is-enabled/)
 * [VMware vCenter Server bug disclosed last year still not patched](https://www.bleepingcomputer.com/news/security/vmware-vcenter-server-bug-disclosed-last-year-still-not-patched/)
-* [Windows 11 KB5018427 update released with 30 bug fixes, improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5018427-update-released-with-30-bug-fixes-improvements/)
-* [Windows 10 KB5018410 and KB5018419 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5018410-and-kb5018419-updates-released/)
 <!--END_SECTION:feed-->
 
 <!--
