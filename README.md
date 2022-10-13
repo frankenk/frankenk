@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fast Company says Executive Board member info was not stolen in attack](https://www.bleepingcomputer.com/news/security/fast-company-says-executive-board-member-info-was-not-stolen-in-attack/)
 * [Exploit available for critical Fortinet auth bypass bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-fortinet-auth-bypass-bug-patch-now/)
 * [Russian DDoS attack project pays contributors for more firepower](https://www.bleepingcomputer.com/news/security/russian-ddos-attack-project-pays-contributors-for-more-firepower/)
 * [Magniber ransomware now infects Windows users via JavaScript files](https://www.bleepingcomputer.com/news/security/magniber-ransomware-now-infects-windows-users-via-javascript-files/)
 * [What the Uber Hack can teach us about navigating IT Security](https://www.bleepingcomputer.com/news/security/what-the-uber-hack-can-teach-us-about-navigating-it-security/)
-* [Cloudflare mitigated record DDoS attack against Minecraft server](https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-record-ddos-attack-against-minecraft-server/)
 <!--END_SECTION:feed-->
 
 <!--
