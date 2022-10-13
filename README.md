@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Magniber ransomware now infects Windows users via JavaScript files](https://www.bleepingcomputer.com/news/security/magniber-ransomware-now-infects-windows-users-via-javascript-files/)
+* [What the Uber Hack can teach us about navigating IT Security](https://www.bleepingcomputer.com/news/security/what-the-uber-hack-can-teach-us-about-navigating-it-security/)
 * [Cloudflare mitigated record DDoS attack against Minecraft server](https://www.bleepingcomputer.com/news/security/cloudflare-mitigated-record-ddos-attack-against-minecraft-server/)
 * [New Alchimist attack framework targets Windows, macOS, Linux](https://www.bleepingcomputer.com/news/security/new-alchimist-attack-framework-targets-windows-macos-linux/)
 * [Microsoft adds new RSS feed for security update notifications](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-new-rss-feed-for-security-update-notifications/)
-* [Unofficial WhatsApp Android app caught stealing users’ accounts](https://www.bleepingcomputer.com/news/security/unofficial-whatsapp-android-app-caught-stealing-users-accounts/)
-* [Signal will remove support for SMS text messages on Android](https://www.bleepingcomputer.com/news/technology/signal-will-remove-support-for-sms-text-messages-on-android/)
 <!--END_SECTION:feed-->
 
 <!--
