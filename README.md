@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Student jailed for hacking female classmates’ email, Snapchat accounts](https://www.bleepingcomputer.com/news/security/student-jailed-for-hacking-female-classmates-email-snapchat-accounts/)
 * [Microsoft Edge extends battery life via improved efficiency mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-extends-battery-life-via-improved-efficiency-mode/)
 * [CISA releases open-source 'RedEye' C2 log visualization tool](https://www.bleepingcomputer.com/news/security/cisa-releases-open-source-redeye-c2-log-visualization-tool/)
 * [INTERPOL arrests ‘Black Axe’ cybercrime syndicate members](https://www.bleepingcomputer.com/news/security/interpol-arrests-black-axe-cybercrime-syndicate-members/)
 * [Australian police secret agents exposed in Colombian data leak](https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/)
-* [Microsoft Office 365 email encryption could expose message content](https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/)
 <!--END_SECTION:feed-->
 
 <!--
