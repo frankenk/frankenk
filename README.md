@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [INTERPOL arrests ‘Black Axe’ cybercrime syndicate members](https://www.bleepingcomputer.com/news/security/interpol-arrests-black-axe-cybercrime-syndicate-members/)
 * [Australian police secret agents exposed in Colombian data leak](https://www.bleepingcomputer.com/news/security/australian-police-secret-agents-exposed-in-colombian-data-leak/)
 * [Microsoft Office 365 email encryption could expose message content](https://www.bleepingcomputer.com/news/security/microsoft-office-365-email-encryption-could-expose-message-content/)
 * [Microsoft is rebranding 'Office' to Microsoft 365](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rebranding-office-to-microsoft-365/)
 * [Fast Company says Executive Board member info was not stolen in attack](https://www.bleepingcomputer.com/news/security/fast-company-says-executive-board-member-info-was-not-stolen-in-attack/)
-* [Exploit available for critical Fortinet auth bypass bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-fortinet-auth-bypass-bug-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
