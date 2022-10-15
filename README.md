@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 45,000 VMware ESXi servers just reached end-of-life](https://www.bleepingcomputer.com/news/security/over-45-000-vmware-esxi-servers-just-reached-end-of-life/)
+* [Fortinet urges admins to patch bug with public exploit immediately](https://www.bleepingcomputer.com/news/security/fortinet-urges-admins-to-patch-bug-with-public-exploit-immediately/)
+* [Almost 900 servers hacked using Zimbra zero-day flaw](https://www.bleepingcomputer.com/news/security/almost-900-servers-hacked-using-zimbra-zero-day-flaw/)
 * [The Week in Ransomware - October 14th 2022 - Bitcoin Trickery](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-14th-2022-bitcoin-trickery/)
 * [Police tricks DeadBolt ransomware out of 155 decryption keys](https://www.bleepingcomputer.com/news/security/police-tricks-deadbolt-ransomware-out-of-155-decryption-keys/)
-* [Microsoft: New Prestige ransomware targets orgs in Ukraine, Poland](https://www.bleepingcomputer.com/news/security/microsoft-new-prestige-ransomware-targets-orgs-in-ukraine-poland/)
-* [Student jailed for hacking female classmates’ email, Snapchat accounts](https://www.bleepingcomputer.com/news/security/student-jailed-for-hacking-female-classmates-email-snapchat-accounts/)
-* [Microsoft Edge extends battery life via improved efficiency mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-extends-battery-life-via-improved-efficiency-mode/)
 <!--END_SECTION:feed-->
 
 <!--
