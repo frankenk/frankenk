@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Windows TLS handshake failures in out-of-band updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-tls-handshake-failures-in-out-of-band-updates/)
 * [Malware dev claims to sell new BlackLotus Windows UEFI bootkit](https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/)
 * [MyDeal data breach impacts 2.2M users, stolen data for sale online](https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/)
 * [Windows Mark of the Web bypass zero-day gets unofficial patch](https://www.bleepingcomputer.com/news/microsoft/windows-mark-of-the-web-bypass-zero-day-gets-unofficial-patch/)
 * [Australian insurance firm Medibank confirms ransomware attack](https://www.bleepingcomputer.com/news/security/australian-insurance-firm-medibank-confirms-ransomware-attack/)
-* [Police dismantles criminal ring that hacked keyless cars](https://www.bleepingcomputer.com/news/security/police-dismantles-criminal-ring-that-hacked-keyless-cars/)
 <!--END_SECTION:feed-->
 
 <!--
