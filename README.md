@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft finally releases tabbed File Explorer for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-releases-tabbed-file-explorer-for-windows-11/)
+* [Windows 10 22H2 is released, here's what we know](https://www.bleepingcomputer.com/news/microsoft/windows-10-22h2-is-released-heres-what-we-know/)
 * [Hackers target Asian casinos in lengthy cyberespionage campaign](https://www.bleepingcomputer.com/news/security/hackers-target-asian-casinos-in-lengthy-cyberespionage-campaign/)
 * [Verizon notifies prepaid customers their accounts were breached](https://www.bleepingcomputer.com/news/security/verizon-notifies-prepaid-customers-their-accounts-were-breached/)
 * [Text message verification flaws in your Windows Active Directory](https://www.bleepingcomputer.com/news/security/text-message-verification-flaws-in-your-windows-active-directory/)
-* [DuckDuckGo for Mac enters public beta, now available to everyone](https://www.bleepingcomputer.com/news/security/duckduckgo-for-mac-enters-public-beta-now-available-to-everyone/)
-* [Hackers compromised Hong Kong govt agency network for a year](https://www.bleepingcomputer.com/news/security/hackers-compromised-hong-kong-govt-agency-network-for-a-year/)
 <!--END_SECTION:feed-->
 
 <!--
