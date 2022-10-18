@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers target Asian casinos in lengthy cyberespionage campaign](https://www.bleepingcomputer.com/news/security/hackers-target-asian-casinos-in-lengthy-cyberespionage-campaign/)
+* [Verizon notifies prepaid customers their accounts were breached](https://www.bleepingcomputer.com/news/security/verizon-notifies-prepaid-customers-their-accounts-were-breached/)
 * [Text message verification flaws in your Windows Active Directory](https://www.bleepingcomputer.com/news/security/text-message-verification-flaws-in-your-windows-active-directory/)
 * [DuckDuckGo for Mac enters public beta, now available to everyone](https://www.bleepingcomputer.com/news/security/duckduckgo-for-mac-enters-public-beta-now-available-to-everyone/)
 * [Hackers compromised Hong Kong govt agency network for a year](https://www.bleepingcomputer.com/news/security/hackers-compromised-hong-kong-govt-agency-network-for-a-year/)
-* [Microsoft fixes Windows TLS handshake failures in out-of-band updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-tls-handshake-failures-in-out-of-band-updates/)
-* [Malware dev claims to sell new BlackLotus Windows UEFI bootkit](https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/)
 <!--END_SECTION:feed-->
 
 <!--
