@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Text message verification flaws in your Windows Active Directory](https://www.bleepingcomputer.com/news/security/text-message-verification-flaws-in-your-windows-active-directory/)
 * [DuckDuckGo for Mac enters public beta, now available to everyone](https://www.bleepingcomputer.com/news/security/duckduckgo-for-mac-enters-public-beta-now-available-to-everyone/)
 * [Hackers compromised Hong Kong govt agency network for a year](https://www.bleepingcomputer.com/news/security/hackers-compromised-hong-kong-govt-agency-network-for-a-year/)
 * [Microsoft fixes Windows TLS handshake failures in out-of-band updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-tls-handshake-failures-in-out-of-band-updates/)
 * [Malware dev claims to sell new BlackLotus Windows UEFI bootkit](https://www.bleepingcomputer.com/news/security/malware-dev-claims-to-sell-new-blacklotus-windows-uefi-bootkit/)
-* [MyDeal data breach impacts 2.2M users, stolen data for sale online](https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/)
 <!--END_SECTION:feed-->
 
 <!--
