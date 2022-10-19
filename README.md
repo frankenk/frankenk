@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Brazil arrests suspect linked to the Lapsus$ hacking group](https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-linked-to-the-lapsus-hacking-group/)
 * [Microsoft data breach exposes customers’ contact info, emails](https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/)
 * [Microsoft announces enterprise DDoS protection for SMBs](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-enterprise-ddos-protection-for-smbs/)
 * [Hackers use new stealthy PowerShell backdoor to target 60+ victims](https://www.bleepingcomputer.com/news/security/hackers-use-new-stealthy-powershell-backdoor-to-target-60-plus-victims/)
 * [Microsoft Azure SFX bug let hackers hijack Service Fabric clusters](https://www.bleepingcomputer.com/news/security/microsoft-azure-sfx-bug-let-hackers-hijack-service-fabric-clusters/)
-* [Apache Commons Text RCE flaw — Keep calm and patch away](https://www.bleepingcomputer.com/news/security/apache-commons-text-rce-flaw-keep-calm-and-patch-away/)
 <!--END_SECTION:feed-->
 
 <!--
