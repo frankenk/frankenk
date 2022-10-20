@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Brazil arrests suspect linked to the Lapsus$ hacking group](https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-linked-to-the-lapsus-hacking-group/)
+* [Brazil arrests suspect believed to be a Lapsus$ gang member](https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-believed-to-be-a-lapsus-gang-member/)
 * [Microsoft data breach exposes customers’ contact info, emails](https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/)
 * [Microsoft announces enterprise DDoS protection for SMBs](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-enterprise-ddos-protection-for-smbs/)
 * [Hackers use new stealthy PowerShell backdoor to target 60+ victims](https://www.bleepingcomputer.com/news/security/hackers-use-new-stealthy-powershell-backdoor-to-target-60-plus-victims/)
