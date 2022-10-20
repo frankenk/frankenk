@@ -4,7 +4,7 @@
 * [Google sued over biometric data collection without consent](https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/)
 * [Health system data breach due to Meta Pixel hits 3 million patients](https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/)
 * [OldGremlin hackers use Linux ransomware to attack Russian orgs](https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/)
-* [Internet connectivity worldwide impacted by severed EU subsea cables](https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-eu-subsea-cables/)
+* [Internet connectivity worldwide impacted by severed fiber cables in France](https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/)
 * [Cybercriminals jailed for cryptocurrency theft, death threats](https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/)
 <!--END_SECTION:feed-->
 
