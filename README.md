@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Internet connectivity worldwide impacted by severed EU subsea cables](https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-eu-subsea-cables/)
 * [Cybercriminals jailed for cryptocurrency theft, death threats](https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/)
 * [Hacking group updates Furball Android spyware to evade detection](https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/)
 * [Microsoft improves the Windows Update experience in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-improves-the-windows-update-experience-in-windows-11/)
 * [Brazil arrests suspect believed to be a Lapsus$ gang member](https://www.bleepingcomputer.com/news/security/brazil-arrests-suspect-believed-to-be-a-lapsus-gang-member/)
-* [Microsoft data breach exposes customers’ contact info, emails](https://www.bleepingcomputer.com/news/security/microsoft-data-breach-exposes-customers-contact-info-emails/)
 <!--END_SECTION:feed-->
 
 <!--
