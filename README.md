@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google sued over biometric data collection without consent](https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/)
+* [Health system data breach due to Meta Pixel hits 3 million patients](https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/)
 * [OldGremlin hackers use Linux ransomware to attack Russian orgs](https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/)
 * [Internet connectivity worldwide impacted by severed EU subsea cables](https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-eu-subsea-cables/)
 * [Cybercriminals jailed for cryptocurrency theft, death threats](https://www.bleepingcomputer.com/news/security/cybercriminals-jailed-for-cryptocurrency-theft-death-threats/)
-* [Hacking group updates Furball Android spyware to evade detection](https://www.bleepingcomputer.com/news/security/hacking-group-updates-furball-android-spyware-to-evade-detection/)
-* [Microsoft improves the Windows Update experience in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-improves-the-windows-update-experience-in-windows-11/)
 <!--END_SECTION:feed-->
 
 <!--
