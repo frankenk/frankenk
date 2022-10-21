@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BlackByte ransomware uses new data theft tool for double-extortion](https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-uses-new-data-theft-tool-for-double-extortion/)
 * [Ursnif malware switches from bank account theft to initial access](https://www.bleepingcomputer.com/news/security/ursnif-malware-switches-from-bank-account-theft-to-initial-access/)
 * [Google sued over biometric data collection without consent](https://www.bleepingcomputer.com/news/security/google-sued-over-biometric-data-collection-without-consent/)
 * [Health system data breach due to Meta Pixel hits 3 million patients](https://www.bleepingcomputer.com/news/security/health-system-data-breach-due-to-meta-pixel-hits-3-million-patients/)
 * [OldGremlin hackers use Linux ransomware to attack Russian orgs](https://www.bleepingcomputer.com/news/security/oldgremlin-hackers-use-linux-ransomware-to-attack-russian-orgs/)
-* [Internet connectivity worldwide impacted by severed fiber cables in France](https://www.bleepingcomputer.com/news/technology/internet-connectivity-worldwide-impacted-by-severed-fiber-cables-in-france/)
 <!--END_SECTION:feed-->
 
 <!--
