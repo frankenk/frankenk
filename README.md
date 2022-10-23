@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Thousands of GitHub repositories deliver fake PoC exploits with malware](https://www.bleepingcomputer.com/news/security/thousands-of-github-repositories-deliver-fake-poc-exploits-with-malware/)
+* [Typosquat campaign mimics 27 brands to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/typosquat-campaign-mimics-27-brands-to-push-windows-android-malware/)
 * [Android adware apps in Google Play downloaded over 20 million times](https://www.bleepingcomputer.com/news/security/android-adware-apps-in-google-play-downloaded-over-20-million-times/)
 * [TommyLeaks and SchoolBoys: Two sides of the same ransomware gang](https://www.bleepingcomputer.com/news/security/tommyleaks-and-schoolboys-two-sides-of-the-same-ransomware-gang/)
 * [Exploited Windows zero-day lets JavaScript files bypass security warnings](https://www.bleepingcomputer.com/news/security/exploited-windows-zero-day-lets-javascript-files-bypass-security-warnings/)
-* [The Week in Ransomware - October 21st 2022 - Stop the Presses](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-21st-2022-stop-the-presses/)
-* [US govt warns of Daixin Team targeting health orgs with ransomware](https://www.bleepingcomputer.com/news/security/us-govt-warns-of-daixin-team-targeting-health-orgs-with-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
