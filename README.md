@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome to drop support for Windows 7 / 8.1 in Feb 2023](https://www.bleepingcomputer.com/news/google/google-chrome-to-drop-support-for-windows-7-81-in-feb-2023/)
 * [Chrome extensions with 1 million installs hijack targets’ browsers](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/)
 * [Apple fixes new zero-day used in attacks against iPhones, iPads](https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-ipads/)
 * [Iran’s atomic energy agency confirms hack after stolen data leaked online](https://www.bleepingcomputer.com/news/security/iran-s-atomic-energy-agency-confirms-hack-after-stolen-data-leaked-online/)
 * [Microsoft fixes printing issue blocking Windows 11 22H2 upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-printing-issue-blocking-windows-11-22h2-upgrades/)
-* [Cuba ransomware affiliate targets Ukrainian govt agencies](https://www.bleepingcomputer.com/news/security/cuba-ransomware-affiliate-targets-ukrainian-govt-agencies/)
 <!--END_SECTION:feed-->
 
 <!--
