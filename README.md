@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco warns admins to patch AnyConnect flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/)
+* [See Tickets discloses 2.5 years-long credit card theft breach](https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/)
 * [Ukrainian charged for operating Raccoon Stealer malware service](https://www.bleepingcomputer.com/news/security/ukrainian-charged-for-operating-raccoon-stealer-malware-service/)
 * [Microsoft: Vice Society targets schools with multiple ransomware families](https://www.bleepingcomputer.com/news/security/microsoft-vice-society-targets-schools-with-multiple-ransomware-families/)
 * [Dutch police arrest hacker who breached healthcare software vendor](https://www.bleepingcomputer.com/news/security/dutch-police-arrest-hacker-who-breached-healthcare-software-vendor/)
-* [VMware fixes critical Cloud Foundation remote code execution bug](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-foundation-remote-code-execution-bug/)
-* [Massive cryptomining campaign abuses free-tier cloud dev resources](https://www.bleepingcomputer.com/news/security/massive-cryptomining-campaign-abuses-free-tier-cloud-dev-resources/)
 <!--END_SECTION:feed-->
 
 <!--
