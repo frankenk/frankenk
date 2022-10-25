@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Massive cryptomining campaign abuses free-tier cloud dev resources](https://www.bleepingcomputer.com/news/security/massive-cryptomining-campaign-abuses-free-tier-cloud-dev-resources/)
+* [New Samsung Maintenance Mode protects your data during phone repairs](https://www.bleepingcomputer.com/news/security/new-samsung-maintenance-mode-protects-your-data-during-phone-repairs/)
 * [Zscaler outage causing heavy packet loss, connectivity issues](https://www.bleepingcomputer.com/news/technology/zscaler-outage-causing-heavy-packet-loss-connectivity-issues/)
 * [How the "pizza123" password could take down an organization ](https://www.bleepingcomputer.com/news/security/how-the-pizza123-password-could-take-down-an-organization/)
 * [Hive claims ransomware attack on Tata Power, begins leaking data](https://www.bleepingcomputer.com/news/security/hive-claims-ransomware-attack-on-tata-power-begins-leaking-data/)
-* [Google Chrome to drop support for Windows 7 / 8.1 in Feb 2023](https://www.bleepingcomputer.com/news/google/google-chrome-to-drop-support-for-windows-7-81-in-feb-2023/)
-* [Chrome extensions with 1 million installs hijack targets’ browsers](https://www.bleepingcomputer.com/news/security/chrome-extensions-with-1-million-installs-hijack-targets-browsers/)
 <!--END_SECTION:feed-->
 
 <!--
