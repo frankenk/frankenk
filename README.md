@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Outpost24: How Pentesting-as-a-Service finds vulnerabilities before they're exploited](https://www.bleepingcomputer.com/news/security/outpost24-how-pentesting-as-a-service-finds-vulnerabilities-before-theyre-exploited/)
+* [Medibank now says hackers accessed all its customers’ personal data](https://www.bleepingcomputer.com/news/security/medibank-now-says-hackers-accessed-all-its-customers-personal-data/)
+* [Microsoft: Server Manager disk resets can lead to data loss](https://www.bleepingcomputer.com/news/microsoft/microsoft-server-manager-disk-resets-can-lead-to-data-loss/)
 * [Microsoft fixes Windows vulnerable driver blocklist sync issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-vulnerable-driver-blocklist-sync-issue/)
 * [Cisco warns admins to patch AnyConnect flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-admins-to-patch-anyconnect-flaw-exploited-in-attacks/)
-* [See Tickets discloses 2.5 years-long credit card theft breach](https://www.bleepingcomputer.com/news/security/see-tickets-discloses-25-years-long-credit-card-theft-breach/)
-* [Ukrainian charged for operating Raccoon Stealer malware service](https://www.bleepingcomputer.com/news/security/ukrainian-charged-for-operating-raccoon-stealer-malware-service/)
-* [Microsoft: Vice Society targets schools with multiple ransomware families](https://www.bleepingcomputer.com/news/security/microsoft-vice-society-targets-schools-with-multiple-ransomware-families/)
 <!--END_SECTION:feed-->
 
 <!--
