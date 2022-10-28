@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft OneDrive crashes because of recent Windows 10 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-onedrive-crashes-because-of-recent-windows-10-updates/)
+* [Android malware droppers with 130K installs found on Google Play](https://www.bleepingcomputer.com/news/security/android-malware-droppers-with-130k-installs-found-on-google-play/)
+* [Hackers use Microsoft IIS web server logs to control malware](https://www.bleepingcomputer.com/news/security/hackers-use-microsoft-iis-web-server-logs-to-control-malware/)
 * [Apple fixes recently disclosed zero-day on older iPhones, iPads](https://www.bleepingcomputer.com/news/security/apple-fixes-recently-disclosed-zero-day-on-older-iphones-ipads/)
 * [Microsoft links Raspberry Robin worm to Clop ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-raspberry-robin-worm-to-clop-ransomware-attacks/)
-* [Australian Clinical Labs says patient data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/australian-clinical-labs-says-patient-data-stolen-in-ransomware-attack/)
-* [Drinik Android malware now targets users of 18 Indian banks](https://www.bleepingcomputer.com/news/security/drinik-android-malware-now-targets-users-of-18-indian-banks/)
-* [Twilio discloses another hack from June, blames voice phishing](https://www.bleepingcomputer.com/news/security/twilio-discloses-another-hack-from-june-blames-voice-phishing/)
 <!--END_SECTION:feed-->
 
 <!--
