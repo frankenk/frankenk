@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [ConnectWise fixes RCE bug exposing R1Soft backup servers to attacks](https://www.bleepingcomputer.com/news/security/connectwise-fixes-rce-bug-exposing-r1soft-backup-servers-to-attacks/)
+* [ConnectWise fixes RCE bug exposing thousands of servers to attacks](https://www.bleepingcomputer.com/news/security/connectwise-fixes-rce-bug-exposing-thousands-of-servers-to-attacks/)
 * [The Week in Ransomware - October 28th 2022 - Healthcare leaks](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-28th-2022-healthcare-leaks/)
 * [Microsoft shares workaround for ongoing Outlook login issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-ongoing-outlook-login-issues/)
 * [Largest EU copper producer Aurubis suffers cyberattack, IT outage](https://www.bleepingcomputer.com/news/security/largest-eu-copper-producer-aurubis-suffers-cyberattack-it-outage/)
