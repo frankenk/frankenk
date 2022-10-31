@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers selling access to 576 corporate networks for $4 million](https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/)
 * [Chegg sued by FTC after suffering four data breaches within 3 years](https://www.bleepingcomputer.com/news/security/chegg-sued-by-ftc-after-suffering-four-data-breaches-within-3-years/)
 * [NSA shares supply chain security tips for software suppliers](https://www.bleepingcomputer.com/news/security/nsa-shares-supply-chain-security-tips-for-software-suppliers/)
 * [Hacking group abuses antivirus software to launch LODEINFO malware](https://www.bleepingcomputer.com/news/security/hacking-group-abuses-antivirus-software-to-launch-lodeinfo-malware/)
 * [Instagram confirms outage following stream of user suspensions](https://www.bleepingcomputer.com/news/technology/instagram-confirms-outage-following-stream-of-user-suspensions/)
-* [New Azov data wiper tries to frame researchers and BleepingComputer](https://www.bleepingcomputer.com/news/security/new-azov-data-wiper-tries-to-frame-researchers-and-bleepingcomputer/)
 <!--END_SECTION:feed-->
 
 <!--
