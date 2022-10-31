@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mozilla Firefox fixes freezes caused by new Windows 11 feature](https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/)
 * [Hackers selling access to 576 corporate networks for $4 million](https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/)
 * [Chegg sued by FTC after suffering four data breaches within 3 years](https://www.bleepingcomputer.com/news/security/chegg-sued-by-ftc-after-suffering-four-data-breaches-within-3-years/)
 * [NSA shares supply chain security tips for software suppliers](https://www.bleepingcomputer.com/news/security/nsa-shares-supply-chain-security-tips-for-software-suppliers/)
 * [Hacking group abuses antivirus software to launch LODEINFO malware](https://www.bleepingcomputer.com/news/security/hacking-group-abuses-antivirus-software-to-launch-lodeinfo-malware/)
-* [Instagram confirms outage following stream of user suspensions](https://www.bleepingcomputer.com/news/technology/instagram-confirms-outage-following-stream-of-user-suspensions/)
 <!--END_SECTION:feed-->
 
 <!--
