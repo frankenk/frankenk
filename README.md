@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Using Regex to Implement Passphrases in Your Active Directory](https://www.bleepingcomputer.com/news/microsoft/using-regex-to-implement-passphrases-in-your-active-directory/)
 * [Microsoft fixes critical RCE flaw affecting Azure Cosmos DB](https://www.bleepingcomputer.com/news/security/microsoft-fixes-critical-rce-flaw-affecting-azure-cosmos-db/)
 * [Google ad for GIMP.org served info-stealing malware via lookalike site](https://www.bleepingcomputer.com/news/security/google-ad-for-gimporg-served-info-stealing-malware-via-lookalike-site/)
 * [Mozilla Firefox fixes freezes caused by new Windows 11 feature](https://www.bleepingcomputer.com/news/security/mozilla-firefox-fixes-freezes-caused-by-new-windows-11-feature/)
 * [Hackers selling access to 576 corporate networks for $4 million](https://www.bleepingcomputer.com/news/security/hackers-selling-access-to-576-corporate-networks-for-4-million/)
-* [Chegg sued by FTC after suffering four data breaches within 3 years](https://www.bleepingcomputer.com/news/security/chegg-sued-by-ftc-after-suffering-four-data-breaches-within-3-years/)
 <!--END_SECTION:feed-->
 
 <!--
