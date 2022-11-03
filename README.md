@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [ALMA Observatory shuts down operations due to a cyberattack](https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/)
+* [New Crimson Kingsnake gang impersonates law firms in BEC attacks](https://www.bleepingcomputer.com/news/security/new-crimson-kingsnake-gang-impersonates-law-firms-in-bec-attacks/)
+* [LockBit ransomware claims attack on Continental automotive giant](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-continental-automotive-giant/)
+* [OPERA1ER hackers steal over * [ALMA Observatory shuts down operations due to a cyberattack](https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/)
 * [New clipboard hijacker replaces crypto wallet addresses with lookalikes](https://www.bleepingcomputer.com/news/security/new-clipboard-hijacker-replaces-crypto-wallet-addresses-with-lookalikes/)
 * [Black Basta ransomware gang linked to the FIN7 hacking group](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-linked-to-the-fin7-hacking-group/)
 * [New Windows 'LockSmith' PowerToy lets you free locked files](https://www.bleepingcomputer.com/news/microsoft/new-windows-locksmith-powertoy-lets-you-free-locked-files/)
-* [Hundreds of U.S. news sites push malware in supply-chain attack](https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-push-malware-in-supply-chain-attack/)
+* [Hundreds of U.S. news sites push malware in supply-chain attack](https://www.bleepingcomputer.com/news/security/hundreds-of-us-news-sites-push-malware-in-supply-chain-attack/)1 million from banks and telcos](https://www.bleepingcomputer.com/news/security/opera1er-hackers-steal-over-11-million-from-banks-and-telcos/)
+* [ALMA Observatory shuts down operations due to a cyberattack](https://www.bleepingcomputer.com/news/security/alma-observatory-shuts-down-operations-due-to-a-cyberattack/)
+* [New clipboard hijacker replaces crypto wallet addresses with lookalikes](https://www.bleepingcomputer.com/news/security/new-clipboard-hijacker-replaces-crypto-wallet-addresses-with-lookalikes/)
 <!--END_SECTION:feed-->
 
 <!--
