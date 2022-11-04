@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: Hacktivist DDoS attacks had minor impact on critical orgs](https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/)
+* [ACE seizes 42 soccer and live TV piracy web domains with millions of visitors](https://www.bleepingcomputer.com/news/technology/ace-seizes-42-soccer-and-live-tv-piracy-web-domains-with-millions-of-visitors/)
 * [British govt is scanning all Internet devices hosted in UK](https://www.bleepingcomputer.com/news/security/british-govt-is-scanning-all-internet-devices-hosted-in-uk/)
 * [Z-Library eBook site domains seized by U.S. Dept of Justice](https://www.bleepingcomputer.com/news/technology/z-library-ebook-site-domains-seized-by-us-dept-of-justice/)
 * [Robin Banks phishing service returns to steal banking accounts](https://www.bleepingcomputer.com/news/security/robin-banks-phishing-service-returns-to-steal-banking-accounts/)
-* [Windows 11 22H2 blocked on systems using Xbox Game Bar Capture](https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-blocked-on-systems-using-xbox-game-bar-capture/)
-* [As Twitter brings on $8 fee, phishing emails target verified accounts](https://www.bleepingcomputer.com/news/security/as-twitter-brings-on-8-fee-phishing-emails-target-verified-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
