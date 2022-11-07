@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Maple Leaf Foods suffers outage following weekend cyberattack](https://www.bleepingcomputer.com/news/security/maple-leaf-foods-suffers-outage-following-weekend-cyberattack/)
 * [Ransomware gang threatens to release stolen Medibank data](https://www.bleepingcomputer.com/news/security/ransomware-gang-threatens-to-release-stolen-medibank-data/)
 * [Mastodon now has over 1 million users amid Twitter tensions](https://www.bleepingcomputer.com/news/technology/mastodon-now-has-over-1-million-users-amid-twitter-tensions/)
 * [Microsoft sued for open-source piracy through GitHub Copilot](https://www.bleepingcomputer.com/news/security/microsoft-sued-for-open-source-piracy-through-github-copilot/)
 * [FBI: Hacktivist DDoS attacks had minor impact on critical orgs](https://www.bleepingcomputer.com/news/security/fbi-hacktivist-ddos-attacks-had-minor-impact-on-critical-orgs/)
-* [ACE seizes 42 soccer and live TV piracy web domains with millions of visitors](https://www.bleepingcomputer.com/news/technology/ace-seizes-42-soccer-and-live-tv-piracy-web-domains-with-millions-of-visitors/)
 <!--END_SECTION:feed-->
 
 <!--
