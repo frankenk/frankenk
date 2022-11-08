@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware fixes three critical auth bypass bugs in remote access tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/)
 * [Microsoft: Windows 10 21H1 reaches end of service next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h1-reaches-end-of-service-next-month/)
 * [Windows 11 KB5019980 and KB5019961 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5019980-and-kb5019961-cumulative-updates-released/)
 * [Windows 10 KB5019959 and KB5019966 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5019959-and-kb5019966-updates-released/)
 * [Microsoft fixes ProxyNotShell Exchange zero-days exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/)
-* [Microsoft November 2022 Patch Tuesday fixes 6 exploited zero-days, 68 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2022-patch-tuesday-fixes-6-exploited-zero-days-68-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
