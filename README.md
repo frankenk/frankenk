@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5019959 and KB5019966 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5019959-and-kb5019966-updates-released/)
+* [Microsoft fixes ProxyNotShell Exchange zero-days exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-proxynotshell-exchange-zero-days-exploited-in-attacks/)
+* [Microsoft November 2022 Patch Tuesday fixes 6 exploited zero-days, 68 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2022-patch-tuesday-fixes-6-exploited-zero-days-68-flaws/)
 * [Citrix urges admins to patch critical ADC, Gateway auth bypass](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-critical-adc-gateway-auth-bypass/)
 * [Influencer 'Hushpuppi' gets 11 years in prison for cyber fraud](https://www.bleepingcomputer.com/news/security/influencer-hushpuppi-gets-11-years-in-prison-for-cyber-fraud/)
-* [Enhance your privacy with this second phone number app deal](https://www.bleepingcomputer.com/news/security/enhance-your-privacy-with-this-second-phone-number-app-deal/)
-* [Azov Ransomware is a wiper, destroying data 666 bytes at a time](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/)
-* [Microsoft is showing ads in the Windows 11 sign-out menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-showing-ads-in-the-windows-11-sign-out-menu/)
 <!--END_SECTION:feed-->
 
 <!--
