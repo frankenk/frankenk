@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Influencer 'Hushpuppi' gets 11 years in prison for cyber fraud](https://www.bleepingcomputer.com/news/security/influencer-hushpuppi-gets-11-years-in-prison-for-cyber-fraud/)
+* [Enhance your privacy with this second phone number app deal](https://www.bleepingcomputer.com/news/security/enhance-your-privacy-with-this-second-phone-number-app-deal/)
 * [Azov Ransomware is a wiper, destroying data 666 bytes at a time](https://www.bleepingcomputer.com/news/security/azov-ransomware-is-a-wiper-destroying-data-666-bytes-at-a-time/)
 * [Microsoft is showing ads in the Windows 11 sign-out menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-showing-ads-in-the-windows-11-sign-out-menu/)
 * [U.S. unmasks hacker who stole 50,000 bitcoins from Silk Road](https://www.bleepingcomputer.com/news/security/us-unmasks-hacker-who-stole-50-000-bitcoins-from-silk-road/)
-* [Microsoft WinGet package manager failing due to CDN issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-winget-package-manager-failing-due-to-cdn-issues/)
-* [Maple Leaf Foods suffers outage following weekend cyberattack](https://www.bleepingcomputer.com/news/security/maple-leaf-foods-suffers-outage-following-weekend-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
