@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lenovo fixes flaws that can be used to disable UEFI Secure Boot](https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/)
 * [LockBit affiliate uses Amadey Bot malware to deploy ransomware](https://www.bleepingcomputer.com/news/security/lockbit-affiliate-uses-amadey-bot-malware-to-deploy-ransomware/)
 * [Malicious extension lets attackers control Google Chrome remotely](https://www.bleepingcomputer.com/news/security/malicious-extension-lets-attackers-control-google-chrome-remotely/)
 * [VMware fixes three critical auth bypass bugs in remote access tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/)
 * [Microsoft: Windows 10 21H1 reaches end of service next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h1-reaches-end-of-service-next-month/)
-* [Windows 11 KB5019980 and KB5019961 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5019980-and-kb5019961-cumulative-updates-released/)
 <!--END_SECTION:feed-->
 
 <!--
