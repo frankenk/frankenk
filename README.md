@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Medibank warns customers their data was leaked by ransomware gang](https://www.bleepingcomputer.com/news/security/medibank-warns-customers-their-data-was-leaked-by-ransomware-gang/)
 * [Lenovo fixes flaws that can be used to disable UEFI Secure Boot](https://www.bleepingcomputer.com/news/security/lenovo-fixes-flaws-that-can-be-used-to-disable-uefi-secure-boot/)
 * [LockBit affiliate uses Amadey Bot malware to deploy ransomware](https://www.bleepingcomputer.com/news/security/lockbit-affiliate-uses-amadey-bot-malware-to-deploy-ransomware/)
 * [Malicious extension lets attackers control Google Chrome remotely](https://www.bleepingcomputer.com/news/security/malicious-extension-lets-attackers-control-google-chrome-remotely/)
 * [VMware fixes three critical auth bypass bugs in remote access tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-auth-bypass-bugs-in-remote-access-tool/)
-* [Microsoft: Windows 10 21H1 reaches end of service next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h1-reaches-end-of-service-next-month/)
 <!--END_SECTION:feed-->
 
 <!--
