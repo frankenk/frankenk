@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Verified mess — Twitter's $8 blue tick rollout sees 'verified' fakes](https://www.bleepingcomputer.com/news/security/verified-mess-twitters-8-blue-tick-rollout-sees-verified-fakes/)
 * [New StrelaStealer malware steals your Outlook, Thunderbird accounts](https://www.bleepingcomputer.com/news/security/new-strelastealer-malware-steals-your-outlook-thunderbird-accounts/)
 * [Couple sentenced to prison for trying to sell nuclear warship secrets](https://www.bleepingcomputer.com/news/security/couple-sentenced-to-prison-for-trying-to-sell-nuclear-warship-secrets/)
 * [New hacking group uses custom 'Symatic' Cobalt Strike loaders](https://www.bleepingcomputer.com/news/security/new-hacking-group-uses-custom-symatic-cobalt-strike-loaders/)
 * [15,000 sites hacked for massive Google SEO poisoning campaign](https://www.bleepingcomputer.com/news/security/15-000-sites-hacked-for-massive-google-seo-poisoning-campaign/)
-* [Medibank warns customers their data was leaked by ransomware gang](https://www.bleepingcomputer.com/news/security/medibank-warns-customers-their-data-was-leaked-by-ransomware-gang/)
 <!--END_SECTION:feed-->
 
 <!--
