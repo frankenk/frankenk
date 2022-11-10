@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ukraine arrests fraud ring members who made €200 million per year](https://www.bleepingcomputer.com/news/security/ukraine-arrests-fraud-ring-members-who-made-200-million-per-year/)
+* [Russian LockBit ransomware operator arrested in Canada](https://www.bleepingcomputer.com/news/security/russian-lockbit-ransomware-operator-arrested-in-canada/)
 * [Verified mess — Twitter's $8 blue tick rollout sees 'verified' fakes](https://www.bleepingcomputer.com/news/security/verified-mess-twitters-8-blue-tick-rollout-sees-verified-fakes/)
 * [New StrelaStealer malware steals your Outlook, Thunderbird accounts](https://www.bleepingcomputer.com/news/security/new-strelastealer-malware-steals-your-outlook-thunderbird-accounts/)
 * [Couple sentenced to prison for trying to sell nuclear warship secrets](https://www.bleepingcomputer.com/news/security/couple-sentenced-to-prison-for-trying-to-sell-nuclear-warship-secrets/)
-* [New hacking group uses custom 'Symatic' Cobalt Strike loaders](https://www.bleepingcomputer.com/news/security/new-hacking-group-uses-custom-symatic-cobalt-strike-loaders/)
-* [15,000 sites hacked for massive Google SEO poisoning campaign](https://www.bleepingcomputer.com/news/security/15-000-sites-hacked-for-massive-google-seo-poisoning-campaign/)
 <!--END_SECTION:feed-->
 
 <!--
