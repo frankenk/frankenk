@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New BadBazaar Android malware linked to Chinese cyberspies](https://www.bleepingcomputer.com/news/security/new-badbazaar-android-malware-linked-to-chinese-cyberspies/)
 * [Microsoft confirms gaming performance issues on Windows 11 22H2](https://www.bleepingcomputer.com/news/security/microsoft-confirms-gaming-performance-issues-on-windows-11-22h2/)
 * [Royal Mail down: Tracking unavailable as outage exceeds 24 hours](https://www.bleepingcomputer.com/news/security/royal-mail-down-tracking-unavailable-as-outage-exceeds-24-hours/)
 * [Windows 11 Task Manager will let you filter processes by name, PID](https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-will-let-you-filter-processes-by-name-pid/)
 * [Phishing drops IceXLoader malware on thousands of home, corporate devices](https://www.bleepingcomputer.com/news/security/phishing-drops-icexloader-malware-on-thousands-of-home-corporate-devices/)
-* [Microsoft fixes Windows zero-day bug exploited to push malware](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-bug-exploited-to-push-malware/)
 <!--END_SECTION:feed-->
 
 <!--
