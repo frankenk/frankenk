@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Researchers release exploit details for Backstage pre-auth RCE bug](https://www.bleepingcomputer.com/news/security/researchers-release-exploit-details-for-backstage-pre-auth-rce-bug/)
+* [MFA Fatigue attacks are putting your organization at risk](https://www.bleepingcomputer.com/news/security/mfa-fatigue-attacks-are-putting-your-organization-at-risk/)
 * [Chinese hackers target government agencies and defense orgs](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-government-agencies-and-defense-orgs/)
 * [Google will pay $391M to settle Android location tracking lawsuit](https://www.bleepingcomputer.com/news/google/google-will-pay-391m-to-settle-android-location-tracking-lawsuit/)
 * [Whoosh confirms data breach after hackers sell 7.2M user records](https://www.bleepingcomputer.com/news/security/whoosh-confirms-data-breach-after-hackers-sell-72m-user-records/)
-* [42,000 sites used to trap users in brand impersonation scheme](https://www.bleepingcomputer.com/news/security/42-000-sites-used-to-trap-users-in-brand-impersonation-scheme/)
-* [Microsoft fixes Windows DirectAccess connectivity issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-directaccess-connectivity-issues/)
 <!--END_SECTION:feed-->
 
 <!--
