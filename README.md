@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Okta shares workaround for ongoing Microsoft 365 SSO outage](https://www.bleepingcomputer.com/news/technology/okta-shares-workaround-for-ongoing-microsoft-365-sso-outage/)
 * [Police dismantle pirated TV streaming network with 500,000 users ](https://www.bleepingcomputer.com/news/technology/police-dismantle-pirated-tv-streaming-network-with-500-000-users/)
 * [DuckDuckGo now lets all Android users block trackers in their apps](https://www.bleepingcomputer.com/news/security/duckduckgo-now-lets-all-android-users-block-trackers-in-their-apps/)
 * [North Korean hackers target European orgs with updated malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-european-orgs-with-updated-malware/)
 * [Windows 10 KB5020030 preview update released with ten improvements](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5020030-preview-update-released-with-ten-improvements/)
-* [Google to roll out Privacy Sandbox on Android 13 starting early 2023](https://www.bleepingcomputer.com/news/security/google-to-roll-out-privacy-sandbox-on-android-13-starting-early-2023/)
 <!--END_SECTION:feed-->
 
 <!--
