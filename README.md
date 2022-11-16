@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Updated RapperBot malware targets game servers in DDoS attacks](https://www.bleepingcomputer.com/news/security/updated-rapperbot-malware-targets-game-servers-in-ddos-attacks/)
 * [Suspected Zeus cybercrime ring leader ‘Tank’ arrested by Swiss police](https://www.bleepingcomputer.com/news/security/suspected-zeus-cybercrime-ring-leader-tank-arrested-by-swiss-police/)
 * [Twitter source code indicates end-to-end encrypted DMs are coming](https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/)
 * [US govt: Iranian hackers breached federal agency using Log4Shell exploit](https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/)
 * [Magento stores targeted in massive surge of TrojanOrders attacks](https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massive-surge-of-trojanorders-attacks/)
-* [Okta shares workaround for ongoing Microsoft 365 SSO outage](https://www.bleepingcomputer.com/news/technology/okta-shares-workaround-for-ongoing-microsoft-365-sso-outage/)
 <!--END_SECTION:feed-->
 
 <!--
