@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Twitter source code indicates end-to-end encrypted DMs are coming](https://www.bleepingcomputer.com/news/security/twitter-source-code-indicates-end-to-end-encrypted-dms-are-coming/)
+* [US govt: Iranian hackers breached federal agency using Log4Shell exploit](https://www.bleepingcomputer.com/news/security/us-govt-iranian-hackers-breached-federal-agency-using-log4shell-exploit/)
+* [Magento stores targeted in massive surge of TrojanOrders attacks](https://www.bleepingcomputer.com/news/security/magento-stores-targeted-in-massive-surge-of-trojanorders-attacks/)
 * [Okta shares workaround for ongoing Microsoft 365 SSO outage](https://www.bleepingcomputer.com/news/technology/okta-shares-workaround-for-ongoing-microsoft-365-sso-outage/)
 * [Police dismantle pirated TV streaming network with 500,000 users ](https://www.bleepingcomputer.com/news/technology/police-dismantle-pirated-tv-streaming-network-with-500-000-users/)
-* [DuckDuckGo now lets all Android users block trackers in their apps](https://www.bleepingcomputer.com/news/security/duckduckgo-now-lets-all-android-users-block-trackers-in-their-apps/)
-* [North Korean hackers target European orgs with updated malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-target-european-orgs-with-updated-malware/)
-* [Windows 10 KB5020030 preview update released with ten improvements](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5020030-preview-update-released-with-ten-improvements/)
 <!--END_SECTION:feed-->
 
 <!--
