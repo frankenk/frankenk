@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit released for actively abused ProxyNotShell Exchange bug](https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-abused-proxynotshell-exchange-bug/)
 * [Researchers secretly helped decrypt Zeppelin ransomware for 2 years](https://www.bleepingcomputer.com/news/security/researchers-secretly-helped-decrypt-zeppelin-ransomware-for-2-years/)
 * [US charges BEC suspects with targeting federal health care programs](https://www.bleepingcomputer.com/news/security/us-charges-bec-suspects-with-targeting-federal-health-care-programs/)
 * [Chinese hackers use Google Drive to drop malware on govt networks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-google-drive-to-drop-malware-on-govt-networks/)
 * [Google Search results poisoned with torrent sites via Data Studio](https://www.bleepingcomputer.com/news/security/google-search-results-poisoned-with-torrent-sites-via-data-studio/)
-* [Atlassian fixes critical command injection bug in Bitbucket Server](https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/)
 <!--END_SECTION:feed-->
 
 <!--
