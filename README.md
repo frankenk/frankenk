@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Atlassian fixes critical command injection bug in Bitbucket Server](https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/)
 * [Phishing kit impersonates well-known brands to target US shoppers](https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/)
+* [Microsoft fixes Windows Kerberos auth issues in emergency updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kerberos-auth-issues-in-emergency-updates/)
+* [Previously unidentified ARCrypter ransomware expands worldwide](https://www.bleepingcomputer.com/news/security/previously-unidentified-arcrypter-ransomware-expands-worldwide/)
+* [FBI: Hive ransomware extorted * [Phishing kit impersonates well-known brands to target US shoppers](https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/)
 * [Microsoft fixes Windows Kerberos auth issues in emergency updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kerberos-auth-issues-in-emergency-updates/)
 * [Previously unidentified ARCrypter ransomware expands worldwide](https://www.bleepingcomputer.com/news/security/previously-unidentified-arcrypter-ransomware-expands-worldwide/)
 * [FBI: Hive ransomware extorted * [Phishing kit impersonates well-known brands to target US shoppers](https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/)
@@ -65,7 +69,7 @@
 * [QBot phishing abuses Windows Control Panel EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/)00M from over 1,300 victims](https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/)
 * [QBot phishing abuses Windows Control Panel EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/)00M from over 1,300 victims](https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/)
 * [QBot phishing abuses Windows Control Panel EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/)00M from over 1,300 victims](https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/)
-* [QBot phishing abuses Windows Control Panel EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/)
+* [QBot phishing abuses Windows Control Panel EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-phishing-abuses-windows-control-panel-exe-to-infect-devices/)00M from over 1,300 victims](https://www.bleepingcomputer.com/news/security/fbi-hive-ransomware-extorted-100m-from-over-1-300-victims/)
 <!--END_SECTION:feed-->
 
 <!--
