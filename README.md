@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers use Google Drive to drop malware on govt networks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-google-drive-to-drop-malware-on-govt-networks/)
 * [Google Search results poisoned with torrent sites via Data Studio](https://www.bleepingcomputer.com/news/security/google-search-results-poisoned-with-torrent-sites-via-data-studio/)
 * [Atlassian fixes critical command injection bug in Bitbucket Server](https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-command-injection-bug-in-bitbucket-server/)
 * [Phishing kit impersonates well-known brands to target US shoppers](https://www.bleepingcomputer.com/news/security/phishing-kit-impersonates-well-known-brands-to-target-us-shoppers/)
 * [Microsoft fixes Windows Kerberos auth issues in emergency updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kerberos-auth-issues-in-emergency-updates/)
-* [Previously unidentified ARCrypter ransomware expands worldwide](https://www.bleepingcomputer.com/news/security/previously-unidentified-arcrypter-ransomware-expands-worldwide/)
 <!--END_SECTION:feed-->
 
 <!--
