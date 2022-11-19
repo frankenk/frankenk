@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New attacks use Windows security bypass zero-day to drop malware](https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/)
 * [The Week in Ransomware - November 18th 2022 - Rising Operations](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-18th-2022-rising-operations/)
 * [Exploit released for actively abused ProxyNotShell Exchange bug](https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-abused-proxynotshell-exchange-bug/)
 * [Researchers secretly helped decrypt Zeppelin ransomware for 2 years](https://www.bleepingcomputer.com/news/security/researchers-secretly-helped-decrypt-zeppelin-ransomware-for-2-years/)
 * [US charges BEC suspects with targeting federal health care programs](https://www.bleepingcomputer.com/news/security/us-charges-bec-suspects-with-targeting-federal-health-care-programs/)
-* [Chinese hackers use Google Drive to drop malware on govt networks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-google-drive-to-drop-malware-on-govt-networks/)
 <!--END_SECTION:feed-->
 
 <!--
