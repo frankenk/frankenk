@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* ['Welcome Back'—Donald Trump returns to Twitter after Elon Musk's poll](https://www.bleepingcomputer.com/news/technology/welcome-back-donald-trump-returns-to-twitter-after-elon-musks-poll/)
+* [New AxLocker ransomware encrypts files, then steals your Discord account](https://www.bleepingcomputer.com/news/security/new-axlocker-ransomware-encrypts-files-then-steals-your-discord-account/)
+* [Donald Trump returns to Twitter after Elon Musk's poll](https://www.bleepingcomputer.com/news/technology/donald-trump-returns-to-twitter-after-elon-musks-poll/)
 * [New attacks use Windows security bypass zero-day to drop malware](https://www.bleepingcomputer.com/news/security/new-attacks-use-windows-security-bypass-zero-day-to-drop-malware/)
 * [The Week in Ransomware - November 18th 2022 - Rising Operations](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-18th-2022-rising-operations/)
 * [Exploit released for actively abused ProxyNotShell Exchange bug](https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-abused-proxynotshell-exchange-bug/)
-* [Researchers secretly helped decrypt Zeppelin ransomware for 2 years](https://www.bleepingcomputer.com/news/security/researchers-secretly-helped-decrypt-zeppelin-ransomware-for-2-years/)
 <!--END_SECTION:feed-->
 
 <!--
