@@ -5,7 +5,7 @@
 * [Aurora infostealer malware increasingly adopted by cybergangs](https://www.bleepingcomputer.com/news/security/aurora-infostealer-malware-increasingly-adopted-by-cybergangs/)
 * [Attackers bypass Coinbase and MetaMask 2FA via TeamViewer, fake support chat](https://www.bleepingcomputer.com/news/security/attackers-bypass-coinbase-and-metamask-2fa-via-teamviewer-fake-support-chat/)
 * [Hackers steal $300,000 in DraftKings credential stuffing attack](https://www.bleepingcomputer.com/news/security/hackers-steal-300-000-in-draftkings-credential-stuffing-attack/)
-* [Black Friday deal: 50% off Malwarebytes Premium + Privacy VPN bundle](https://www.bleepingcomputer.com/news/security/black-friday-deal-50-percent-off-malwarebytes-premium-plus-privacy-vpn-bundle/)
+* [Black Friday deal: Get 50% off Malwarebytes Premium, Privacy VPN](https://www.bleepingcomputer.com/news/security/black-friday-deal-get-50-percent-off-malwarebytes-premium-privacy-vpn/)
 <!--END_SECTION:feed-->
 
 <!--
