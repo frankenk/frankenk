@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
+* [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
+* [Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
+* [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Interpol seized * [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
 * [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)
 * ['iSpoof' service dismantled, main operator and 145 users arrested](https://www.bleepingcomputer.com/news/security/ispoof-service-dismantled-main-operator-and-145-users-arrested/)
 * [Get 50% off Emsisoft Anti-Malware Home through Cyber Monday](https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/)
@@ -61,7 +63,9 @@
 * [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
 * [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)
 * ['iSpoof' service dismantled, main operator and 145 users arrested](https://www.bleepingcomputer.com/news/security/ispoof-service-dismantled-main-operator-and-145-users-arrested/)
-* [Get 50% off Emsisoft Anti-Malware Home through Cyber Monday](https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/)
+* [Get 50% off Emsisoft Anti-Malware Home through Cyber Monday](https://www.bleepingcomputer.com/news/security/get-50-percent-off-emsisoft-anti-malware-home-through-cyber-monday/)30 million from cybercriminals worldwide](https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/)
+* [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
+* [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)
 <!--END_SECTION:feed-->
 
 <!--
