@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Windows Server updates cause domain controller freezes, restarts](https://www.bleepingcomputer.com/news/microsoft/new-windows-server-updates-cause-domain-controller-freezes-restarts/)
 * [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
+* [Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
+* [Interpol seized * [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
 * [Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
 * [Interpol seized * [Google pushes emergency Chrome update to fix 8th zero-day in 2022](https://www.bleepingcomputer.com/news/security/google-pushes-emergency-chrome-update-to-fix-8th-zero-day-in-2022/)
 * [Docker Hub repositories hide over 1,650 malicious containers](https://www.bleepingcomputer.com/news/security/docker-hub-repositories-hide-over-1-650-malicious-containers/)
@@ -81,7 +84,8 @@
 * [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
 * [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)30 million from cybercriminals worldwide](https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/)
 * [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
-* [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)
+* [U.S. govt seizes domains used in 'pig butchering' scams](https://www.bleepingcomputer.com/news/security/us-govt-seizes-domains-used-in-pig-butchering-scams/)30 million from cybercriminals worldwide](https://www.bleepingcomputer.com/news/security/interpol-seized-130-million-from-cybercriminals-worldwide/)
+* [Hackers modify popular OpenVPN Android app to include spyware](https://www.bleepingcomputer.com/news/security/hackers-modify-popular-openvpn-android-app-to-include-spyware/)
 <!--END_SECTION:feed-->
 
 <!--
