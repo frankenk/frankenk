@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [5.4 million Twitter users' stolen data leaked online — more shared privately](https://www.bleepingcomputer.com/news/security/54-million-twitter-users-stolen-data-leaked-online-more-shared-privately/)
 * [Windows 11 is getting a VPN status indicator in the taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-getting-a-vpn-status-indicator-in-the-taskbar/)
 * [Ransomware gang targets Belgian municipality, hits police instead](https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-belgian-municipality-hits-police-instead/)
 * [New ransomware attacks in Ukraine linked to Russian Sandworm hackers](https://www.bleepingcomputer.com/news/security/new-ransomware-attacks-in-ukraine-linked-to-russian-sandworm-hackers/)
 * [Vice Society ransomware claims attack on Cincinnati State college](https://www.bleepingcomputer.com/news/security/vice-society-ransomware-claims-attack-on-cincinnati-state-college/)
-* [New Windows Server updates cause domain controller freezes, restarts](https://www.bleepingcomputer.com/news/microsoft/new-windows-server-updates-cause-domain-controller-freezes-restarts/)
 <!--END_SECTION:feed-->
 
 <!--
