@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spanish police dismantle operation that made €12M via investment scams](https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-operation-that-made-12m-via-investment-scams/)
 * [Ransomware detection with Wazuh SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/ransomware-detection-with-wazuh-siem-and-xdr-platform/)
 * [Microsoft Defender boosts default protection for all enterprise users](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-boosts-default-protection-for-all-enterprise-users/)
 * [Acer fixes UEFI bugs that can be used to disable Secure Boot](https://www.bleepingcomputer.com/news/security/acer-fixes-uefi-bugs-that-can-be-used-to-disable-secure-boot/)
 * [Malicious Android app found powering account creation service](https://www.bleepingcomputer.com/news/security/malicious-android-app-found-powering-account-creation-service/)
-* [TikTok ‘Invisible Body’ challenge exploited to push malware](https://www.bleepingcomputer.com/news/security/tiktok-invisible-body-challenge-exploited-to-push-malware/)
 <!--END_SECTION:feed-->
 
 <!--
