@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lastpass says hackers accessed customer data in new breach](https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/)
 * [New Windows malware scans victims’ mobile phones for data to steal](https://www.bleepingcomputer.com/news/security/new-windows-malware-scans-victims-mobile-phones-for-data-to-steal/)
 * [Cybersecurity researchers take down DDoS botnet by accident](https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/)
 * [Cloudflare raises monthly plan prices for the first time](https://www.bleepingcomputer.com/news/technology/cloudflare-raises-monthly-plan-prices-for-the-first-time/)
 * [Australia will now fine firms up to AU$50 million for data breaches](https://www.bleepingcomputer.com/news/security/australia-will-now-fine-firms-up-to-au50-million-for-data-breaches/)
-* [Google discovers Windows exploit framework used to deploy spyware](https://www.bleepingcomputer.com/news/security/google-discovers-windows-exploit-framework-used-to-deploy-spyware/)
 <!--END_SECTION:feed-->
 
 <!--
