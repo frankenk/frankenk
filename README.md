@@ -3,7 +3,7 @@
 <!--START_SECTION:feed-->
 * [Android malware infected 300,000 devices to steal Facebook accounts](https://www.bleepingcomputer.com/news/security/android-malware-infected-300-000-devices-to-steal-facebook-accounts/)
 * [FBI: Cuba ransomware raked in $60 million from over 100 victims](https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-raked-in-60-million-from-over-100-victims/)
-* [Unpatched Redis servers targeted in new Redigo malware attacks](https://www.bleepingcomputer.com/news/security/unpatched-redis-servers-targeted-in-new-redigo-malware-attacks/)
+* [New Redigo malware drops stealthy backdoor on Redis servers](https://www.bleepingcomputer.com/news/security/new-redigo-malware-drops-stealthy-backdoor-on-redis-servers/)
 * [Brave starts showing "privacy-preserving" ads in search results](https://www.bleepingcomputer.com/news/technology/brave-starts-showing-privacy-preserving-ads-in-search-results/)
 * [Microsoft: KB5020044 makes Task Manager partially unreadable](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5020044-makes-task-manager-partially-unreadable/)
 <!--END_SECTION:feed-->
