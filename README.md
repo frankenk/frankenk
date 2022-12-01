@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GoTo says hackers breached its dev environment, cloud storage](https://www.bleepingcomputer.com/news/security/goto-says-hackers-breached-its-dev-environment-cloud-storage/)
+* [Keralty ransomware attack impacts Colombia's health care system](https://www.bleepingcomputer.com/news/security/keralty-ransomware-attack-impacts-colombias-health-care-system/)
+* [Critical RCE bugs in Android remote keyboard apps with 2M installs](https://www.bleepingcomputer.com/news/security/critical-rce-bugs-in-android-remote-keyboard-apps-with-2m-installs/)
 * [Lastpass says hackers accessed customer data in new breach](https://www.bleepingcomputer.com/news/security/lastpass-says-hackers-accessed-customer-data-in-new-breach/)
 * [New Windows malware scans victims’ mobile phones for data to steal](https://www.bleepingcomputer.com/news/security/new-windows-malware-scans-victims-mobile-phones-for-data-to-steal/)
-* [Cybersecurity researchers take down DDoS botnet by accident](https://www.bleepingcomputer.com/news/security/cybersecurity-researchers-take-down-ddos-botnet-by-accident/)
-* [Cloudflare raises monthly plan prices for the first time](https://www.bleepingcomputer.com/news/technology/cloudflare-raises-monthly-plan-prices-for-the-first-time/)
-* [Australia will now fine firms up to AU$50 million for data breaches](https://www.bleepingcomputer.com/news/security/australia-will-now-fine-firms-up-to-au50-million-for-data-breaches/)
 <!--END_SECTION:feed-->
 
 <!--
