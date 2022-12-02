@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Compromised OEM Android platform certificates used to sign malware](https://www.bleepingcomputer.com/news/security/compromised-oem-android-platform-certificates-used-to-sign-malware/)
+* [Samsung, LG, Mediatek certificates compromised to sign Android malware](https://www.bleepingcomputer.com/news/security/samsung-lg-mediatek-certificates-compromised-to-sign-android-malware/)
 * [Android malware infected 300,000 devices to steal Facebook accounts](https://www.bleepingcomputer.com/news/security/android-malware-infected-300-000-devices-to-steal-facebook-accounts/)
 * [FBI: Cuba ransomware raked in $60 million from over 100 victims](https://www.bleepingcomputer.com/news/security/fbi-cuba-ransomware-raked-in-60-million-from-over-100-victims/)
 * [New Redigo malware drops stealthy backdoor on Redis servers](https://www.bleepingcomputer.com/news/security/new-redigo-malware-drops-stealthy-backdoor-on-redis-servers/)
