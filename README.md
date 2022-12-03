@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SIM swapper gets 18-months for involvement in $22 million crypto heist](https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/)
+* [Hackers use new, fake crypto app to breach networks, steal cryptocurrency](https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/)
 * [The Week in Ransomware - December 2nd 2022 - Disrupting Health Care](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-2nd-2022-disrupting-health-care/)
 * [Google Chrome emergency update fixes 9th zero-day of the year](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-9th-zero-day-of-the-year/)
 * [Rackspace: Ongoing Exchange outage caused by security incident](https://www.bleepingcomputer.com/news/technology/rackspace-ongoing-exchange-outage-caused-by-security-incident/)
-* [DHS Cyber Safety Board to review Lapsus$ gang’s hacking tactics](https://www.bleepingcomputer.com/news/security/dhs-cyber-safety-board-to-review-lapsus-gang-s-hacking-tactics/)
-* [BlackProxies proxy service increasingly popular among hackers](https://www.bleepingcomputer.com/news/security/blackproxies-proxy-service-increasingly-popular-among-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
