@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Severe AMI MegaRAC flaws impact servers from AMD, ARM, HPE, Dell, others](https://www.bleepingcomputer.com/news/security/severe-ami-megarac-flaws-impact-servers-from-amd-arm-hpe-dell-others/)
 * [OpenAI's new ChatGPT bot: 10 coolest things you can do with it](https://www.bleepingcomputer.com/news/technology/openais-new-chatgpt-bot-10-coolest-things-you-can-do-with-it/)
 * [Android malware apps with 2 million installs spotted on Google Play](https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-spotted-on-google-play/)
 * [Open source software host Fosshost shutting down as CEO unreachable](https://www.bleepingcomputer.com/news/technology/open-source-software-host-fosshost-shutting-down-as-ceo-unreachable/)
 * [SIM swapper gets 18-months for involvement in $22 million crypto heist](https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/)
-* [Hackers use new, fake crypto app to breach networks, steal cryptocurrency](https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/)
 <!--END_SECTION:feed-->
 
 <!--
