@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI's new ChatGPT bot: 10 coolest things you can do with it](https://www.bleepingcomputer.com/news/technology/openais-new-chatgpt-bot-10-coolest-things-you-can-do-with-it/)
+* [Android malware apps with 2 million installs spotted on Google Play](https://www.bleepingcomputer.com/news/security/android-malware-apps-with-2-million-installs-spotted-on-google-play/)
 * [Open source software host Fosshost shutting down as CEO unreachable](https://www.bleepingcomputer.com/news/technology/open-source-software-host-fosshost-shutting-down-as-ceo-unreachable/)
 * [SIM swapper gets 18-months for involvement in $22 million crypto heist](https://www.bleepingcomputer.com/news/security/sim-swapper-gets-18-months-for-involvement-in-22-million-crypto-heist/)
 * [Hackers use new, fake crypto app to breach networks, steal cryptocurrency](https://www.bleepingcomputer.com/news/security/hackers-use-new-fake-crypto-app-to-breach-networks-steal-cryptocurrency/)
-* [The Week in Ransomware - December 2nd 2022 - Disrupting Health Care](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-2nd-2022-disrupting-health-care/)
-* [Google Chrome emergency update fixes 9th zero-day of the year](https://www.bleepingcomputer.com/news/security/google-chrome-emergency-update-fixes-9th-zero-day-of-the-year/)
 <!--END_SECTION:feed-->
 
 <!--
