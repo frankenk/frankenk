@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Samsung Galaxy S22 hacked twice on first day of Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-twice-on-first-day-of-pwn2own-toronto/)
+* [Kali Linux 2022.4 adds 6 new tools, Azure images, and desktop updates](https://www.bleepingcomputer.com/news/security/kali-linux-20224-adds-6-new-tools-azure-images-and-desktop-updates/)
+* [Amnesty International Canada breached by suspected Chinese hackers](https://www.bleepingcomputer.com/news/security/amnesty-international-canada-breached-by-suspected-chinese-hackers/)
 * [Antwerp's city services down after hackers attack digital partner](https://www.bleepingcomputer.com/news/security/antwerps-city-services-down-after-hackers-attack-digital-partner/)
 * [Suspects arrested for hacking US networks to steal employee data](https://www.bleepingcomputer.com/news/security/suspects-arrested-for-hacking-us-networks-to-steal-employee-data/)
-* [Microsoft: Hackers target cryptocurrency firms over Telegram](https://www.bleepingcomputer.com/news/security/microsoft-hackers-target-cryptocurrency-firms-over-telegram/)
-* [Android December 2022 security updates fix 81 vulnerabilities](https://www.bleepingcomputer.com/news/security/android-december-2022-security-updates-fix-81-vulnerabilities/)
-* [Rackspace confirms outage was caused by ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-confirms-outage-was-caused-by-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
