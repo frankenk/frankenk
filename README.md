@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rackspace confirms outage was caused by ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-confirms-outage-was-caused-by-ransomware-attack/)
+* [Massive DDoS attack takes Russia’s second-largest bank VTB offline](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-takes-russia-s-second-largest-bank-vtb-offline/)
+* [Password Reset Calls Are Costing Your Org Big Money](https://www.bleepingcomputer.com/news/security/password-reset-calls-are-costing-your-org-big-money/)
 * [OpenAI's new ChatGPT bot: 10 dangerous things it's capable of](https://www.bleepingcomputer.com/news/technology/openais-new-chatgpt-bot-10-dangerous-things-its-capable-of/)
 * [Microsoft warns of Russian cyberattacks throughout the winter](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-russian-cyberattacks-throughout-the-winter/)
-* [CISA orders agencies to patch exploited Google Chrome bug by Dec 26th](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-exploited-google-chrome-bug-by-dec-26th/)
-* [Ransomware attack forces French hospital to transfer patients](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-french-hospital-to-transfer-patients/)
-* [Sneaky hackers reverse defense mitigations when detected](https://www.bleepingcomputer.com/news/security/sneaky-hackers-reverse-defense-mitigations-when-detected/)
 <!--END_SECTION:feed-->
 
 <!--
