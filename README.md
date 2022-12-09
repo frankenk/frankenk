@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Samsung Galaxy S22 gets hacked in 55 seconds at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-gets-hacked-in-55-seconds-at-pwn2own-toronto/)
+* [Antivirus and EDR solutions tricked into acting as data wipers](https://www.bleepingcomputer.com/news/security/antivirus-and-edr-solutions-tricked-into-acting-as-data-wipers/)
+* [Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/)
 * [Holiday 2022 deal: 20% off Zero2Automated malware analysis training](https://www.bleepingcomputer.com/news/security/holiday-2022-deal-20-percent-off-zero2automated-malware-analysis-training/)
 * [US Health Dept warns of Royal Ransomware targeting healthcare](https://www.bleepingcomputer.com/news/security/us-health-dept-warns-of-royal-ransomware-targeting-healthcare/)
 * [Hacked corporate email accounts used to send MSP remote access tool](https://www.bleepingcomputer.com/news/security/hacked-corporate-email-accounts-used-to-send-msp-remote-access-tool/)
-* [CommonSpirit Health ransomware attack exposed data of 623,000 patients](https://www.bleepingcomputer.com/news/security/commonspirit-health-ransomware-attack-exposed-data-of-623-000-patients/)
 <!--END_SECTION:feed-->
 
 <!--
