@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 9th 2022 - Wide Impact](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-9th-2022-wide-impact/)
 * [Rackspace warns of phishing risks following ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/)
+* [Australia arrests 'Pig Butchering' suspects for stealing * [Rackspace warns of phishing risks following ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/)
 * [Australia arrests 'Pig Butchering' suspects for stealing * [Rackspace warns of phishing risks following ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/)
 * [Australia arrests 'Pig Butchering' suspects for stealing * [Rackspace warns of phishing risks following ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/)
 * [Australia arrests 'Pig Butchering' suspects for stealing * [Rackspace warns of phishing risks following ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-warns-of-phishing-risks-following-ransomware-attack/)
@@ -25,7 +27,9 @@
 * [Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/)00 million](https://www.bleepingcomputer.com/news/security/australia-arrests-pig-butchering-suspects-for-stealing-100-million/)
 * [Microsoft Edge 109 is the last version to support Windows 7/8.1](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-109-is-the-last-version-to-support-windows-7-81/)
 * [Antivirus and EDR solutions tricked into acting as data wipers](https://www.bleepingcomputer.com/news/security/antivirus-and-edr-solutions-tricked-into-acting-as-data-wipers/)
-* [Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/)
+* [Samsung Galaxy S22 hacked in 55 seconds on Pwn2Own Day 3](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s22-hacked-in-55-seconds-on-pwn2own-day-3/)00 million](https://www.bleepingcomputer.com/news/security/australia-arrests-pig-butchering-suspects-for-stealing-100-million/)
+* [Microsoft Edge 109 is the last version to support Windows 7/8.1](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-109-is-the-last-version-to-support-windows-7-81/)
+* [Antivirus and EDR solutions tricked into acting as data wipers](https://www.bleepingcomputer.com/news/security/antivirus-and-edr-solutions-tricked-into-acting-as-data-wipers/)
 <!--END_SECTION:feed-->
 
 <!--
