@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5021233 and KB5021237 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5021233-and-kb5021237-updates-released/)
+* [Microsoft December 2022 Patch Tuesday fixes 2 zero-days, 49 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2022-patch-tuesday-fixes-2-zero-days-49-flaws/)
+* [Google releases dev tool to list vulnerabilities in project dependencies](https://www.bleepingcomputer.com/news/security/google-releases-dev-tool-to-list-vulnerabilities-in-project-dependencies/)
 * [New GoTrim botnet brute forces WordPress site admin accounts](https://www.bleepingcomputer.com/news/security/new-gotrim-botnet-brute-forces-wordpress-site-admin-accounts/)
 * [Hackers exploit critical Citrix ADC and Gateway zero day, patch now](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-citrix-adc-and-gateway-zero-day-patch-now/)
-* [Amazon ECR Public Gallery flaw could have wiped or poisoned any image](https://www.bleepingcomputer.com/news/security/amazon-ecr-public-gallery-flaw-could-have-wiped-or-poisoned-any-image/)
-* [Play ransomware claims attack on Belgium city of Antwerp](https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/)
-* [New Python malware backdoors VMware ESXi servers for remote access](https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/)
 <!--END_SECTION:feed-->
 
 <!--
