@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple fixes new Webkit zero-day used in attacks against iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-new-webkit-zero-day-used-in-attacks-against-iphones/)
 * [Windows 11 KB5021255 and KB5021234 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5021255-and-kb5021234-cumulative-updates-released/)
 * [Windows 10 KB5021233 and KB5021237 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5021233-and-kb5021237-updates-released/)
 * [Microsoft December 2022 Patch Tuesday fixes 2 zero-days, 49 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2022-patch-tuesday-fixes-2-zero-days-49-flaws/)
 * [Google releases dev tool to list vulnerabilities in project dependencies](https://www.bleepingcomputer.com/news/security/google-releases-dev-tool-to-list-vulnerabilities-in-project-dependencies/)
-* [New GoTrim botnet brute forces WordPress site admin accounts](https://www.bleepingcomputer.com/news/security/new-gotrim-botnet-brute-forces-wordpress-site-admin-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
