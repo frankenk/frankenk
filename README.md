@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit critical Citrix ADC and Gateway zero day, patch now](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-citrix-adc-and-gateway-zero-day-patch-now/)
+* [Amazon ECR Public Gallery flaw could have wiped or poisoned any image](https://www.bleepingcomputer.com/news/security/amazon-ecr-public-gallery-flaw-could-have-wiped-or-poisoned-any-image/)
 * [Play ransomware claims attack on Belgium city of Antwerp](https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/)
 * [New Python malware backdoors VMware ESXi servers for remote access](https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/)
 * [Twitter confirms recent user data leak is from 2021 breach](https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/)
-* [Uber suffers new data breach after attack on vendor, info leaked online](https://www.bleepingcomputer.com/news/security/uber-suffers-new-data-breach-after-attack-on-vendor-info-leaked-online/)
-* [Fortinet says SSL-VPN pre-auth RCE bug is exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-says-ssl-vpn-pre-auth-rce-bug-is-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
