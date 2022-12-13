@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New GoTrim botnet brute forces WordPress site admin accounts](https://www.bleepingcomputer.com/news/security/new-gotrim-botnet-brute-forces-wordpress-site-admin-accounts/)
 * [Hackers exploit critical Citrix ADC and Gateway zero day, patch now](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-citrix-adc-and-gateway-zero-day-patch-now/)
 * [Amazon ECR Public Gallery flaw could have wiped or poisoned any image](https://www.bleepingcomputer.com/news/security/amazon-ecr-public-gallery-flaw-could-have-wiped-or-poisoned-any-image/)
 * [Play ransomware claims attack on Belgium city of Antwerp](https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-belgium-city-of-antwerp/)
 * [New Python malware backdoors VMware ESXi servers for remote access](https://www.bleepingcomputer.com/news/security/new-python-malware-backdoors-vmware-esxi-servers-for-remote-access/)
-* [Twitter confirms recent user data leak is from 2021 breach](https://www.bleepingcomputer.com/news/security/twitter-confirms-recent-user-data-leak-is-from-2021-breach/)
 <!--END_SECTION:feed-->
 
 <!--
