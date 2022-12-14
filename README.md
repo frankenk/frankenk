@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft-signed malicious Windows drivers used in ransomware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-signed-malicious-windows-drivers-used-in-ransomware-attacks/)
 * [LockBit claims attack on California's Department of Finance](https://www.bleepingcomputer.com/news/security/lockbit-claims-attack-on-californias-department-of-finance/)
 * [Apple fixes new Webkit zero-day used in attacks against iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-new-webkit-zero-day-used-in-attacks-against-iphones/)
 * [Windows 11 KB5021255 and KB5021234 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5021255-and-kb5021234-cumulative-updates-released/)
 * [Windows 10 KB5021233 and KB5021237 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5021233-and-kb5021237-updates-released/)
-* [Microsoft December 2022 Patch Tuesday fixes 2 zero-days, 49 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2022-patch-tuesday-fixes-2-zero-days-49-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
