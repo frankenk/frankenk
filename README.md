@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Social Blade confirms breach after hacker posts stolen user data](https://www.bleepingcomputer.com/news/security/social-blade-confirms-breach-after-hacker-posts-stolen-user-data/)
+* [How Gcore uses regular expressions to block DDoS attacks](https://www.bleepingcomputer.com/news/security/how-gcore-uses-regular-expressions-to-block-ddos-attacks/)
+* [LEGO BrickLink bugs let hackers hijack accounts, breach servers](https://www.bleepingcomputer.com/news/security/lego-bricklink-bugs-let-hackers-hijack-accounts-breach-servers/)
+* [Hackers target Japanese politicians with new MirrorStealer malware](https://www.bleepingcomputer.com/news/security/hackers-target-japanese-politicians-with-new-mirrorstealer-malware/)
 * [FBI seized domains linked to 48 DDoS-for-hire service platforms](https://www.bleepingcomputer.com/news/security/fbi-seized-domains-linked-to-48-ddos-for-hire-service-platforms/)
-* [Attackers use SVG files to smuggle QBot malware onto Windows systems](https://www.bleepingcomputer.com/news/security/attackers-use-svg-files-to-smuggle-qbot-malware-onto-windows-systems/)
-* [Microsoft patches Windows zero-day used to drop ransomware](https://www.bleepingcomputer.com/news/security/microsoft-patches-windows-zero-day-used-to-drop-ransomware/)
-* [VMware fixes critical ESXi and vRealize security flaws](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-esxi-and-vrealize-security-flaws/)
-* [Microsoft: Windows 10 21H1 has reached end of servicing](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h1-has-reached-end-of-servicing/)
 <!--END_SECTION:feed-->
 
 <!--
