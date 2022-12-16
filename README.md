@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Woman gets 66 months in prison for role in $3.3 million ID fraud op](https://www.bleepingcomputer.com/news/security/woman-gets-66-months-in-prison-for-role-in-33-million-id-fraud-op/)
 * [Microsoft warns of new Minecraft DDoS malware infecting Windows, Linux](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-minecraft-ddos-malware-infecting-windows-linux/)
 * [FuboTV says World Cup streaming outage caused by a cyberattack](https://www.bleepingcomputer.com/news/security/fubotv-says-world-cup-streaming-outage-caused-by-a-cyberattack/)
 * [Microsoft fixes bug that made Task Manager partially unreadable](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-made-task-manager-partially-unreadable/)
 * [Hackers leak personal info allegedly stolen from 5.7M Gemini users](https://www.bleepingcomputer.com/news/security/hackers-leak-personal-info-allegedly-stolen-from-57m-gemini-users/)
-* [Microsoft removes Windows 11 update block for PCs with gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-update-block-for-pcs-with-gaming-issues/)
 <!--END_SECTION:feed-->
 
 <!--
