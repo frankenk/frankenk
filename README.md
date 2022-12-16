@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 16th 2022 - Losing Trust](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-16th-2022-losing-trust/)
 * [Microsoft fixes Windows taskbar bug causing Explorer, Office freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-taskbar-bug-causing-explorer-office-freezes/)
 * [Colombian energy supplier EPM hit by BlackCat ransomware attack](https://www.bleepingcomputer.com/news/security/colombian-energy-supplier-epm-hit-by-blackcat-ransomware-attack/)
 * [FBI warns that BEC attacks now also target food shipments](https://www.bleepingcomputer.com/news/security/fbi-warns-that-bec-attacks-now-also-target-food-shipments/)
 * [Microsoft: Edge update will disable Internet Explorer in February](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-update-will-disable-internet-explorer-in-february/)
-* [Woman gets 66 months in prison for role in $3.3 million ID fraud op](https://www.bleepingcomputer.com/news/security/woman-gets-66-months-in-prison-for-role-in-33-million-id-fraud-op/)
 <!--END_SECTION:feed-->
 
 <!--
