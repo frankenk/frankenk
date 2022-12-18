@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: No optional Windows Updates this month due to holidays](https://www.bleepingcomputer.com/news/microsoft/microsoft-no-optional-windows-updates-this-month-due-to-holidays/)
+* [Restaurant CRM platform ‘SevenRooms’ confirms breach after data for sale](https://www.bleepingcomputer.com/news/security/restaurant-crm-platform-sevenrooms-confirms-breach-after-data-for-sale/)
+* [T-Mobile hacker gets 10 years for $25 million phone unlock scheme](https://www.bleepingcomputer.com/news/security/t-mobile-hacker-gets-10-years-for-25-million-phone-unlock-scheme/)
 * [Glupteba malware is back in action after Google disruption](https://www.bleepingcomputer.com/news/security/glupteba-malware-is-back-in-action-after-google-disruption/)
 * [Google introduces end-to-end encryption for Gmail on the web](https://www.bleepingcomputer.com/news/security/google-introduces-end-to-end-encryption-for-gmail-on-the-web/)
-* [The Week in Ransomware - December 16th 2022 - Losing Trust](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-16th-2022-losing-trust/)
-* [Microsoft fixes Windows taskbar bug causing Explorer, Office freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-taskbar-bug-causing-explorer-office-freezes/)
-* [Colombian energy supplier EPM hit by BlackCat ransomware attack](https://www.bleepingcomputer.com/news/security/colombian-energy-supplier-epm-hit-by-blackcat-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
