@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Epic Games to pay $520 million for privacy violations, dark patterns](https://www.bleepingcomputer.com/news/gaming/epic-games-to-pay-520-million-for-privacy-violations-dark-patterns/)
+* [Malicious ‘SentinelOne’ PyPI package steals data from developers](https://www.bleepingcomputer.com/news/security/malicious-sentinelone-pypi-package-steals-data-from-developers/)
 * [Microsoft: KB5021233 causes blue screens with 0xc000021a errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5021233-causes-blue-screens-with-0xc000021a-errors/)
 * [Microsoft: No Windows preview updates this month due to holidays](https://www.bleepingcomputer.com/news/microsoft/microsoft-no-windows-preview-updates-this-month-due-to-holidays/)
 * [Restaurant CRM platform ‘SevenRooms’ confirms breach after data for sale](https://www.bleepingcomputer.com/news/security/restaurant-crm-platform-sevenrooms-confirms-breach-after-data-for-sale/)
-* [T-Mobile hacker gets 10 years for $25 million phone unlock scheme](https://www.bleepingcomputer.com/news/security/t-mobile-hacker-gets-10-years-for-25-million-phone-unlock-scheme/)
-* [Glupteba malware is back in action after Google disruption](https://www.bleepingcomputer.com/news/security/glupteba-malware-is-back-in-action-after-google-disruption/)
 <!--END_SECTION:feed-->
 
 <!--
