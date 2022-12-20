@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers bombard PyPi platform with information-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-bombard-pypi-platform-with-information-stealing-malware/)
 * [Raspberry Robin worm drops fake malware to confuse researchers](https://www.bleepingcomputer.com/news/security/raspberry-robin-worm-drops-fake-malware-to-confuse-researchers/)
 * [Play ransomware claims attack on German hotel chain H-Hotels](https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-german-hotel-chain-h-hotels/)
 * [Microsoft finds macOS bug that lets malware bypass security checks](https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-malware-bypass-security-checks/)
 * [DraftKings warns data of 67K people was exposed in account hacks](https://www.bleepingcomputer.com/news/security/draftkings-warns-data-of-67k-people-was-exposed-in-account-hacks/)
-* [Ukraine's DELTA military system users targeted by info-stealing malware](https://www.bleepingcomputer.com/news/security/ukraines-delta-military-system-users-targeted-by-info-stealing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
