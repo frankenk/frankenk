@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft will turn off Exchange Online basic auth in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-turn-off-exchange-online-basic-auth-in-january/)
+* [Google Ad fraud campaign used adult content to make millions](https://www.bleepingcomputer.com/news/security/google-ad-fraud-campaign-used-adult-content-to-make-millions/)
 * [Hackers bombard PyPi platform with information-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-bombard-pypi-platform-with-information-stealing-malware/)
 * [Raspberry Robin worm drops fake malware to confuse researchers](https://www.bleepingcomputer.com/news/security/raspberry-robin-worm-drops-fake-malware-to-confuse-researchers/)
 * [Play ransomware claims attack on German hotel chain H-Hotels](https://www.bleepingcomputer.com/news/security/play-ransomware-claims-attack-on-german-hotel-chain-h-hotels/)
-* [Microsoft finds macOS bug that lets malware bypass security checks](https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-malware-bypass-security-checks/)
-* [DraftKings warns data of 67K people was exposed in account hacks](https://www.bleepingcomputer.com/news/security/draftkings-warns-data-of-67k-people-was-exposed-in-account-hacks/)
 <!--END_SECTION:feed-->
 
 <!--
