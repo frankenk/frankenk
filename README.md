@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Corsair keyboard bug makes it type on its own, no malware involved](https://www.bleepingcomputer.com/news/security/corsair-keyboard-bug-makes-it-type-on-its-own-no-malware-involved/)
+* [Zerobot malware now spreads by exploiting Apache vulnerabilities](https://www.bleepingcomputer.com/news/security/zerobot-malware-now-spreads-by-exploiting-apache-vulnerabilities/)
 * [FCC proposes record-breaking $300 million fine against robocaller](https://www.bleepingcomputer.com/news/government/fcc-proposes-record-breaking-300-million-fine-against-robocaller/)
 * [Russians hacked JFK airport’s taxi dispatch system for profit](https://www.bleepingcomputer.com/news/security/russians-hacked-jfk-airport-s-taxi-dispatch-system-for-profit/)
 * [FBI warns of search engine ads pushing malware, phishing](https://www.bleepingcomputer.com/news/security/fbi-warns-of-search-engine-ads-pushing-malware-phishing/)
-* [GodFather Android malware targets 400 banks, crypto exchanges](https://www.bleepingcomputer.com/news/security/godfather-android-malware-targets-400-banks-crypto-exchanges/)
-* [Okta's source code stolen after GitHub repositories hacked](https://www.bleepingcomputer.com/news/security/oktas-source-code-stolen-after-github-repositories-hacked/)
 <!--END_SECTION:feed-->
 
 <!--
