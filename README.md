@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft pushes emergency fix for Windows Server Hyper-V VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-emergency-fix-for-windows-server-hyper-v-vm-issues/)
 * [Ransomware gang uses new Microsoft Exchange exploit to breach servers](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-new-microsoft-exchange-exploit-to-breach-servers/)
 * [VirusTotal cheat sheet makes it easy to search for specific results](https://www.bleepingcomputer.com/news/security/virustotal-cheat-sheet-makes-it-easy-to-search-for-specific-results/)
 * [Microsoft will turn off Exchange Online basic auth in January](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-turn-off-exchange-online-basic-auth-in-january/)
 * [Google Ad fraud campaign used adult content to make millions](https://www.bleepingcomputer.com/news/security/google-ad-fraud-campaign-used-adult-content-to-make-millions/)
-* [Hackers bombard PyPi platform with information-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-bombard-pypi-platform-with-information-stealing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
