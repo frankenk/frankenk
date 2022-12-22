@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Brave launches FrodoPIR, a privacy-focused database query system](https://www.bleepingcomputer.com/news/security/brave-launches-frodopir-a-privacy-focused-database-query-system/)
 * [Get 40% off Malwarebytes Premium for the holidays](https://www.bleepingcomputer.com/news/software/get-40-percent-off-malwarebytes-premium-for-the-holidays/)
 * [FIN7 hackers create auto-attack platform to breach Exchange servers](https://www.bleepingcomputer.com/news/security/fin7-hackers-create-auto-attack-platform-to-breach-exchange-servers/)
 * [Samsung and Google fix Microsoft Intune Android 13 enrollment issue](https://www.bleepingcomputer.com/news/microsoft/samsung-and-google-fix-microsoft-intune-android-13-enrollment-issue/)
 * [Corsair keyboard bug makes it type on its own, no malware involved](https://www.bleepingcomputer.com/news/security/corsair-keyboard-bug-makes-it-type-on-its-own-no-malware-involved/)
-* [Zerobot malware now spreads by exploiting Apache vulnerabilities](https://www.bleepingcomputer.com/news/security/zerobot-malware-now-spreads-by-exploiting-apache-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
