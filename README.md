@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 23rd 2022 - Targeting Microsoft Exchange](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-23rd-2022-targeting-microsoft-exchange/)
 * [Hackers exploit bug in WordPress gift card plugin with 50K installs](https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-wordpress-gift-card-plugin-with-50k-installs/)
 * [Massive Twitter data leak investigated by EU privacy watchdog](https://www.bleepingcomputer.com/news/security/massive-twitter-data-leak-investigated-by-eu-privacy-watchdog/)
 * [Ghost CMS vulnerable to critical authentication bypass flaw](https://www.bleepingcomputer.com/news/security/ghost-cms-vulnerable-to-critical-authentication-bypass-flaw/)
 * [Leading sports betting firm BetMGM discloses data breach](https://www.bleepingcomputer.com/news/security/leading-sports-betting-firm-betmgm-discloses-data-breach/)
-* [Lastpass: Hackers stole customer vault data in cloud storage breach](https://www.bleepingcomputer.com/news/security/lastpass-hackers-stole-customer-vault-data-in-cloud-storage-breach/)
 <!--END_SECTION:feed-->
 
 <!--
