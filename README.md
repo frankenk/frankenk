@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BTC.com lost $3 million worth of cryptocurrency in cyberattack](https://www.bleepingcomputer.com/news/security/btccom-lost-3-million-worth-of-cryptocurrency-in-cyberattack/)
+* [Hackers steal $8 million from users running trojanized BitKeep apps](https://www.bleepingcomputer.com/news/security/hackers-steal-8-million-from-users-running-trojanized-bitkeep-apps/)
 * [EarSpy attack eavesdrops on Android phones via motion sensors](https://www.bleepingcomputer.com/news/security/earspy-attack-eavesdrops-on-android-phones-via-motion-sensors/)
 * [Hacker claims to be selling Twitter data of 400 million users](https://www.bleepingcomputer.com/news/security/hacker-claims-to-be-selling-twitter-data-of-400-million-users/)
 * [New info-stealer malware infects software pirates via fake cracks sites](https://www.bleepingcomputer.com/news/security/new-info-stealer-malware-infects-software-pirates-via-fake-cracks-sites/)
-* [The Week in Ransomware - December 23rd 2022 - Targeting Microsoft Exchange](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-23rd-2022-targeting-microsoft-exchange/)
-* [Hackers exploit bug in WordPress gift card plugin with 50K installs](https://www.bleepingcomputer.com/news/security/hackers-exploit-bug-in-wordpress-gift-card-plugin-with-50k-installs/)
 <!--END_SECTION:feed-->
 
 <!--
