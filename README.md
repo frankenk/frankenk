@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Canadian mining firm shuts down mill after ransomware attack](https://www.bleepingcomputer.com/news/security/canadian-mining-firm-shuts-down-mill-after-ransomware-attack/)
 * [New Linux malware uses 30 plugin exploits to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/new-linux-malware-uses-30-plugin-exploits-to-backdoor-wordpress-sites/)
 * [Ukraine shuts down fraudulent call center claiming 18,000 victims](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-fraudulent-call-center-claiming-18-000-victims/)
 * [Netgear warns users to patch recently fixed WiFi router bug](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-recently-fixed-wifi-router-bug/)
 * [Google Home speakers allowed hackers to snoop on conversations](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations/)
-* [Crypto platform 3Commas admits hackers stole API keys](https://www.bleepingcomputer.com/news/security/crypto-platform-3commas-admits-hackers-stole-api-keys/)
 <!--END_SECTION:feed-->
 
 <!--
