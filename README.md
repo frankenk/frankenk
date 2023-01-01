@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PyTorch discloses malicious dependency chain compromise over holidays](https://www.bleepingcomputer.com/news/security/pytorch-discloses-malicious-dependency-chain-compromise-over-holidays/)
+* [LockBit ransomware claims attack on Port of Lisbon in Portugal](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-attack-on-port-of-lisbon-in-portugal/)
 * [Canadian mining firm shuts down mill after ransomware attack](https://www.bleepingcomputer.com/news/security/canadian-mining-firm-shuts-down-mill-after-ransomware-attack/)
 * [New Linux malware uses 30 plugin exploits to backdoor WordPress sites](https://www.bleepingcomputer.com/news/security/new-linux-malware-uses-30-plugin-exploits-to-backdoor-wordpress-sites/)
 * [Ukraine shuts down fraudulent call center claiming 18,000 victims](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-fraudulent-call-center-claiming-18-000-victims/)
-* [Netgear warns users to patch recently fixed WiFi router bug](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-recently-fixed-wifi-router-bug/)
-* [Google Home speakers allowed hackers to snoop on conversations](https://www.bleepingcomputer.com/news/security/google-home-speakers-allowed-hackers-to-snoop-on-conversations/)
 <!--END_SECTION:feed-->
 
 <!--
