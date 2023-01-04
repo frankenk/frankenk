@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows Server 2012 reaches end of support in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2012-reaches-end-of-support-in-october/)
+* [Hackers abuse Windows error reporting tool to deploy malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-windows-error-reporting-tool-to-deploy-malware/)
+* [Toyota, Mercedes, BMW API flaws exposed owners’ personal info](https://www.bleepingcomputer.com/news/security/toyota-mercedes-bmw-api-flaws-exposed-owners-personal-info/)
 * [Meta to fight €390 million fine for breaching EU data privacy laws](https://www.bleepingcomputer.com/news/security/meta-to-fight-390-million-fine-for-breaching-eu-data-privacy-laws/)
 * [14 Cybersecurity Best Practices to Instill In Your End-Users](https://www.bleepingcomputer.com/news/security/14-cybersecurity-best-practices-to-instill-in-your-end-users/)
-* [Ongoing Flipper Zero phishing attacks target infosec community](https://www.bleepingcomputer.com/news/security/ongoing-flipper-zero-phishing-attacks-target-infosec-community/)
-* [Over 60,000 Exchange servers vulnerable to ProxyNotShell attacks](https://www.bleepingcomputer.com/news/security/over-60-000-exchange-servers-vulnerable-to-proxynotshell-attacks/)
-* [Rail giant Wabtec discloses data breach after Lockbit ransomware attack](https://www.bleepingcomputer.com/news/security/rail-giant-wabtec-discloses-data-breach-after-lockbit-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
