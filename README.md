@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bluebottle hackers used signed Windows driver in attacks on banks](https://www.bleepingcomputer.com/news/security/bluebottle-hackers-used-signed-windows-driver-in-attacks-on-banks/)
 * [Slack's private GitHub code repositories stolen over holidays](https://www.bleepingcomputer.com/news/security/slacks-private-github-code-repositories-stolen-over-holidays/)
 * [CircleCI warns of security breach — rotate your secrets!](https://www.bleepingcomputer.com/news/security/circleci-warns-of-security-breach-rotate-your-secrets/)
 * [New SHC-compiled Linux malware installs cryptominers, DDoS bots](https://www.bleepingcomputer.com/news/security/new-shc-compiled-linux-malware-installs-cryptominers-ddos-bots/)
 * [Rackspace confirms Play ransomware was behind recent cyberattack](https://www.bleepingcomputer.com/news/security/rackspace-confirms-play-ransomware-was-behind-recent-cyberattack/)
-* [200 million Twitter users' email addresses allegedly leaked online](https://www.bleepingcomputer.com/news/security/200-million-twitter-users-email-addresses-allegedly-leaked-online/)
 <!--END_SECTION:feed-->
 
 <!--
