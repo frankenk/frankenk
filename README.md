@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Amazon S3 will now encrypt all new data with AES-256 by default](https://www.bleepingcomputer.com/news/security/amazon-s3-will-now-encrypt-all-new-data-with-aes-256-by-default/)
 * [Microsoft shares temporary fix for ODBC database connection issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-odbc-database-connection-issues/)
 * [Rackspace: Customer email data accessed in ransomware attack](https://www.bleepingcomputer.com/news/security/rackspace-customer-email-data-accessed-in-ransomware-attack/)
 * [Bitdefender releases free MegaCortex ransomware decryptor](https://www.bleepingcomputer.com/news/security/bitdefender-releases-free-megacortex-ransomware-decryptor/)
 * [France fines Apple for targeted App Store ads without consent](https://www.bleepingcomputer.com/news/apple/france-fines-apple-for-targeted-app-store-ads-without-consent/)
-* [ChatGPT banned in NYC schools over learning impact concerns](https://www.bleepingcomputer.com/news/technology/chatgpt-banned-in-nyc-schools-over-learning-impact-concerns/)
 <!--END_SECTION:feed-->
 
 <!--
