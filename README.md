@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious PyPi packages create CloudFlare Tunnels to bypass firewalls](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-create-cloudflare-tunnels-to-bypass-firewalls/)
 * [The Week in Ransomware - January 6th 2023 - Targeting Healthcare](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-6th-2023-targeting-healthcare/)
 * [Chick-fil-A investigates reports of hacked customer accounts](https://www.bleepingcomputer.com/news/security/chick-fil-a-investigates-reports-of-hacked-customer-accounts/)
 * [Air France and KLM notify customers of account hacks](https://www.bleepingcomputer.com/news/security/air-france-and-klm-notify-customers-of-account-hacks/)
 * [VSCode Marketplace can be abused to host malicious extensions](https://www.bleepingcomputer.com/news/microsoft/vscode-marketplace-can-be-abused-to-host-malicious-extensions/)
-* [FCC wants telecom carriers to report data breaches faster](https://www.bleepingcomputer.com/news/security/fcc-wants-telecom-carriers-to-report-data-breaches-faster/)
 <!--END_SECTION:feed-->
 
 <!--
