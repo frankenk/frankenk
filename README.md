@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5022303 and KB5022287 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022303-and-kb5022287-cumulative-updates-released/)
+* [Windows 10 KB5022282 and KB5022286 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5022282-and-kb5022286-updates-released/)
+* [Microsoft fixes issue causing 0xc000021a blue screen crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-issue-causing-0xc000021a-blue-screen-crashes/)
 * [Microsoft January 2023 Patch Tuesday fixes 98 flaws, 1 zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2023-patch-tuesday-fixes-98-flaws-1-zero-day/)
 * [Iowa’s largest school district cancels classes after cyberattack](https://www.bleepingcomputer.com/news/security/iowa-s-largest-school-district-cancels-classes-after-cyberattack/)
-* [Hackers target Android users with fake Shagle video-chat app](https://www.bleepingcomputer.com/news/security/hackers-target-android-users-with-fake-shagle-video-chat-app/)
-* [In-House vs. External Pen Testing: Which is Right For Your Organization?](https://www.bleepingcomputer.com/news/security/in-house-vs-external-pen-testing-which-is-right-for-your-organization/)
-* [Microsoft: Kubernetes clusters hacked in malware campaign via PostgreSQL](https://www.bleepingcomputer.com/news/security/microsoft-kubernetes-clusters-hacked-in-malware-campaign-via-postgresql/)
 <!--END_SECTION:feed-->
 
 <!--
