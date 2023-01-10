@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft January 2023 Patch Tuesday fixes 98 flaws, 1 zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2023-patch-tuesday-fixes-98-flaws-1-zero-day/)
+* [Iowa’s largest school district cancels classes after cyberattack](https://www.bleepingcomputer.com/news/security/iowa-s-largest-school-district-cancels-classes-after-cyberattack/)
 * [Hackers target Android users with fake Shagle video-chat app](https://www.bleepingcomputer.com/news/security/hackers-target-android-users-with-fake-shagle-video-chat-app/)
 * [In-House vs. External Pen Testing: Which is Right For Your Organization?](https://www.bleepingcomputer.com/news/security/in-house-vs-external-pen-testing-which-is-right-for-your-organization/)
 * [Microsoft: Kubernetes clusters hacked in malware campaign via PostgreSQL](https://www.bleepingcomputer.com/news/security/microsoft-kubernetes-clusters-hacked-in-malware-campaign-via-postgresql/)
-* [Darknet drug markets move to custom Android apps for increased privacy](https://www.bleepingcomputer.com/news/security/darknet-drug-markets-move-to-custom-android-apps-for-increased-privacy/)
-* [GitHub makes it easier to scan your code for vulnerabilities](https://www.bleepingcomputer.com/news/security/github-makes-it-easier-to-scan-your-code-for-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
