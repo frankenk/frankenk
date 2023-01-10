@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lorenz ransomware gang plants backdoors to use months later](https://www.bleepingcomputer.com/news/security/lorenz-ransomware-gang-plants-backdoors-to-use-months-later/)
 * [Microsoft fixes ODBC connections broken by November updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-odbc-connections-broken-by-november-updates/)
 * [Trojan Puzzle attack trains AI assistants into suggesting malicious code](https://www.bleepingcomputer.com/news/security/trojan-puzzle-attack-trains-ai-assistants-into-suggesting-malicious-code/)
 * [Windows 11 KB5022303 and KB5022287 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022303-and-kb5022287-cumulative-updates-released/)
 * [Windows 10 KB5022282 and KB5022286 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5022282-and-kb5022286-updates-released/)
-* [Microsoft fixes issue causing 0xc000021a blue screen crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-issue-causing-0xc000021a-blue-screen-crashes/)
 <!--END_SECTION:feed-->
 
 <!--
