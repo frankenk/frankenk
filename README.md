@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Twitter claims leaked data of 200M users not stolen from its systems](https://www.bleepingcomputer.com/news/security/twitter-claims-leaked-data-of-200m-users-not-stolen-from-its-systems/)
 * [Threema claims encryption flaws never had a real-world impact](https://www.bleepingcomputer.com/news/security/threema-claims-encryption-flaws-never-had-a-real-world-impact/)
 * [Cisco warns of auth bypass bug with public exploit in EoL routers](https://www.bleepingcomputer.com/news/security/cisco-warns-of-auth-bypass-bug-with-public-exploit-in-eol-routers/)
 * [Gootkit malware abuses VLC to infect healthcare orgs with Cobalt Strike](https://www.bleepingcomputer.com/news/security/gootkit-malware-abuses-vlc-to-infect-healthcare-orgs-with-cobalt-strike/)
 * [Royal Mail halts international services after cyberattack](https://www.bleepingcomputer.com/news/security/royal-mail-halts-international-services-after-cyberattack/)
-* [New Dark Pink APT group targets govt and military with custom malware](https://www.bleepingcomputer.com/news/security/new-dark-pink-apt-group-targets-govt-and-military-with-custom-malware/)
 <!--END_SECTION:feed-->
 
 <!--
