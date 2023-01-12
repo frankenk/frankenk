@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [RAT malware campaign tries to evade detection using polyglot files](https://www.bleepingcomputer.com/news/security/rat-malware-campaign-tries-to-evade-detection-using-polyglot-files/)
 * [Microsoft tests live kernel memory dumps in Windows 11 Task Manager](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-live-kernel-memory-dumps-in-windows-11-task-manager/)
 * [Microsoft: Exchange Server 2013 reaches end of support in 90 days](https://www.bleepingcomputer.com/news/security/microsoft-exchange-server-2013-reaches-end-of-support-in-90-days/)
 * [Android TV box on Amazon came pre-installed with malware](https://www.bleepingcomputer.com/news/security/android-tv-box-on-amazon-came-pre-installed-with-malware/)
 * [Microsoft: Cuba ransomware hacking Exchange servers via OWASSRF flaw](https://www.bleepingcomputer.com/news/security/microsoft-cuba-ransomware-hacking-exchange-servers-via-owassrf-flaw/)
-* [MetaMask warns of new 'Address Poisoning' cryptocurrency scam](https://www.bleepingcomputer.com/news/security/metamask-warns-of-new-address-poisoning-cryptocurrency-scam/)
 <!--END_SECTION:feed-->
 
 <!--
