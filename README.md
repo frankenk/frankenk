@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - January 13th 2023 - LockBit in the spotlight](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-13th-2023-lockbit-in-the-spotlight/)
 * [PoC exploits released for critical bugs in popular WordPress plugins](https://www.bleepingcomputer.com/news/security/poc-exploits-released-for-critical-bugs-in-popular-wordpress-plugins/)
 * [NortonLifeLock warns that hackers breached Password Manager accounts](https://www.bleepingcomputer.com/news/security/nortonlifelock-warns-that-hackers-breached-password-manager-accounts/)
 * [Buggy Microsoft Defender ASR rule deletes Windows app shortcuts](https://www.bleepingcomputer.com/news/microsoft/buggy-microsoft-defender-asr-rule-deletes-windows-app-shortcuts/)
 * [Hackers exploit Control Web Panel flaw to open reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-control-web-panel-flaw-to-open-reverse-shells/)
-* [Royal Mail cyberattack linked to LockBit ransomware operation](https://www.bleepingcomputer.com/news/security/royal-mail-cyberattack-linked-to-lockbit-ransomware-operation/)
 <!--END_SECTION:feed-->
 
 <!--
