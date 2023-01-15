@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft script recreates shortcuts deleted by bad Defender ASR rule](https://www.bleepingcomputer.com/news/microsoft/microsoft-script-recreates-shortcuts-deleted-by-bad-defender-asr-rule/)
+* [TikTok slapped with $5.4 million fine over cookie opt-out feature](https://www.bleepingcomputer.com/news/security/tiktok-slapped-with-54-million-fine-over-cookie-opt-out-feature/)
 * [CircleCI's hack caused by malware stealing engineer's 2FA-backed session](https://www.bleepingcomputer.com/news/security/circlecis-hack-caused-by-malware-stealing-engineers-2fa-backed-session/)
 * [Google Chrome to let you disable or enable extensions per site](https://www.bleepingcomputer.com/news/google/google-chrome-to-let-you-disable-or-enable-extensions-per-site/)
 * [Brave browser’s new Snowflake feature help bypass Tor blocks](https://www.bleepingcomputer.com/news/security/brave-browser-s-new-snowflake-feature-help-bypass-tor-blocks/)
-* [Canada's largest alcohol retailer's site hacked to steal credit cards](https://www.bleepingcomputer.com/news/security/canadas-largest-alcohol-retailers-site-hacked-to-steal-credit-cards/)
-* [The Week in Ransomware - January 13th 2023 - LockBit in the spotlight](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-13th-2023-lockbit-in-the-spotlight/)
 <!--END_SECTION:feed-->
 
 <!--
