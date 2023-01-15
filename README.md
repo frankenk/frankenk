@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [How to customize Windows 11 desktop experience](https://www.bleepingcomputer.com/news/microsoft/how-to-customize-windows-11-desktop-experience/)
+* [How to customize the Windows 11 desktop experience](https://www.bleepingcomputer.com/news/microsoft/how-to-customize-the-windows-11-desktop-experience/)
 * [Microsoft script recreates shortcuts deleted by bad Defender ASR rule](https://www.bleepingcomputer.com/news/microsoft/microsoft-script-recreates-shortcuts-deleted-by-bad-defender-asr-rule/)
 * [TikTok slapped with $5.4 million fine over cookie opt-out feature](https://www.bleepingcomputer.com/news/security/tiktok-slapped-with-54-million-fine-over-cookie-opt-out-feature/)
 * [CircleCI's hack caused by malware stealing engineer's 2FA-backed session](https://www.bleepingcomputer.com/news/security/circlecis-hack-caused-by-malware-stealing-engineers-2fa-backed-session/)
