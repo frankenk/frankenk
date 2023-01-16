@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Vice Society ransomware leaks University of Duisburg-Essen’s data](https://www.bleepingcomputer.com/news/security/vice-society-ransomware-leaks-university-of-duisburg-essen-s-data/)
+* [Datadog rotates RPM signing key exposed in CircleCI hack](https://www.bleepingcomputer.com/news/security/datadog-rotates-rpm-signing-key-exposed-in-circleci-hack/)
 * [Malicious ‘Lolip0p’ PyPi packages install info-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-lolip0p-pypi-packages-install-info-stealing-malware/)
 * [Avast releases free BianLian ransomware decryptor](https://www.bleepingcomputer.com/news/security/avast-releases-free-bianlian-ransomware-decryptor/)
 * [Hackers exploit Cacti critical bug to install malware, open reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-cacti-critical-bug-to-install-malware-open-reverse-shells/)
-* [How to customize the Windows 11 desktop experience](https://www.bleepingcomputer.com/news/microsoft/how-to-customize-the-windows-11-desktop-experience/)
-* [Microsoft script recreates shortcuts deleted by bad Defender ASR rule](https://www.bleepingcomputer.com/news/microsoft/microsoft-script-recreates-shortcuts-deleted-by-bad-defender-asr-rule/)
 <!--END_SECTION:feed-->
 
 <!--
