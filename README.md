@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious ‘Lolip0p’ PyPi packages install info-stealing malware](https://www.bleepingcomputer.com/news/security/malicious-lolip0p-pypi-packages-install-info-stealing-malware/)
 * [Avast releases free BianLian ransomware decryptor](https://www.bleepingcomputer.com/news/security/avast-releases-free-bianlian-ransomware-decryptor/)
 * [Hackers exploit Cacti critical bug to install malware, open reverse shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-cacti-critical-bug-to-install-malware-open-reverse-shells/)
 * [How to customize the Windows 11 desktop experience](https://www.bleepingcomputer.com/news/microsoft/how-to-customize-the-windows-11-desktop-experience/)
 * [Microsoft script recreates shortcuts deleted by bad Defender ASR rule](https://www.bleepingcomputer.com/news/microsoft/microsoft-script-recreates-shortcuts-deleted-by-bad-defender-asr-rule/)
-* [TikTok slapped with $5.4 million fine over cookie opt-out feature](https://www.bleepingcomputer.com/news/security/tiktok-slapped-with-54-million-fine-over-cookie-opt-out-feature/)
 <!--END_SECTION:feed-->
 
 <!--
