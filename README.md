@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 4,000 Sophos Firewall devices vulnerable to RCE attacks](https://www.bleepingcomputer.com/news/security/over-4-000-sophos-firewall-devices-vulnerable-to-rce-attacks/)
 * [IT Burnout may be Putting Your Organization at Risk](https://www.bleepingcomputer.com/news/security/it-burnout-may-be-putting-your-organization-at-risk/)
 * [Nissan North America data breach caused by vendor-exposed database](https://www.bleepingcomputer.com/news/security/nissan-north-america-data-breach-caused-by-vendor-exposed-database/)
 * [Researchers to release PoC exploit for critical Zoho RCE bug, patch now](https://www.bleepingcomputer.com/news/security/researchers-to-release-poc-exploit-for-critical-zoho-rce-bug-patch-now/)
 * [MSI accidentally breaks Secure Boot for hundreds of motherboards](https://www.bleepingcomputer.com/news/security/msi-accidentally-breaks-secure-boot-for-hundreds-of-motherboards/)
-* [Vice Society ransomware leaks University of Duisburg-Essen’s data](https://www.bleepingcomputer.com/news/security/vice-society-ransomware-leaks-university-of-duisburg-essen-s-data/)
 <!--END_SECTION:feed-->
 
 <!--
