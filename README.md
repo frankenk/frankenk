@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Avast releases free BianLian ransomware decryptor](https://www.bleepingcomputer.com/news/security/avast-releases-free-bianlian-ransomware-decryptor/)
+* [Product Security Incident Response: Key Strategies and Best Practices](https://www.bleepingcomputer.com/news/security/product-security-incident-response-key-strategies-and-best-practices/)
 * [Git patches two critical remote code execution security flaws](https://www.bleepingcomputer.com/news/security/git-patches-two-critical-remote-code-execution-security-flaws/)
 * [Hackers turn to Google search ads to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-turn-to-google-search-ads-to-push-info-stealing-malware/)
 * [Hackers can use GitHub Codespaces to host and deliver malware](https://www.bleepingcomputer.com/news/security/hackers-can-use-github-codespaces-to-host-and-deliver-malware/)
