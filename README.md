@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bitzlato crypto exchange seized for ransomware, drugs money laundering](https://www.bleepingcomputer.com/news/security/bitzlato-crypto-exchange-seized-for-ransomware-drugs-money-laundering/)
+* [New York man defrauded thousands using credit cards sold on dark web](https://www.bleepingcomputer.com/news/security/new-york-man-defrauded-thousands-using-credit-cards-sold-on-dark-web/)
 * [Microsoft: Windows 11 apps might not start after system restore](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-apps-might-not-start-after-system-restore/)
 * [Product Security Incident Response: Key Strategies and Best Practices](https://www.bleepingcomputer.com/news/security/product-security-incident-response-key-strategies-and-best-practices/)
 * [Git patches two critical remote code execution security flaws](https://www.bleepingcomputer.com/news/security/git-patches-two-critical-remote-code-execution-security-flaws/)
-* [Hackers turn to Google search ads to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-turn-to-google-search-ads-to-push-info-stealing-malware/)
-* [Hackers can use GitHub Codespaces to host and deliver malware](https://www.bleepingcomputer.com/news/security/hackers-can-use-github-codespaces-to-host-and-deliver-malware/)
 <!--END_SECTION:feed-->
 
 <!--
