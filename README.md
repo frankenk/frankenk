@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Git patches two critical remote code execution security flaws](https://www.bleepingcomputer.com/news/security/git-patches-two-critical-remote-code-execution-security-flaws/)
+* [Hackers turn to Google search ads to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-turn-to-google-search-ads-to-push-info-stealing-malware/)
 * [Hackers can use GitHub Codespaces to host and deliver malware](https://www.bleepingcomputer.com/news/security/hackers-can-use-github-codespaces-to-host-and-deliver-malware/)
 * [Over 4,000 Sophos Firewall devices vulnerable to RCE attacks](https://www.bleepingcomputer.com/news/security/over-4-000-sophos-firewall-devices-vulnerable-to-rce-attacks/)
 * [IT Burnout may be Putting Your Organization at Risk](https://www.bleepingcomputer.com/news/security/it-burnout-may-be-putting-your-organization-at-risk/)
-* [Nissan North America data breach caused by vendor-exposed database](https://www.bleepingcomputer.com/news/security/nissan-north-america-data-breach-caused-by-vendor-exposed-database/)
-* [Researchers to release PoC exploit for critical Zoho RCE bug, patch now](https://www.bleepingcomputer.com/news/security/researchers-to-release-poc-exploit-for-critical-zoho-rce-bug-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
