@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Avast releases free BianLian ransomware decryptor](https://www.bleepingcomputer.com/news/security/avast-releases-free-bianlian-ransomware-decryptor/)
 * [Git patches two critical remote code execution security flaws](https://www.bleepingcomputer.com/news/security/git-patches-two-critical-remote-code-execution-security-flaws/)
 * [Hackers turn to Google search ads to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-turn-to-google-search-ads-to-push-info-stealing-malware/)
 * [Hackers can use GitHub Codespaces to host and deliver malware](https://www.bleepingcomputer.com/news/security/hackers-can-use-github-codespaces-to-host-and-deliver-malware/)
 * [Over 4,000 Sophos Firewall devices vulnerable to RCE attacks](https://www.bleepingcomputer.com/news/security/over-4-000-sophos-firewall-devices-vulnerable-to-rce-attacks/)
-* [IT Burnout may be Putting Your Organization at Risk](https://www.bleepingcomputer.com/news/security/it-burnout-may-be-putting-your-organization-at-risk/)
 <!--END_SECTION:feed-->
 
 <!--
