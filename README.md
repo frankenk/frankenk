@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft starts testing Notepad tabs in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-notepad-tabs-in-windows-11/)
 * [Roaming Mantis’ Android malware adds DNS changer to hack WiFi routers](https://www.bleepingcomputer.com/news/security/roaming-mantis-android-malware-adds-dns-changer-to-hack-wifi-routers/)
 * [Exploit released for critical ManageEngine RCE bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-manageengine-rce-bug-patch-now/)
 * [PayPal accounts breached in large-scale credential stuffing attack](https://www.bleepingcomputer.com/news/security/paypal-accounts-breached-in-large-scale-credential-stuffing-attack/)
 * [New 'Blank Image' attack hides phishing scripts in SVG files](https://www.bleepingcomputer.com/news/security/new-blank-image-attack-hides-phishing-scripts-in-svg-files/)
-* [Ransomware profits drop 40% in 2022 as victims refuse to pay](https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-40-percent-in-2022-as-victims-refuse-to-pay/)
 <!--END_SECTION:feed-->
 
 <!--
