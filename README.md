@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PayPal accounts breached in large-scale credential stuffing attack](https://www.bleepingcomputer.com/news/security/paypal-accounts-breached-in-large-scale-credential-stuffing-attack/)
+* [New 'Blank Image' attack hides phishing scripts in SVG files](https://www.bleepingcomputer.com/news/security/new-blank-image-attack-hides-phishing-scripts-in-svg-files/)
+* [Ransomware profits drop 40% in 2022 as victims refuse to pay](https://www.bleepingcomputer.com/news/security/ransomware-profits-drop-40-percent-in-2022-as-victims-refuse-to-pay/)
 * [Microsoft investigates bug behind unresponsive Windows Start Menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-bug-behind-unresponsive-windows-start-menu/)
 * [MailChimp discloses new breach after employees got hacked](https://www.bleepingcomputer.com/news/security/mailchimp-discloses-new-breach-after-employees-got-hacked/)
-* [Bank of America starts restoring missing Zelle transactions](https://www.bleepingcomputer.com/news/technology/bank-of-america-starts-restoring-missing-zelle-transactions/)
-* [Ukraine links data-wiping attack on news agency to Russian hackers](https://www.bleepingcomputer.com/news/security/ukraine-links-data-wiping-attack-on-news-agency-to-russian-hackers/)
-* [Illegal Solaris darknet market hijacked by competitor Kraken](https://www.bleepingcomputer.com/news/security/illegal-solaris-darknet-market-hijacked-by-competitor-kraken/)
 <!--END_SECTION:feed-->
 
 <!--
