@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft pushes KB5021751 to check for outdated Office installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-kb5021751-to-check-for-outdated-office-installs/)
 * [Ransomware gang steals data from KFC, Taco Bell, and Pizza Hut brand owner](https://www.bleepingcomputer.com/news/security/ransomware-gang-steals-data-from-kfc-taco-bell-and-pizza-hut-brand-owner/)
 * [Microsoft starts testing Notepad tabs in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-notepad-tabs-in-windows-11/)
 * [Roaming Mantis’ Android malware adds DNS changer to hack WiFi routers](https://www.bleepingcomputer.com/news/security/roaming-mantis-android-malware-adds-dns-changer-to-hack-wifi-routers/)
 * [Exploit released for critical ManageEngine RCE bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-manageengine-rce-bug-patch-now/)
-* [PayPal accounts breached in large-scale credential stuffing attack](https://www.bleepingcomputer.com/news/security/paypal-accounts-breached-in-large-scale-credential-stuffing-attack/)
 <!--END_SECTION:feed-->
 
 <!--
