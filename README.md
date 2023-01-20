@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LAUSD says Vice Society ransomware gang stole contractors’ SSNs](https://www.bleepingcomputer.com/news/security/lausd-says-vice-society-ransomware-gang-stole-contractors-ssns/)
 * [New Boldmove Linux malware used to backdoor Fortinet devices](https://www.bleepingcomputer.com/news/security/new-boldmove-linux-malware-used-to-backdoor-fortinet-devices/)
 * [Windows 10 KB5019275 preview update released with 14 fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5019275-preview-update-released-with-14-fixes/)
 * [New 'Hook' Android malware lets hackers remotely control your phone](https://www.bleepingcomputer.com/news/security/new-hook-android-malware-lets-hackers-remotely-control-your-phone/)
 * [T-Mobile hacked to steal data of 37 million accounts in API data breach](https://www.bleepingcomputer.com/news/security/t-mobile-hacked-to-steal-data-of-37-million-accounts-in-api-data-breach/)
-* [Microsoft pushes KB5021751 to check for outdated Office installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-kb5021751-to-check-for-outdated-office-installs/)
 <!--END_SECTION:feed-->
 
 <!--
