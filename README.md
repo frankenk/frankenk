@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 19,000 end-of-life Cisco routers exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-19-000-end-of-life-cisco-routers-exposed-to-rce-attacks/)
 * [Exploits released for two Samsung Galaxy App Store vulnerabilities](https://www.bleepingcomputer.com/news/security/exploits-released-for-two-samsung-galaxy-app-store-vulnerabilities/)
 * [Critical ManageEngine RCE bug now exploited to open reverse shells](https://www.bleepingcomputer.com/news/security/critical-manageengine-rce-bug-now-exploited-to-open-reverse-shells/)
 * [LAUSD says Vice Society ransomware gang stole contractors’ SSNs](https://www.bleepingcomputer.com/news/security/lausd-says-vice-society-ransomware-gang-stole-contractors-ssns/)
 * [New Boldmove Linux malware used to backdoor Fortinet devices](https://www.bleepingcomputer.com/news/security/new-boldmove-linux-malware-used-to-backdoor-fortinet-devices/)
-* [Windows 10 KB5019275 preview update released with 14 fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5019275-preview-update-released-with-14-fixes/)
 <!--END_SECTION:feed-->
 
 <!--
