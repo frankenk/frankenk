@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Riot Games hacked, delays game patches after security breach](https://www.bleepingcomputer.com/news/security/riot-games-hacked-delays-game-patches-after-security-breach/)
+* [Beware: Hackers now use OneNote attachments to spread malware](https://www.bleepingcomputer.com/news/security/beware-hackers-now-use-onenote-attachments-to-spread-malware/)
+* [Massive ad-fraud op dismantled after hitting millions of iOS devices](https://www.bleepingcomputer.com/news/security/massive-ad-fraud-op-dismantled-after-hitting-millions-of-ios-devices/)
 * [The Week in Ransomware - January 20th 2023 - Targeting Crypto Exchanges](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-20th-2023-targeting-crypto-exchanges/)
 * [Over 19,000 end-of-life Cisco routers exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-19-000-end-of-life-cisco-routers-exposed-to-rce-attacks/)
-* [Exploits released for two Samsung Galaxy App Store vulnerabilities](https://www.bleepingcomputer.com/news/security/exploits-released-for-two-samsung-galaxy-app-store-vulnerabilities/)
-* [Critical ManageEngine RCE bug now exploited to open reverse shells](https://www.bleepingcomputer.com/news/security/critical-manageengine-rce-bug-now-exploited-to-open-reverse-shells/)
-* [LAUSD says Vice Society ransomware gang stole contractors’ SSNs](https://www.bleepingcomputer.com/news/security/lausd-says-vice-society-ransomware-gang-stole-contractors-ssns/)
 <!--END_SECTION:feed-->
 
 <!--
