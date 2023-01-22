@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WhatsApp fined €5.5 million by Irish DPC for GDPR violation](https://www.bleepingcomputer.com/news/security/whatsapp-fined-55-million-by-irish-dpc-for-gdpr-violation/)
 * [Riot Games hacked, delays game patches after security breach](https://www.bleepingcomputer.com/news/security/riot-games-hacked-delays-game-patches-after-security-breach/)
 * [Hackers now use Microsoft OneNote attachments to spread malware](https://www.bleepingcomputer.com/news/security/hackers-now-use-microsoft-onenote-attachments-to-spread-malware/)
 * [Massive ad-fraud op dismantled after hitting millions of iOS devices](https://www.bleepingcomputer.com/news/security/massive-ad-fraud-op-dismantled-after-hitting-millions-of-ios-devices/)
 * [The Week in Ransomware - January 20th 2023 - Targeting Crypto Exchanges](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-20th-2023-targeting-crypto-exchanges/)
-* [Over 19,000 end-of-life Cisco routers exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-19-000-end-of-life-cisco-routers-exposed-to-rce-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
