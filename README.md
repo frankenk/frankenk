@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [FanDuel discloses data breach caused by recent MailChimp hack](https://www.bleepingcomputer.com/news/security/fanduel-discloses-data-breach-caused-by-recent-mailchimp-hack/)
+* [FanDuels warns of data breach after customer info stolen in vendor hack](https://www.bleepingcomputer.com/news/security/fanduels-warns-of-data-breach-after-customer-info-stolen-in-vendor-hack/)
 * [WhatsApp fined €5.5 million by Irish DPC for GDPR violation](https://www.bleepingcomputer.com/news/security/whatsapp-fined-55-million-by-irish-dpc-for-gdpr-violation/)
 * [Riot Games hacked, delays game patches after security breach](https://www.bleepingcomputer.com/news/security/riot-games-hacked-delays-game-patches-after-security-breach/)
 * [Hackers now use Microsoft OneNote attachments to spread malware](https://www.bleepingcomputer.com/news/security/hackers-now-use-microsoft-onenote-attachments-to-spread-malware/)
