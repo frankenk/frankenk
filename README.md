@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of critical ManageEngine RCE bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-manageengine-rce-bug-exploited-in-attacks/)
 * [GTA Online bug exploited to ban, corrupt players’ accounts](https://www.bleepingcomputer.com/news/security/gta-online-bug-exploited-to-ban-corrupt-players-accounts/)
 * [Google Ads invites being abused to push spam, adult sites](https://www.bleepingcomputer.com/news/security/google-ads-invites-being-abused-to-push-spam-adult-sites/)
 * [Microsoft plans to kill malware delivery via Excel XLL add-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-kill-malware-delivery-via-excel-xll-add-ins/)
 * [FanDuels warns of data breach after customer info stolen in vendor hack](https://www.bleepingcomputer.com/news/security/fanduels-warns-of-data-breach-after-customer-info-stolen-in-vendor-hack/)
-* [WhatsApp fined €5.5 million by Irish DPC for GDPR violation](https://www.bleepingcomputer.com/news/security/whatsapp-fined-55-million-by-irish-dpc-for-gdpr-violation/)
 <!--END_SECTION:feed-->
 
 <!--
