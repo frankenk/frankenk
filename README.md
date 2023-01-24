@@ -5,6 +5,10 @@
 * [U.S. sues Google for abusing dominance over online ad market](https://www.bleepingcomputer.com/news/security/us-sues-google-for-abusing-dominance-over-online-ad-market/)
 * [Riot Games receives ransom demand from hackers, refuses to pay](https://www.bleepingcomputer.com/news/security/riot-games-receives-ransom-demand-from-hackers-refuses-to-pay/)
 * [75k WordPress sites impacted by critical online course plugin flaws](https://www.bleepingcomputer.com/news/security/75k-wordpress-sites-impacted-by-critical-online-course-plugin-flaws/)
+* [FBI: North Korean hackers stole * [Microsoft shares workaround for unresponsive Windows Start Menu](https://www.bleepingcomputer.com/news/security/microsoft-shares-workaround-for-unresponsive-windows-start-menu/)
+* [U.S. sues Google for abusing dominance over online ad market](https://www.bleepingcomputer.com/news/security/us-sues-google-for-abusing-dominance-over-online-ad-market/)
+* [Riot Games receives ransom demand from hackers, refuses to pay](https://www.bleepingcomputer.com/news/security/riot-games-receives-ransom-demand-from-hackers-refuses-to-pay/)
+* [75k WordPress sites impacted by critical online course plugin flaws](https://www.bleepingcomputer.com/news/security/75k-wordpress-sites-impacted-by-critical-online-course-plugin-flaws/)
 * [FBI: North Korean hackers stole * [Riot Games receives ransom demand from hackers, refuses to pay](https://www.bleepingcomputer.com/news/security/riot-games-receives-ransom-demand-from-hackers-refuses-to-pay/)
 * [75k WordPress sites impacted by critical online course plugin flaws](https://www.bleepingcomputer.com/news/security/75k-wordpress-sites-impacted-by-critical-online-course-plugin-flaws/)
 * [FBI: North Korean hackers stole * [Riot Games receives ransom demand from hackers, refuses to pay](https://www.bleepingcomputer.com/news/security/riot-games-receives-ransom-demand-from-hackers-refuses-to-pay/)
@@ -29,7 +33,7 @@
 * [GoTo says hackers stole customers' backups and encryption key](https://www.bleepingcomputer.com/news/security/goto-says-hackers-stole-customers-backups-and-encryption-key/)
 * [Hackers use Golang source code interpreter to evade detection](https://www.bleepingcomputer.com/news/security/hackers-use-golang-source-code-interpreter-to-evade-detection/)00 million in Harmony crypto hack](https://www.bleepingcomputer.com/news/security/fbi-north-korean-hackers-stole-100-million-in-harmony-crypto-hack/)
 * [GoTo says hackers stole customers' backups and encryption key](https://www.bleepingcomputer.com/news/security/goto-says-hackers-stole-customers-backups-and-encryption-key/)
-* [Hackers use Golang source code interpreter to evade detection](https://www.bleepingcomputer.com/news/security/hackers-use-golang-source-code-interpreter-to-evade-detection/)00 million in Harmony crypto hack](https://www.bleepingcomputer.com/news/security/fbi-north-korean-hackers-stole-100-million-in-harmony-crypto-hack/)
+* [Hackers use Golang source code interpreter to evade detection](https://www.bleepingcomputer.com/news/security/hackers-use-golang-source-code-interpreter-to-evade-detection/)00 million in Harmony crypto hack](https://www.bleepingcomputer.com/news/security/fbi-north-korean-hackers-stole-100-million-in-harmony-crypto-hack/)00 million in Harmony crypto hack](https://www.bleepingcomputer.com/news/security/fbi-north-korean-hackers-stole-100-million-in-harmony-crypto-hack/)
 <!--END_SECTION:feed-->
 
 <!--
