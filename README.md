@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Botnets exploited Realtek SDK critical bug in millions of attacks](https://www.bleepingcomputer.com/news/security/botnets-exploited-realtek-sdk-critical-bug-in-millions-of-attacks/)
 * [Lessons Learned from the Windows Remote Desktop Honeypot Report](https://www.bleepingcomputer.com/news/security/lessons-learned-from-the-windows-remote-desktop-honeypot-report/)
 * [New stealthy Python RAT malware targets Windows in attacks](https://www.bleepingcomputer.com/news/security/new-stealthy-python-rat-malware-targets-windows-in-attacks/)
 * [Microsoft 365 outage takes down Teams, Exchange Online, Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-teams-exchange-online-outlook/)
 * [Ransomware access brokers use Google ads to breach your network](https://www.bleepingcomputer.com/news/security/ransomware-access-brokers-use-google-ads-to-breach-your-network/)
-* [VMware fixes critical security bugs in vRealize log analysis tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-security-bugs-in-vrealize-log-analysis-tool/)
 <!--END_SECTION:feed-->
 
 <!--
