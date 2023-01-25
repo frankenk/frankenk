@@ -4,7 +4,7 @@
 * [CISA: Federal agencies hacked using legitimate remote desktop tools](https://www.bleepingcomputer.com/news/security/cisa-federal-agencies-hacked-using-legitimate-remote-desktop-tools/)
 * [Hackers auction alleged source code for League of Legends](https://www.bleepingcomputer.com/news/security/hackers-auction-alleged-source-code-for-league-of-legends/)
 * [Zacks Investment Research data breach affects 820,000 clients](https://www.bleepingcomputer.com/news/security/zacks-investment-research-data-breach-affects-820-000-clients/)
-* [Botnets exploited Realtek SDK critical bug in millions of attacks](https://www.bleepingcomputer.com/news/security/botnets-exploited-realtek-sdk-critical-bug-in-millions-of-attacks/)
+* [Malware exploited critical Realtek SDK bug in millions of attacks](https://www.bleepingcomputer.com/news/security/malware-exploited-critical-realtek-sdk-bug-in-millions-of-attacks/)
 * [Lessons Learned from the Windows Remote Desktop Honeypot Report](https://www.bleepingcomputer.com/news/security/lessons-learned-from-the-windows-remote-desktop-honeypot-report/)
 <!--END_SECTION:feed-->
 
