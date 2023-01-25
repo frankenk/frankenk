@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware access brokers use Google ads to breach your network](https://www.bleepingcomputer.com/news/security/ransomware-access-brokers-use-google-ads-to-breach-your-network/)
 * [VMware fixes critical security bugs in vRealize log analysis tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-security-bugs-in-vrealize-log-analysis-tool/)
 * [Microsoft shares workaround for unresponsive Windows Start Menu](https://www.bleepingcomputer.com/news/security/microsoft-shares-workaround-for-unresponsive-windows-start-menu/)
 * [U.S. sues Google for abusing dominance over online ad market](https://www.bleepingcomputer.com/news/security/us-sues-google-for-abusing-dominance-over-online-ad-market/)
 * [Riot Games receives ransom demand from hackers, refuses to pay](https://www.bleepingcomputer.com/news/security/riot-games-receives-ransom-demand-from-hackers-refuses-to-pay/)
-* [75k WordPress sites impacted by critical online course plugin flaws](https://www.bleepingcomputer.com/news/security/75k-wordpress-sites-impacted-by-critical-online-course-plugin-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
