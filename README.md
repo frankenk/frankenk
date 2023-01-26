@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Hive ransomware dark web sites seized by law enforcement](https://www.bleepingcomputer.com/news/security/hive-ransomware-dark-web-sites-seized-by-law-enforcement/)
+* [Hive ransomware disrupted after FBI hacks gang's systems](https://www.bleepingcomputer.com/news/security/hive-ransomware-disrupted-after-fbi-hacks-gangs-systems/)
 * [Yandex denies hack, blames source code leak on former employee](https://www.bleepingcomputer.com/news/security/yandex-denies-hack-blames-source-code-leak-on-former-employee/)
 * [Exploit released for critical Windows CryptoAPI spoofing bug](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/)
 * [CISA: Federal agencies hacked using legitimate remote desktop tools](https://www.bleepingcomputer.com/news/security/cisa-federal-agencies-hacked-using-legitimate-remote-desktop-tools/)
