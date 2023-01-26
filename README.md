@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hive ransomware dark web sites seized by law enforcement](https://www.bleepingcomputer.com/news/security/hive-ransomware-dark-web-sites-seized-by-law-enforcement/)
 * [Yandex denies hack, blames source code leak on former employee](https://www.bleepingcomputer.com/news/security/yandex-denies-hack-blames-source-code-leak-on-former-employee/)
 * [Exploit released for critical Windows CryptoAPI spoofing bug](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-windows-cryptoapi-spoofing-bug/)
 * [CISA: Federal agencies hacked using legitimate remote desktop tools](https://www.bleepingcomputer.com/news/security/cisa-federal-agencies-hacked-using-legitimate-remote-desktop-tools/)
 * [Hackers auction alleged source code for League of Legends](https://www.bleepingcomputer.com/news/security/hackers-auction-alleged-source-code-for-league-of-legends/)
-* [Zacks Investment Research data breach affects 820,000 clients](https://www.bleepingcomputer.com/news/security/zacks-investment-research-data-breach-affects-820-000-clients/)
 <!--END_SECTION:feed-->
 
 <!--
