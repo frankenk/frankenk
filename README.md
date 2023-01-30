@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Porsche halts NFT launch, phishing sites fill the void](https://www.bleepingcomputer.com/news/security/porsche-halts-nft-launch-phishing-sites-fill-the-void/)
+* [KeePass disputes vulnerability allowing stealthy password theft](https://www.bleepingcomputer.com/news/security/keepass-disputes-vulnerability-allowing-stealthy-password-theft/)
 * [Cybercrime job ads on the dark web pay up to $20k per month](https://www.bleepingcomputer.com/news/security/cybercrime-job-ads-on-the-dark-web-pay-up-to-20k-per-month/)
 * [GitHub revokes code signing certificates stolen in repo hack](https://www.bleepingcomputer.com/news/security/github-revokes-code-signing-certificates-stolen-in-repo-hack/)
 * [QNAP fixes critical bug letting hackers inject malicious code](https://www.bleepingcomputer.com/news/security/qnap-fixes-critical-bug-letting-hackers-inject-malicious-code/)
-* [JD Sports says hackers stole data of 10 million customers](https://www.bleepingcomputer.com/news/security/jd-sports-says-hackers-stole-data-of-10-million-customers/)
-* [U.S. No Fly list shared on a hacking forum, government investigating](https://www.bleepingcomputer.com/news/security/us-no-fly-list-shared-on-a-hacking-forum-government-investigating/)
 <!--END_SECTION:feed-->
 
 <!--
