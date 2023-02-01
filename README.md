@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Sh1mmer ChromeBook exploit unenrolls managed devices](https://www.bleepingcomputer.com/news/security/new-sh1mmer-chromebook-exploit-unenrolls-managed-devices/)
+* [Over 29,000 QNAP devices unpatched against new critical flaw](https://www.bleepingcomputer.com/news/security/over-29-000-qnap-devices-unpatched-against-new-critical-flaw/)
 * [Microsoft stops selling Windows 10 licenses a day early](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-selling-windows-10-licenses-a-day-early/)
 * [OpenAI releases tool to detect AI-written text](https://www.bleepingcomputer.com/news/technology/openai-releases-tool-to-detect-ai-written-text/)
 * [Microsoft releases emergency updates to fix XPS display issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-updates-to-fix-xps-display-issues/)
-* [Microsoft: Over 100 threat actors deploy ransomware in attacks](https://www.bleepingcomputer.com/news/security/microsoft-over-100-threat-actors-deploy-ransomware-in-attacks/)
-* [PoS malware can block contactless payments to steal credit cards](https://www.bleepingcomputer.com/news/security/pos-malware-can-block-contactless-payments-to-steal-credit-cards/)
 <!--END_SECTION:feed-->
 
 <!--
