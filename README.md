@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New DDoS-as-a-Service platform used in recent attacks on hospitals](https://www.bleepingcomputer.com/news/security/new-ddos-as-a-service-platform-used-in-recent-attacks-on-hospitals/)
 * [Hackers use new IceBreaker malware to breach gaming companies](https://www.bleepingcomputer.com/news/security/hackers-use-new-icebreaker-malware-to-breach-gaming-companies/)
 * [Crypto scam apps infiltrate Apple App Store and Google Play](https://www.bleepingcomputer.com/news/security/crypto-scam-apps-infiltrate-apple-app-store-and-google-play/)
 * [New Sh1mmer ChromeBook exploit unenrolls managed devices](https://www.bleepingcomputer.com/news/security/new-sh1mmer-chromebook-exploit-unenrolls-managed-devices/)
 * [Over 29,000 QNAP devices vulnerable to code injection attacks](https://www.bleepingcomputer.com/news/security/over-29-000-qnap-devices-vulnerable-to-code-injection-attacks/)
-* [Microsoft stops selling Windows 10 licenses a day early](https://www.bleepingcomputer.com/news/microsoft/microsoft-stops-selling-windows-10-licenses-a-day-early/)
 <!--END_SECTION:feed-->
 
 <!--
