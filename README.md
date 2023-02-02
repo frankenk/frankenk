@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New HeadCrab malware infects 1,200 Redis servers to mine Monero](https://www.bleepingcomputer.com/news/security/new-headcrab-malware-infects-1-200-redis-servers-to-mine-monero/)
 * [LockBit ransomware goes 'Green,' uses new Conti-based encryptor](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-goes-green-uses-new-conti-based-encryptor/)
 * [Over 1,800 Android phishing forms for sale on cybercrime market](https://www.bleepingcomputer.com/news/security/over-1-800-android-phishing-forms-for-sale-on-cybercrime-market/)
 * [Google Fi data breach let hackers carry out SIM swap attacks](https://www.bleepingcomputer.com/news/security/google-fi-data-breach-let-hackers-carry-out-sim-swap-attacks/)
 * [New Nevada Ransomware targets Windows and VMware ESXi systems](https://www.bleepingcomputer.com/news/security/new-nevada-ransomware-targets-windows-and-vmware-esxi-systems/)
-* [Arnold Clark customer data stolen in attack claimed by Play ransomware](https://www.bleepingcomputer.com/news/security/arnold-clark-customer-data-stolen-in-attack-claimed-by-play-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
