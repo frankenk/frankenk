@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Massive ESXiArgs ransomware attack targets VMware ESXi servers worldwide](https://www.bleepingcomputer.com/news/security/massive-esxiargs-ransomware-attack-targets-vmware-esxi-servers-worldwide/)
 * [Florida hospital takes IT systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/florida-hospital-takes-it-systems-offline-after-cyberattack/)
 * [GoAnywhere MFT zero-day vulnerability lets hackers breach servers](https://www.bleepingcomputer.com/news/security/goanywhere-mft-zero-day-vulnerability-lets-hackers-breach-servers/)
 * [Atlassian warns of critical Jira Service Management auth flaw](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-jira-service-management-auth-flaw/)
 * [Google ads push ‘virtualized’ malware made for antivirus evasion](https://www.bleepingcomputer.com/news/security/google-ads-push-virtualized-malware-made-for-antivirus-evasion/)
-* [Microsoft 365 trial offer blocks access to Windows 10 desktops](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-trial-offer-blocks-access-to-windows-10-desktops/)
 <!--END_SECTION:feed-->
 
 <!--
