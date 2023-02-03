@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Atlassian fixes critical bug giving access to Jira Service Management](https://www.bleepingcomputer.com/news/security/atlassian-fixes-critical-bug-giving-access-to-jira-service-management/)
+* [Atlassian warns of critical Jira Service Management auth flaw](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-jira-service-management-auth-flaw/)
 * [Google ads push ‘virtualized’ malware made for antivirus evasion](https://www.bleepingcomputer.com/news/security/google-ads-push-virtualized-malware-made-for-antivirus-evasion/)
 * [Microsoft 365 trial offer blocks access to Windows 10 desktops](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-trial-offer-blocks-access-to-windows-10-desktops/)
 * [Hackers weaponize Microsoft Visual Studio add-ins to push malware](https://www.bleepingcomputer.com/news/security/hackers-weaponize-microsoft-visual-studio-add-ins-to-push-malware/)
