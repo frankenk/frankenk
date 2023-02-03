@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GoAnywhere MFT zero-day vulnerability lets hackers breach servers](https://www.bleepingcomputer.com/news/security/goanywhere-mft-zero-day-vulnerability-lets-hackers-breach-servers/)
 * [Atlassian warns of critical Jira Service Management auth flaw](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-jira-service-management-auth-flaw/)
 * [Google ads push ‘virtualized’ malware made for antivirus evasion](https://www.bleepingcomputer.com/news/security/google-ads-push-virtualized-malware-made-for-antivirus-evasion/)
 * [Microsoft 365 trial offer blocks access to Windows 10 desktops](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-trial-offer-blocks-access-to-windows-10-desktops/)
 * [Hackers weaponize Microsoft Visual Studio add-ins to push malware](https://www.bleepingcomputer.com/news/security/hackers-weaponize-microsoft-visual-studio-add-ins-to-push-malware/)
-* [Microsoft: Scan for outdated Office versions respects your privacy](https://www.bleepingcomputer.com/news/microsoft/microsoft-scan-for-outdated-office-versions-respects-your-privacy/)
 <!--END_SECTION:feed-->
 
 <!--
