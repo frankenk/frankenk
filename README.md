@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bermuda hit by widespread internet outage amid power cut](https://www.bleepingcomputer.com/news/technology/bermuda-hit-by-widespread-internet-outage-amid-power-cut/)
 * [The Week in Ransomware - February 3rd 2023 - Ending with a mess](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-3rd-2023-ending-with-a-mess/)
 * [TruthFinder, Instant Checkmate confirm data breach affecting 20M customers](https://www.bleepingcomputer.com/news/security/truthfinder-instant-checkmate-confirm-data-breach-affecting-20m-customers/)
 * [Massive ESXiArgs ransomware attack targets VMware ESXi servers worldwide](https://www.bleepingcomputer.com/news/security/massive-esxiargs-ransomware-attack-targets-vmware-esxi-servers-worldwide/)
 * [Florida hospital takes IT systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/florida-hospital-takes-it-systems-offline-after-cyberattack/)
-* [GoAnywhere MFT zero-day vulnerability lets hackers breach servers](https://www.bleepingcomputer.com/news/security/goanywhere-mft-zero-day-vulnerability-lets-hackers-breach-servers/)
 <!--END_SECTION:feed-->
 
 <!--
