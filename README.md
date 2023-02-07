@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Researcher breaches Toyota supplier portal with info on 14,000 partners](https://www.bleepingcomputer.com/news/security/researcher-breaches-toyota-supplier-portal-with-info-on-14-000-partners/)
 * [Clop ransomware flaw allowed Linux victims to recover files for months](https://www.bleepingcomputer.com/news/security/clop-ransomware-flaw-allowed-linux-victims-to-recover-files-for-months/)
 * [LockBit ransomware gang claims Royal Mail cyberattack](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-claims-royal-mail-cyberattack/)
 * [Actively exploited GoAnywhere MFT zero-day gets emergency patch](https://www.bleepingcomputer.com/news/security/actively-exploited-goanywhere-mft-zero-day-gets-emergency-patch/)
 * [Microsoft Outlook outage prevents users from sending, receiving emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-outage-prevents-users-from-sending-receiving-emails/)
-* [Exploit released for actively exploited GoAnywhere MFT zero-day](https://www.bleepingcomputer.com/news/security/exploit-released-for-actively-exploited-goanywhere-mft-zero-day/)
 <!--END_SECTION:feed-->
 
 <!--
