@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Reddit cyberattack let hackers steal source code and internal data](https://www.bleepingcomputer.com/news/security/reddit-cyberattack-let-hackers-steal-source-code-and-internal-data/)
+* [Hackers breach Reddit to steal source code and internal data](https://www.bleepingcomputer.com/news/security/hackers-breach-reddit-to-steal-source-code-and-internal-data/)
 * [Hackers use fake crypto job offers to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-crypto-job-offers-to-push-info-stealing-malware/)
 * [Largest Canadian bookstore Indigo shuts down site after cyberattack](https://www.bleepingcomputer.com/news/security/largest-canadian-bookstore-indigo-shuts-down-site-after-cyberattack/)
 * [Malicious Google ads sneak AWS phishing sites into search results](https://www.bleepingcomputer.com/news/security/malicious-google-ads-sneak-aws-phishing-sites-into-search-results/)
