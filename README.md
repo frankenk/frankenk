@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PayPal and Twitter abused in Turkey relief donation scams](https://www.bleepingcomputer.com/news/security/paypal-and-twitter-abused-in-turkey-relief-donation-scams/)
 * [New ESXiArgs ransomware version prevents VMware ESXi recovery](https://www.bleepingcomputer.com/news/security/new-esxiargs-ransomware-version-prevents-vmware-esxi-recovery/)
 * [SonicWall warns web content filtering is broken on Windows 11 22H2](https://www.bleepingcomputer.com/news/security/sonicwall-warns-web-content-filtering-is-broken-on-windows-11-22h2/)
 * [Weee! grocery service confirms data breach, 1.1 million affected](https://www.bleepingcomputer.com/news/security/weee-grocery-service-confirms-data-breach-11-million-affected/)
 * [Tor and I2P networks hit by wave of ongoing DDoS attacks](https://www.bleepingcomputer.com/news/security/tor-and-i2p-networks-hit-by-wave-of-ongoing-ddos-attacks/)
-* [US NIST unveils winning encryption algorithm for IoT data protection](https://www.bleepingcomputer.com/news/security/us-nist-unveils-winning-encryption-algorithm-for-iot-data-protection/)
 <!--END_SECTION:feed-->
 
 <!--
