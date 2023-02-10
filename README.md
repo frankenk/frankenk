@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to retire its Support Diagnostic Tool (MSDT) in 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-its-support-diagnostic-tool-msdt-in-2025/)
+* [California medical group data breach impacts 3.3 million patients](https://www.bleepingcomputer.com/news/security/california-medical-group-data-breach-impacts-33-million-patients/)
 * [Microsoft says Intel driver bug crashes apps on Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-intel-driver-bug-crashes-apps-on-windows-pcs/)
 * [North Korean ransomware attacks on healthcare fund govt operations](https://www.bleepingcomputer.com/news/security/north-korean-ransomware-attacks-on-healthcare-fund-govt-operations/)
 * [Hackers breach Reddit to steal source code and internal data](https://www.bleepingcomputer.com/news/security/hackers-breach-reddit-to-steal-source-code-and-internal-data/)
-* [Hackers use fake crypto job offers to push info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-crypto-job-offers-to-push-info-stealing-malware/)
-* [Largest Canadian bookstore Indigo shuts down site after cyberattack](https://www.bleepingcomputer.com/news/security/largest-canadian-bookstore-indigo-shuts-down-site-after-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
