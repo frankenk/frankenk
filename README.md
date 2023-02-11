@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - February 10th 2023 - Clop's Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-10th-2023-clops-back/)
 * [City of Oakland systems offline after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-oakland-systems-offline-after-ransomware-attack/)
 * [A10 Networks confirms data breach after Play ransomware attack](https://www.bleepingcomputer.com/news/security/a10-networks-confirms-data-breach-after-play-ransomware-attack/)
-* [Clop ransomware claims to be behind GoAnywhere zero-day attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-to-be-behind-goanywhere-zero-day-attacks/)
+* [Clop ransomware claims it breached 130 orgs using GoAnywhere zero-day](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-it-breached-130-orgs-using-goanywhere-zero-day/)
 * [Microsoft to retire its Support Diagnostic Tool (MSDT) in 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-retire-its-support-diagnostic-tool-msdt-in-2025/)
-* [California medical group data breach impacts 3.3 million patients](https://www.bleepingcomputer.com/news/security/california-medical-group-data-breach-impacts-33-million-patients/)
 <!--END_SECTION:feed-->
 
 <!--
