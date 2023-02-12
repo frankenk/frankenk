@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft adding native RGB lighting controls in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-adding-native-rgb-lighting-controls-in-windows-11/)
+* [Microsoft is adding native RGB lighting controls to Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-adding-native-rgb-lighting-controls-to-windows-11/)
 * [The Week in Ransomware - February 10th 2023 - Clop's Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-10th-2023-clops-back/)
 * [City of Oakland systems offline after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-oakland-systems-offline-after-ransomware-attack/)
 * [A10 Networks confirms data breach after Play ransomware attack](https://www.bleepingcomputer.com/news/security/a10-networks-confirms-data-breach-after-play-ransomware-attack/)
