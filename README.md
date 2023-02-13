@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NameCheap's email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 * [Devs targeted by W4SP Stealer malware in malicious PyPi packages](https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/)
 * [Microsoft WinGet package manager failing from expired SSL certificate](https://www.bleepingcomputer.com/news/security/microsoft-winget-package-manager-failing-from-expired-ssl-certificate/)
 * [Microsoft is adding native RGB lighting controls to Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-adding-native-rgb-lighting-controls-to-windows-11/)
 * [The Week in Ransomware - February 10th 2023 - Clop's Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-10th-2023-clops-back/)
-* [City of Oakland systems offline after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-oakland-systems-offline-after-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
