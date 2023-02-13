@@ -1,11 +1,19 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Pepsi Bottling Ventures suffers data breach after malware attack](https://www.bleepingcomputer.com/news/security/pepsi-bottling-ventures-suffers-data-breach-after-malware-attack/)
+* [Lazarus hackers use new mixer to hide * [Pepsi Bottling Ventures suffers data breach after malware attack](https://www.bleepingcomputer.com/news/security/pepsi-bottling-ventures-suffers-data-breach-after-malware-attack/)
 * [Ransomware hits Technion university to protest tech layoffs and Israel](https://www.bleepingcomputer.com/news/security/ransomware-hits-technion-university-to-protest-tech-layoffs-and-israel/)
 * [NameCheap's email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 * [Devs targeted by W4SP Stealer malware in malicious PyPi packages](https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/)
-* [Microsoft WinGet package manager failing from expired SSL certificate](https://www.bleepingcomputer.com/news/security/microsoft-winget-package-manager-failing-from-expired-ssl-certificate/)
+* [Microsoft WinGet package manager failing from expired SSL certificate](https://www.bleepingcomputer.com/news/security/microsoft-winget-package-manager-failing-from-expired-ssl-certificate/)00 million in stolen crypto](https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-new-mixer-to-hide-100-million-in-stolen-crypto/)
+* [FTC: * [Pepsi Bottling Ventures suffers data breach after malware attack](https://www.bleepingcomputer.com/news/security/pepsi-bottling-ventures-suffers-data-breach-after-malware-attack/)
+* [Ransomware hits Technion university to protest tech layoffs and Israel](https://www.bleepingcomputer.com/news/security/ransomware-hits-technion-university-to-protest-tech-layoffs-and-israel/)
+* [NameCheap's email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
+* [Devs targeted by W4SP Stealer malware in malicious PyPi packages](https://www.bleepingcomputer.com/news/security/devs-targeted-by-w4sp-stealer-malware-in-malicious-pypi-packages/)
+* [Microsoft WinGet package manager failing from expired SSL certificate](https://www.bleepingcomputer.com/news/security/microsoft-winget-package-manager-failing-from-expired-ssl-certificate/).3 billion lost by 70,000 Americans to romance scams last year](https://www.bleepingcomputer.com/news/security/ftc-13-billion-lost-by-70-000-americans-to-romance-scams-last-year/)
+* [Pepsi Bottling Ventures suffers data breach after malware attack](https://www.bleepingcomputer.com/news/security/pepsi-bottling-ventures-suffers-data-breach-after-malware-attack/)
+* [Ransomware hits Technion university to protest tech layoffs and Israel](https://www.bleepingcomputer.com/news/security/ransomware-hits-technion-university-to-protest-tech-layoffs-and-israel/)
+* [NameCheap's email hacked to send Metamask, DHL phishing emails](https://www.bleepingcomputer.com/news/security/namecheaps-email-hacked-to-send-metamask-dhl-phishing-emails/)
 <!--END_SECTION:feed-->
 
 <!--
