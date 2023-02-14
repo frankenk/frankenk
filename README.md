@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Edge update starts disabling Internet Explorer 11 today](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-update-starts-disabling-internet-explorer-11-today/)
+* [NPM packages posing as speed testers install crypto miners instead](https://www.bleepingcomputer.com/news/security/npm-packages-posing-as-speed-testers-install-crypto-miners-instead/)
 * [Healthcare giant CHS reports first data breach in GoAnywhere hacks](https://www.bleepingcomputer.com/news/security/healthcare-giant-chs-reports-first-data-breach-in-goanywhere-hacks/)
 * [New stealthy 'Beep' malware focuses heavily on evading detection](https://www.bleepingcomputer.com/news/security/new-stealthy-beep-malware-focuses-heavily-on-evading-detection/)
 * [New ‘MortalKombat’ ransomware targets systems in the U.S.](https://www.bleepingcomputer.com/news/security/new-mortalkombat-ransomware-targets-systems-in-the-us/)
-* [Eurostar forces 'password resets' — then fails and locks users out](https://www.bleepingcomputer.com/news/security/eurostar-forces-password-resets-then-fails-and-locks-users-out/)
-* [Z-Library now has secret “personal domains” for each user](https://www.bleepingcomputer.com/news/technology/z-library-now-has-secret-personal-domains-for-each-user/)
 <!--END_SECTION:feed-->
 
 <!--
