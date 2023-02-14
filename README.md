@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5022845 and KB5022836 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022845-and-kb5022836-cumulative-updates-released/)
+* [Windows 10 KB5022834 and KB5022840 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5022834-and-kb5022840-updates-released/)
 * [Microsoft February 2023 Patch Tuesday fixes 3 exploited zero-days, 77 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2023-patch-tuesday-fixes-3-exploited-zero-days-77-flaws/)
 * [Microsoft Edge update starts disabling Internet Explorer 11 today](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-update-starts-disabling-internet-explorer-11-today/)
 * [NPM packages posing as speed testers install crypto miners instead](https://www.bleepingcomputer.com/news/security/npm-packages-posing-as-speed-testers-install-crypto-miners-instead/)
-* [Healthcare giant CHS reports first data breach in GoAnywhere hacks](https://www.bleepingcomputer.com/news/security/healthcare-giant-chs-reports-first-data-breach-in-goanywhere-hacks/)
-* [New stealthy 'Beep' malware focuses heavily on evading detection](https://www.bleepingcomputer.com/news/security/new-stealthy-beep-malware-focuses-heavily-on-evading-detection/)
 <!--END_SECTION:feed-->
 
 <!--
