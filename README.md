@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Citrix fixes severe flaws in Workspace, Virtual Apps and Desktops](https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/)
+* [Hyundai, Kia patch bug allowing car thefts with a USB cable](https://www.bleepingcomputer.com/news/security/hyundai-kia-patch-bug-allowing-car-thefts-with-a-usb-cable/)
 * [Emsisoft says hackers are spoofing its certs to breach networks](https://www.bleepingcomputer.com/news/security/emsisoft-says-hackers-are-spoofing-its-certs-to-breach-networks/)
 * [City of Oakland declares state of emergency after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-oakland-declares-state-of-emergency-after-ransomware-attack/)
 * [My Password Manager was Hacked! How to Prevent a Catastrophe](https://www.bleepingcomputer.com/news/security/my-password-manager-was-hacked-how-to-prevent-a-catastrophe/)
-* [RedEyes hackers use new malware to steal data from Windows, phones](https://www.bleepingcomputer.com/news/security/redeyes-hackers-use-new-malware-to-steal-data-from-windows-phones/)
-* [Microsoft: Some WSUS servers might not offer Windows 11 22H2 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-wsus-servers-might-not-offer-windows-11-22h2-updates/)
 <!--END_SECTION:feed-->
 
 <!--
