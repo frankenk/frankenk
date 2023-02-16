@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: February updates break some Windows Server 2022 VMs](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-updates-break-some-windows-server-2022-vms/)
 * [Hackers start using Havoc post-exploitation framework in attacks](https://www.bleepingcomputer.com/news/security/hackers-start-using-havoc-post-exploitation-framework-in-attacks/)
 * [GitHub Copilot update stops AI model from revealing secrets](https://www.bleepingcomputer.com/news/security/github-copilot-update-stops-ai-model-from-revealing-secrets/)
 * [Russian hacker convicted of $90 million hack-to-trade charges](https://www.bleepingcomputer.com/news/security/russian-hacker-convicted-of-90-million-hack-to-trade-charges/)
 * [Citrix fixes severe flaws in Workspace, Virtual Apps and Desktops](https://www.bleepingcomputer.com/news/security/citrix-fixes-severe-flaws-in-workspace-virtual-apps-and-desktops/)
-* [Hyundai, Kia patch bug allowing car thefts with a USB cable](https://www.bleepingcomputer.com/news/security/hyundai-kia-patch-bug-allowing-car-thefts-with-a-usb-cable/)
 <!--END_SECTION:feed-->
 
 <!--
