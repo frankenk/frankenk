@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Mirai malware variant infects Linux devices to build DDoS botnet](https://www.bleepingcomputer.com/news/security/new-mirai-malware-variant-infects-linux-devices-to-build-ddos-botnet/)
 * [Microsoft Exchange ProxyShell flaws exploited in new crypto-mining attack](https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxyshell-flaws-exploited-in-new-crypto-mining-attack/)
 * [Scandinavian Airlines says cyberattack caused passenger data leak](https://www.bleepingcomputer.com/news/security/scandinavian-airlines-says-cyberattack-caused-passenger-data-leak/)
 * [CISA warns of Windows and iOS bugs exploited as zero-days](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-and-ios-bugs-exploited-as-zero-days/)
 * [Burton Snowboards cancels online orders after 'cyber incident'](https://www.bleepingcomputer.com/news/security/burton-snowboards-cancels-online-orders-after-cyber-incident/)
-* [Atlassian says recent data leak stems from third-party vendor hack](https://www.bleepingcomputer.com/news/security/atlassian-says-recent-data-leak-stems-from-third-party-vendor-hack/)
 <!--END_SECTION:feed-->
 
 <!--
