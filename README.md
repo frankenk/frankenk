@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bing Chat's secret modes turn it into a personal assistant or friend](https://www.bleepingcomputer.com/news/microsoft/bing-chats-secret-modes-turn-it-into-a-personal-assistant-or-friend/)
 * [FBI is investigating a cybersecurity incident on its network](https://www.bleepingcomputer.com/news/security/fbi-is-investigating-a-cybersecurity-incident-on-its-network/)
 * [Fortinet fixes critical RCE flaws in FortiNAC and FortiWeb](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-rce-flaws-in-fortinac-and-fortiweb/)
 * [New Mirai malware variant infects Linux devices to build DDoS botnet](https://www.bleepingcomputer.com/news/security/new-mirai-malware-variant-infects-linux-devices-to-build-ddos-botnet/)
 * [Microsoft Exchange ProxyShell flaws exploited in new crypto-mining attack](https://www.bleepingcomputer.com/news/security/microsoft-exchange-proxyshell-flaws-exploited-in-new-crypto-mining-attack/)
-* [Scandinavian Airlines says cyberattack caused passenger data leak](https://www.bleepingcomputer.com/news/security/scandinavian-airlines-says-cyberattack-caused-passenger-data-leak/)
 <!--END_SECTION:feed-->
 
 <!--
