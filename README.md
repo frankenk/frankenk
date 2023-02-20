@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Stealc malware emerges with a wide set of stealing capabilities](https://www.bleepingcomputer.com/news/security/new-stealc-malware-emerges-with-a-wide-set-of-stealing-capabilities/)
 * [Microsoft Outlook flooded with spam due to broken email filters](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-flooded-with-spam-due-to-broken-email-filters/)
 * [Samsung adds zero-click attack protection to Galaxy devices](https://www.bleepingcomputer.com/news/security/samsung-adds-zero-click-attack-protection-to-galaxy-devices/)
 * [Coinbase cyberattack targeted employees with fake SMS alert](https://www.bleepingcomputer.com/news/security/coinbase-cyberattack-targeted-employees-with-fake-sms-alert/)
 * [Twitter gets rid of SMS 2FA for non-Blue members — What you need to do](https://www.bleepingcomputer.com/news/security/twitter-gets-rid-of-sms-2fa-for-non-blue-members-what-you-need-to-do/)
-* [Windows 11 will let you end tasks directly from the taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-will-let-you-end-tasks-directly-from-the-taskbar/)
 <!--END_SECTION:feed-->
 
 <!--
