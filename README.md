@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit released for critical Fortinet RCE flaws, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-fortinet-rce-flaws-patch-now/)
 * [Microsoft to test Bing Chat tones, allows longer chat sessions](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-test-bing-chat-tones-allows-longer-chat-sessions/)
 * [Google will boost Android security through firmware hardening](https://www.bleepingcomputer.com/news/security/google-will-boost-android-security-through-firmware-hardening/)
 * [An Overview of the Global Impact of Ransomware Attacks](https://www.bleepingcomputer.com/news/security/an-overview-of-the-global-impact-of-ransomware-attacks/)
 * [HardBit ransomware wants insurance details to set the perfect price](https://www.bleepingcomputer.com/news/security/hardbit-ransomware-wants-insurance-details-to-set-the-perfect-price/)
-* [New Stealc malware emerges with a wide set of stealing capabilities](https://www.bleepingcomputer.com/news/security/new-stealc-malware-emerges-with-a-wide-set-of-stealing-capabilities/)
 <!--END_SECTION:feed-->
 
 <!--
