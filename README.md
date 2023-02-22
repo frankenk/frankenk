@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google investigates Gmail IMAP sync issues affecting Outlook users](https://www.bleepingcomputer.com/news/technology/google-investigates-gmail-imap-sync-issues-affecting-outlook-users/)
+* [Hackers now exploit critical Fortinet bug to backdoor servers](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/)
 * [New S1deload Stealer malware hijacks Youtube, Facebook accounts](https://www.bleepingcomputer.com/news/security/new-s1deload-stealer-malware-hijacks-youtube-facebook-accounts/)
 * [VMware warns admins of critical Carbon Black App Control flaw](https://www.bleepingcomputer.com/news/security/vmware-warns-admins-of-critical-carbon-black-app-control-flaw/)
 * [Hydrochasma hackers target medical research labs, shipping firms](https://www.bleepingcomputer.com/news/security/hydrochasma-hackers-target-medical-research-labs-shipping-firms/)
-* [What is the Best Pen Testing Schedule for Your Development Cycle? ](https://www.bleepingcomputer.com/news/security/what-is-the-best-pen-testing-schedule-for-your-development-cycle/)
-* [Windows 11 KB5022905 preview update released with 13 changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5022905-preview-update-released-with-13-changes/)
 <!--END_SECTION:feed-->
 
 <!--
