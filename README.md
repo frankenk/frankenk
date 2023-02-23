@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fruit giant Dole suffers ransomware attack impacting operations](https://www.bleepingcomputer.com/news/security/fruit-giant-dole-suffers-ransomware-attack-impacting-operations/)
+* [Clasiopa hackers use new Atharvan malware in targeted attacks](https://www.bleepingcomputer.com/news/security/clasiopa-hackers-use-new-atharvan-malware-in-targeted-attacks/)
 * [Hackers use fake ChatGPT apps to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/)
+* [NSA shares guidance on how to secure your home network](https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-home-network/)
+* [Google paid * [Hackers use fake ChatGPT apps to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/)
 * [NSA shares guidance on how to secure your home network](https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-home-network/)
 * [Google paid * [Hackers use fake ChatGPT apps to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/)
 * [NSA shares guidance on how to secure your home network](https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-home-network/)
@@ -69,7 +73,7 @@
 * [Google investigates Gmail IMAP sync issues affecting Outlook users](https://www.bleepingcomputer.com/news/technology/google-investigates-gmail-imap-sync-issues-affecting-outlook-users/)
 * [Hackers now exploit critical Fortinet bug to backdoor servers](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/)2 million in bug bounties to security researchers](https://www.bleepingcomputer.com/news/security/google-paid-12-million-in-bug-bounties-to-security-researchers/)
 * [Google investigates Gmail IMAP sync issues affecting Outlook users](https://www.bleepingcomputer.com/news/technology/google-investigates-gmail-imap-sync-issues-affecting-outlook-users/)
-* [Hackers now exploit critical Fortinet bug to backdoor servers](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/)
+* [Hackers now exploit critical Fortinet bug to backdoor servers](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-fortinet-bug-to-backdoor-servers/)2 million in bug bounties to security researchers](https://www.bleepingcomputer.com/news/security/google-paid-12-million-in-bug-bounties-to-security-researchers/)
 <!--END_SECTION:feed-->
 
 <!--
