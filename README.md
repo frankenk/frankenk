@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Pirated Final Cut Pro infects your Mac with cryptomining malware](https://www.bleepingcomputer.com/news/security/pirated-final-cut-pro-infects-your-mac-with-cryptomining-malware/)
 * [Russian malware dev behind NLBrute hacking tool extradited to US](https://www.bleepingcomputer.com/news/security/russian-malware-dev-behind-nlbrute-hacking-tool-extradited-to-us/)
 * [Fruit giant Dole suffers ransomware attack impacting operations](https://www.bleepingcomputer.com/news/security/fruit-giant-dole-suffers-ransomware-attack-impacting-operations/)
 * [Clasiopa hackers use new Atharvan malware in targeted attacks](https://www.bleepingcomputer.com/news/security/clasiopa-hackers-use-new-atharvan-malware-in-targeted-attacks/)
 * [Hackers use fake ChatGPT apps to push Windows, Android malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-chatgpt-apps-to-push-windows-android-malware/)
-* [NSA shares guidance on how to secure your home network](https://www.bleepingcomputer.com/news/security/nsa-shares-guidance-on-how-to-secure-your-home-network/)
 <!--END_SECTION:feed-->
 
 <!--
