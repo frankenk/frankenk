@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Stanford University discloses data breach affecting PhD applicants](https://www.bleepingcomputer.com/news/security/stanford-university-discloses-data-breach-affecting-phd-applicants/)
 * [Brave browser to block “open in app” prompts, pool-party attacks](https://www.bleepingcomputer.com/news/security/brave-browser-to-block-open-in-app-prompts-pool-party-attacks/)
 * [Dutch Police arrest three ransomware actors extorting €2.5 million](https://www.bleepingcomputer.com/news/security/dutch-police-arrest-three-ransomware-actors-extorting-25-million/)
 * [TELUS investigating leak of stolen source code, employee data](https://www.bleepingcomputer.com/news/security/telus-investigating-leak-of-stolen-source-code-employee-data/)
 * [Microsoft urges Exchange admins to remove some antivirus exclusions](https://www.bleepingcomputer.com/news/security/microsoft-urges-exchange-admins-to-remove-some-antivirus-exclusions/)
-* [FTC: Americans lost $8.8 billion to fraud in 2022 after 30% surge](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-88-billion-to-fraud-in-2022-after-30-percent-surge/)
 <!--END_SECTION:feed-->
 
 <!--
