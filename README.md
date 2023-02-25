@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [PureCrypter malware hits govt orgs with ransomware, info-stealers](https://www.bleepingcomputer.com/news/security/purecrypter-malware-hits-govt-orgs-with-ransomware-info-stealers/)
-* [Dish Network goes down in a mysterious outage, employees cut off](https://www.bleepingcomputer.com/news/security/dish-network-goes-down-in-a-mysterious-outage-employees-cut-off/)
+* [Dish Network goes offline after likely cyberattack, employees cut off](https://www.bleepingcomputer.com/news/security/dish-network-goes-offline-after-likely-cyberattack-employees-cut-off/)
 * [News Corp says state hackers were on its network for two years](https://www.bleepingcomputer.com/news/security/news-corp-says-state-hackers-were-on-its-network-for-two-years/)
 * [Stanford University discloses data breach affecting PhD applicants](https://www.bleepingcomputer.com/news/security/stanford-university-discloses-data-breach-affecting-phd-applicants/)
 * [Brave browser to block “open in app” prompts, pool-party attacks](https://www.bleepingcomputer.com/news/security/brave-browser-to-block-open-in-app-prompts-pool-party-attacks/)
