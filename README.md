@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Phone Link can now sync your iPhone with Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-phone-link-can-now-sync-your-iphone-with-windows-11/)
+* [Windows 11 ‘Moment 2’ update released, here are the many new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-moment-2-update-released-here-are-the-many-new-features/)
+* [Microsoft adds AI-powered Bing Chat to Windows 11 taskbar](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-ai-powered-bing-chat-to-windows-11-taskbar/)
 * [LastPass: DevOps engineer hacked to steal password vault data in 2022 breach](https://www.bleepingcomputer.com/news/security/lastpass-devops-engineer-hacked-to-steal-password-vault-data-in-2022-breach/)
 * [U.S. Marshals Service investigating ransomware attack, data theft](https://www.bleepingcomputer.com/news/security/us-marshals-service-investigating-ransomware-attack-data-theft/)
-* [Microsoft Defender app now force-installed for Microsoft 365 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-app-now-force-installed-for-microsoft-365-users/)
-* [New Exfiltrator-22 post-exploitation kit linked to LockBit ransomware](https://www.bleepingcomputer.com/news/security/new-exfiltrator-22-post-exploitation-kit-linked-to-lockbit-ransomware/)
-* [Critical flaws in WordPress Houzez theme exploited to hijack websites](https://www.bleepingcomputer.com/news/security/critical-flaws-in-wordpress-houzez-theme-exploited-to-hijack-websites/)
 <!--END_SECTION:feed-->
 
 <!--
