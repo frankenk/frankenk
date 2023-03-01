@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Exchange Online outage blocks access to mailboxes worldwide](https://www.bleepingcomputer.com/news/security/microsoft-exchange-online-outage-blocks-access-to-mailboxes-worldwide/)
+* [Iron Tiger hackers create Linux version of their custom malware](https://www.bleepingcomputer.com/news/security/iron-tiger-hackers-create-linux-version-of-their-custom-malware/)
+* [Cisco patches critical Web UI RCE flaw in multiple IP phones](https://www.bleepingcomputer.com/news/security/cisco-patches-critical-web-ui-rce-flaw-in-multiple-ip-phones/)
 * [GitHub’s secret scanning alerts now available for all public repos](https://www.bleepingcomputer.com/news/security/github-s-secret-scanning-alerts-now-available-for-all-public-repos/)
 * [Russia bans private messaging apps owned by foreign entities](https://www.bleepingcomputer.com/news/security/russia-bans-private-messaging-apps-owned-by-foreign-entities/)
-* [Microsoft fixes bug behind apps not installing during provisioning](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-apps-not-installing-during-provisioning/)
-* [How to Prevent Callback Phishing Attacks on Your Organization](https://www.bleepingcomputer.com/news/security/how-to-prevent-callback-phishing-attacks-on-your-organization/)
-* [Twitter is down with users seeing "Welcome to Twitter" screen](https://www.bleepingcomputer.com/news/technology/twitter-is-down-with-users-seeing-welcome-to-twitter-screen/)
 <!--END_SECTION:feed-->
 
 <!--
