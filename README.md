@@ -5,7 +5,7 @@
 * [Iron Tiger hackers create Linux version of their custom malware](https://www.bleepingcomputer.com/news/security/iron-tiger-hackers-create-linux-version-of-their-custom-malware/)
 * [Cisco patches critical Web UI RCE flaw in multiple IP phones](https://www.bleepingcomputer.com/news/security/cisco-patches-critical-web-ui-rce-flaw-in-multiple-ip-phones/)
 * [GitHub’s secret scanning alerts now available for all public repos](https://www.bleepingcomputer.com/news/security/github-s-secret-scanning-alerts-now-available-for-all-public-repos/)
-* [Russia bans private messaging apps owned by foreign entities](https://www.bleepingcomputer.com/news/security/russia-bans-private-messaging-apps-owned-by-foreign-entities/)
+* [Russia bans foreign messaging apps in government organizations](https://www.bleepingcomputer.com/news/security/russia-bans-foreign-messaging-apps-in-government-organizations/)
 <!--END_SECTION:feed-->
 
 <!--
