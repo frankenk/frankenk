@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 * [DrayTek VPN routers hacked with new malware to steal data, evade detection](https://www.bleepingcomputer.com/news/security/draytek-vpn-routers-hacked-with-new-malware-to-steal-data-evade-detection/)
 * [Core DoppelPaymer ransomware gang members targeted in Europol operation](https://www.bleepingcomputer.com/news/security/core-doppelpaymer-ransomware-gang-members-targeted-in-europol-operation/)
 * [How to prevent Microsoft OneNote files from infecting Windows with malware](https://www.bleepingcomputer.com/news/security/how-to-prevent-microsoft-onenote-files-from-infecting-windows-with-malware/)
 * [Microsoft is testing a modern Windows 11 volume mixer](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-a-modern-windows-11-volume-mixer/)
-* [FTC to ban BetterHelp from sharing mental health data with advertisers  ](https://www.bleepingcomputer.com/news/security/ftc-to-ban-betterhelp-from-sharing-mental-health-data-with-advertisers/)
 <!--END_SECTION:feed-->
 
 <!--
