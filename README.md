@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Core DoppelPaymer ransomware gang members targeted in Europol operation](https://www.bleepingcomputer.com/news/security/core-doppelpaymer-ransomware-gang-members-targeted-in-europol-operation/)
 * [How to prevent Microsoft OneNote files from infecting Windows with malware](https://www.bleepingcomputer.com/news/security/how-to-prevent-microsoft-onenote-files-from-infecting-windows-with-malware/)
 * [Microsoft is testing a modern Windows 11 volume mixer](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-testing-a-modern-windows-11-volume-mixer/)
 * [FTC to ban BetterHelp from sharing mental health data with advertisers  ](https://www.bleepingcomputer.com/news/security/ftc-to-ban-betterhelp-from-sharing-mental-health-data-with-advertisers/)
 * [Ransomware gang leaks data stolen from City of Oakland](https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-from-city-of-oakland/)
-* [Bing Chat has a secret ‘Celebrity’ mode to impersonate celebrities](https://www.bleepingcomputer.com/news/microsoft/bing-chat-has-a-secret-celebrity-mode-to-impersonate-celebrities/)
 <!--END_SECTION:feed-->
 
 <!--
