@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Old Windows ‘Mock Folders’ UAC bypass used to drop malware](https://www.bleepingcomputer.com/news/security/old-windows-mock-folders-uac-bypass-used-to-drop-malware/)
+* [Outlook for Mac now free, Microsoft 365 subscription not needed](https://www.bleepingcomputer.com/news/microsoft/outlook-for-mac-now-free-microsoft-365-subscription-not-needed/)
 * [Proof-of-Concept released for critical Microsoft Word RCE bug](https://www.bleepingcomputer.com/news/security/proof-of-concept-released-for-critical-microsoft-word-rce-bug/)
 * [Microsoft: New Windows Canary channel has most cutting-edge features](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-canary-channel-has-most-cutting-edge-features/)
 * [Sandbox blockchain game breached to send emails linking to malware](https://www.bleepingcomputer.com/news/security/sandbox-blockchain-game-breached-to-send-emails-linking-to-malware/)
-* [Twitter API outage blocks sign ins, breaks most platform features](https://www.bleepingcomputer.com/news/technology/twitter-api-outage-blocks-sign-ins-breaks-most-platform-features/)
-* [Securing cloud workloads with Wazuh - an open source, SIEM and XDR platform](https://www.bleepingcomputer.com/news/security/securing-cloud-workloads-with-wazuh-an-open-source-siem-and-xdr-platform/)
 <!--END_SECTION:feed-->
 
 <!--
