@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft shares fix for Outlook login errors in Exchange environments](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-outlook-login-errors-in-exchange-environments/)
 * [Acer confirms breach after 160GB of data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/acer-confirms-breach-after-160gb-of-data-for-sale-on-hacking-forum/)
 * [Android March 2023 update fixes two critical code execution flaws](https://www.bleepingcomputer.com/news/security/android-march-2023-update-fixes-two-critical-code-execution-flaws/)
 * [Nvidia working on driver fix for Windows BSOD, high CPU usage](https://www.bleepingcomputer.com/news/technology/nvidia-working-on-driver-fix-for-windows-bsod-high-cpu-usage/)
 * [Old Windows ‘Mock Folders’ UAC bypass used to drop malware](https://www.bleepingcomputer.com/news/security/old-windows-mock-folders-uac-bypass-used-to-drop-malware/)
-* [Outlook for Mac now free, Microsoft 365 subscription not needed](https://www.bleepingcomputer.com/news/microsoft/outlook-for-mac-now-free-microsoft-365-subscription-not-needed/)
 <!--END_SECTION:feed-->
 
 <!--
