@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SonicWall devices infected by malware that survives firmware upgrades](https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-malware-that-survives-firmware-upgrades/)
+* [AT&T alerts 9 million customers of data breach after vendor hack](https://www.bleepingcomputer.com/news/security/atandt-alerts-9-million-customers-of-data-breach-after-vendor-hack/)
+* [GitHub makes 2FA mandatory next week for active developers](https://www.bleepingcomputer.com/news/security/github-makes-2fa-mandatory-next-week-for-active-developers/)
 * [Protecting collocated servers from DDoS attacks using GRE tunnels](https://www.bleepingcomputer.com/news/security/protecting-collocated-servers-from-ddos-attacks-using-gre-tunnels/)
 * [IceFire ransomware now encrypts both Linux and Windows systems](https://www.bleepingcomputer.com/news/security/icefire-ransomware-now-encrypts-both-linux-and-windows-systems/)
-* [FBI investigates data breach impacting U.S. House members and staff](https://www.bleepingcomputer.com/news/security/fbi-investigates-data-breach-impacting-us-house-members-and-staff/)
-* [Bitwarden flaw can let hackers steal passwords using iframes](https://www.bleepingcomputer.com/news/security/bitwarden-flaw-can-let-hackers-steal-passwords-using-iframes/)
-* [Microsoft enables LSA protection by default in Windows Canary build](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-lsa-protection-by-default-in-windows-canary-build/)
 <!--END_SECTION:feed-->
 
 <!--
