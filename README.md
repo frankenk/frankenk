@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police seize Netwire RAT malware infrastructure, arrest admin](https://www.bleepingcomputer.com/news/security/police-seize-netwire-rat-malware-infrastructure-arrest-admin/)
 * [Akamai mitigates record-breaking 900Gbps DDoS attack in Asia](https://www.bleepingcomputer.com/news/security/akamai-mitigates-record-breaking-900gbps-ddos-attack-in-asia/)
 * [FBI warns of cryptocurrency theft via “play-to-earn” games](https://www.bleepingcomputer.com/news/security/fbi-warns-of-cryptocurrency-theft-via-play-to-earn-games/)
 * [Microsoft: Business email compromise attacks can take just hours](https://www.bleepingcomputer.com/news/security/microsoft-business-email-compromise-attacks-can-take-just-hours/)
 * [SonicWall devices infected by malware that survives firmware upgrades](https://www.bleepingcomputer.com/news/security/sonicwall-devices-infected-by-malware-that-survives-firmware-upgrades/)
-* [AT&T alerts 9 million customers of data breach after vendor hack](https://www.bleepingcomputer.com/news/security/atandt-alerts-9-million-customers-of-data-breach-after-vendor-hack/)
 <!--END_SECTION:feed-->
 
 <!--
