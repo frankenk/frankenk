@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Security researchers targeted with new malware via job offers on LinkedIn](https://www.bleepingcomputer.com/news/security/security-researchers-targeted-with-new-malware-via-job-offers-on-linkedin/)
+* [CISA warns of critical VMware RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-vmware-rce-flaw-exploited-in-attacks/)
 * [Blackbaud to pay $3M for misleading ransomware attack disclosure](https://www.bleepingcomputer.com/news/security/blackbaud-to-pay-3m-for-misleading-ransomware-attack-disclosure/)
 * [Mental health provider Cerebral alerts 3.1M people of data breach](https://www.bleepingcomputer.com/news/security/mental-health-provider-cerebral-alerts-31m-people-of-data-breach/)
 * [Xenomorph Android malware now steals data from 400 banks](https://www.bleepingcomputer.com/news/security/xenomorph-android-malware-now-steals-data-from-400-banks/)
-* [Police seize Netwire RAT malware infrastructure, arrest admin](https://www.bleepingcomputer.com/news/security/police-seize-netwire-rat-malware-infrastructure-arrest-admin/)
-* [Akamai mitigates record-breaking 900Gbps DDoS attack in Asia](https://www.bleepingcomputer.com/news/security/akamai-mitigates-record-breaking-900gbps-ddos-attack-in-asia/)
 <!--END_SECTION:feed-->
 
 <!--
