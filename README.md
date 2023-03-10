@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - March 10th 2023 - Police Take Action](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-10th-2023-police-take-action/)
 * [Microsoft OneNote to get enhanced security after recent malware abuse](https://www.bleepingcomputer.com/news/microsoft/microsoft-onenote-to-get-enhanced-security-after-recent-malware-abuse/)
 * [New GoBruteforcer malware targets phpMyAdmin, MySQL, FTP, Postgres](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-malware-targets-phpmyadmin-mysql-ftp-postgres/)
 * [Security researchers targeted with new malware via job offers on LinkedIn](https://www.bleepingcomputer.com/news/security/security-researchers-targeted-with-new-malware-via-job-offers-on-linkedin/)
 * [CISA warns of critical VMware RCE flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-vmware-rce-flaw-exploited-in-attacks/)
-* [Blackbaud to pay $3M for misleading ransomware attack disclosure](https://www.bleepingcomputer.com/news/security/blackbaud-to-pay-3m-for-misleading-ransomware-attack-disclosure/)
 <!--END_SECTION:feed-->
 
 <!--
