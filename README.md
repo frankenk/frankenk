@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Blackbaud to pay $3M for misleading ransomware attack disclosure](https://www.bleepingcomputer.com/news/security/blackbaud-to-pay-3m-for-misleading-ransomware-attack-disclosure/)
 * [Mental health provider Cerebral alerts 3.1M people of data breach](https://www.bleepingcomputer.com/news/security/mental-health-provider-cerebral-alerts-31m-people-of-data-breach/)
 * [Xenomorph Android malware now steals data from 400 banks](https://www.bleepingcomputer.com/news/security/xenomorph-android-malware-now-steals-data-from-400-banks/)
 * [Police seize Netwire RAT malware infrastructure, arrest admin](https://www.bleepingcomputer.com/news/security/police-seize-netwire-rat-malware-infrastructure-arrest-admin/)
 * [Akamai mitigates record-breaking 900Gbps DDoS attack in Asia](https://www.bleepingcomputer.com/news/security/akamai-mitigates-record-breaking-900gbps-ddos-attack-in-asia/)
-* [FBI warns of cryptocurrency theft via “play-to-earn” games](https://www.bleepingcomputer.com/news/security/fbi-warns-of-cryptocurrency-theft-via-play-to-earn-games/)
 <!--END_SECTION:feed-->
 
 <!--
