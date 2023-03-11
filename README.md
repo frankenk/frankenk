@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of actively exploited Plex bug after LastPass breach](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-plex-bug-after-lastpass-breach/)
 * [Brazil seizing Flipper Zero shipments to prevent use in crime](https://www.bleepingcomputer.com/news/security/brazil-seizing-flipper-zero-shipments-to-prevent-use-in-crime/)
-* [Overhaul your ethical hacking skills with this training bundle deal](https://www.bleepingcomputer.com/news/security/overhaul-your-ethical-hacking-skills-with-this-training-bundle-deal/)
 * [The Week in Ransomware - March 10th 2023 - Police Take Action](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-10th-2023-police-take-action/)
 * [Microsoft OneNote to get enhanced security after recent malware abuse](https://www.bleepingcomputer.com/news/microsoft/microsoft-onenote-to-get-enhanced-security-after-recent-malware-abuse/)
 * [New GoBruteforcer malware targets phpMyAdmin, MySQL, FTP, Postgres](https://www.bleepingcomputer.com/news/security/new-gobruteforcer-malware-targets-phpmyadmin-mysql-ftp-postgres/)
