@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Staples-owned Essendant facing multi-day "outage," orders frozen](https://www.bleepingcomputer.com/news/security/staples-owned-essendant-facing-multi-day-outage-orders-frozen/)
+* [Microsoft finally fixes Windows 11 slow file copy issues over SMB](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-windows-11-slow-file-copy-issues-over-smb/)
+* [Medusa ransomware gang picks up steam as it targets companies worldwide](https://www.bleepingcomputer.com/news/security/medusa-ransomware-gang-picks-up-steam-as-it-targets-companies-worldwide/)
+* [CASPER attack steals data using air-gapped computer's internal speaker](https://www.bleepingcomputer.com/news/security/casper-attack-steals-data-using-air-gapped-computers-internal-speaker/)
 * [Clop ransomware gang begins extorting GoAnywhere zero-day victims](https://www.bleepingcomputer.com/news/security/clop-ransomware-gang-begins-extorting-goanywhere-zero-day-victims/)
-* [CISA warns of actively exploited Plex bug after LastPass breach](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-plex-bug-after-lastpass-breach/)
-* [Brazil seizing Flipper Zero shipments to prevent use in crime](https://www.bleepingcomputer.com/news/security/brazil-seizing-flipper-zero-shipments-to-prevent-use-in-crime/)
-* [The Week in Ransomware - March 10th 2023 - Police Take Action](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-10th-2023-police-take-action/)
-* [Microsoft OneNote to get enhanced security after recent malware abuse](https://www.bleepingcomputer.com/news/microsoft/microsoft-onenote-to-get-enhanced-security-after-recent-malware-abuse/)
 <!--END_SECTION:feed-->
 
 <!--
