@@ -5,6 +5,10 @@
 * [Kali Linux 2023.1 introduces 'Purple' distro for defensive security](https://www.bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/)
 * [CISA to warn critical infrastructure of ransomware-vulnerable devices](https://www.bleepingcomputer.com/news/security/cisa-to-warn-critical-infrastructure-of-ransomware-vulnerable-devices/)
 * [Outlook app to get built-in Microsoft 365 MFA on Android, iOS](https://www.bleepingcomputer.com/news/microsoft/outlook-app-to-get-built-in-microsoft-365-mfa-on-android-ios/)
+* [Hackers steal * [LA housing authority discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/la-housing-authority-discloses-data-breach-after-ransomware-attack/)
+* [Kali Linux 2023.1 introduces 'Purple' distro for defensive security](https://www.bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/)
+* [CISA to warn critical infrastructure of ransomware-vulnerable devices](https://www.bleepingcomputer.com/news/security/cisa-to-warn-critical-infrastructure-of-ransomware-vulnerable-devices/)
+* [Outlook app to get built-in Microsoft 365 MFA on Android, iOS](https://www.bleepingcomputer.com/news/microsoft/outlook-app-to-get-built-in-microsoft-365-mfa-on-android-ios/)
 * [Hackers steal * [CISA to warn critical infrastructure of ransomware-vulnerable devices](https://www.bleepingcomputer.com/news/security/cisa-to-warn-critical-infrastructure-of-ransomware-vulnerable-devices/)
 * [Outlook app to get built-in Microsoft 365 MFA on Android, iOS](https://www.bleepingcomputer.com/news/microsoft/outlook-app-to-get-built-in-microsoft-365-mfa-on-android-ios/)
 * [Hackers steal * [Hackers steal * [Hackers steal * [STALKER 2 game developer hacked by Russian hacktivists, data stolen](https://www.bleepingcomputer.com/news/security/stalker-2-game-developer-hacked-by-russian-hacktivists-data-stolen/)
@@ -21,7 +25,7 @@
 * [Staples-owned Essendant facing multi-day "outage," orders frozen](https://www.bleepingcomputer.com/news/security/staples-owned-essendant-facing-multi-day-outage-orders-frozen/)
 * [Microsoft finally fixes Windows 11 slow file copy issues over SMB](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-windows-11-slow-file-copy-issues-over-smb/)97 million in crypto in Euler Finance attack](https://www.bleepingcomputer.com/news/security/hackers-steal-197-million-in-crypto-in-euler-finance-attack/)
 * [STALKER 2 game developer hacked by Russian hacktivists, data stolen](https://www.bleepingcomputer.com/news/security/stalker-2-game-developer-hacked-by-russian-hacktivists-data-stolen/)
-* [Hands on with Windows 11's new leaked File Explorer feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-leaked-file-explorer-feature/)97 million in crypto in Euler Finance attack](https://www.bleepingcomputer.com/news/security/hackers-steal-197-million-in-crypto-in-euler-finance-attack/)
+* [Hands on with Windows 11's new leaked File Explorer feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-leaked-file-explorer-feature/)97 million in crypto in Euler Finance attack](https://www.bleepingcomputer.com/news/security/hackers-steal-197-million-in-crypto-in-euler-finance-attack/)97 million in crypto in Euler Finance attack](https://www.bleepingcomputer.com/news/security/hackers-steal-197-million-in-crypto-in-euler-finance-attack/)
 <!--END_SECTION:feed-->
 
 <!--
