@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers steal * [STALKER 2 game developer hacked by Russian hacktivists, data stolen](https://www.bleepingcomputer.com/news/security/stalker-2-game-developer-hacked-by-russian-hacktivists-data-stolen/)
+* [Hands on with Windows 11's new leaked File Explorer feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-leaked-file-explorer-feature/)
+* [Staples-owned Essendant facing multi-day "outage," orders frozen](https://www.bleepingcomputer.com/news/security/staples-owned-essendant-facing-multi-day-outage-orders-frozen/)
+* [Microsoft finally fixes Windows 11 slow file copy issues over SMB](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-windows-11-slow-file-copy-issues-over-smb/)
+* [Medusa ransomware gang picks up steam as it targets companies worldwide](https://www.bleepingcomputer.com/news/security/medusa-ransomware-gang-picks-up-steam-as-it-targets-companies-worldwide/)97 million in crypto in Euler Finance attack](https://www.bleepingcomputer.com/news/security/hackers-steal-197-million-in-crypto-in-euler-finance-attack/)
 * [STALKER 2 game developer hacked by Russian hacktivists, data stolen](https://www.bleepingcomputer.com/news/security/stalker-2-game-developer-hacked-by-russian-hacktivists-data-stolen/)
 * [Hands on with Windows 11's new leaked File Explorer feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-leaked-file-explorer-feature/)
 * [Staples-owned Essendant facing multi-day "outage," orders frozen](https://www.bleepingcomputer.com/news/security/staples-owned-essendant-facing-multi-day-outage-orders-frozen/)
 * [Microsoft finally fixes Windows 11 slow file copy issues over SMB](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-windows-11-slow-file-copy-issues-over-smb/)
-* [Medusa ransomware gang picks up steam as it targets companies worldwide](https://www.bleepingcomputer.com/news/security/medusa-ransomware-gang-picks-up-steam-as-it-targets-companies-worldwide/)
 <!--END_SECTION:feed-->
 
 <!--
