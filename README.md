@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Reddit down in outage that blocks access to web and mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-down-in-outage-that-blocks-access-to-web-and-mobile-apps/)
+* [SAP releases security updates fixing five critical vulnerabilities](https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-fixing-five-critical-vulnerabilities/)
+* [Rubrik confirms data theft in GoAnywhere zero-day attack](https://www.bleepingcomputer.com/news/security/rubrik-confirms-data-theft-in-goanywhere-zero-day-attack/)
+* [Reddit is down in major outage blocking access to web, mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-is-down-in-major-outage-blocking-access-to-web-mobile-apps/)
 * [Microsoft fixes Outlook zero-day used by Russian hackers since April 2022](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-zero-day-used-by-russian-hackers-since-april-2022/)
 * [Microsoft fixes Windows zero-day exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-zero-day-exploited-in-ransomware-attacks/)
-* [Windows 10 KB5023696 and KB5023697 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5023696-and-kb5023697-updates-released/)
-* [Windows 11 KB5023706 and KB5023698 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023706-and-kb5023698-cumulative-updates-released/)
 <!--END_SECTION:feed-->
 
 <!--
