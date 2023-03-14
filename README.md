@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Reddit down in outage that blocks access to web and mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-down-in-outage-that-blocks-access-to-web-and-mobile-apps/)
+* [Microsoft fixes Outlook zero-day used by Russian hackers since April 2022](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-zero-day-used-by-russian-hackers-since-april-2022/)
+* [Microsoft fixes Windows zero-day exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-zero-day-exploited-in-ransomware-attacks/)
 * [Windows 10 KB5023696 and KB5023697 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5023696-and-kb5023697-updates-released/)
 * [Windows 11 KB5023706 and KB5023698 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023706-and-kb5023698-cumulative-updates-released/)
-* [FBI warns of spike in ‘pig butchering’ crypto investment schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-spike-in-pig-butchering-crypto-investment-schemes/)
-* [Microsoft March 2023 Patch Tuesday fixes 2 zero-days, 83 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-2023-patch-tuesday-fixes-2-zero-days-83-flaws/)
-* [Cybercriminals exploit SVB collapse to steal money and data](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-svb-collapse-to-steal-money-and-data/)
 <!--END_SECTION:feed-->
 
 <!--
