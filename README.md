@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cybercriminals exploit SVB collapse to steal money and data](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-svb-collapse-to-steal-money-and-data/)
 * [YoroTrooper cyberspies target CIS energy orgs, EU embassies](https://www.bleepingcomputer.com/news/security/yorotrooper-cyberspies-target-cis-energy-orgs-eu-embassies/)
 * [NordVPN makes its Meshnet private tunnel free for everyone](https://www.bleepingcomputer.com/news/security/nordvpn-makes-its-meshnet-private-tunnel-free-for-everyone/)
 * [Fortinet: New FortiOS bug used as zero-day to attack govt networks](https://www.bleepingcomputer.com/news/security/fortinet-new-fortios-bug-used-as-zero-day-to-attack-govt-networks/)
 * [LA housing authority discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/la-housing-authority-discloses-data-breach-after-ransomware-attack/)
-* [Kali Linux 2023.1 introduces 'Purple' distro for defensive security](https://www.bleepingcomputer.com/news/security/kali-linux-20231-introduces-purple-distro-for-defensive-security/)
 <!--END_SECTION:feed-->
 
 <!--
