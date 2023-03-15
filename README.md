@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Microsoft Outlook bug PoC shows how easy it is to exploit](https://www.bleepingcomputer.com/news/security/critical-microsoft-outlook-bug-poc-shows-how-easy-it-is-to-exploit/)
+* [US federal agency hacked using old Telerik bug to steal data](https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/)
 * [Healthcare provider ILS warns 4.2 million people of data breach](https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/)
 * [ChipMixer platform seized for laundering ransomware payments, drug sales](https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-laundering-ransomware-payments-drug-sales/)
 * [ChatGPT may be a bigger cybersecurity risk than an actual benefit](https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/)
-* [First-known Dero cryptojacking operation seen targeting Kubernetes](https://www.bleepingcomputer.com/news/security/first-known-dero-cryptojacking-operation-seen-targeting-kubernetes/)
-* [SAP releases security updates fixing five critical vulnerabilities](https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-fixing-five-critical-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
