@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: Ransomware hit 860 critical infrastructure orgs in 2022](https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-860-critical-infrastructure-orgs-in-2022/)
 * [LockBit ransomware claims Essendant attack, company says  “network outage”](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-essendant-attack-company-says-network-outage-/)
 * [Hacker selling data allegedly stolen in US Marshals Service hack](https://www.bleepingcomputer.com/news/security/hacker-selling-data-allegedly-stolen-in-us-marshals-service-hack/)
 * [Critical Microsoft Outlook bug PoC shows how easy it is to exploit](https://www.bleepingcomputer.com/news/security/critical-microsoft-outlook-bug-poc-shows-how-easy-it-is-to-exploit/)
 * [US federal agency hacked using old Telerik bug to steal data](https://www.bleepingcomputer.com/news/security/us-federal-agency-hacked-using-old-telerik-bug-to-steal-data/)
-* [Healthcare provider ILS warns 4.2 million people of data breach](https://www.bleepingcomputer.com/news/security/healthcare-provider-ils-warns-42-million-people-of-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
