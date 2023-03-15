@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ChipMixer platform seized for laundering ransomware payments, drug sales](https://www.bleepingcomputer.com/news/security/chipmixer-platform-seized-for-laundering-ransomware-payments-drug-sales/)
+* [ChatGPT may be a bigger cybersecurity risk than an actual benefit](https://www.bleepingcomputer.com/news/security/chatgpt-may-be-a-bigger-cybersecurity-risk-than-an-actual-benefit/)
+* [First-known Dero cryptojacking operation seen targeting Kubernetes](https://www.bleepingcomputer.com/news/security/first-known-dero-cryptojacking-operation-seen-targeting-kubernetes/)
 * [SAP releases security updates fixing five critical vulnerabilities](https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-fixing-five-critical-vulnerabilities/)
 * [Rubrik confirms data theft in GoAnywhere zero-day attack](https://www.bleepingcomputer.com/news/security/rubrik-confirms-data-theft-in-goanywhere-zero-day-attack/)
-* [Reddit is down in major outage blocking access to web, mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-is-down-in-major-outage-blocking-access-to-web-mobile-apps/)
-* [Microsoft fixes Outlook zero-day used by Russian hackers since April 2022](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-zero-day-used-by-russian-hackers-since-april-2022/)
-* [Microsoft fixes Windows zero-day exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-fixes-windows-zero-day-exploited-in-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
