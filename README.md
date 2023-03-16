@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Google finds 18 baseband zero-day bugs in Samsung Exynos chipsets](https://www.bleepingcomputer.com/news/security/google-finds-18-baseband-zero-day-bugs-in-samsung-exynos-chipsets/)
+* [Google finds 18 zero-day vulnerabilities in Samsung Exynos chipsets](https://www.bleepingcomputer.com/news/security/google-finds-18-zero-day-vulnerabilities-in-samsung-exynos-chipsets/)
 * [FakeCalls Android malware returns with new ways to hide on phones](https://www.bleepingcomputer.com/news/security/fakecalls-android-malware-returns-with-new-ways-to-hide-on-phones/)
 * [Fortinet zero-day attacks linked to suspected Chinese hackers](https://www.bleepingcomputer.com/news/security/fortinet-zero-day-attacks-linked-to-suspected-chinese-hackers/)
 * [Adobe Acrobat Sign abused to push Redline info-stealing malware](https://www.bleepingcomputer.com/news/security/adobe-acrobat-sign-abused-to-push-redline-info-stealing-malware/)
