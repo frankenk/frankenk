@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
+* [Winter Vivern APT hackers use fake antivirus scans to install malware](https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/)
 * [CISA warns of Adobe ColdFusion bug exploited as a zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-of-adobe-coldfusion-bug-exploited-as-a-zero-day/)
 * [Mozilla Firefox gets built-in Firefox Relay controls](https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-built-in-firefox-relay-controls/)
 * [NordVPN open sources its Linux VPN client and libraries](https://www.bleepingcomputer.com/news/security/nordvpn-open-sources-its-linux-vpn-client-and-libraries/)
-* [FBI: Ransomware hit 860 critical infrastructure orgs in 2022](https://www.bleepingcomputer.com/news/security/fbi-ransomware-hit-860-critical-infrastructure-orgs-in-2022/)
-* [LockBit ransomware claims Essendant attack, company says  “network outage”](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-claims-essendant-attack-company-says-network-outage-/)
 <!--END_SECTION:feed-->
 
 <!--
