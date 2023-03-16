@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Adobe Acrobat Sign abused to push Redline info-stealing malware](https://www.bleepingcomputer.com/news/security/adobe-acrobat-sign-abused-to-push-redline-info-stealing-malware/)
+* [Conti-based ransomware ‘MeowCorp’ gets free decryptor](https://www.bleepingcomputer.com/news/security/conti-based-ransomware-meowcorp-gets-free-decryptor/)
 * [Latitude cyberattack leads to data theft at two service providers](https://www.bleepingcomputer.com/news/security/latitude-cyberattack-leads-to-data-theft-at-two-service-providers/)
 * [Microsoft unveils AI-powered Microsoft 365 Copilot assistant](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-ai-powered-microsoft-365-copilot-assistant/)
 * [Convincing Twitter 'quote tweet' phone scam targets bank customers](https://www.bleepingcomputer.com/news/security/convincing-twitter-quote-tweet-phone-scam-targets-bank-customers/)
-* [Microsoft support 'cracks' Windows for customer after activation fails](https://www.bleepingcomputer.com/news/security/microsoft-support-cracks-windows-for-customer-after-activation-fails/)
-* [Winter Vivern APT hackers use fake antivirus scans to install malware](https://www.bleepingcomputer.com/news/security/winter-vivern-apt-hackers-use-fake-antivirus-scans-to-install-malware/)
 <!--END_SECTION:feed-->
 
 <!--
