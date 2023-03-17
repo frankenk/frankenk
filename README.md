@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [RAT developer arrested for infecting 10,000 PCs with malware](https://www.bleepingcomputer.com/news/security/rat-developer-arrested-for-infecting-10-000-pcs-with-malware/)
 * [Microsoft shares script to fix WinRE BitLocker bypass flaw](https://www.bleepingcomputer.com/news/security/microsoft-shares-script-to-fix-winre-bitlocker-bypass-flaw/)
 * [BianLian ransomware gang shifts focus to pure data extortion](https://www.bleepingcomputer.com/news/security/bianlian-ransomware-gang-shifts-focus-to-pure-data-extortion/)
 * [Google finds 18 zero-day vulnerabilities in Samsung Exynos chipsets](https://www.bleepingcomputer.com/news/security/google-finds-18-zero-day-vulnerabilities-in-samsung-exynos-chipsets/)
 * [FakeCalls Android malware returns with new ways to hide on phones](https://www.bleepingcomputer.com/news/security/fakecalls-android-malware-returns-with-new-ways-to-hide-on-phones/)
-* [Fortinet zero-day attacks linked to suspected Chinese hackers](https://www.bleepingcomputer.com/news/security/fortinet-zero-day-attacks-linked-to-suspected-chinese-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
