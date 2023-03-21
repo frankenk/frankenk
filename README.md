@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows preview updates to target last week of the month](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-preview-updates-to-target-last-week-of-the-month/)
 * [LockBit ransomware gang now also claims City of Oakland breach](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-now-also-claims-city-of-oakland-breach/)
 * [Breached hacking forum shuts down, fears it's not 'safe' from FBI](https://www.bleepingcomputer.com/news/security/breached-hacking-forum-shuts-down-fears-its-not-safe-from-fbi/)
 * [Coinbase Wallet 'Red Pill' flaw allowed attacks to evade detection](https://www.bleepingcomputer.com/news/security/coinbase-wallet-red-pill-flaw-allowed-attacks-to-evade-detection/)
 * [Clop ransomware claims Saks Fifth Avenue, retailer says mock data stolen](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-saks-fifth-avenue-retailer-says-mock-data-stolen/)
-* [Ferrari discloses data breach after receiving ransom demand](https://www.bleepingcomputer.com/news/security/ferrari-discloses-data-breach-after-receiving-ransom-demand/)
 <!--END_SECTION:feed-->
 
 <!--
