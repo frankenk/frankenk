@@ -5,6 +5,10 @@
 * [Clop ransomware claims Saks Fifth Avenue, retailer says mock data stolen](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-saks-fifth-avenue-retailer-says-mock-data-stolen/)
 * [Ferrari discloses data breach after receiving ransom demand](https://www.bleepingcomputer.com/news/security/ferrari-discloses-data-breach-after-receiving-ransom-demand/)
 * [Windows 11 bug warns Local Security Authority protection is off](https://www.bleepingcomputer.com/news/microsoft/windows-11-bug-warns-local-security-authority-protection-is-off/)
+* [General Bytes Bitcoin ATMs hacked using zero-day, * [Coinbase Wallet 'Red Pill' flaw allowed attacks to evade detection](https://www.bleepingcomputer.com/news/security/coinbase-wallet-red-pill-flaw-allowed-attacks-to-evade-detection/)
+* [Clop ransomware claims Saks Fifth Avenue, retailer says mock data stolen](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-saks-fifth-avenue-retailer-says-mock-data-stolen/)
+* [Ferrari discloses data breach after receiving ransom demand](https://www.bleepingcomputer.com/news/security/ferrari-discloses-data-breach-after-receiving-ransom-demand/)
+* [Windows 11 bug warns Local Security Authority protection is off](https://www.bleepingcomputer.com/news/microsoft/windows-11-bug-warns-local-security-authority-protection-is-off/)
 * [General Bytes Bitcoin ATMs hacked using zero-day, * [Clop ransomware claims Saks Fifth Avenue, retailer says mock data stolen](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-saks-fifth-avenue-retailer-says-mock-data-stolen/)
 * [Ferrari discloses data breach after receiving ransom demand](https://www.bleepingcomputer.com/news/security/ferrari-discloses-data-breach-after-receiving-ransom-demand/)
 * [Windows 11 bug warns Local Security Authority protection is off](https://www.bleepingcomputer.com/news/microsoft/windows-11-bug-warns-local-security-authority-protection-is-off/)
@@ -77,7 +81,7 @@
 * [Hackers target .NET developers with malicious NuGet packages](https://www.bleepingcomputer.com/news/security/hackers-target-net-developers-with-malicious-nuget-packages/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/)
 * [Hackers target .NET developers with malicious NuGet packages](https://www.bleepingcomputer.com/news/security/hackers-target-net-developers-with-malicious-nuget-packages/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/)
 * [Hackers target .NET developers with malicious NuGet packages](https://www.bleepingcomputer.com/news/security/hackers-target-net-developers-with-malicious-nuget-packages/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/)
-* [Hackers target .NET developers with malicious NuGet packages](https://www.bleepingcomputer.com/news/security/hackers-target-net-developers-with-malicious-nuget-packages/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/)
+* [Hackers target .NET developers with malicious NuGet packages](https://www.bleepingcomputer.com/news/security/hackers-target-net-developers-with-malicious-nuget-packages/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/).5M stolen](https://www.bleepingcomputer.com/news/security/general-bytes-bitcoin-atms-hacked-using-zero-day-15m-stolen/)
 <!--END_SECTION:feed-->
 
 <!--
