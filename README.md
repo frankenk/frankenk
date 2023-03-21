@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Defender update behind Windows LSA protection warnings](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-update-behind-windows-lsa-protection-warnings/)
+* [Windows 11 Snipping Tool privacy bug exposes cropped image content](https://www.bleepingcomputer.com/news/microsoft/windows-11-snipping-tool-privacy-bug-exposes-cropped-image-content/)
 * [Hackers use new PowerMagic and CommonMagic malware to steal data](https://www.bleepingcomputer.com/news/security/hackers-use-new-powermagic-and-commonmagic-malware-to-steal-data/)
 * [Mozilla Firefox 111.0.1 fixes Windows 11 and macOS crashes](https://www.bleepingcomputer.com/news/software/mozilla-firefox-11101-fixes-windows-11-and-macos-crashes/)
 * [Microsoft: Windows preview updates to target last week of the month](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-preview-updates-to-target-last-week-of-the-month/)
-* [LockBit ransomware gang now also claims City of Oakland breach](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-gang-now-also-claims-city-of-oakland-breach/)
-* [Breached hacking forum shuts down, fears it's not 'safe' from FBI](https://www.bleepingcomputer.com/news/security/breached-hacking-forum-shuts-down-fears-its-not-safe-from-fbi/)
 <!--END_SECTION:feed-->
 
 <!--
