@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress force patching WooCommerce plugin with 500K installs](https://www.bleepingcomputer.com/news/security/wordpress-force-patching-woocommerce-plugin-with-500k-installs/)
+* [City of Toronto confirms data theft, Clop claims responsibility](https://www.bleepingcomputer.com/news/security/city-of-toronto-confirms-data-theft-clop-claims-responsibility/)
 * [New CISA tool detects hacking activity in Microsoft cloud services](https://www.bleepingcomputer.com/news/security/new-cisa-tool-detects-hacking-activity-in-microsoft-cloud-services/)
 * [Windows 11 gets phishing protection boost and SHA-3 support](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-phishing-protection-boost-and-sha-3-support/)
 * [Microsoft fixes Acropalypse privacy bug in Windows 11 Snipping Tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-acropalypse-privacy-bug-in-windows-11-snipping-tool/)
-* [Exploit released for Veeam bug allowing cleartext credential theft](https://www.bleepingcomputer.com/news/security/exploit-released-for-veeam-bug-allowing-cleartext-credential-theft/)
-* [CloudPanel installations use the same SSL certificate private key](https://www.bleepingcomputer.com/news/security/cloudpanel-installations-use-the-same-ssl-certificate-private-key/)
 <!--END_SECTION:feed-->
 
 <!--
