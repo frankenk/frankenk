@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 gets phishing protection boost and SHA-3 support](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-phishing-protection-boost-and-sha-3-support/)
+* [Microsoft fixes Acropalypse privacy bug in Windows 11 Snipping Tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-acropalypse-privacy-bug-in-windows-11-snipping-tool/)
 * [Exploit released for Veeam bug allowing cleartext credential theft](https://www.bleepingcomputer.com/news/security/exploit-released-for-veeam-bug-allowing-cleartext-credential-theft/)
 * [CloudPanel installations use the same SSL certificate private key](https://www.bleepingcomputer.com/news/security/cloudpanel-installations-use-the-same-ssl-certificate-private-key/)
 * [Python info-stealing malware uses Unicode to evade detection](https://www.bleepingcomputer.com/news/security/python-info-stealing-malware-uses-unicode-to-evade-detection/)
-* [Windows 11, Tesla, Ubuntu, and macOS hacked at Pwn2Own 2023](https://www.bleepingcomputer.com/news/security/windows-11-tesla-ubuntu-and-macos-hacked-at-pwn2own-2023/)
-* [Hackers inject credit card stealers into payment processing modules](https://www.bleepingcomputer.com/news/security/hackers-inject-credit-card-stealers-into-payment-processing-modules/)
 <!--END_SECTION:feed-->
 
 <!--
