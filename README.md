@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Procter & Gamble confirms data theft via GoAnywhere zero-day](https://www.bleepingcomputer.com/news/security/procter-and-gamble-confirms-data-theft-via-goanywhere-zero-day/)
 * [UK creates fake DDoS-for-hire sites to identify cybercriminals](https://www.bleepingcomputer.com/news/security/uk-creates-fake-ddos-for-hire-sites-to-identify-cybercriminals/)
 * ['Bitter' espionage hackers target Chinese nuclear energy orgs](https://www.bleepingcomputer.com/news/security/bitter-espionage-hackers-target-chinese-nuclear-energy-orgs/)
 * [GitHub.com rotates its exposed private SSH key](https://www.bleepingcomputer.com/news/security/githubcom-rotates-its-exposed-private-ssh-key/)
 * [Microsoft Teams, Virtualbox, Tesla zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/microsoft-teams-virtualbox-tesla-zero-days-exploited-at-pwn2own/)
-* [BlackGuard stealer now targets 57 crypto wallets, extensions](https://www.bleepingcomputer.com/news/security/blackguard-stealer-now-targets-57-crypto-wallets-extensions/)
 <!--END_SECTION:feed-->
 
 <!--
