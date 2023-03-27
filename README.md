@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple fixes recently disclosed WebKit zero-day on older iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-webkit-zero-day-on-older-iphones/)
+* [New IcedID variants shift from bank fraud to malware delivery](https://www.bleepingcomputer.com/news/security/new-icedid-variants-shift-from-bank-fraud-to-malware-delivery/)
 * [New MacStealer macOS malware steals passwords from iCloud Keychain](https://www.bleepingcomputer.com/news/security/new-macstealer-macos-malware-steals-passwords-from-icloud-keychain/)
+* [New Microsoft Teams is twice as fast, available for all in June](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-is-twice-as-fast-available-for-all-in-june/)
+* [Hackers earn * [New MacStealer macOS malware steals passwords from iCloud Keychain](https://www.bleepingcomputer.com/news/security/new-macstealer-macos-malware-steals-passwords-from-icloud-keychain/)
 * [New Microsoft Teams is twice as fast, available for all in June](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-is-twice-as-fast-available-for-all-in-june/)
 * [Hackers earn * [New MacStealer macOS malware steals passwords from iCloud Keychain](https://www.bleepingcomputer.com/news/security/new-macstealer-macos-malware-steals-passwords-from-icloud-keychain/)
 * [New Microsoft Teams is twice as fast, available for all in June](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-teams-is-twice-as-fast-available-for-all-in-june/)
@@ -21,7 +25,7 @@
 * [Twitter takes down source code leaked online, hunts for downloaders](https://www.bleepingcomputer.com/news/security/twitter-takes-down-source-code-leaked-online-hunts-for-downloaders/)
 * [FBI: Business email compromise tactics used to defraud U.S. vendors](https://www.bleepingcomputer.com/news/security/fbi-business-email-compromise-tactics-used-to-defraud-us-vendors/),035,000 for 27 zero-days exploited at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-035-000-for-27-zero-days-exploited-at-pwn2own-vancouver/)
 * [Twitter takes down source code leaked online, hunts for downloaders](https://www.bleepingcomputer.com/news/security/twitter-takes-down-source-code-leaked-online-hunts-for-downloaders/)
-* [FBI: Business email compromise tactics used to defraud U.S. vendors](https://www.bleepingcomputer.com/news/security/fbi-business-email-compromise-tactics-used-to-defraud-us-vendors/)
+* [FBI: Business email compromise tactics used to defraud U.S. vendors](https://www.bleepingcomputer.com/news/security/fbi-business-email-compromise-tactics-used-to-defraud-us-vendors/),035,000 for 27 zero-days exploited at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-035-000-for-27-zero-days-exploited-at-pwn2own-vancouver/)
 <!--END_SECTION:feed-->
 
 <!--
