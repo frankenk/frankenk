@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers earn * [Twitter takes down source code leaked online, hunts for downloaders](https://www.bleepingcomputer.com/news/security/twitter-takes-down-source-code-leaked-online-hunts-for-downloaders/)
+* [FBI: Business email compromise tactics used to defraud U.S. vendors](https://www.bleepingcomputer.com/news/security/fbi-business-email-compromise-tactics-used-to-defraud-us-vendors/)
+* [Emotet malware distributed as fake W-9 tax forms from the IRS ](https://www.bleepingcomputer.com/news/security/emotet-malware-distributed-as-fake-w-9-tax-forms-from-the-irs/)
+* [Microsoft pushes OOB security updates for Windows Snipping tool flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-oob-security-updates-for-windows-snipping-tool-flaw/)
+* [New Dark Power ransomware claims 10 victims in its first month](https://www.bleepingcomputer.com/news/security/new-dark-power-ransomware-claims-10-victims-in-its-first-month/),035,000 for 27 zero-days exploited at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-035-000-for-27-zero-days-exploited-at-pwn2own-vancouver/)
 * [Twitter takes down source code leaked online, hunts for downloaders](https://www.bleepingcomputer.com/news/security/twitter-takes-down-source-code-leaked-online-hunts-for-downloaders/)
 * [FBI: Business email compromise tactics used to defraud U.S. vendors](https://www.bleepingcomputer.com/news/security/fbi-business-email-compromise-tactics-used-to-defraud-us-vendors/)
 * [Emotet malware distributed as fake W-9 tax forms from the IRS ](https://www.bleepingcomputer.com/news/security/emotet-malware-distributed-as-fake-w-9-tax-forms-from-the-irs/)
 * [Microsoft pushes OOB security updates for Windows Snipping tool flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-oob-security-updates-for-windows-snipping-tool-flaw/)
-* [New Dark Power ransomware claims 10 victims in its first month](https://www.bleepingcomputer.com/news/security/new-dark-power-ransomware-claims-10-victims-in-its-first-month/)
 <!--END_SECTION:feed-->
 
 <!--
