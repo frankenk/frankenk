@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The End-User Password Mistakes Putting Your Organization at Risk](https://www.bleepingcomputer.com/news/security/the-end-user-password-mistakes-putting-your-organization-at-risk/)
 * [Latitude Financial data breach now impacts 14 million customers](https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/)
 * [Exchange Online to block emails from vulnerable on-prem servers](https://www.bleepingcomputer.com/news/security/exchange-online-to-block-emails-from-vulnerable-on-prem-servers/)
 * [Apple fixes recently disclosed WebKit zero-day on older iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-webkit-zero-day-on-older-iphones/)
 * [New IcedID variants shift from bank fraud to malware delivery](https://www.bleepingcomputer.com/news/security/new-icedid-variants-shift-from-bank-fraud-to-malware-delivery/)
-* [New MacStealer macOS malware steals passwords from iCloud Keychain](https://www.bleepingcomputer.com/news/security/new-macstealer-macos-malware-steals-passwords-from-icloud-keychain/)
 <!--END_SECTION:feed-->
 
 <!--
