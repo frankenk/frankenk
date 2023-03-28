@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft brings GPT-4-powered Security Copilot to incident response](https://www.bleepingcomputer.com/news/microsoft/microsoft-brings-gpt-4-powered-security-copilot-to-incident-response/)
 * [Crown Resorts confirms ransom demand after GoAnywhere breach](https://www.bleepingcomputer.com/news/security/crown-resorts-confirms-ransom-demand-after-goanywhere-breach/)
 * [Newly exposed APT43 hacking group targeting US orgs since 2018](https://www.bleepingcomputer.com/news/security/newly-exposed-apt43-hacking-group-targeting-us-orgs-since-2018/)
 * [The End-User Password Mistakes Putting Your Organization at Risk](https://www.bleepingcomputer.com/news/security/the-end-user-password-mistakes-putting-your-organization-at-risk/)
 * [Latitude Financial data breach now impacts 14 million customers](https://www.bleepingcomputer.com/news/security/latitude-financial-data-breach-now-impacts-14-million-customers/)
-* [Exchange Online to block emails from vulnerable on-prem servers](https://www.bleepingcomputer.com/news/security/exchange-online-to-block-emails-from-vulnerable-on-prem-servers/)
 <!--END_SECTION:feed-->
 
 <!--
