@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Defender mistakenly tagging URLs as malicious](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-tagging-urls-as-malicious/)
 * [Experts call for pause on AI training citing risks to humanity](https://www.bleepingcomputer.com/news/technology/experts-call-for-pause-on-ai-training-citing-risks-to-humanity/)
 * [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
 * [Trojanized Tor browsers target Russians with crypto-stealing malware](https://www.bleepingcomputer.com/news/security/trojanized-tor-browsers-target-russians-with-crypto-stealing-malware/)
 * [Windows 11 KB5023774 update causes Red Dead Redemption 2 launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023774-update-causes-red-dead-redemption-2-launch-issues/)
-* [WiFi protocol flaw allows attackers to hijack network traffic](https://www.bleepingcomputer.com/news/security/wifi-protocol-flaw-allows-attackers-to-hijack-network-traffic/)
 <!--END_SECTION:feed-->
 
 <!--
