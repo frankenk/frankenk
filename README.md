@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SafeMoon ‘burn’ bug abused to drain $8.9 million from liquidity pool](https://www.bleepingcomputer.com/news/cryptocurrency/safemoon-burn-bug-abused-to-drain-89-million-from-liquidity-pool/)
+* [QNAP warns customers to patch Linux Sudo flaw in NAS devices](https://www.bleepingcomputer.com/news/security/qnap-warns-customers-to-patch-linux-sudo-flaw-in-nas-devices/)
 * [Microsoft Defender mistakenly tagging URLs as malicious](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-tagging-urls-as-malicious/)
 * [Experts call for pause on AI training citing risks to humanity](https://www.bleepingcomputer.com/news/technology/experts-call-for-pause-on-ai-training-citing-risks-to-humanity/)
 * [Google finds more Android, iOS zero-days used to install spyware](https://www.bleepingcomputer.com/news/security/google-finds-more-android-ios-zero-days-used-to-install-spyware/)
-* [Trojanized Tor browsers target Russians with crypto-stealing malware](https://www.bleepingcomputer.com/news/security/trojanized-tor-browsers-target-russians-with-crypto-stealing-malware/)
-* [Windows 11 KB5023774 update causes Red Dead Redemption 2 launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5023774-update-causes-red-dead-redemption-2-launch-issues/)
 <!--END_SECTION:feed-->
 
 <!--
