@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Winter Vivern hackers exploit Zimbra flaw to steal NATO emails](https://www.bleepingcomputer.com/news/security/winter-vivern-hackers-exploit-zimbra-flaw-to-steal-nato-emails/)
 * [Microsoft OneNote will block 120 dangerous file extensions](https://www.bleepingcomputer.com/news/security/microsoft-onenote-will-block-120-dangerous-file-extensions/)
 * [Ukrainian cyberpolice busts fraud gang that stole $4.3 million](https://www.bleepingcomputer.com/news/security/ukrainian-cyberpolice-busts-fraud-gang-that-stole-43-million/)
 * [CISA orders agencies to patch bugs exploited to drop spyware](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-bugs-exploited-to-drop-spyware/)
 * [Realtek and Cacti flaws now actively exploited by malware botnets](https://www.bleepingcomputer.com/news/security/realtek-and-cacti-flaws-now-actively-exploited-by-malware-botnets/)
-* [Microsoft testing adaptive brightness on more Windows 11 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-adaptive-brightness-on-more-windows-11-devices/)
 <!--END_SECTION:feed-->
 
 <!--
