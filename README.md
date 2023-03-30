@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Realtek and Cacti flaws now actively exploited by malware botnets](https://www.bleepingcomputer.com/news/security/realtek-and-cacti-flaws-now-actively-exploited-by-malware-botnets/)
+* [Microsoft testing adaptive brightness on more Windows 11 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-adaptive-brightness-on-more-windows-11-devices/)
 * [Bing search results hijacked via misconfigured Microsoft app](https://www.bleepingcomputer.com/news/security/bing-search-results-hijacked-via-misconfigured-microsoft-app/)
 * [New AlienFox toolkit steals credentials for 18 cloud services](https://www.bleepingcomputer.com/news/security/new-alienfox-toolkit-steals-credentials-for-18-cloud-services/)
 * [Hackers compromise 3CX desktop app in a supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-compromise-3cx-desktop-app-in-a-supply-chain-attack/)
-* [Steam will drop support for Windows 7 and 8 in January 2024](https://www.bleepingcomputer.com/news/software/steam-will-drop-support-for-windows-7-and-8-in-january-2024/)
-* [SafeMoon ‘burn’ bug abused to drain $8.9 million from liquidity pool](https://www.bleepingcomputer.com/news/cryptocurrency/safemoon-burn-bug-abused-to-drain-89-million-from-liquidity-pool/)
 <!--END_SECTION:feed-->
 
 <!--
