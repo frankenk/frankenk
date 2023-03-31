@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [10-year-old Windows bug with 'opt-in' fix exploited in 3CX attack](https://www.bleepingcomputer.com/news/microsoft/10-year-old-windows-bug-with-opt-in-fix-exploited-in-3cx-attack/)
+* [Consumer lender TMX discloses data breach impacting 4.8 million people](https://www.bleepingcomputer.com/news/security/consumer-lender-tmx-discloses-data-breach-impacting-48-million-people/)
 * [Winter Vivern hackers exploit Zimbra flaw to steal NATO emails](https://www.bleepingcomputer.com/news/security/winter-vivern-hackers-exploit-zimbra-flaw-to-steal-nato-emails/)
 * [Microsoft OneNote will block 120 dangerous file extensions](https://www.bleepingcomputer.com/news/security/microsoft-onenote-will-block-120-dangerous-file-extensions/)
 * [Ukrainian cyberpolice busts fraud gang that stole $4.3 million](https://www.bleepingcomputer.com/news/security/ukrainian-cyberpolice-busts-fraud-gang-that-stole-43-million/)
-* [CISA orders agencies to patch bugs exploited to drop spyware](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-bugs-exploited-to-drop-spyware/)
-* [Realtek and Cacti flaws now actively exploited by malware botnets](https://www.bleepingcomputer.com/news/security/realtek-and-cacti-flaws-now-actively-exploited-by-malware-botnets/)
 <!--END_SECTION:feed-->
 
 <!--
