@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [WinRAR SFX archives can run PoweShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-poweshell-without-being-detected/)
+* [US seizes * [WinRAR SFX archives can run PoweShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-poweshell-without-being-detected/)
 * [Cryptocurrency companies backdoored in 3CX supply chain attack](https://www.bleepingcomputer.com/news/security/cryptocurrency-companies-backdoored-in-3cx-supply-chain-attack/)
 * [Capita cyberattack disrupted access to its Microsoft Office 365 apps](https://www.bleepingcomputer.com/news/security/capita-cyberattack-disrupted-access-to-its-microsoft-office-365-apps/)
 * [Western Digital discloses network breach, My Cloud service down](https://www.bleepingcomputer.com/news/security/western-digital-discloses-network-breach-my-cloud-service-down/)
-* [New Money Message ransomware demands million dollar ransoms](https://www.bleepingcomputer.com/news/security/new-money-message-ransomware-demands-million-dollar-ransoms/)
+* [New Money Message ransomware demands million dollar ransoms](https://www.bleepingcomputer.com/news/security/new-money-message-ransomware-demands-million-dollar-ransoms/)12 million from cryptocurrency investment scammers](https://www.bleepingcomputer.com/news/security/us-seizes-112-million-from-cryptocurrency-investment-scammers/)
+* [WinRAR SFX archives can run PowerShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/)
+* [Cryptocurrency companies backdoored in 3CX supply chain attack](https://www.bleepingcomputer.com/news/security/cryptocurrency-companies-backdoored-in-3cx-supply-chain-attack/)
+* [Capita cyberattack disrupted access to its Microsoft Office 365 apps](https://www.bleepingcomputer.com/news/security/capita-cyberattack-disrupted-access-to-its-microsoft-office-365-apps/)
+* [Western Digital discloses network breach, My Cloud service down](https://www.bleepingcomputer.com/news/security/western-digital-discloses-network-breach-my-cloud-service-down/)
 <!--END_SECTION:feed-->
 
 <!--
