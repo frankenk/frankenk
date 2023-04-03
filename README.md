@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Capita cyberattack disrupted access to its Microsoft Office 365 apps](https://www.bleepingcomputer.com/news/security/capita-cyberattack-disrupted-access-to-its-microsoft-office-365-apps/)
 * [Western Digital discloses network breach, My Cloud service down](https://www.bleepingcomputer.com/news/security/western-digital-discloses-network-breach-my-cloud-service-down/)
 * [New Money Message ransomware demands million dollar ransoms](https://www.bleepingcomputer.com/news/security/new-money-message-ransomware-demands-million-dollar-ransoms/)
 * [Fake ransomware gang targets U.S. orgs with empty data leak threats](https://www.bleepingcomputer.com/news/security/fake-ransomware-gang-targets-us-orgs-with-empty-data-leak-threats/)
 * [DISH slapped with multiple lawsuits after ransomware cyber attack](https://www.bleepingcomputer.com/news/security/dish-slapped-with-multiple-lawsuits-after-ransomware-cyber-attack/)
-* [Twitter open-sources recommendation algorithm code](https://www.bleepingcomputer.com/news/technology/twitter-open-sources-recommendation-algorithm-code/)
 <!--END_SECTION:feed-->
 
 <!--
