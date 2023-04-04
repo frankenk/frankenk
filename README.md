@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HP to patch critical bug in LaserJet printers within 90 days](https://www.bleepingcomputer.com/news/security/hp-to-patch-critical-bug-in-laserjet-printers-within-90-days/)
 * [FBI seizes stolen credentials market Genesis in Operation Cookie Monster](https://www.bleepingcomputer.com/news/security/fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster/)
 * [Rockstar fixes Red Dead Redemption 2 game broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/rockstar-fixes-red-dead-redemption-2-game-broken-by-windows-update/)
 * [ALPHV ransomware exploits Veritas Backup Exec bugs for initial access](https://www.bleepingcomputer.com/news/security/alphv-ransomware-exploits-veritas-backup-exec-bugs-for-initial-access/)
 * [New Rorschach ransomware is the fastest encryptor seen so far](https://www.bleepingcomputer.com/news/security/new-rorschach-ransomware-is-the-fastest-encryptor-seen-so-far/)
-* [IRS-authorized eFile.com tax return software caught serving JS malware](https://www.bleepingcomputer.com/news/security/irs-authorized-efilecom-tax-return-software-caught-serving-js-malware/)
 <!--END_SECTION:feed-->
 
 <!--
