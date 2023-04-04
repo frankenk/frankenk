@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Rorschach ransomware is the fastest encryptor seen so far](https://www.bleepingcomputer.com/news/security/new-rorschach-ransomware-is-the-fastest-encryptor-seen-so-far/)
 * [IRS-authorized eFile.com tax return software caught serving JS malware](https://www.bleepingcomputer.com/news/security/irs-authorized-efilecom-tax-return-software-caught-serving-js-malware/)
+* [CISA warns of Zimbra bug exploited in attacks against NATO countries](https://www.bleepingcomputer.com/news/security/cisa-warns-of-zimbra-bug-exploited-in-attacks-against-nato-countries/)
+* [US seizes * [IRS-authorized eFile.com tax return software caught serving JS malware](https://www.bleepingcomputer.com/news/security/irs-authorized-efilecom-tax-return-software-caught-serving-js-malware/)
 * [CISA warns of Zimbra bug exploited in attacks against NATO countries](https://www.bleepingcomputer.com/news/security/cisa-warns-of-zimbra-bug-exploited-in-attacks-against-nato-countries/)
 * [US seizes * [IRS-authorized eFile.com tax return software caught serving JS malware](https://www.bleepingcomputer.com/news/security/irs-authorized-efilecom-tax-return-software-caught-serving-js-malware/)
 * [CISA warns of Zimbra bug exploited in attacks against NATO countries](https://www.bleepingcomputer.com/news/security/cisa-warns-of-zimbra-bug-exploited-in-attacks-against-nato-countries/)
@@ -81,7 +84,8 @@
 * [WinRAR SFX archives can run PowerShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/)
 * [Cryptocurrency companies backdoored in 3CX supply chain attack](https://www.bleepingcomputer.com/news/security/cryptocurrency-companies-backdoored-in-3cx-supply-chain-attack/)12 million from cryptocurrency investment scammers](https://www.bleepingcomputer.com/news/security/us-seizes-112-million-from-cryptocurrency-investment-scammers/)
 * [WinRAR SFX archives can run PowerShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/)
-* [Cryptocurrency companies backdoored in 3CX supply chain attack](https://www.bleepingcomputer.com/news/security/cryptocurrency-companies-backdoored-in-3cx-supply-chain-attack/)
+* [Cryptocurrency companies backdoored in 3CX supply chain attack](https://www.bleepingcomputer.com/news/security/cryptocurrency-companies-backdoored-in-3cx-supply-chain-attack/)12 million from cryptocurrency investment scammers](https://www.bleepingcomputer.com/news/security/us-seizes-112-million-from-cryptocurrency-investment-scammers/)
+* [WinRAR SFX archives can run PowerShell without being detected](https://www.bleepingcomputer.com/news/security/winrar-sfx-archives-can-run-powershell-without-being-detected/)
 <!--END_SECTION:feed-->
 
 <!--
