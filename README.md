@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Edge Workspaces now available in limited public preview](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-workspaces-now-available-in-limited-public-preview/)
 * [Hackers can open Nexx garage doors remotely, and there's no fix](https://www.bleepingcomputer.com/news/security/hackers-can-open-nexx-garage-doors-remotely-and-theres-no-fix/)
 * [Biometric Authentication Isn't Bulletproof —Here's How to Secure It](https://www.bleepingcomputer.com/news/security/biometric-authentication-isnt-bulletproof-heres-how-to-secure-it/)
 * [Spain's most dangerous and elusive hacker now in police custody](https://www.bleepingcomputer.com/news/security/spains-most-dangerous-and-elusive-hacker-now-in-police-custody/)
 * [HP to patch critical bug in LaserJet printers within 90 days](https://www.bleepingcomputer.com/news/security/hp-to-patch-critical-bug-in-laserjet-printers-within-90-days/)
-* [FBI seizes stolen credentials market Genesis in Operation Cookie Monster](https://www.bleepingcomputer.com/news/security/fbi-seizes-stolen-credentials-market-genesis-in-operation-cookie-monster/)
 <!--END_SECTION:feed-->
 
 <!--
