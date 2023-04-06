@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK criminal records office confirms cyber incident behind portal issues](https://www.bleepingcomputer.com/news/security/uk-criminal-records-office-confirms-cyber-incident-behind-portal-issues/)
+* [Hackers use Rilide browser extension to bypass 2FA, steal crypto](https://www.bleepingcomputer.com/news/security/hackers-use-rilide-browser-extension-to-bypass-2fa-steal-crypto/)
 * [Microsoft: Windows 10 21H2 is reaching end of service in June](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h2-is-reaching-end-of-service-in-june/)
 * [Microsoft and Fortra crack down on malicious Cobalt Strike servers](https://www.bleepingcomputer.com/news/security/microsoft-and-fortra-crack-down-on-malicious-cobalt-strike-servers/)
 * [Medusa ransomware claims attack on Open University of Cyprus](https://www.bleepingcomputer.com/news/security/medusa-ransomware-claims-attack-on-open-university-of-cyprus/)
-* [Money Message ransomware gang claims MSI breach, demands $4 million](https://www.bleepingcomputer.com/news/security/money-message-ransomware-gang-claims-msi-breach-demands-4-million/)
-* [Telegram now the go-to place for selling phishing tools and services](https://www.bleepingcomputer.com/news/security/telegram-now-the-go-to-place-for-selling-phishing-tools-and-services/)
 <!--END_SECTION:feed-->
 
 <!--
