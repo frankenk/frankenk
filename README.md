@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI warns of companies exploiting sextortion victims for profit](https://www.bleepingcomputer.com/news/security/fbi-warns-of-companies-exploiting-sextortion-victims-for-profit/)
 * [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
 * [UK criminal records office confirms cyber incident behind portal issues](https://www.bleepingcomputer.com/news/security/uk-criminal-records-office-confirms-cyber-incident-behind-portal-issues/)
 * [Hackers use Rilide browser extension to bypass 2FA, steal crypto](https://www.bleepingcomputer.com/news/security/hackers-use-rilide-browser-extension-to-bypass-2fa-steal-crypto/)
 * [Microsoft: Windows 10 21H2 is reaching end of service in June](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h2-is-reaching-end-of-service-in-june/)
-* [Microsoft and Fortra crack down on malicious Cobalt Strike servers](https://www.bleepingcomputer.com/news/security/microsoft-and-fortra-crack-down-on-malicious-cobalt-strike-servers/)
 <!--END_SECTION:feed-->
 
 <!--
