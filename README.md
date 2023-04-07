@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit available for critical bug in VM2 JavaScript sandbox library](https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-bug-in-vm2-javascript-sandbox-library/)
 * [MSI confirms security breach following ransomware attack claims](https://www.bleepingcomputer.com/news/security/msi-confirms-security-breach-following-ransomware-attack-claims/)
 * [Massive Balada Injector campaign attacking WordPress sites since 2017](https://www.bleepingcomputer.com/news/security/massive-balada-injector-campaign-attacking-wordpress-sites-since-2017/)
 * [Microsoft Edge can now generate images with AI](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-can-now-generate-images-with-ai/)
 * [FBI warns of companies exploiting sextortion victims for profit](https://www.bleepingcomputer.com/news/security/fbi-warns-of-companies-exploiting-sextortion-victims-for-profit/)
-* [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
 <!--END_SECTION:feed-->
 
 <!--
