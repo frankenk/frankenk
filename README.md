@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [MSI confirms security breach following ransomware attack claims](https://www.bleepingcomputer.com/news/security/msi-confirms-security-breach-following-ransomware-attack-claims/)
+* [Massive Balada Injector campaign attacking WordPress sites since 2017](https://www.bleepingcomputer.com/news/security/massive-balada-injector-campaign-attacking-wordpress-sites-since-2017/)
 * [Microsoft Edge can now generate images with AI](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-can-now-generate-images-with-ai/)
 * [FBI warns of companies exploiting sextortion victims for profit](https://www.bleepingcomputer.com/news/security/fbi-warns-of-companies-exploiting-sextortion-victims-for-profit/)
 * [Flipper Zero banned by Amazon for being a ‘card skimming device’](https://www.bleepingcomputer.com/news/technology/flipper-zero-banned-by-amazon-for-being-a-card-skimming-device-/)
-* [UK criminal records office confirms cyber incident behind portal issues](https://www.bleepingcomputer.com/news/security/uk-criminal-records-office-confirms-cyber-incident-behind-portal-issues/)
-* [Hackers use Rilide browser extension to bypass 2FA, steal crypto](https://www.bleepingcomputer.com/news/security/hackers-use-rilide-browser-extension-to-bypass-2fa-steal-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
