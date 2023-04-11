@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SAP releases security updates for two critical-severity flaws](https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-for-two-critical-severity-flaws/)
+* [OpenAI launches bug bounty program with rewards up to $20K](https://www.bleepingcomputer.com/news/security/openai-launches-bug-bounty-program-with-rewards-up-to-20k/)
+* [Hacked sites caught spreading malware via fake Chrome updates](https://www.bleepingcomputer.com/news/security/hacked-sites-caught-spreading-malware-via-fake-chrome-updates/)
 * [Windows zero-day vulnerability exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/windows-zero-day-vulnerability-exploited-in-ransomware-attacks/)
 * [Windows 11 KB5025239 cumulative update released with 25 changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5025239-cumulative-update-released-with-25-changes/)
-* [iPhones hacked via invisible calendar invites to drop QuaDream spyware](https://www.bleepingcomputer.com/news/security/iphones-hacked-via-invisible-calendar-invites-to-drop-quadream-spyware/)
-* [Windows 10 KB5025221 and KB5025229 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5025221-and-kb5025229-updates-released/)
-* [Microsoft April 2023 Patch Tuesday fixes 1 zero-day, 97 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2023-patch-tuesday-fixes-1-zero-day-97-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
