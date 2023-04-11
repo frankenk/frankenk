@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [iPhones hacked via invisible calendar invites to drop QuaDream spyware](https://www.bleepingcomputer.com/news/security/iphones-hacked-via-invisible-calendar-invites-to-drop-quadream-spyware/)
+* [Windows 10 KB5025221 and KB5025229 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5025221-and-kb5025229-updates-released/)
+* [Microsoft April 2023 Patch Tuesday fixes 1 zero-day, 97 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2023-patch-tuesday-fixes-1-zero-day-97-flaws/)
 * [Kodi discloses data breach after forum database for sale online](https://www.bleepingcomputer.com/news/security/kodi-discloses-data-breach-after-forum-database-for-sale-online/)
 * [3CX confirms North Korean hackers behind supply chain attack](https://www.bleepingcomputer.com/news/security/3cx-confirms-north-korean-hackers-behind-supply-chain-attack/)
-* [Cybercriminals charge $5K to add Android malware to Google Play](https://www.bleepingcomputer.com/news/security/cybercriminals-charge-5k-to-add-android-malware-to-google-play/)
-* [Apple fixes recently disclosed zero-days on older iPhones and iPads](https://www.bleepingcomputer.com/news/apple/apple-fixes-recently-disclosed-zero-days-on-older-iphones-and-ipads/)
-* [Windows 11 changing Print Screen to open Snipping Tool by default](https://www.bleepingcomputer.com/news/microsoft/windows-11-changing-print-screen-to-open-snipping-tool-by-default/)
 <!--END_SECTION:feed-->
 
 <!--
