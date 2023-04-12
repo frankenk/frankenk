@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hyundai data breach exposes owner details in France and Italy](https://www.bleepingcomputer.com/news/security/hyundai-data-breach-exposes-owner-details-in-france-and-italy/)
+* [How to Secure Web Applications in a Growing Digital Attack Surface](https://www.bleepingcomputer.com/news/apple/how-to-secure-web-applications-in-a-growing-digital-attack-surface/)
 * [Microsoft Bing introduces ChatGPT answers in search results](https://www.bleepingcomputer.com/news/microsoft/microsoft-bing-introduces-chatgpt-answers-in-search-results/)
 * [SAP releases security updates for two critical-severity flaws](https://www.bleepingcomputer.com/news/security/sap-releases-security-updates-for-two-critical-severity-flaws/)
 * [OpenAI launches bug bounty program with rewards up to $20K](https://www.bleepingcomputer.com/news/security/openai-launches-bug-bounty-program-with-rewards-up-to-20k/)
-* [Hacked sites caught spreading malware via fake Chrome updates](https://www.bleepingcomputer.com/news/security/hacked-sites-caught-spreading-malware-via-fake-chrome-updates/)
-* [Windows zero-day vulnerability exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/windows-zero-day-vulnerability-exploited-in-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
