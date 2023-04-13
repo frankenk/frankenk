@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Five arrested after 33,000 victims lose $98M to online investment fraud](https://www.bleepingcomputer.com/news/security/five-arrested-after-33-000-victims-lose-98m-to-online-investment-fraud/)
 * [Russian hackers linked to widespread attacks targeting NATO and EU](https://www.bleepingcomputer.com/news/security/russian-hackers-linked-to-widespread-attacks-targeting-nato-and-eu/)
 * [WhatsApp boosts defense against account takeover via malware](https://www.bleepingcomputer.com/news/security/whatsapp-boosts-defense-against-account-takeover-via-malware/)
 * [Legion: New hacktool steals credentials from misconfigured sites](https://www.bleepingcomputer.com/news/security/legion-new-hacktool-steals-credentials-from-misconfigured-sites/)
 * [DDoS attacks shifting to VPS infrastructure for increased power](https://www.bleepingcomputer.com/news/security/ddos-attacks-shifting-to-vps-infrastructure-for-increased-power/)
-* [Reddit is down, not loading content for mobile app users](https://www.bleepingcomputer.com/news/technology/reddit-is-down-not-loading-content-for-mobile-app-users/)
 <!--END_SECTION:feed-->
 
 <!--
