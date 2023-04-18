@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New sandbox escape PoC exploit available for VM2 library, patch now](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-poc-exploit-available-for-vm2-library-patch-now/)
+* [The Attacks that can Target your Windows Active Directory](https://www.bleepingcomputer.com/news/security/the-attacks-that-can-target-your-windows-active-directory/)
 * [Ex-Conti members and FIN7 devs team up to push new Domino malware](https://www.bleepingcomputer.com/news/security/ex-conti-members-and-fin7-devs-team-up-to-push-new-domino-malware/)
 * [Hackers abuse Google Command and Control red team tool in attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-command-and-control-red-team-tool-in-attacks/)
 * [New QBot email attacks use PDF and WSF combo to install malware](https://www.bleepingcomputer.com/news/security/new-qbot-email-attacks-use-pdf-and-wsf-combo-to-install-malware/)
-* [New Chameleon Android malware mimics bank, govt, and crypto apps](https://www.bleepingcomputer.com/news/security/new-chameleon-android-malware-mimics-bank-govt-and-crypto-apps/)
-* [LockBit ransomware encryptors found targeting Mac devices](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-encryptors-found-targeting-mac-devices/)
 <!--END_SECTION:feed-->
 
 <!--
