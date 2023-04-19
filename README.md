@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gangs abuse Process Explorer driver to kill security software](https://www.bleepingcomputer.com/news/security/ransomware-gangs-abuse-process-explorer-driver-to-kill-security-software/)
 * [UK cyber-argency warns of a new ‘class’ of Russian hackers](https://www.bleepingcomputer.com/news/security/uk-cyber-argency-warns-of-a-new-class-of-russian-hackers/)
 * [Hackers actively exploit critical RCE bug in PaperCut servers](https://www.bleepingcomputer.com/news/security/hackers-actively-exploit-critical-rce-bug-in-papercut-servers/)
 * [Google patches another actively exploited Chrome zero-day](https://www.bleepingcomputer.com/news/security/google-patches-another-actively-exploited-chrome-zero-day/)
 * [Play ransomware gang uses custom Shadow Volume Copy data-theft tool](https://www.bleepingcomputer.com/news/security/play-ransomware-gang-uses-custom-shadow-volume-copy-data-theft-tool/)
-* [March 2023 broke ransomware attack records with 459 incidents](https://www.bleepingcomputer.com/news/security/march-2023-broke-ransomware-attack-records-with-459-incidents/)
 <!--END_SECTION:feed-->
 
 <!--
