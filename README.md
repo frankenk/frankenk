@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google patches another actively exploited Chrome zero-day](https://www.bleepingcomputer.com/news/security/google-patches-another-actively-exploited-chrome-zero-day/)
+* [Play ransomware gang uses custom Shadow Volume Copy data-theft tool](https://www.bleepingcomputer.com/news/security/play-ransomware-gang-uses-custom-shadow-volume-copy-data-theft-tool/)
+* [March 2023 broke ransomware attack records with 459 incidents](https://www.bleepingcomputer.com/news/security/march-2023-broke-ransomware-attack-records-with-459-incidents/)
 * [Google Search outage prevents some from seeing search results](https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/)
 * [US, UK warn of govt hackers using custom malware on Cisco routers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-govt-hackers-using-custom-malware-on-cisco-routers/)
-* [Microsoft: Iranian hackers behind retaliatory cyberattacks on US orgs](https://www.bleepingcomputer.com/news/security/microsoft-iranian-hackers-behind-retaliatory-cyberattacks-on-us-orgs/)
-* [Australians lost a record $3.1 billion to scams last year](https://www.bleepingcomputer.com/news/security/australians-lost-a-record-31-billion-to-scams-last-year/)
-* [New sandbox escape PoC exploit available for VM2 library, patch now](https://www.bleepingcomputer.com/news/security/new-sandbox-escape-poc-exploit-available-for-vm2-library-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
