@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers actively exploit critical RCE bug in PaperCut servers](https://www.bleepingcomputer.com/news/security/hackers-actively-exploit-critical-rce-bug-in-papercut-servers/)
 * [Google patches another actively exploited Chrome zero-day](https://www.bleepingcomputer.com/news/security/google-patches-another-actively-exploited-chrome-zero-day/)
 * [Play ransomware gang uses custom Shadow Volume Copy data-theft tool](https://www.bleepingcomputer.com/news/security/play-ransomware-gang-uses-custom-shadow-volume-copy-data-theft-tool/)
 * [March 2023 broke ransomware attack records with 459 incidents](https://www.bleepingcomputer.com/news/security/march-2023-broke-ransomware-attack-records-with-459-incidents/)
 * [Google Search outage prevents some from seeing search results](https://www.bleepingcomputer.com/news/google/google-search-outage-prevents-some-from-seeing-search-results/)
-* [US, UK warn of govt hackers using custom malware on Cisco routers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-govt-hackers-using-custom-malware-on-cisco-routers/)
 <!--END_SECTION:feed-->
 
 <!--
