@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft 365 outage blocks access to web apps and services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/)
 * [Capita confirms hackers stole data in recent cyberattack](https://www.bleepingcomputer.com/news/security/capita-confirms-hackers-stole-data-in-recent-cyberattack/)
 * [3CX hack caused by trading software supply chain attack](https://www.bleepingcomputer.com/news/security/3cx-hack-caused-by-trading-software-supply-chain-attack/)
 * [Microsoft Defender update causes Windows Hardware Stack Protection mess](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-update-causes-windows-hardware-stack-protection-mess/)
 * [Microsoft SQL servers hacked to deploy Trigona ransomware](https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-deploy-trigona-ransomware/)
-* [Fortra shares findings on GoAnywhere MFT zero-day attacks](https://www.bleepingcomputer.com/news/security/fortra-shares-findings-on-goanywhere-mft-zero-day-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
