@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lazarus hackers now push Linux malware via fake job offers](https://www.bleepingcomputer.com/news/security/lazarus-hackers-now-push-linux-malware-via-fake-job-offers/)
 * [Microsoft 365 outage blocks access to web apps and services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-web-apps-and-services/)
 * [Capita confirms hackers stole data in recent cyberattack](https://www.bleepingcomputer.com/news/security/capita-confirms-hackers-stole-data-in-recent-cyberattack/)
 * [3CX hack caused by trading software supply chain attack](https://www.bleepingcomputer.com/news/security/3cx-hack-caused-by-trading-software-supply-chain-attack/)
 * [Microsoft Defender update causes Windows Hardware Stack Protection mess](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-update-causes-windows-hardware-stack-protection-mess/)
-* [Microsoft SQL servers hacked to deploy Trigona ransomware](https://www.bleepingcomputer.com/news/security/microsoft-sql-servers-hacked-to-deploy-trigona-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
