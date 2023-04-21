@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kubernetes RBAC abused to create persistent cluster backdoors](https://www.bleepingcomputer.com/news/security/kubernetes-rbac-abused-to-create-persistent-cluster-backdoors/)
 * [American Bar Association data breach hits 1.4 million members](https://www.bleepingcomputer.com/news/security/american-bar-association-data-breach-hits-14-million-members/)
 * [University websites using MediaWiki, TWiki hacked to serve Fortnite spam](https://www.bleepingcomputer.com/news/security/university-websites-using-mediawiki-twiki-hacked-to-serve-fortnite-spam/)
 * [Attackers use abandoned WordPress plugin to backdoor websites](https://www.bleepingcomputer.com/news/security/attackers-use-abandoned-wordpress-plugin-to-backdoor-websites/)
 * [Google: Ukraine targeted by 60% of Russian phishing attacks in 2023](https://www.bleepingcomputer.com/news/security/google-ukraine-targeted-by-60-percent-of-russian-phishing-attacks-in-2023/)
-* [VMware fixes vRealize bug that let attackers run code as root](https://www.bleepingcomputer.com/news/security/vmware-fixes-vrealize-bug-that-let-attackers-run-code-as-root/)
 <!--END_SECTION:feed-->
 
 <!--
