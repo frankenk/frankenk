@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GitHub now allows enabling private vulnerability reporting at scale](https://www.bleepingcomputer.com/news/security/github-now-allows-enabling-private-vulnerability-reporting-at-scale/)
+* [EvilExtractor malware activity spikes in Europe and the U.S.](https://www.bleepingcomputer.com/news/security/evilextractor-malware-activity-spikes-in-europe-and-the-us/)
+* [Google ads push BumbleBee malware used by ransomware gangs](https://www.bleepingcomputer.com/news/security/google-ads-push-bumblebee-malware-used-by-ransomware-gangs/)
 * [The Week in Ransomware - April 21st 2023 - Macs in the Crosshairs](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-21st-2023-macs-in-the-crosshairs/)
 * [Critical infrastructure also hit by supply chain attack behind 3CX breach](https://www.bleepingcomputer.com/news/security/critical-infrastructure-also-hit-by-supply-chain-attack-behind-3cx-breach/)
-* [GhostToken GCP flaw let attackers backdoor Google accounts](https://www.bleepingcomputer.com/news/security/ghosttoken-gcp-flaw-let-attackers-backdoor-google-accounts/)
-* [Kubernetes RBAC abused to create persistent cluster backdoors](https://www.bleepingcomputer.com/news/security/kubernetes-rbac-abused-to-create-persistent-cluster-backdoors/)
-* [American Bar Association data breach hits 1.4 million members](https://www.bleepingcomputer.com/news/security/american-bar-association-data-breach-hits-14-million-members/)
 <!--END_SECTION:feed-->
 
 <!--
