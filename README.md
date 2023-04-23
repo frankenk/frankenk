@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers can breach networks using data on resold corporate routers](https://www.bleepingcomputer.com/news/security/hackers-can-breach-networks-using-data-on-resold-corporate-routers/)
+* [Decoy Dog malware toolkit found after analyzing 70 billion DNS queries](https://www.bleepingcomputer.com/news/security/decoy-dog-malware-toolkit-found-after-analyzing-70-billion-dns-queries/)
 * [GitHub now allows enabling private vulnerability reporting at scale](https://www.bleepingcomputer.com/news/security/github-now-allows-enabling-private-vulnerability-reporting-at-scale/)
 * [EvilExtractor malware activity spikes in Europe and the U.S.](https://www.bleepingcomputer.com/news/security/evilextractor-malware-activity-spikes-in-europe-and-the-us/)
 * [Google ads push BumbleBee malware used by ransomware gangs](https://www.bleepingcomputer.com/news/security/google-ads-push-bumblebee-malware-used-by-ransomware-gangs/)
-* [The Week in Ransomware - April 21st 2023 - Macs in the Crosshairs](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-21st-2023-macs-in-the-crosshairs/)
-* [Critical infrastructure also hit by supply chain attack behind 3CX breach](https://www.bleepingcomputer.com/news/security/critical-infrastructure-also-hit-by-supply-chain-attack-behind-3cx-breach/)
 <!--END_SECTION:feed-->
 
 <!--
