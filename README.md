@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VirusTotal now has an AI-powered malware analysis feature](https://www.bleepingcomputer.com/news/security/virustotal-now-has-an-ai-powered-malware-analysis-feature/)
 * [Intel CPUs vulnerable to new transient execution side-channel attack](https://www.bleepingcomputer.com/news/security/intel-cpus-vulnerable-to-new-transient-execution-side-channel-attack/)
 * [Exploit released for PaperCut flaw abused to hijack servers, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-papercut-flaw-abused-to-hijack-servers-patch-now/)
 * [KuCoin's Twitter account hacked to promote crypto scam](https://www.bleepingcomputer.com/news/security/kucoins-twitter-account-hacked-to-promote-crypto-scam/)
 * [APC warns of critical unauthenticated RCE flaws in UPS software](https://www.bleepingcomputer.com/news/security/apc-warns-of-critical-unauthenticated-rce-flaws-in-ups-software/)
-* [Microsoft 365 search outage affects Outlook, Teams, and SharePoint](https://www.bleepingcomputer.com/news/security/microsoft-365-search-outage-affects-outlook-teams-and-sharepoint/)
 <!--END_SECTION:feed-->
 
 <!--
