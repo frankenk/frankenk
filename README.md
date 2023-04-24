@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft 365 search outage affects Outlook, Teams, and SharePoint](https://www.bleepingcomputer.com/news/security/microsoft-365-search-outage-affects-outlook-teams-and-sharepoint/)
 * [Yellow Pages Canada confirms cyber attack as Black Basta leaks data](https://www.bleepingcomputer.com/news/security/yellow-pages-canada-confirms-cyber-attack-as-black-basta-leaks-data/)
 * [Hackers can breach networks using data on resold corporate routers](https://www.bleepingcomputer.com/news/security/hackers-can-breach-networks-using-data-on-resold-corporate-routers/)
 * [Decoy Dog malware toolkit found after analyzing 70 billion DNS queries](https://www.bleepingcomputer.com/news/security/decoy-dog-malware-toolkit-found-after-analyzing-70-billion-dns-queries/)
 * [GitHub now allows enabling private vulnerability reporting at scale](https://www.bleepingcomputer.com/news/security/github-now-allows-enabling-private-vulnerability-reporting-at-scale/)
-* [EvilExtractor malware activity spikes in Europe and the U.S.](https://www.bleepingcomputer.com/news/security/evilextractor-malware-activity-spikes-in-europe-and-the-us/)
 <!--END_SECTION:feed-->
 
 <!--
