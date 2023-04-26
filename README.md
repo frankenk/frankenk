@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco discloses XSS zero-day flaw in server management tool](https://www.bleepingcomputer.com/news/security/cisco-discloses-xss-zero-day-flaw-in-server-management-tool/)
+* [Tencent QQ users hacked in mysterious malware attack, says ESET](https://www.bleepingcomputer.com/news/security/tencent-qq-users-hacked-in-mysterious-malware-attack-says-eset/)
 * [Google disrupts the CryptBot info-stealing malware operation](https://www.bleepingcomputer.com/news/security/google-disrupts-the-cryptbot-info-stealing-malware-operation/)
 * [Thousands of Apache Superset servers exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/thousands-of-apache-superset-servers-exposed-to-rce-attacks/)
 * [Microsoft rolls out Phone Link for iOS to all Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-phone-link-for-ios-to-all-windows-11-users/)
-* [Microsoft removes LSA Protection from Windows settings to fix bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-lsa-protection-from-windows-settings-to-fix-bug/)
-* [Chinese hackers use new Linux malware variants for espionage](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-linux-malware-variants-for-espionage/)
 <!--END_SECTION:feed-->
 
 <!--
