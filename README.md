@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Clop, LockBit ransomware gangs behind PaperCut server attacks](https://www.bleepingcomputer.com/news/security/clop-lockbit-ransomware-gangs-behind-papercut-server-attacks/)
+* [New Atomic macOS info-stealing malware targets 50 crypto wallets](https://www.bleepingcomputer.com/news/security/new-atomic-macos-info-stealing-malware-targets-50-crypto-wallets/)
+* [A '!password20231#' password may not be as complex as you think](https://www.bleepingcomputer.com/news/security/a-password20231-password-may-not-be-as-complex-as-you-think/)
+* [Microsoft: Clop and LockBit ransomware behind PaperCut server hacks](https://www.bleepingcomputer.com/news/security/microsoft-clop-and-lockbit-ransomware-behind-papercut-server-hacks/)
 * [Ukrainian arrested for selling data of 300M people to Russians](https://www.bleepingcomputer.com/news/security/ukrainian-arrested-for-selling-data-of-300m-people-to-russians/)
 * [Google will add End-to-End encryption to Google Authenticator](https://www.bleepingcomputer.com/news/google/google-will-add-end-to-end-encryption-to-google-authenticator/)
-* [PrestaShop fixes bug that lets any backend user delete databases](https://www.bleepingcomputer.com/news/security/prestashop-fixes-bug-that-lets-any-backend-user-delete-databases/)
-* [Cisco discloses XSS zero-day flaw in server management tool](https://www.bleepingcomputer.com/news/security/cisco-discloses-xss-zero-day-flaw-in-server-management-tool/)
 <!--END_SECTION:feed-->
 
 <!--
