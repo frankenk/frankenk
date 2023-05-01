@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [T-Mobile discloses second data breach since the start of 2023](https://www.bleepingcomputer.com/news/security/t-mobile-discloses-second-data-breach-since-the-start-of-2023/)
 * [Twitter bug let legacy verified accounts see blue check in their profile](https://www.bleepingcomputer.com/news/technology/twitter-bug-let-legacy-verified-accounts-see-blue-check-in-their-profile/)
 * [Hackers leak images to taunt Western Digital's cyberattack response](https://www.bleepingcomputer.com/news/security/hackers-leak-images-to-taunt-western-digitals-cyberattack-response/)
 * [Hackers use fake ‘Windows Update’ guides to target Ukrainian govt](https://www.bleepingcomputer.com/news/security/hackers-use-fake-windows-update-guides-to-target-ukrainian-govt/)
 * [Hackers target vulnerable Veeam backup servers exposed online](https://www.bleepingcomputer.com/news/security/hackers-target-vulnerable-veeam-backup-servers-exposed-online/)
-* [Cold storage giant Americold outage caused by network breach](https://www.bleepingcomputer.com/news/security/cold-storage-giant-americold-outage-caused-by-network-breach/)
 <!--END_SECTION:feed-->
 
 <!--
