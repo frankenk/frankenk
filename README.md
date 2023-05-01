@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Twitter bug lets legacy verified accounts get the blue check back](https://www.bleepingcomputer.com/news/technology/twitter-bug-lets-legacy-verified-accounts-get-the-blue-check-back/)
+* [Twitter bug let legacy verified accounts get the blue check back](https://www.bleepingcomputer.com/news/technology/twitter-bug-let-legacy-verified-accounts-get-the-blue-check-back/)
 * [Hackers leak images to taunt Western Digital's cyberattack response](https://www.bleepingcomputer.com/news/security/hackers-leak-images-to-taunt-western-digitals-cyberattack-response/)
 * [Hackers use fake ‘Windows Update’ guides to target Ukrainian govt](https://www.bleepingcomputer.com/news/security/hackers-use-fake-windows-update-guides-to-target-ukrainian-govt/)
 * [Hackers target vulnerable Veeam backup servers exposed online](https://www.bleepingcomputer.com/news/security/hackers-target-vulnerable-veeam-backup-servers-exposed-online/)
