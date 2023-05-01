@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New LOBSHOT malware gives hackers hidden VNC access to Windows devices](https://www.bleepingcomputer.com/news/security/new-lobshot-malware-gives-hackers-hidden-vnc-access-to-windows-devices/)
 * [T-Mobile discloses second data breach since the start of 2023](https://www.bleepingcomputer.com/news/security/t-mobile-discloses-second-data-breach-since-the-start-of-2023/)
 * [Twitter bug let legacy verified accounts see blue check in their profile](https://www.bleepingcomputer.com/news/technology/twitter-bug-let-legacy-verified-accounts-see-blue-check-in-their-profile/)
 * [Hackers leak images to taunt Western Digital's cyberattack response](https://www.bleepingcomputer.com/news/security/hackers-leak-images-to-taunt-western-digitals-cyberattack-response/)
 * [Hackers use fake ‘Windows Update’ guides to target Ukrainian govt](https://www.bleepingcomputer.com/news/security/hackers-use-fake-windows-update-guides-to-target-ukrainian-govt/)
-* [Hackers target vulnerable Veeam backup servers exposed online](https://www.bleepingcomputer.com/news/security/hackers-target-vulnerable-veeam-backup-servers-exposed-online/)
 <!--END_SECTION:feed-->
 
 <!--
