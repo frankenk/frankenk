@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit 5-year-old unpatched flaw in TBK DVR devices](https://www.bleepingcomputer.com/news/security/hackers-exploit-5-year-old-unpatched-flaw-in-tbk-dvr-devices/)
 * [Police operation 'SpecTor' arrests 288 dark web drug vendors and buyers](https://www.bleepingcomputer.com/news/security/police-operation-spector-arrests-288-dark-web-drug-vendors-and-buyers/)
 * [How To Secure Web Applications Against AI-assisted Cyber Attacks](https://www.bleepingcomputer.com/news/security/how-to-secure-web-applications-against-ai-assisted-cyber-attacks/)
 * [Apple’s first Rapid Security Response patch fails to install on iPhones](https://www.bleepingcomputer.com/news/apple/apples-first-rapid-security-response-patch-fails-to-install-on-iphones/)
 * [Twitter outage logs you out and won’t let you back in](https://www.bleepingcomputer.com/news/technology/twitter-outage-logs-you-out-and-wont-let-you-back-in/)
-* [New LOBSHOT malware gives hackers hidden VNC access to Windows devices](https://www.bleepingcomputer.com/news/security/new-lobshot-malware-gives-hackers-hidden-vnc-access-to-windows-devices/)
 <!--END_SECTION:feed-->
 
 <!--
