@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google starts rolling out passkey support for Google Accounts](https://www.bleepingcomputer.com/news/security/google-starts-rolling-out-passkey-support-for-google-accounts/)
 * [Level Finance crypto exchange hacked after two security audits](https://www.bleepingcomputer.com/news/security/level-finance-crypto-exchange-hacked-after-two-security-audits/)
 * [1Password explains scary Secret Key and password change alerts](https://www.bleepingcomputer.com/news/security/1password-explains-scary-secret-key-and-password-change-alerts/)
 * [FBI seizes 9 crypto exchanges used to launder ransomware payments](https://www.bleepingcomputer.com/news/security/fbi-seizes-9-crypto-exchanges-used-to-launder-ransomware-payments/)
 * [Google will remove secure website indicators in Chrome 117](https://www.bleepingcomputer.com/news/google/google-will-remove-secure-website-indicators-in-chrome-117/)
-* [Apple and Google team up to fight Bluetooth tracker stalking](https://www.bleepingcomputer.com/news/technology/apple-and-google-team-up-to-fight-bluetooth-tracker-stalking/)
 <!--END_SECTION:feed-->
 
 <!--
