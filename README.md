@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Drone goggles maker claims ‘ransomware’ attack after firmware sabotage](https://www.bleepingcomputer.com/news/technology/drone-goggles-maker-claims-ransomware-attack-after-firmware-sabotage/)
+* [City of Dallas hit by ransomware attack impacting IT services](https://www.bleepingcomputer.com/news/security/city-of-dallas-hit-by-ransomware-attack-impacting-it-services/)
+* [Facebook disrupts new NodeStealer information-stealing malware](https://www.bleepingcomputer.com/news/security/facebook-disrupts-new-nodestealer-information-stealing-malware/)
 * [Windows admins can now sign up for ‘known issue’ email alerts](https://www.bleepingcomputer.com/news/microsoft/windows-admins-can-now-sign-up-for-known-issue-email-alerts/)
 * [Police dismantles Try2Check credit card verifier used by dark web markets](https://www.bleepingcomputer.com/news/security/police-dismantles-try2check-credit-card-verifier-used-by-dark-web-markets/)
-* [Researcher hijacks popular Packagist PHP packages to get a job](https://www.bleepingcomputer.com/news/security/researcher-hijacks-popular-packagist-php-packages-to-get-a-job/)
-* [Brightline data breach impacts 783K pediatric mental health patients](https://www.bleepingcomputer.com/news/security/brightline-data-breach-impacts-783k-pediatric-mental-health-patients/)
-* [Google adds passkeys support for passwordless sign-in on all accounts](https://www.bleepingcomputer.com/news/security/google-adds-passkeys-support-for-passwordless-sign-in-on-all-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
