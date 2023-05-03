@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian hackers use WinRAR to wipe Ukraine state agency’s data](https://www.bleepingcomputer.com/news/security/russian-hackers-use-winrar-to-wipe-ukraine-state-agencys-data/)
 * [Drone goggles maker claims ‘ransomware’ attack after firmware sabotage](https://www.bleepingcomputer.com/news/technology/drone-goggles-maker-claims-ransomware-attack-after-firmware-sabotage/)
 * [City of Dallas hit by ransomware attack impacting IT services](https://www.bleepingcomputer.com/news/security/city-of-dallas-hit-by-ransomware-attack-impacting-it-services/)
 * [Facebook disrupts new NodeStealer information-stealing malware](https://www.bleepingcomputer.com/news/security/facebook-disrupts-new-nodestealer-information-stealing-malware/)
 * [Windows admins can now sign up for ‘known issue’ email alerts](https://www.bleepingcomputer.com/news/microsoft/windows-admins-can-now-sign-up-for-known-issue-email-alerts/)
-* [Police dismantles Try2Check credit card verifier used by dark web markets](https://www.bleepingcomputer.com/news/security/police-dismantles-try2check-credit-card-verifier-used-by-dark-web-markets/)
 <!--END_SECTION:feed-->
 
 <!--
