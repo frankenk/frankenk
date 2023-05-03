@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [City of Dallas hit by Royal ransomware attack impacting IT services](https://www.bleepingcomputer.com/news/security/city-of-dallas-hit-by-royal-ransomware-attack-impacting-it-services/)
 * [Hackers start using double DLL sideloading to evade detection](https://www.bleepingcomputer.com/news/security/hackers-start-using-double-dll-sideloading-to-evade-detection/)
 * [Russian hackers use WinRAR to wipe Ukraine state agency’s data](https://www.bleepingcomputer.com/news/security/russian-hackers-use-winrar-to-wipe-ukraine-state-agencys-data/)
-* [Drone goggles maker claims ‘ransomware’ attack after firmware sabotage](https://www.bleepingcomputer.com/news/technology/drone-goggles-maker-claims-ransomware-attack-after-firmware-sabotage/)
-* [City of Dallas hit by ransomware attack impacting IT services](https://www.bleepingcomputer.com/news/security/city-of-dallas-hit-by-ransomware-attack-impacting-it-services/)
+* [Drone goggles maker claims firmware sabotaged to ‘brick’ devices](https://www.bleepingcomputer.com/news/technology/drone-goggles-maker-claims-firmware-sabotaged-to-brick-devices/)
 * [Facebook disrupts new NodeStealer information-stealing malware](https://www.bleepingcomputer.com/news/security/facebook-disrupts-new-nodestealer-information-stealing-malware/)
 <!--END_SECTION:feed-->
 
