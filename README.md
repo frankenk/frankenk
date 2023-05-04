@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gang hijacks university alert system to issue threats](https://www.bleepingcomputer.com/news/security/ransomware-gang-hijacks-university-alert-system-to-issue-threats/)
 * [How To Create Seamless Digital Experiences For Web And Mobile](https://www.bleepingcomputer.com/news/security/how-to-create-seamless-digital-experiences-for-web-and-mobile/)
 * [City of Dallas hit by Royal ransomware attack impacting IT services](https://www.bleepingcomputer.com/news/security/city-of-dallas-hit-by-royal-ransomware-attack-impacting-it-services/)
 * [Hackers start using double DLL sideloading to evade detection](https://www.bleepingcomputer.com/news/security/hackers-start-using-double-dll-sideloading-to-evade-detection/)
 * [Russian hackers use WinRAR to wipe Ukraine state agency’s data](https://www.bleepingcomputer.com/news/security/russian-hackers-use-winrar-to-wipe-ukraine-state-agencys-data/)
-* [Drone goggles maker claims firmware sabotaged to ‘brick’ devices](https://www.bleepingcomputer.com/news/technology/drone-goggles-maker-claims-firmware-sabotaged-to-brick-devices/)
 <!--END_SECTION:feed-->
 
 <!--
