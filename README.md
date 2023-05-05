@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Android updates fix kernel bug exploited in spyware attacks](https://www.bleepingcomputer.com/news/security/new-android-updates-fix-kernel-bug-exploited-in-spyware-attacks/)
+* [ALPHV gang claims ransomware attack on Constellation Software](https://www.bleepingcomputer.com/news/security/alphv-gang-claims-ransomware-attack-on-constellation-software/)
 * [WordPress custom field plugin bug exposes over 1M sites to XSS attacks](https://www.bleepingcomputer.com/news/security/wordpress-custom-field-plugin-bug-exposes-over-1m-sites-to-xss-attacks/)
 * [Kimsuky hackers use new recon tool to find security gaps](https://www.bleepingcomputer.com/news/security/kimsuky-hackers-use-new-recon-tool-to-find-security-gaps/)
 * [Get 50% off Malwarebytes Premium + Privacy in this limited-time deal](https://www.bleepingcomputer.com/news/security/get-50-percent-off-malwarebytes-premium-plus-privacy-in-this-limited-time-deal/)
-* [New Fleckpe Android malware installed 600K times on Google Play](https://www.bleepingcomputer.com/news/security/new-fleckpe-android-malware-installed-600k-times-on-google-play/)
-* [Microsoft testing improved Explorer details pane, Windows Spotlight](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-improved-explorer-details-pane-windows-spotlight/)
 <!--END_SECTION:feed-->
 
 <!--
