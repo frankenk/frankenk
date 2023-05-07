@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Meet Akira — A new ransomware operation targeting the enterprise](https://www.bleepingcomputer.com/news/security/meet-akira-a-new-ransomware-operation-targeting-the-enterprise/)
 * [Twitter says 'security incident' exposed private Circle tweets](https://www.bleepingcomputer.com/news/security/twitter-says-security-incident-exposed-private-circle-tweets/)
 * [New PaperCut RCE exploit created that bypasses existing detections](https://www.bleepingcomputer.com/news/security/new-papercut-rce-exploit-created-that-bypasses-existing-detections/)
 * [Z-Library eBook site disrupted again by FBI domain seizures](https://www.bleepingcomputer.com/news/technology/z-library-ebook-site-disrupted-again-by-fbi-domain-seizures/)
 * [The Week in Ransomware - May 5th 2023 - Targeting the public sector](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-5th-2023-targeting-the-public-sector/)
-* [New Android FluHorse malware steals your passwords, 2FA codes](https://www.bleepingcomputer.com/news/security/new-android-fluhorse-malware-steals-your-passwords-2fa-codes/)
 <!--END_SECTION:feed-->
 
 <!--
