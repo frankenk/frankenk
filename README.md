@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [YouTube tests blocking videos unless you disable ad blockers](https://www.bleepingcomputer.com/news/technology/youtube-tests-blocking-videos-unless-you-disable-ad-blockers/)
+* [Fake in-browser Windows updates push Aurora info-stealer malware](https://www.bleepingcomputer.com/news/security/fake-in-browser-windows-updates-push-aurora-info-stealer-malware/)
 * [New ransomware decryptor recovers data from partially encrypted files](https://www.bleepingcomputer.com/news/security/new-ransomware-decryptor-recovers-data-from-partially-encrypted-files/)
 * [Cybersecurity firm Dragos discloses cybersecurity incident, extortion attempt](https://www.bleepingcomputer.com/news/security/cybersecurity-firm-dragos-discloses-cybersecurity-incident-extortion-attempt/)
 * [Surprise! Coldplay lyrics hidden in Kingston SSD firmware](https://www.bleepingcomputer.com/news/technology/surprise-coldplay-lyrics-hidden-in-kingston-ssd-firmware/)
-* [Top 5 Password Cracking Techniques Used by Hackers](https://www.bleepingcomputer.com/news/security/top-5-password-cracking-techniques-used-by-hackers/)
-* [Hacker ‘PlugwalkJoe’ pleads guilty to 2020 Twitter breach](https://www.bleepingcomputer.com/news/security/hacker-plugwalkjoe-pleads-guilty-to-2020-twitter-breach/)
 <!--END_SECTION:feed-->
 
 <!--
