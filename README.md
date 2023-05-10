@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Surprise! Coldplay lyrics hidden in Kingston SSD firmware](https://www.bleepingcomputer.com/news/technology/surprise-coldplay-lyrics-hidden-in-kingston-ssd-firmware/)
+* [Top 5 Password Cracking Techniques Used by Hackers](https://www.bleepingcomputer.com/news/security/top-5-password-cracking-techniques-used-by-hackers/)
 * [Hacker ‘PlugwalkJoe’ pleads guilty to 2020 Twitter breach](https://www.bleepingcomputer.com/news/security/hacker-plugwalkjoe-pleads-guilty-to-2020-twitter-breach/)
 * [New 'Greatness' service simplifies Microsoft 365 phishing attacks](https://www.bleepingcomputer.com/news/security/new-greatness-service-simplifies-microsoft-365-phishing-attacks/)
 * [GitHub now auto-blocks token and API key leaks for all repos](https://www.bleepingcomputer.com/news/security/github-now-auto-blocks-token-and-api-key-leaks-for-all-repos/)
-* [Spanish police dismantle phishing operation linked to crime ring](https://www.bleepingcomputer.com/news/security/spanish-police-dismantle-phishing-operation-linked-to-crime-ring/)
-* [Critical Ruckus RCE flaw exploited by new DDoS botnet malware](https://www.bleepingcomputer.com/news/security/critical-ruckus-rce-flaw-exploited-by-new-ddos-botnet-malware/)
 <!--END_SECTION:feed-->
 
 <!--
