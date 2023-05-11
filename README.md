@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress Elementor plugin bug let attackers hijack accounts on 1M sites](https://www.bleepingcomputer.com/news/security/wordpress-elementor-plugin-bug-let-attackers-hijack-accounts-on-1m-sites/)
 * [Former Ubiquiti dev who extorted the firm gets six years in prison](https://www.bleepingcomputer.com/news/security/former-ubiquiti-dev-who-extorted-the-firm-gets-six-years-in-prison/)
 * [Twitter rolls out encrypted DMs, but only for paying accounts](https://www.bleepingcomputer.com/news/security/twitter-rolls-out-encrypted-dms-but-only-for-paying-accounts/)
 * [RapperBot DDoS malware adds cryptojacking as new revenue stream](https://www.bleepingcomputer.com/news/security/rapperbot-ddos-malware-adds-cryptojacking-as-new-revenue-stream/)
 * [Google brings dark web monitoring to all U.S. Gmail users](https://www.bleepingcomputer.com/news/google/google-brings-dark-web-monitoring-to-all-us-gmail-users/)
-* [North Korean hackers breached major hospital in Seoul to steal data](https://www.bleepingcomputer.com/news/security/north-korean-hackers-breached-major-hospital-in-seoul-to-steal-data/)
 <!--END_SECTION:feed-->
 
 <!--
