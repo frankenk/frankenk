@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of critical Ruckus bug used to infect Wi-Fi access points](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-ruckus-bug-used-to-infect-wi-fi-access-points/)
 * [FBI: Bl00dy Ransomware targets education orgs in PaperCut attacks](https://www.bleepingcomputer.com/news/security/fbi-bl00dy-ransomware-targets-education-orgs-in-papercut-attacks/)
 * [Toyota: Car location data of 2 million customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 * [Microsoft patches bypass for recently fixed Outlook zero-click bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-bypass-for-recently-fixed-outlook-zero-click-bug/)
 * [Stealthier version of Linux BPFDoor malware spotted in the wild](https://www.bleepingcomputer.com/news/security/stealthier-version-of-linux-bpfdoor-malware-spotted-in-the-wild/)
-* [Multinational tech firm ABB hit by Black Basta ransomware attack](https://www.bleepingcomputer.com/news/security/multinational-tech-firm-abb-hit-by-black-basta-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
