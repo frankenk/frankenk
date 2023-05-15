@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers target Wordpress plugin flaw after PoC exploit released](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-plugin-flaw-after-poc-exploit-released/)
+* [Brave unveils new "Forgetful Browsing" anti-tracking feature](https://www.bleepingcomputer.com/news/security/brave-unveils-new-forgetful-browsing-anti-tracking-feature/)
+* [Capita warns customers they should assume data was stolen](https://www.bleepingcomputer.com/news/security/capita-warns-customers-they-should-assume-data-was-stolen/)
 * [The Week in Ransomware - May 12th 2023 - New Gangs Emerge](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-12th-2023-new-gangs-emerge/)
 * [Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
-* [CISA warns of critical Ruckus bug used to infect Wi-Fi access points](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-ruckus-bug-used-to-infect-wi-fi-access-points/)
-* [FBI: Bl00dy Ransomware targets education orgs in PaperCut attacks](https://www.bleepingcomputer.com/news/security/fbi-bl00dy-ransomware-targets-education-orgs-in-papercut-attacks/)
-* [Toyota: Car location data of 2 million customers exposed for ten years](https://www.bleepingcomputer.com/news/security/toyota-car-location-data-of-2-million-customers-exposed-for-ten-years/)
 <!--END_SECTION:feed-->
 
 <!--
