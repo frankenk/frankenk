@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New RA Group ransomware targets U.S. orgs in double-extortion attacks](https://www.bleepingcomputer.com/news/security/new-ra-group-ransomware-targets-us-orgs-in-double-extortion-attacks/)
 * [Hackers target Wordpress plugin flaw after PoC exploit released](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-plugin-flaw-after-poc-exploit-released/)
 * [Brave unveils new "Forgetful Browsing" anti-tracking feature](https://www.bleepingcomputer.com/news/security/brave-unveils-new-forgetful-browsing-anti-tracking-feature/)
 * [Capita warns customers they should assume data was stolen](https://www.bleepingcomputer.com/news/security/capita-warns-customers-they-should-assume-data-was-stolen/)
 * [The Week in Ransomware - May 12th 2023 - New Gangs Emerge](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-12th-2023-new-gangs-emerge/)
-* [Discord discloses data breach after support agent got hacked](https://www.bleepingcomputer.com/news/security/discord-discloses-data-breach-after-support-agent-got-hacked/)
 <!--END_SECTION:feed-->
 
 <!--
