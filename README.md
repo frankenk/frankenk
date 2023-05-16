@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Open-source Cobalt Strike port 'Geacon' used in macOS attacks](https://www.bleepingcomputer.com/news/security/open-source-cobalt-strike-port-geacon-used-in-macos-attacks/)
 * [Philadelphia Inquirer operations disrupted after cyberattack](https://www.bleepingcomputer.com/news/security/philadelphia-inquirer-operations-disrupted-after-cyberattack/)
 * [The new info-stealing malware operations to watch out for](https://www.bleepingcomputer.com/news/security/the-new-info-stealing-malware-operations-to-watch-out-for/)
 * [VirusTotal AI code analysis expands Windows, Linux script support](https://www.bleepingcomputer.com/news/security/virustotal-ai-code-analysis-expands-windows-linux-script-support/)
 * [WhatsApp now lets you lock chats with a password or fingerprint](https://www.bleepingcomputer.com/news/security/whatsapp-now-lets-you-lock-chats-with-a-password-or-fingerprint/)
-* [Ransomware gang steals data of 5.8 million PharMerica patients](https://www.bleepingcomputer.com/news/security/ransomware-gang-steals-data-of-58-million-pharmerica-patients/)
 <!--END_SECTION:feed-->
 
 <!--
