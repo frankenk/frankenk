@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI confirms BianLian ransomware switch to extortion only attacks](https://www.bleepingcomputer.com/news/security/fbi-confirms-bianlian-ransomware-switch-to-extortion-only-attacks/)
 * [Hackers use Azure Serial Console for stealthy access to VMs](https://www.bleepingcomputer.com/news/security/hackers-use-azure-serial-console-for-stealthy-access-to-vms/)
 * [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/)
 * [Microsoft investigates slow Windows VPN speeds after May updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-slow-windows-vpn-speeds-after-may-updates/)
 * [GitHub reveals reason behind last week’s string of outages](https://www.bleepingcomputer.com/news/technology/github-reveals-reason-behind-last-weeks-string-of-outages/)
-* [Apple blocked 1.7 million apps for privacy, security issues in 2022](https://www.bleepingcomputer.com/news/apple/apple-blocked-17-million-apps-for-privacy-security-issues-in-2022/)
 <!--END_SECTION:feed-->
 
 <!--
