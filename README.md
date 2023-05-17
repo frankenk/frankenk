@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious Microsoft VSCode extensions steal passwords, open remote shells](https://www.bleepingcomputer.com/news/security/malicious-microsoft-vscode-extensions-steal-passwords-open-remote-shells/)
 * [ScanSource says ransomware attack behind multi-day outages](https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/)
 * [FBI confirms BianLian ransomware switch to extortion only attacks](https://www.bleepingcomputer.com/news/security/fbi-confirms-bianlian-ransomware-switch-to-extortion-only-attacks/)
 * [Hackers use Azure Serial Console for stealthy access to VMs](https://www.bleepingcomputer.com/news/security/hackers-use-azure-serial-console-for-stealthy-access-to-vms/)
 * [New ZIP domains spark debate among cybersecurity experts](https://www.bleepingcomputer.com/news/security/new-zip-domains-spark-debate-among-cybersecurity-experts/)
-* [Microsoft investigates slow Windows VPN speeds after May updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-slow-windows-vpn-speeds-after-may-updates/)
 <!--END_SECTION:feed-->
 
 <!--
