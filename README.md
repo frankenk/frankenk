@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PyPI temporarily pauses new users, projects amid high volume of malware](https://www.bleepingcomputer.com/news/security/pypi-temporarily-pauses-new-users-projects-amid-high-volume-of-malware/)
 * [Cloned CapCut websites push information stealing malware](https://www.bleepingcomputer.com/news/security/cloned-capcut-websites-push-information-stealing-malware/)
 * [HP rushes to fix bricked printers after faulty firmware update](https://www.bleepingcomputer.com/news/technology/hp-rushes-to-fix-bricked-printers-after-faulty-firmware-update/)
 * [npm packages caught serving TurkoRAT binaries that mimic NodeJS](https://www.bleepingcomputer.com/news/security/npm-packages-caught-serving-turkorat-binaries-that-mimic-nodejs/)
 * [The Week in Ransomware - May 19th 2023 - A Shifting Landscape](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-19th-2023-a-shifting-landscape/)
-* [CISA warns of Samsung ASLR bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-samsung-aslr-bypass-flaw-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
