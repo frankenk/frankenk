@@ -3,6 +3,8 @@
 <!--START_SECTION:feed-->
 * [Crypto phishing service Inferno Drainer defrauds thousands of victims](https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/)
 * [CISA orders govt agencies to patch iPhone bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/)
+* [EU slaps Meta with * [Crypto phishing service Inferno Drainer defrauds thousands of victims](https://www.bleepingcomputer.com/news/security/crypto-phishing-service-inferno-drainer-defrauds-thousands-of-victims/)
+* [CISA orders govt agencies to patch iPhone bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/)
 * [EU slaps Meta with * [CISA orders govt agencies to patch iPhone bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-iphone-bugs-exploited-in-attacks/)
 * [EU slaps Meta with * [EU slaps Meta with * [Microsoft Edge is getting 'Edge for Gamers' mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-getting-edge-for-gamers-mode/)
 * [Google will delete accounts inactive for more than 2 years](https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/)
@@ -16,6 +18,8 @@
 * [An AI-based Chrome Extension Against Phishing, Malware, and Ransomware](https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/)
 * [Microsoft Edge is getting 'Edge for Gamers' mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-getting-edge-for-gamers-mode/)
 * [Google will delete accounts inactive for more than 2 years](https://www.bleepingcomputer.com/news/security/google-will-delete-accounts-inactive-for-more-than-2-years/).3 billion fine for moving data to US servers](https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/)
+* [An AI-based Chrome Extension Against Phishing, Malware, and Ransomware](https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/)
+* [Microsoft Edge is getting 'Edge for Gamers' mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-getting-edge-for-gamers-mode/).3 billion fine for moving data to US servers](https://www.bleepingcomputer.com/news/technology/eu-slaps-meta-with-13-billion-fine-for-moving-data-to-us-servers/)
 * [An AI-based Chrome Extension Against Phishing, Malware, and Ransomware](https://www.bleepingcomputer.com/news/security/an-ai-based-chrome-extension-against-phishing-malware-and-ransomware/)
 * [Microsoft Edge is getting 'Edge for Gamers' mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-getting-edge-for-gamers-mode/)
 <!--END_SECTION:feed-->
