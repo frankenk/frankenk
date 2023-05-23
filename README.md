@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft announces Windows 11 ‘Moment 3’ update, here's the new features](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-11-moment-3-update-heres-the-new-features/)
+* [New AhRat Android malware hidden in app with 50,000 installs](https://www.bleepingcomputer.com/news/security/new-ahrat-android-malware-hidden-in-app-with-50-000-installs/)
 * [Cuba ransomware claims cyberattack on Philadelphia Inquirer](https://www.bleepingcomputer.com/news/security/cuba-ransomware-claims-cyberattack-on-philadelphia-inquirer/)
 * [Google launches bug bounty program for its Android applications](https://www.bleepingcomputer.com/news/google/google-launches-bug-bounty-program-for-its-android-applications/)
 * [Microsoft 365 hit by new outage causing connectivity issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-hit-by-new-outage-causing-connectivity-issues/)
-* [Malicious Windows kernel drivers used in BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/malicious-windows-kernel-drivers-used-in-blackcat-ransomware-attacks/)
-* [Pentagon explosion hoax goes viral after verified Twitter accounts push](https://www.bleepingcomputer.com/news/security/pentagon-explosion-hoax-goes-viral-after-verified-twitter-accounts-push/)
 <!--END_SECTION:feed-->
 
 <!--
