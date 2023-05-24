@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows Copilot: Your new AI assistant for Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-copilot-your-new-ai-assistant-for-windows-11/)
 * [GoldenJackal state hackers silently attacking govts since 2019](https://www.bleepingcomputer.com/news/security/goldenjackal-state-hackers-silently-attacking-govts-since-2019/)
 * [Windows 11 getting native support for 7-Zip, RAR, and GZ archives](https://www.bleepingcomputer.com/news/microsoft/windows-11-getting-native-support-for-7-zip-rar-and-gz-archives/)
 * [New Microsoft PowerToy lets you control 4 PCs with one mouse, keyboard](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-powertoy-lets-you-control-4-pcs-with-one-mouse-keyboard/)
 * [Windows 11 KB5026436 fixes printing and audio playback issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5026436-fixes-printing-and-audio-playback-issues/)
-* [US sanctions orgs behind North Korea’s ‘illicit’ IT worker army](https://www.bleepingcomputer.com/news/security/us-sanctions-orgs-behind-north-koreas-illicit-it-worker-army/)
 <!--END_SECTION:feed-->
 
 <!--
