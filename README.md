@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Zyxel warns of critical vulnerabilities in firewall and VPN devices](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-vulnerabilities-in-firewall-and-vpn-devices/)
 * [ChatGPT is down worldwide - OpenAI confirms issues](https://www.bleepingcomputer.com/news/technology/chatgpt-is-down-worldwide-openai-confirms-issues/)
 * [‘Operation Magalenha’ targets credentials of 30 Portuguese banks](https://www.bleepingcomputer.com/news/security/operation-magalenha-targets-credentials-of-30-portuguese-banks/)
 * [New Buhti ransomware gang uses leaked Windows, Linux encryptors](https://www.bleepingcomputer.com/news/security/new-buhti-ransomware-gang-uses-leaked-windows-linux-encryptors/)
 * [Microsoft: Windows issue causes file copying, saving failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-issue-causes-file-copying-saving-failures/)
-* [Hackers target 1.5M WordPress sites with cookie consent plugin exploit](https://www.bleepingcomputer.com/news/security/hackers-target-15m-wordpress-sites-with-cookie-consent-plugin-exploit/)
 <!--END_SECTION:feed-->
 
 <!--
