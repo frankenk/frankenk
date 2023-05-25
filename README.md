@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows issue causes file copying, saving failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-issue-causes-file-copying-saving-failures/)
 * [Hackers target 1.5M WordPress sites with cookie consent plugin exploit](https://www.bleepingcomputer.com/news/security/hackers-target-15m-wordpress-sites-with-cookie-consent-plugin-exploit/)
 * [Chinese hackers breach US critical infrastructure in stealthy attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-us-critical-infrastructure-in-stealthy-attacks/)
 * [GitLab 'strongly recommends' patching max severity flaw ASAP](https://www.bleepingcomputer.com/news/security/gitlab-strongly-recommends-patching-max-severity-flaw-asap/)
 * [New PowerExchange malware backdoors Microsoft Exchange servers](https://www.bleepingcomputer.com/news/security/new-powerexchange-malware-backdoors-microsoft-exchange-servers/)
-* [Windows 11 Moment 3 released with KB5026446 update, how to enable](https://www.bleepingcomputer.com/news/microsoft/windows-11-moment-3-released-with-kb5026446-update-how-to-enable/)
 <!--END_SECTION:feed-->
 
 <!--
