@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BlackByte ransomware claims City of Augusta cyberattack](https://www.bleepingcomputer.com/news/security/blackbyte-ransomware-claims-city-of-augusta-cyberattack/)
 * [Windows 11 finally gets a 'never combine taskbar buttons' mode](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-never-combine-taskbar-buttons-mode/)
 * [Predator: Looking under the hood of Intellexa’s Android spyware](https://www.bleepingcomputer.com/news/security/predator-looking-under-the-hood-of-intellexas-android-spyware/)
 * [Microsoft 365 phishing attacks use encrypted RPMSG messages](https://www.bleepingcomputer.com/news/security/microsoft-365-phishing-attacks-use-encrypted-rpmsg-messages/)
 * [D-Link fixes auth bypass and RCE flaws in D-View 8 software](https://www.bleepingcomputer.com/news/security/d-link-fixes-auth-bypass-and-rce-flaws-in-d-view-8-software/)
-* [New Russian-linked CosmicEnergy malware targets industrial systems](https://www.bleepingcomputer.com/news/security/new-russian-linked-cosmicenergy-malware-targets-industrial-systems/)
 <!--END_SECTION:feed-->
 
 <!--
