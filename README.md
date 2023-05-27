@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns govt agencies of recently patched Barracuda zero-day](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-of-recently-patched-barracuda-zero-day/)
+* [QBot malware abuses Windows WordPad EXE to infect devices](https://www.bleepingcomputer.com/news/security/qbot-malware-abuses-windows-wordpad-exe-to-infect-devices/)
+* [Hot Pixels attack checks CPU temp, power changes to steal data](https://www.bleepingcomputer.com/news/security/hot-pixels-attack-checks-cpu-temp-power-changes-to-steal-data/)
 * [The Week in Ransomware - May 26th 2023 - Cities Under Attack](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-26th-2023-cities-under-attack/)
 * [Microsoft Defender Antivirus gets ‘performance mode’ for Dev Drives](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-antivirus-gets-performance-mode-for-dev-drives/)
-* [US govt contractor ABB confirms ransomware attack, data theft](https://www.bleepingcomputer.com/news/security/us-govt-contractor-abb-confirms-ransomware-attack-data-theft/)
-* [Emby shuts down user media servers hacked in recent attack](https://www.bleepingcomputer.com/news/security/emby-shuts-down-user-media-servers-hacked-in-recent-attack/)
-* [Mozilla stops Firefox fullscreen VPN ads after user outrage](https://www.bleepingcomputer.com/news/security/mozilla-stops-firefox-fullscreen-vpn-ads-after-user-outrage/)
 <!--END_SECTION:feed-->
 
 <!--
