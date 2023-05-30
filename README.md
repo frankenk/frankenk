@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress force installs critical Jetpack patch on 5 million sites](https://www.bleepingcomputer.com/news/security/wordpress-force-installs-critical-jetpack-patch-on-5-million-sites/)
 * [Barracuda zero-day abused since 2022 to drop new malware, steal data](https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/)
 * [WordPress plugin ‘Gravity Forms’ vulnerable to PHP object injection](https://www.bleepingcomputer.com/news/security/wordpress-plugin-gravity-forms-vulnerable-to-php-object-injection/)
 * [Microsoft finds macOS bug that lets hackers bypass SIP root restrictions](https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/)
 * [RomCom malware spread via Google Ads for ChatGPT, GIMP, more](https://www.bleepingcomputer.com/news/security/romcom-malware-spread-via-google-ads-for-chatgpt-gimp-more/)
-* [Microsoft shares fix for cameras not working on Surface laptops](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-cameras-not-working-on-surface-laptops/)
 <!--END_SECTION:feed-->
 
 <!--
