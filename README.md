@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New hacking forum leaks data of 478,000 RaidForums members](https://www.bleepingcomputer.com/news/security/new-hacking-forum-leaks-data-of-478-000-raidforums-members/)
 * [Flash loan attack on Jimbos Protocol steals over $7.5 million](https://www.bleepingcomputer.com/news/security/flash-loan-attack-on-jimbos-protocol-steals-over-75-million/)
 * [MCNA Dental data breach impacts 8.9 million people after ransomware attack](https://www.bleepingcomputer.com/news/security/mcna-dental-data-breach-impacts-89-million-people-after-ransomware-attack/)
 * [Lazarus hackers target Windows IIS web servers for initial access](https://www.bleepingcomputer.com/news/security/lazarus-hackers-target-windows-iis-web-servers-for-initial-access/)
 * [Clever ‘File Archiver In The Browser’ phishing trick uses ZIP domains](https://www.bleepingcomputer.com/news/security/clever-file-archiver-in-the-browser-phishing-trick-uses-zip-domains/)
-* [PyPI announces mandatory use of 2FA for all software publishers](https://www.bleepingcomputer.com/news/security/pypi-announces-mandatory-use-of-2fa-for-all-software-publishers/)
 <!--END_SECTION:feed-->
 
 <!--
