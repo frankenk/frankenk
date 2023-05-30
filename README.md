@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Barracuda zero-day abused since 2022 to drop new malware, steal data](https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/)
+* [WordPress plugin ‘Gravity Forms’ vulnerable to PHP object injection](https://www.bleepingcomputer.com/news/security/wordpress-plugin-gravity-forms-vulnerable-to-php-object-injection/)
 * [Microsoft finds macOS bug that lets hackers bypass SIP root restrictions](https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/)
 * [RomCom malware spread via Google Ads for ChatGPT, GIMP, more](https://www.bleepingcomputer.com/news/security/romcom-malware-spread-via-google-ads-for-chatgpt-gimp-more/)
 * [Microsoft shares fix for cameras not working on Surface laptops](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-cameras-not-working-on-surface-laptops/)
-* [Android apps with spyware installed 421 million times from Google Play](https://www.bleepingcomputer.com/news/security/android-apps-with-spyware-installed-421-million-times-from-google-play/)
-* [New hacking forum leaks data of 478,000 RaidForums members](https://www.bleepingcomputer.com/news/security/new-hacking-forum-leaks-data-of-478-000-raidforums-members/)
 <!--END_SECTION:feed-->
 
 <!--
