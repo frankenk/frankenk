@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Amazon faces $30 million fine over Ring, Alexa privacy violations](https://www.bleepingcomputer.com/news/technology/amazon-faces-30-million-fine-over-ring-alexa-privacy-violations/)
 * [Kali Linux 2023.2 released with 13 new tools, pre-built HyperV image](https://www.bleepingcomputer.com/news/security/kali-linux-20232-released-with-13-new-tools-pre-built-hyperv-image/)
 * [Terminator antivirus killer is a vulnerable Windows driver in disguise](https://www.bleepingcomputer.com/news/security/terminator-antivirus-killer-is-a-vulnerable-windows-driver-in-disguise/)
 * [Hackers exploit critical Zyxel firewall flaw in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-zyxel-firewall-flaw-in-ongoing-attacks/)
 * [Stealthy SeroXen RAT malware increasingly used to target gamers](https://www.bleepingcomputer.com/news/security/stealthy-seroxen-rat-malware-increasingly-used-to-target-gamers/)
-* [Toyota finds more misconfigured servers leaking customer info](https://www.bleepingcomputer.com/news/security/toyota-finds-more-misconfigured-servers-leaking-customer-info/)
 <!--END_SECTION:feed-->
 
 <!--
