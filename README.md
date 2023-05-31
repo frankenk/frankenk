@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Stealthy SeroXen RAT malware increasingly used to target gamers](https://www.bleepingcomputer.com/news/security/stealthy-seroxen-rat-malware-increasingly-used-to-target-gamers/)
 * [Toyota finds more misconfigured servers leaking customer info](https://www.bleepingcomputer.com/news/security/toyota-finds-more-misconfigured-servers-leaking-customer-info/)
 * [7 Stages of Application Testing: How to Automate for Continuous Security](https://www.bleepingcomputer.com/news/security/7-stages-of-application-testing-how-to-automate-for-continuous-security/)
 * [Dark Pink hackers continue to target govt and military organizations](https://www.bleepingcomputer.com/news/security/dark-pink-hackers-continue-to-target-govt-and-military-organizations/)
 * [WordPress force installs critical Jetpack patch on 5 million sites](https://www.bleepingcomputer.com/news/security/wordpress-force-installs-critical-jetpack-patch-on-5-million-sites/)
-* [Barracuda zero-day abused since 2022 to drop new malware, steal data](https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/)
 <!--END_SECTION:feed-->
 
 <!--
