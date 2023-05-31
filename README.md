@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Toyota finds more misconfigured servers leaking customer info](https://www.bleepingcomputer.com/news/security/toyota-finds-more-misconfigured-servers-leaking-customer-info/)
+* [7 Stages of Application Testing: How to Automate for Continuous Security](https://www.bleepingcomputer.com/news/security/7-stages-of-application-testing-how-to-automate-for-continuous-security/)
+* [Dark Pink hackers continue to target govt and military organizations](https://www.bleepingcomputer.com/news/security/dark-pink-hackers-continue-to-target-govt-and-military-organizations/)
 * [WordPress force installs critical Jetpack patch on 5 million sites](https://www.bleepingcomputer.com/news/security/wordpress-force-installs-critical-jetpack-patch-on-5-million-sites/)
 * [Barracuda zero-day abused since 2022 to drop new malware, steal data](https://www.bleepingcomputer.com/news/security/barracuda-zero-day-abused-since-2022-to-drop-new-malware-steal-data/)
-* [WordPress plugin ‘Gravity Forms’ vulnerable to PHP object injection](https://www.bleepingcomputer.com/news/security/wordpress-plugin-gravity-forms-vulnerable-to-php-object-injection/)
-* [Microsoft finds macOS bug that lets hackers bypass SIP root restrictions](https://www.bleepingcomputer.com/news/security/microsoft-finds-macos-bug-that-lets-hackers-bypass-sip-root-restrictions/)
-* [RomCom malware spread via Google Ads for ChatGPT, GIMP, more](https://www.bleepingcomputer.com/news/security/romcom-malware-spread-via-google-ads-for-chatgpt-gimp-more/)
 <!--END_SECTION:feed-->
 
 <!--
