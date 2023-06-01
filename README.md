@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russia says US hacked thousands of iPhones in iOS zero-click attacks](https://www.bleepingcomputer.com/news/security/russia-says-us-hacked-thousands-of-iphones-in-ios-zero-click-attacks/)
+* [Google triples rewards for Chrome sandbox escape chain exploits](https://www.bleepingcomputer.com/news/google/google-triples-rewards-for-chrome-sandbox-escape-chain-exploits/)
 * [New MOVEit Transfer zero-day mass-exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/)
 * [Exploit released for RCE flaw in popular ReportLab PDF library](https://www.bleepingcomputer.com/news/security/exploit-released-for-rce-flaw-in-popular-reportlab-pdf-library/)
 * [Amazon faces $30 million fine over Ring, Alexa privacy violations](https://www.bleepingcomputer.com/news/technology/amazon-faces-30-million-fine-over-ring-alexa-privacy-violations/)
-* [Kali Linux 2023.2 released with 13 new tools, pre-built HyperV image](https://www.bleepingcomputer.com/news/security/kali-linux-20232-released-with-13-new-tools-pre-built-hyperv-image/)
-* [Terminator antivirus killer is a vulnerable Windows driver in disguise](https://www.bleepingcomputer.com/news/security/terminator-antivirus-killer-is-a-vulnerable-windows-driver-in-disguise/)
 <!--END_SECTION:feed-->
 
 <!--
