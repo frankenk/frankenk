@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Horabot campaign takes over victim's Gmail, Outlook accounts](https://www.bleepingcomputer.com/news/security/new-horabot-campaign-takes-over-victims-gmail-outlook-accounts/)
 * [Windows 11 will let you view phone photos in File Explorer](https://www.bleepingcomputer.com/news/microsoft/windows-11-will-let-you-view-phone-photos-in-file-explorer/)
 * [Harvard Pilgrim Health Care ransomware attack hits 2.5 million people](https://www.bleepingcomputer.com/news/security/harvard-pilgrim-health-care-ransomware-attack-hits-25-million-people/)
 * [Russia says US hacked thousands of iPhones in iOS zero-click attacks](https://www.bleepingcomputer.com/news/security/russia-says-us-hacked-thousands-of-iphones-in-ios-zero-click-attacks/)
 * [Google triples rewards for Chrome sandbox escape chain exploits](https://www.bleepingcomputer.com/news/google/google-triples-rewards-for-chrome-sandbox-escape-chain-exploits/)
-* [New MOVEit Transfer zero-day mass-exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/new-moveit-transfer-zero-day-mass-exploited-in-data-theft-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
