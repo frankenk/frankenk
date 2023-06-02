@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft is killing Cortana on Windows starting late 2023](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-cortana-on-windows-starting-late-2023/)
+* [The Week in Ransomware - June 2nd 2023 - Whodunit?](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-2nd-2023-whodunit/)
 * [Windows 11 to require SMB signing to prevent NTLM relay attacks](https://www.bleepingcomputer.com/news/security/windows-11-to-require-smb-signing-to-prevent-ntlm-relay-attacks/)
 * [NSA and FBI: Kimsuky hackers pose as journalists to steal intel](https://www.bleepingcomputer.com/news/security/nsa-and-fbi-kimsuky-hackers-pose-as-journalists-to-steal-intel/)
 * [Burton Snowboards discloses data breach after February attack](https://www.bleepingcomputer.com/news/security/burton-snowboards-discloses-data-breach-after-february-attack/)
-* [Malicious Chrome extensions with 75M installs removed from Web Store](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-with-75m-installs-removed-from-web-store/)
-* [New Horabot campaign takes over victim's Gmail, Outlook accounts](https://www.bleepingcomputer.com/news/security/new-horabot-campaign-takes-over-victims-gmail-outlook-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
