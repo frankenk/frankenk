@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Online sellers targeted by new information-stealing malware campaign](https://www.bleepingcomputer.com/news/security/online-sellers-targeted-by-new-information-stealing-malware-campaign/)
+* [Zyxel shares tips on protecting firewalls from ongoing attacks](https://www.bleepingcomputer.com/news/security/zyxel-shares-tips-on-protecting-firewalls-from-ongoing-attacks/)
 * [Microsoft is killing Cortana on Windows starting late 2023](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-cortana-on-windows-starting-late-2023/)
 * [The Week in Ransomware - June 2nd 2023 - Whodunit?](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-2nd-2023-whodunit/)
 * [Windows 11 to require SMB signing to prevent NTLM relay attacks](https://www.bleepingcomputer.com/news/security/windows-11-to-require-smb-signing-to-prevent-ntlm-relay-attacks/)
-* [NSA and FBI: Kimsuky hackers pose as journalists to steal intel](https://www.bleepingcomputer.com/news/security/nsa-and-fbi-kimsuky-hackers-pose-as-journalists-to-steal-intel/)
-* [Burton Snowboards discloses data breach after February attack](https://www.bleepingcomputer.com/news/security/burton-snowboards-discloses-data-breach-after-february-attack/)
 <!--END_SECTION:feed-->
 
 <!--
