@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA orders govt agencies to patch MOVEit bug used for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-moveit-bug-used-for-data-theft/)
+* [Hackers hijack legitimate sites to host credit card stealer scripts](https://www.bleepingcomputer.com/news/security/hackers-hijack-legitimate-sites-to-host-credit-card-stealer-scripts/)
 * [Online sellers targeted by new information-stealing malware campaign](https://www.bleepingcomputer.com/news/security/online-sellers-targeted-by-new-information-stealing-malware-campaign/)
 * [Zyxel shares tips on protecting firewalls from ongoing attacks](https://www.bleepingcomputer.com/news/security/zyxel-shares-tips-on-protecting-firewalls-from-ongoing-attacks/)
 * [Microsoft is killing Cortana on Windows starting late 2023](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-cortana-on-windows-starting-late-2023/)
-* [The Week in Ransomware - June 2nd 2023 - Whodunit?](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-2nd-2023-whodunit/)
-* [Windows 11 to require SMB signing to prevent NTLM relay attacks](https://www.bleepingcomputer.com/news/security/windows-11-to-require-smb-signing-to-prevent-ntlm-relay-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
