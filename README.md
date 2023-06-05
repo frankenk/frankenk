@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft's Outlook.com is down again on mobile, web](https://www.bleepingcomputer.com/news/microsoft/microsofts-outlookcom-is-down-again-on-mobile-web/)
+* [New tool scans iPhones for 'Triangulation' malware infection](https://www.bleepingcomputer.com/news/security/new-tool-scans-iphones-for-triangulation-malware-infection/)
 * [SpinOk Android malware found in more apps with 30 million installs](https://www.bleepingcomputer.com/news/security/spinok-android-malware-found-in-more-apps-with-30-million-installs/)
 * [GIGABYTE releases new firmware to fix recently disclosed security flaws](https://www.bleepingcomputer.com/news/security/gigabyte-releases-new-firmware-to-fix-recently-disclosed-security-flaws/)
 * [KeePass v2.54 fixes bug that leaked cleartext master password](https://www.bleepingcomputer.com/news/security/keepass-v254-fixes-bug-that-leaked-cleartext-master-password/)
-* [The Genesis Market Takedown – Keep Users Credentials Secure](https://www.bleepingcomputer.com/news/security/the-genesis-market-takedown-keep-users-credentials-secure/)
-* [Microsoft links Clop ransomware gang to MOVEit data-theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-clop-ransomware-gang-to-moveit-data-theft-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
