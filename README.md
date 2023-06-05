@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GIGABYTE releases new firmware to fix recently disclosed security flaws](https://www.bleepingcomputer.com/news/security/gigabyte-releases-new-firmware-to-fix-recently-disclosed-security-flaws/)
+* [KeePass v2.54 fixes bug that leaked cleartext master password](https://www.bleepingcomputer.com/news/security/keepass-v254-fixes-bug-that-leaked-cleartext-master-password/)
+* [The Genesis Market Takedown – Keep Users Credentials Secure](https://www.bleepingcomputer.com/news/security/the-genesis-market-takedown-keep-users-credentials-secure/)
 * [Microsoft links Clop ransomware gang to MOVEit data-theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-clop-ransomware-gang-to-moveit-data-theft-attacks/)
 * [Windows 11 Moment 3 hands on, here's everything new](https://www.bleepingcomputer.com/news/microsoft/windows-11-moment-3-hands-on-heres-everything-new/)
-* [Atomic Wallet hacks lead to over $35 million in crypto stolen](https://www.bleepingcomputer.com/news/security/atomic-wallet-hacks-lead-to-over-35-million-in-crypto-stolen/)
-* [CISA orders govt agencies to patch MOVEit bug used for data theft](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-moveit-bug-used-for-data-theft/)
-* [Hackers hijack legitimate sites to host credit card stealer scripts](https://www.bleepingcomputer.com/news/security/hackers-hijack-legitimate-sites-to-host-credit-card-stealer-scripts/)
 <!--END_SECTION:feed-->
 
 <!--
