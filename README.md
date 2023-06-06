@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: Your online images turned into AI-generated nudes for sextortion](https://www.bleepingcomputer.com/news/security/fbi-your-online-images-turned-into-ai-generated-nudes-for-sextortion/)
 * [Over 60,000 Android apps secretly installed adware for past six months](https://www.bleepingcomputer.com/news/security/over-60-000-android-apps-secretly-installed-adware-for-past-six-months/)
 * [Outlook.com hit by outages as hacktivists claim DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/outlookcom-hit-by-outages-as-hacktivists-claim-ddos-attacks/)
 * [Microsoft to pay $20 million for XBOX children privacy violations](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-pay-20-million-for-xbox-children-privacy-violations/)
 * [Dissecting the Dark Web Supply Chain: Stealer Logs in Context](https://www.bleepingcomputer.com/news/security/dissecting-the-dark-web-supply-chain-stealer-logs-in-context/)
-* [Android security update fixes Mali GPU flaw exploited by spyware](https://www.bleepingcomputer.com/news/security/android-security-update-fixes-mali-gpu-flaw-exploited-by-spyware/)
 <!--END_SECTION:feed-->
 
 <!--
