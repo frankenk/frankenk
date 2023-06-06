@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to pay $20 million for XBOX children privacy violations](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-pay-20-million-for-xbox-children-privacy-violations/)
+* [Dissecting the Dark Web Supply Chain: Stealer Logs in Context](https://www.bleepingcomputer.com/news/security/dissecting-the-dark-web-supply-chain-stealer-logs-in-context/)
+* [Android security update fixes Mali GPU flaw exploited by spyware](https://www.bleepingcomputer.com/news/security/android-security-update-fixes-mali-gpu-flaw-exploited-by-spyware/)
+* [New 'PowerDrop' PowerShell malware targets U.S. aerospace industry](https://www.bleepingcomputer.com/news/security/new-powerdrop-powershell-malware-targets-us-aerospace-industry/)
 * [Google fixes new Chrome zero-day flaw with exploit in the wild](https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-with-exploit-in-the-wild/)
-* [Clop ransomware claims responsibility for MOVEit extortion attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-moveit-extortion-attacks/)
-* [Microsoft's Outlook.com is down again on mobile, web](https://www.bleepingcomputer.com/news/microsoft/microsofts-outlookcom-is-down-again-on-mobile-web/)
-* [New tool scans iPhones for 'Triangulation' malware infection](https://www.bleepingcomputer.com/news/security/new-tool-scans-iphones-for-triangulation-malware-infection/)
-* [SpinOk Android malware found in more apps with 30 million installs](https://www.bleepingcomputer.com/news/security/spinok-android-malware-found-in-more-apps-with-30-million-installs/)
 <!--END_SECTION:feed-->
 
 <!--
