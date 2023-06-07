@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Barracuda says hacked ESG appliances must be replaced immediately](https://www.bleepingcomputer.com/news/security/barracuda-says-hacked-esg-appliances-must-be-replaced-immediately/)
+* [Honda API flaws exposed customer data, dealer panels, internal docs](https://www.bleepingcomputer.com/news/security/honda-api-flaws-exposed-customer-data-dealer-panels-internal-docs/)
 * [Cisco fixes AnyConnect bug giving Windows SYSTEM privileges](https://www.bleepingcomputer.com/news/security/cisco-fixes-anyconnect-bug-giving-windows-system-privileges/)
 * [Lazarus hackers linked to the $35 million Atomic Wallet heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-the-35-million-atomic-wallet-heist/)
 * [New Fractureiser malware used CurseForge Minecraft mods to infect Windows, Linux](https://www.bleepingcomputer.com/news/security/new-fractureiser-malware-used-curseforge-minecraft-mods-to-infect-windows-linux/)
-* [VMware fixes critical vulnerabilities in vRealize network analytics tool](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-vulnerabilities-in-vrealize-network-analytics-tool/)
-* [CEO guilty of selling counterfeit Cisco devices to military, govt orgs](https://www.bleepingcomputer.com/news/security/ceo-guilty-of-selling-counterfeit-cisco-devices-to-military-govt-orgs/)
 <!--END_SECTION:feed-->
 
 <!--
