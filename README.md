@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PoC released for Windows Win32k bug exploited in attacks](https://www.bleepingcomputer.com/news/security/poc-released-for-windows-win32k-bug-exploited-in-attacks/)
 * [Asylum Ambuscade hackers mix cybercrime with espionage](https://www.bleepingcomputer.com/news/security/asylum-ambuscade-hackers-mix-cybercrime-with-espionage/)
 * [Microsoft OneDrive down worldwide following claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-onedrive-down-worldwide-following-claims-of-ddos-attacks/)
 * [Google Chrome password manager gets new safeguards for your credentials](https://www.bleepingcomputer.com/news/security/google-chrome-password-manager-gets-new-safeguards-for-your-credentials/)
 * [Japanese pharma giant Eisai discloses ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-pharma-giant-eisai-discloses-ransomware-attack/)
-* [Why cybersecurity needs a conference like mWISE](https://www.bleepingcomputer.com/news/security/why-cybersecurity-needs-a-conference-like-mwise/)
 <!--END_SECTION:feed-->
 
 <!--
