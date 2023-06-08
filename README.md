@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Japanese pharma giant Eisai discloses ransomware attack](https://www.bleepingcomputer.com/news/security/japanese-pharma-giant-eisai-discloses-ransomware-attack/)
+* [Why cybersecurity needs a conference like mWISE](https://www.bleepingcomputer.com/news/security/why-cybersecurity-needs-a-conference-like-mwise/)
 * [Royal ransomware gang adds BlackSuit encryptor to their arsenal](https://www.bleepingcomputer.com/news/security/royal-ransomware-gang-adds-blacksuit-encryptor-to-their-arsenal/)
 * [Barracuda says hacked ESG appliances must be replaced immediately](https://www.bleepingcomputer.com/news/security/barracuda-says-hacked-esg-appliances-must-be-replaced-immediately/)
 * [Honda API flaws exposed customer data, dealer panels, internal docs](https://www.bleepingcomputer.com/news/security/honda-api-flaws-exposed-customer-data-dealer-panels-internal-docs/)
-* [Cisco fixes AnyConnect bug giving Windows SYSTEM privileges](https://www.bleepingcomputer.com/news/security/cisco-fixes-anyconnect-bug-giving-windows-system-privileges/)
-* [Lazarus hackers linked to the $35 million Atomic Wallet heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-the-35-million-atomic-wallet-heist/)
 <!--END_SECTION:feed-->
 
 <!--
