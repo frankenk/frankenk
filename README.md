@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New MOVEit Transfer critical flaws found after security audit, patch now](https://www.bleepingcomputer.com/news/security/new-moveit-transfer-critical-flaws-found-after-security-audit-patch-now/)
 * [Microsoft now lets you speak to its AI-powered Bing Chat](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-you-speak-to-its-ai-powered-bing-chat/)
 * [Russians charged with hacking Mt. Gox crypto exchange, running BTC-e](https://www.bleepingcomputer.com/news/security/russians-charged-with-hacking-mt-gox-crypto-exchange-running-btc-e/)
 * [Microsoft’s Azure portal down following new claims of DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsofts-azure-portal-down-following-new-claims-of-ddos-attacks/)
 * [BlackCat ransomware fails to extort Australian commercial law giant](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-fails-to-extort-australian-commercial-law-giant/)
-* [Clop ransomware likely testing MOVEit zero-day since 2021](https://www.bleepingcomputer.com/news/security/clop-ransomware-likely-testing-moveit-zero-day-since-2021/)
 <!--END_SECTION:feed-->
 
 <!--
