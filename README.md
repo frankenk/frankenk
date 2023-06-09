@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Clop ransomware likely exploiting MOVEit zero-day since 2021](https://www.bleepingcomputer.com/news/security/clop-ransomware-likely-exploiting-moveit-zero-day-since-2021/)
+* [Clop ransomware likely testing MOVEit zero-day since 2021](https://www.bleepingcomputer.com/news/security/clop-ransomware-likely-testing-moveit-zero-day-since-2021/)
 * [Vivaldi is spoofing Edge Browser to bypass Bing Chat restrictions](https://www.bleepingcomputer.com/news/microsoft/vivaldi-is-spoofing-edge-browser-to-bypass-bing-chat-restrictions/)
 * [PoC released for Windows Win32k bug exploited in attacks](https://www.bleepingcomputer.com/news/security/poc-released-for-windows-win32k-bug-exploited-in-attacks/)
 * [Asylum Ambuscade hackers mix cybercrime with espionage](https://www.bleepingcomputer.com/news/security/asylum-ambuscade-hackers-mix-cybercrime-with-espionage/)
