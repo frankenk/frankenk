@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Have I Been Pwned warns of new Zacks data breach impacting 8 million](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-new-zacks-data-breach-impacting-8-million/)
 * [Microsoft: Azure Portal outage was caused by traffic “spike”](https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-portal-outage-was-caused-by-traffic-spike-/)
 * [Exploit released for MOVEit RCE bug used in data theft attacks](https://www.bleepingcomputer.com/news/security/exploit-released-for-moveit-rce-bug-used-in-data-theft-attacks/)
 * [Swiss government warns of ongoing DDoS attacks, data leak](https://www.bleepingcomputer.com/news/security/swiss-government-warns-of-ongoing-ddos-attacks-data-leak/)
 * [Fortinet fixes critical RCE flaw in Fortigate SSL-VPN devices, patch now](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-rce-flaw-in-fortigate-ssl-vpn-devices-patch-now/)
-* [Strava heatmap feature can be abused to find home addresses](https://www.bleepingcomputer.com/news/security/strava-heatmap-feature-can-be-abused-to-find-home-addresses/)
 <!--END_SECTION:feed-->
 
 <!--
