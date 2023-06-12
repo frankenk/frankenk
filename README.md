@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit released for MOVEit RCE bug used in data theft attacks](https://www.bleepingcomputer.com/news/security/exploit-released-for-moveit-rce-bug-used-in-data-theft-attacks/)
 * [Swiss government warns of ongoing DDoS attacks, data leak](https://www.bleepingcomputer.com/news/security/swiss-government-warns-of-ongoing-ddos-attacks-data-leak/)
 * [Fortinet fixes critical RCE flaw in Fortigate SSL-VPN devices, patch now](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-rce-flaw-in-fortigate-ssl-vpn-devices-patch-now/)
 * [Strava heatmap feature can be abused to find home addresses](https://www.bleepingcomputer.com/news/security/strava-heatmap-feature-can-be-abused-to-find-home-addresses/)
 * [Hackers steal $3 million by impersonating crypto news journalists](https://www.bleepingcomputer.com/news/cryptocurrency/hackers-steal-3-million-by-impersonating-crypto-news-journalists/)
-* [The Week in Ransomware - June 9th 2023 - It’s Clop... Again!](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-9th-2023-its-clop-again/)
 <!--END_SECTION:feed-->
 
 <!--
