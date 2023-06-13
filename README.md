@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers used VMware ESXi zero-day to backdoor VMs](https://www.bleepingcomputer.com/news/security/chinese-hackers-used-vmware-esxi-zero-day-to-backdoor-vms/)
 * [WordPress Stripe payment plugin bug leaks customer order details](https://www.bleepingcomputer.com/news/security/wordpress-stripe-payment-plugin-bug-leaks-customer-order-details/)
 * [Bulletproof hoster gets 3 years for pushing Urfsnif, Zeus malware](https://www.bleepingcomputer.com/news/security/bulletproof-hoster-gets-3-years-for-pushing-urfsnif-zeus-malware/)
 * [Blink Copilot Brings Generative AI to Security Automation](https://www.bleepingcomputer.com/news/security/blink-copilot-brings-generative-ai-to-security-automation/)
 * [Massive phishing campaign uses 6,000 sites to impersonate 100 brands](https://www.bleepingcomputer.com/news/security/massive-phishing-campaign-uses-6-000-sites-to-impersonate-100-brands/)
-* [RDP honeypot targeted 3.5 million times in brute-force attacks](https://www.bleepingcomputer.com/news/security/rdp-honeypot-targeted-35-million-times-in-brute-force-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
