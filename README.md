@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Windows 11 issue causing copying, saving failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-issue-causing-copying-saving-failures/)
+* [Windows 11 KB5027231 cumulative update released with 34 changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5027231-cumulative-update-released-with-34-changes/)
 * [Windows 10 KB5026435 and KB5027215 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5026435-and-kb5027215-updates-released/)
 * [CISA orders federal agencies to secure Internet-exposed network devices](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-secure-internet-exposed-network-devices/)
 * [Microsoft June 2023 Patch Tuesday fixes 78 flaws, 38 RCE bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2023-patch-tuesday-fixes-78-flaws-38-rce-bugs/)
-* [Chinese hackers used VMware ESXi zero-day to backdoor VMs](https://www.bleepingcomputer.com/news/security/chinese-hackers-used-vmware-esxi-zero-day-to-backdoor-vms/)
-* [WordPress Stripe payment plugin bug leaks customer order details](https://www.bleepingcomputer.com/news/security/wordpress-stripe-payment-plugin-bug-leaks-customer-order-details/)
 <!--END_SECTION:feed-->
 
 <!--
