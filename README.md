@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: LockBit ransomware extorted $91 million in 1,700 U.S. attacks](https://www.bleepingcomputer.com/news/security/cisa-lockbit-ransomware-extorted-91-million-in-1-700-us-attacks/)
 * [Compliance Automation: Your Audit Experience Before and After](https://www.bleepingcomputer.com/news/security/compliance-automation-your-audit-experience-before-and-after/)
 * [Fake zero-day PoC exploits on GitHub push Windows, Linux malware](https://www.bleepingcomputer.com/news/security/fake-zero-day-poc-exploits-on-github-push-windows-linux-malware/)
 * [Pirated Windows 10 ISOs install clipper malware via EFI partitions](https://www.bleepingcomputer.com/news/security/pirated-windows-10-isos-install-clipper-malware-via-efi-partitions/)
 * [Microsoft: Windows 10 21H2 has reached end of servicing](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-21h2-has-reached-end-of-servicing/)
-* [Microsoft fixes Windows 11 issue causing copying, saving failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-issue-causing-copying-saving-failures/)
 <!--END_SECTION:feed-->
 
 <!--
