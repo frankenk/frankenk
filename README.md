@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Western Digital boots outdated NAS devices off of My Cloud](https://www.bleepingcomputer.com/news/security/western-digital-boots-outdated-nas-devices-off-of-my-cloud/)
 * [Millions of Oregon, Louisiana state IDs stolen in MOVEit breach](https://www.bleepingcomputer.com/news/security/millions-of-oregon-louisiana-state-ids-stolen-in-moveit-breach/)
 * [Rhysida ransomware leaks documents stolen from Chilean Army](https://www.bleepingcomputer.com/news/security/rhysida-ransomware-leaks-documents-stolen-from-chilean-army/)
 * [MOVEit Transfer customers warned of new flaw as PoC info surfaces](https://www.bleepingcomputer.com/news/security/moveit-transfer-customers-warned-of-new-flaw-as-poc-info-surfaces/)
 * [Suspected LockBit ransomware affiliate arrested, charged in US](https://www.bleepingcomputer.com/news/security/suspected-lockbit-ransomware-affiliate-arrested-charged-in-us/)
-* [Android GravityRAT malware now steals your WhatsApp backups](https://www.bleepingcomputer.com/news/security/android-gravityrat-malware-now-steals-your-whatsapp-backups/)
 <!--END_SECTION:feed-->
 
 <!--
