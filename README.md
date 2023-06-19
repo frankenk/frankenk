@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Android spyware camouflaged as VPN, chat apps on Google Play](https://www.bleepingcomputer.com/news/security/android-spyware-camouflaged-as-vpn-chat-apps-on-google-play/)
 * [Reddit hackers threaten to leak data stolen in February breach](https://www.bleepingcomputer.com/news/security/reddit-hackers-threaten-to-leak-data-stolen-in-february-breach/)
+* [New Mystic Stealer malware increasingly used in attacks](https://www.bleepingcomputer.com/news/security/new-mystic-stealer-malware-increasingly-used-in-attacks/)
+* [Microsoft confirms Azure, Outlook outages caused by DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-azure-outlook-outages-caused-by-ddos-attacks/)
+* [US govt offers * [Reddit hackers threaten to leak data stolen in February breach](https://www.bleepingcomputer.com/news/security/reddit-hackers-threaten-to-leak-data-stolen-in-february-breach/)
 * [New Mystic Stealer malware increasingly used in attacks](https://www.bleepingcomputer.com/news/security/new-mystic-stealer-malware-increasingly-used-in-attacks/)
 * [Microsoft confirms Azure, Outlook outages caused by DDoS attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-azure-outlook-outages-caused-by-ddos-attacks/)
 * [US govt offers * [Reddit hackers threaten to leak data stolen in February breach](https://www.bleepingcomputer.com/news/security/reddit-hackers-threaten-to-leak-data-stolen-in-february-breach/)
@@ -169,7 +173,7 @@
 * [Windows 11 'Win32 app isolation' security feature now in preview](https://www.bleepingcomputer.com/news/microsoft/windows-11-win32-app-isolation-security-feature-now-in-preview/)0 million bounty for info on Clop ransomware](https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-bounty-for-info-on-clop-ransomware/)
 * [Windows 11 'Win32 app isolation' security feature now in preview](https://www.bleepingcomputer.com/news/microsoft/windows-11-win32-app-isolation-security-feature-now-in-preview/)0 million bounty for info on Clop ransomware](https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-bounty-for-info-on-clop-ransomware/)
 * [Windows 11 'Win32 app isolation' security feature now in preview](https://www.bleepingcomputer.com/news/microsoft/windows-11-win32-app-isolation-security-feature-now-in-preview/)0 million bounty for info on Clop ransomware](https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-bounty-for-info-on-clop-ransomware/)
-* [Windows 11 'Win32 app isolation' security feature now in preview](https://www.bleepingcomputer.com/news/microsoft/windows-11-win32-app-isolation-security-feature-now-in-preview/)
+* [Windows 11 'Win32 app isolation' security feature now in preview](https://www.bleepingcomputer.com/news/microsoft/windows-11-win32-app-isolation-security-feature-now-in-preview/)0 million bounty for info on Clop ransomware](https://www.bleepingcomputer.com/news/security/us-govt-offers-10-million-bounty-for-info-on-clop-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
