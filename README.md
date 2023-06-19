@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malwarebytes issues fix for Chrome broken by Windows 11 KB5027231](https://www.bleepingcomputer.com/news/microsoft/malwarebytes-issues-fix-for-chrome-broken-by-windows-11-kb5027231/)
 * [ASUS urges customers to patch critical router vulnerabilities](https://www.bleepingcomputer.com/news/security/asus-urges-customers-to-patch-critical-router-vulnerabilities/)
 * [Hackers use fake OnlyFans pics to drop info-stealing malware](https://www.bleepingcomputer.com/news/security/hackers-use-fake-onlyfans-pics-to-drop-info-stealing-malware/)
 * [Android spyware camouflaged as VPN, chat apps on Google Play](https://www.bleepingcomputer.com/news/security/android-spyware-camouflaged-as-vpn-chat-apps-on-google-play/)
 * [Reddit hackers threaten to leak data stolen in February breach](https://www.bleepingcomputer.com/news/security/reddit-hackers-threaten-to-leak-data-stolen-in-february-breach/)
-* [New Mystic Stealer malware increasingly used in attacks](https://www.bleepingcomputer.com/news/security/new-mystic-stealer-malware-increasingly-used-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
