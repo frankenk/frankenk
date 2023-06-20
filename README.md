@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Condi malware builds DDoS botnet out of TP-Link AX21 routers](https://www.bleepingcomputer.com/news/security/new-condi-malware-builds-ddos-botnet-out-of-tp-link-ax21-routers/)
 * [Hackers warn University of Manchester students’ of imminent data leak](https://www.bleepingcomputer.com/news/security/hackers-warn-university-of-manchester-students-of-imminent-data-leak/)
 * [VMware warns of critical vRealize flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/vmware-warns-of-critical-vrealize-flaw-exploited-in-attacks/)
 * [Microsoft shares workaround for Outlook freezes, slow starts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-slow-starts/)
 * [Hackers infect Linux SSH servers with Tsunami botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-linux-ssh-servers-with-tsunami-botnet-malware/)
-* [Microsoft fixes Azure AD auth flaw enabling account takeover](https://www.bleepingcomputer.com/news/security/microsoft-fixes-azure-ad-auth-flaw-enabling-account-takeover/)
 <!--END_SECTION:feed-->
 
 <!--
