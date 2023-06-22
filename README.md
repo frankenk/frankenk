@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NSA shares tips on blocking BlackLotus UEFI malware attacks](https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-blocking-blacklotus-uefi-malware-attacks/)
 * [CISA orders govt agencies to patch bugs exploited by Russian hackers](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-patch-bugs-exploited-by-russian-hackers/)
 * [Mirai botnet targets 22 flaws in D-Link, Zyxel, Netgear devices](https://www.bleepingcomputer.com/news/security/mirai-botnet-targets-22-flaws-in-d-link-zyxel-netgear-devices/)
 * [Microsoft: Hackers hijack Linux systems using trojanized OpenSSH version](https://www.bleepingcomputer.com/news/security/microsoft-hackers-hijack-linux-systems-using-trojanized-openssh-version/)
 * [VMware fixes vCenter Server bugs allowing code execution, auth bypass](https://www.bleepingcomputer.com/news/security/vmware-fixes-vcenter-server-bugs-allowing-code-execution-auth-bypass/)
-* [Millions of GitHub repos likely vulnerable to RepoJacking, researchers say](https://www.bleepingcomputer.com/news/security/millions-of-github-repos-likely-vulnerable-to-repojacking-researchers-say/)
 <!--END_SECTION:feed-->
 
 <!--
