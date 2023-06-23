@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI seizes BreachForums after arresting its owner Pompompurin in March](https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/)
 * [MOVEIt breach impacts GenWorth, CalPERS as data for 3.2 million exposed](https://www.bleepingcomputer.com/news/security/moveit-breach-impacts-genworth-calpers-as-data-for-32-million-exposed/)
 * [Fortinet fixes critical FortiNAC remote command execution flaw](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-fortinac-remote-command-execution-flaw/)
 * [Microsoft 365 users report Outlook, Teams won't start or freezes](https://www.bleepingcomputer.com/news/security/microsoft-365-users-report-outlook-teams-wont-start-or-freezes/)
 * [Microsoft Teams bug allows malware delivery from external accounts](https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allows-malware-delivery-from-external-accounts/)
-* [NSA shares tips on blocking BlackLotus UEFI malware attacks](https://www.bleepingcomputer.com/news/security/nsa-shares-tips-on-blocking-blacklotus-uefi-malware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
