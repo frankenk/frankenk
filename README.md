@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA orders agencies to patch iPhone bugs abused in spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-iphone-bugs-abused-in-spyware-attacks/)
 * [FBI seizes BreachForums after arresting its owner Pompompurin in March](https://www.bleepingcomputer.com/news/security/fbi-seizes-breachforums-after-arresting-its-owner-pompompurin-in-march/)
 * [MOVEIt breach impacts GenWorth, CalPERS as data for 3.2 million exposed](https://www.bleepingcomputer.com/news/security/moveit-breach-impacts-genworth-calpers-as-data-for-32-million-exposed/)
 * [Fortinet fixes critical FortiNAC remote command execution flaw](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-fortinac-remote-command-execution-flaw/)
 * [Microsoft 365 users report Outlook, Teams won't start or freezes](https://www.bleepingcomputer.com/news/security/microsoft-365-users-report-outlook-teams-wont-start-or-freezes/)
-* [Microsoft Teams bug allows malware delivery from external accounts](https://www.bleepingcomputer.com/news/security/microsoft-teams-bug-allows-malware-delivery-from-external-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
