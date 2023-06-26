@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 is getting a built-in passkey manager for Windows Hello](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-getting-a-built-in-passkey-manager-for-windows-hello/)
+* [Anatsa Android trojan now steals banking info from users in US, UK](https://www.bleepingcomputer.com/news/security/anatsa-android-trojan-now-steals-banking-info-from-users-in-us-uk/)
+* [New PindOS JavaScript dropper deploys Bumblebee, IcedID malware](https://www.bleepingcomputer.com/news/security/new-pindos-javascript-dropper-deploys-bumblebee-icedid-malware/)
 * [Hackers steal data of 45,000 New York City students in MOVEit breach](https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-45-000-new-york-city-students-in-moveit-breach/)
 * [Inside Threat Actors: Dark Web Forums vs. Illicit Telegram Communities](https://www.bleepingcomputer.com/news/security/inside-threat-actors-dark-web-forums-vs-illicit-telegram-communities/)
-* [Man charged in US for running 'Monopoly' darknet drug market](https://www.bleepingcomputer.com/news/security/man-charged-in-us-for-running-monopoly-darknet-drug-market/)
-* [Suncor Energy cyberattack impacts Petro-Canada gas stations](https://www.bleepingcomputer.com/news/security/suncor-energy-cyberattack-impacts-petro-canada-gas-stations/)
-* [Trojanized Super Mario game used to install Windows malware](https://www.bleepingcomputer.com/news/security/trojanized-super-mario-game-used-to-install-windows-malware/)
 <!--END_SECTION:feed-->
 
 <!--
