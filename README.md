@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Inside Threat Actors: Dark Web Forums vs. Illicit Telegram Communities](https://www.bleepingcomputer.com/news/security/inside-threat-actors-dark-web-forums-vs-illicit-telegram-communities/)
 * [Man charged in US for running 'Monopoly' darknet drug market](https://www.bleepingcomputer.com/news/security/man-charged-in-us-for-running-monopoly-darknet-drug-market/)
 * [Suncor Energy cyberattack impacts Petro-Canada gas stations](https://www.bleepingcomputer.com/news/security/suncor-energy-cyberattack-impacts-petro-canada-gas-stations/)
 * [Trojanized Super Mario game used to install Windows malware](https://www.bleepingcomputer.com/news/security/trojanized-super-mario-game-used-to-install-windows-malware/)
 * [Grafana warns of critical auth bypass due to Azure AD integration](https://www.bleepingcomputer.com/news/security/grafana-warns-of-critical-auth-bypass-due-to-azure-ad-integration/)
-* [LastPass users furious after being locked out due to MFA resets](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
 <!--END_SECTION:feed-->
 
 <!--
