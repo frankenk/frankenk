@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Man charged in US for running 'Monopoly' darknet drug market](https://www.bleepingcomputer.com/news/security/man-charged-in-us-for-running-monopoly-darknet-drug-market/)
+* [Suncor Energy cyberattack impacts Petro-Canada gas stations](https://www.bleepingcomputer.com/news/security/suncor-energy-cyberattack-impacts-petro-canada-gas-stations/)
+* [Trojanized Super Mario game used to install Windows malware](https://www.bleepingcomputer.com/news/security/trojanized-super-mario-game-used-to-install-windows-malware/)
+* [Grafana warns of critical auth bypass due to Azure AD integration](https://www.bleepingcomputer.com/news/security/grafana-warns-of-critical-auth-bypass-due-to-azure-ad-integration/)
 * [LastPass users furious after being locked out due to MFA resets](https://www.bleepingcomputer.com/news/security/lastpass-users-furious-after-being-locked-out-due-to-mfa-resets/)
-* [American Airlines, Southwest Airlines disclose data breaches affecting pilots](https://www.bleepingcomputer.com/news/security/american-airlines-southwest-airlines-disclose-data-breaches-affecting-pilots/)
-* [The Week in Ransomware - June 23rd 2023 - The Reddit Files](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-june-23rd-2023-the-reddit-files/)
-* [University of Manchester confirms data theft in recent cyberattack](https://www.bleepingcomputer.com/news/security/university-of-manchester-confirms-data-theft-in-recent-cyberattack/)
-* [CISA orders agencies to patch iPhone bugs abused in spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-iphone-bugs-abused-in-spyware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
