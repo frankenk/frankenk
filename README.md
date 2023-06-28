@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NPM ecosystem at risk from “Manifest Confusion” attacks](https://www.bleepingcomputer.com/news/security/npm-ecosystem-at-risk-from-manifest-confusion-attacks/)
+* [The Current State of Business Email Compromise Attacks](https://www.bleepingcomputer.com/news/security/the-current-state-of-business-email-compromise-attacks/)
 * [Microsoft Teams outage blocks access to web and desktop clients](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-blocks-access-to-web-and-desktop-clients/)
 * [8Base ransomware gang escalates double extortion attacks in June](https://www.bleepingcomputer.com/news/security/8base-ransomware-gang-escalates-double-extortion-attacks-in-june/)
 * [Windows 10 KB5027293 update released with 3 new features, 14 changes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5027293-update-released-with-3-new-features-14-changes/)
-* [Windows 11 KB5027303 preview update enables new Moment 3 features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5027303-preview-update-enables-new-moment-3-features/)
-* [Siemens Energy confirms data breach after MOVEit data-theft attack](https://www.bleepingcomputer.com/news/security/siemens-energy-confirms-data-breach-after-moveit-data-theft-attack/)
 <!--END_SECTION:feed-->
 
 <!--
