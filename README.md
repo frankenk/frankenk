@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Linux version of Akira ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-akira-ransomware-targets-vmware-esxi-servers/)
 * [Microsoft fixes Windows bug causing File Explorer freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-file-explorer-freezes/)
 * [Brave Browser boosts privacy with new local resources restrictions](https://www.bleepingcomputer.com/news/security/brave-browser-boosts-privacy-with-new-local-resources-restrictions/)
 * [NPM ecosystem at risk from “Manifest Confusion” attacks](https://www.bleepingcomputer.com/news/security/npm-ecosystem-at-risk-from-manifest-confusion-attacks/)
 * [The Current State of Business Email Compromise Attacks](https://www.bleepingcomputer.com/news/security/the-current-state-of-business-email-compromise-attacks/)
-* [Microsoft Teams outage blocks access to web and desktop clients](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-blocks-access-to-web-and-desktop-clients/)
 <!--END_SECTION:feed-->
 
 <!--
