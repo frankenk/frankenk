@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes bug that breaks Windows Start Menu, UWP apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-breaks-windows-start-menu-uwp-apps/)
 * [Trellix fixes bug breaking Office apps after June Windows updates](https://www.bleepingcomputer.com/news/software/trellix-fixes-bug-breaking-office-apps-after-june-windows-updates/)
 * [Microsoft Sysmon now detects when executables files are created](https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-when-executables-files-are-created/)
 * [Exploit released for new Arcserve UDP auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-arcserve-udp-auth-bypass-vulnerability/)
 * [Linux version of Akira ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-akira-ransomware-targets-vmware-esxi-servers/)
-* [Microsoft fixes Windows bug causing File Explorer freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-file-explorer-freezes/)
 <!--END_SECTION:feed-->
 
 <!--
