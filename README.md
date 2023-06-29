@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Pro-Russia DDoSia hacktivist project sees 2,400% membership increase](https://www.bleepingcomputer.com/news/security/pro-russia-ddosia-hacktivist-project-sees-2-400-percent-membership-increase/)
 * [Proton launches open-source password manager with some limitations](https://www.bleepingcomputer.com/news/security/proton-launches-open-source-password-manager-with-some-limitations/)
 * [Criminal IP Unveils Bug Bounty Program to Boost User Safety, Security](https://www.bleepingcomputer.com/news/security/criminal-ip-unveils-bug-bounty-program-to-boost-user-safety-security/)
 * [Microsoft fixes bug that breaks Windows Start Menu, UWP apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-breaks-windows-start-menu-uwp-apps/)
 * [Trellix fixes bug breaking Office apps after June Windows updates](https://www.bleepingcomputer.com/news/software/trellix-fixes-bug-breaking-office-apps-after-june-windows-updates/)
-* [Microsoft Sysmon now detects when executables files are created](https://www.bleepingcomputer.com/news/microsoft/microsoft-sysmon-now-detects-when-executables-files-are-created/)
 <!--END_SECTION:feed-->
 
 <!--
