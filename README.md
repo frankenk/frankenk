@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New proxyjacking attacks monetize hacked SSH servers’ bandwidth](https://www.bleepingcomputer.com/news/security/new-proxyjacking-attacks-monetize-hacked-ssh-servers-bandwidth/)
 * [Free Akira ransomware decryptor helps recover your files](https://www.bleepingcomputer.com/news/security/free-akira-ransomware-decryptor-helps-recover-your-files/)
 * [CISA issues DDoS warning after attacks hit multiple US orgs](https://www.bleepingcomputer.com/news/security/cisa-issues-ddos-warning-after-attacks-hit-multiple-us-orgs/)
 * [TSMC denies LockBit hack as ransomware gang demands $70 million](https://www.bleepingcomputer.com/news/security/tsmc-denies-lockbit-hack-as-ransomware-gang-demands-70-million/)
 * [YouTube tests restricting ad blocker users to 3 video views](https://www.bleepingcomputer.com/news/technology/youtube-tests-restricting-ad-blocker-users-to-3-video-views/)
-* [New EarlyRAT malware linked to North Korean Andariel hacking group](https://www.bleepingcomputer.com/news/security/new-earlyrat-malware-linked-to-north-korean-andariel-hacking-group/)
 <!--END_SECTION:feed-->
 
 <!--
