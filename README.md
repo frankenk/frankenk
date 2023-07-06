@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft investigates Outlook.com bug breaking email search](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outlookcom-bug-breaking-email-search/)
 * [Cisco warns of bug that lets attackers break traffic encryption](https://www.bleepingcomputer.com/news/security/cisco-warns-of-bug-that-lets-attackers-break-traffic-encryption/)
 * [JumpCloud resets admin API keys amid ‘ongoing incident’](https://www.bleepingcomputer.com/news/security/jumpcloud-resets-admin-api-keys-amid-ongoing-incident/)
 * [Android July security updates fix three actively exploited bugs](https://www.bleepingcomputer.com/news/security/android-july-security-updates-fix-three-actively-exploited-bugs/)
 * [Over 130,000 solar energy monitoring systems exposed online](https://www.bleepingcomputer.com/news/security/over-130-000-solar-energy-monitoring-systems-exposed-online/)
-* [Microsoft fixes bug behind Windows LSA protection warnings, again](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-lsa-protection-warnings-again/)
 <!--END_SECTION:feed-->
 
 <!--
