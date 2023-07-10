@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows 11 21H2 reaching end of service in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-21h2-reaching-end-of-service-in-october/)
 * [Apple releases emergency update to fix zero-day exploited in attacks](https://www.bleepingcomputer.com/news/apple/apple-releases-emergency-update-to-fix-zero-day-exploited-in-attacks/)
 * [Former employee charged for attacking water treatment plant](https://www.bleepingcomputer.com/news/security/former-employee-charged-for-attacking-water-treatment-plant/)
 * [Hands on with Windows Copilot - A Bing.com web wrapper](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-copilot-a-bingcom-web-wrapper/)
 * [Razer investigates data breach claims, resets user sessions](https://www.bleepingcomputer.com/news/security/razer-investigates-data-breach-claims-resets-user-sessions/)
-* [Microsoft Edge's Bing AI sidebar will remember previous conversations](https://www.bleepingcomputer.com/news/microsoft/microsoft-edges-bing-ai-sidebar-will-remember-previous-conversations/)
 <!--END_SECTION:feed-->
 
 <!--
