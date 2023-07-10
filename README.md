@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Razes investigates data breach claims, resets user sessions](https://www.bleepingcomputer.com/news/security/razes-investigates-data-breach-claims-resets-user-sessions/)
+* [Microsoft Edge's Bing AI sidebar will remember previous conversations](https://www.bleepingcomputer.com/news/microsoft/microsoft-edges-bing-ai-sidebar-will-remember-previous-conversations/)
+* [Streamlining security operations with automated incident response](https://www.bleepingcomputer.com/news/security/streamlining-security-operations-with-automated-incident-response/)
 * [Microsoft Edge Canary update on Windows adds mouse gestures flag](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-canary-update-on-windows-adds-mouse-gestures-flag/)
 * [Chrome's big design refresh uses Microsoft Mica effect in custom themes](https://www.bleepingcomputer.com/news/google/chromes-big-design-refresh-uses-microsoft-mica-effect-in-custom-themes/)
-* [Charming Kitten hackers use new ‘NokNok’ malware for macOS](https://www.bleepingcomputer.com/news/security/charming-kitten-hackers-use-new-noknok-malware-for-macos/)
-* [Windows Subsystem for Android gets July 2023 preview with new features](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-android-gets-july-2023-preview-with-new-features/)
-* [AMD releases Adrenalin 23.7.1 WHQL driver for Windows](https://www.bleepingcomputer.com/news/technology/amd-releases-adrenalin-2371-whql-driver-for-windows/)
 <!--END_SECTION:feed-->
 
 <!--
