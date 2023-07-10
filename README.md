@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Former employee charged for attacking water treatment plant](https://www.bleepingcomputer.com/news/security/former-employee-charged-for-attacking-water-treatment-plant/)
 * [Hands on with Windows Copilot - A Bing.com web wrapper](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-copilot-a-bingcom-web-wrapper/)
 * [Razer investigates data breach claims, resets user sessions](https://www.bleepingcomputer.com/news/security/razer-investigates-data-breach-claims-resets-user-sessions/)
 * [Microsoft Edge's Bing AI sidebar will remember previous conversations](https://www.bleepingcomputer.com/news/microsoft/microsoft-edges-bing-ai-sidebar-will-remember-previous-conversations/)
 * [Streamlining security operations with automated incident response](https://www.bleepingcomputer.com/news/security/streamlining-security-operations-with-automated-incident-response/)
-* [Microsoft Edge Canary update on Windows adds mouse gestures flag](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-canary-update-on-windows-adds-mouse-gestures-flag/)
 <!--END_SECTION:feed-->
 
 <!--
