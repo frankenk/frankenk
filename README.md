@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5028168 and KB5028166 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5028168-and-kb5028166-updates-released/)
+* [Microsoft July 2023 Patch Tuesday warns of 6 zero-days, 132 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2023-patch-tuesday-warns-of-6-zero-days-132-flaws/)
+* [Hackers exploit Windows policy to load malicious kernel drivers](https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-policy-to-load-malicious-kernel-drivers/)
 * [Microsoft rebrands Azure Active Directory to Microsoft Entra ID](https://www.bleepingcomputer.com/news/microsoft/microsoft-rebrands-azure-active-directory-to-microsoft-entra-id/)
 * [Deutsche Bank confirms provider breach exposed customer data](https://www.bleepingcomputer.com/news/security/deutsche-bank-confirms-provider-breach-exposed-customer-data/)
-* [Apple confirms WebKit security updates break browsing on some sites](https://www.bleepingcomputer.com/news/security/apple-confirms-webkit-security-updates-break-browsing-on-some-sites/)
-* [HCA confirms breach after hacker steals data of 11 million patients](https://www.bleepingcomputer.com/news/security/hca-confirms-breach-after-hacker-steals-data-of-11-million-patients/)
-* [Microsoft finally fixes broken Surface Pro X laptop cameras](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-broken-surface-pro-x-laptop-cameras/)
 <!--END_SECTION:feed-->
 
 <!--
