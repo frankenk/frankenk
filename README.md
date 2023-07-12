@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian state hackers lure Western diplomats with BMW car ads](https://www.bleepingcomputer.com/news/security/russian-state-hackers-lure-western-diplomats-with-bmw-car-ads/)
+* [New Windows 11 build ships with more Rust-based Kernel features](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-build-ships-with-more-rust-based-kernel-features/)
 * [Critical RCE found in popular Ghostscript open-source PDF library](https://www.bleepingcomputer.com/news/security/critical-rce-found-in-popular-ghostscript-open-source-pdf-library/)
 * [GitHub goes passwordless, announces passkeys beta preview](https://www.bleepingcomputer.com/news/security/github-goes-passwordless-announces-passkeys-beta-preview/)
 * [Fortinet warns of critical RCE flaw in FortiOS, FortiProxy devices](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaw-in-fortios-fortiproxy-devices/)
-* [Ransomware payments on record-breaking trajectory for 2023](https://www.bleepingcomputer.com/news/security/ransomware-payments-on-record-breaking-trajectory-for-2023/)
-* [Microsoft: Chinese hackers breached US govt Exchange email accounts](https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-breached-us-govt-exchange-email-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
