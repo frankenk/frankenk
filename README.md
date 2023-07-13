@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Zimbra urges admins to manually fix zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/zimbra-urges-admins-to-manually-fix-zero-day-exploited-in-attacks/)
 * [Source code for BlackLotus Windows UEFI malware leaked on GitHub](https://www.bleepingcomputer.com/news/security/source-code-for-blacklotus-windows-uefi-malware-leaked-on-github/)
 * [Cyberattacks through Browser Extensions – the Importance of MFA](https://www.bleepingcomputer.com/news/security/cyberattacks-through-browser-extensions-the-importance-of-mfa/)
 * [USB drive malware attacks spiking again in first half of 2023](https://www.bleepingcomputer.com/news/security/usb-drive-malware-attacks-spiking-again-in-first-half-of-2023/)
 * [New PyLoose Linux malware mines crypto directly from memory](https://www.bleepingcomputer.com/news/security/new-pyloose-linux-malware-mines-crypto-directly-from-memory/)
-* [Apple re-releases zero-day patch after fixing browsing issue](https://www.bleepingcomputer.com/news/apple/apple-re-releases-zero-day-patch-after-fixing-browsing-issue/)
 <!--END_SECTION:feed-->
 
 <!--
