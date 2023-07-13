@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [USB drive malware attacks spiking again in first half of 2023](https://www.bleepingcomputer.com/news/security/usb-drive-malware-attacks-spiking-again-in-first-half-of-2023/)
 * [New PyLoose Linux malware mines crypto directly from memory](https://www.bleepingcomputer.com/news/security/new-pyloose-linux-malware-mines-crypto-directly-from-memory/)
 * [Apple re-releases zero-day patch after fixing browsing issue](https://www.bleepingcomputer.com/news/apple/apple-re-releases-zero-day-patch-after-fixing-browsing-issue/)
 * [SonicWall warns admins to patch critical auth bypass bugs immediately](https://www.bleepingcomputer.com/news/security/sonicwall-warns-admins-to-patch-critical-auth-bypass-bugs-immediately/)
 * [Russian state hackers lure Western diplomats with BMW car ads](https://www.bleepingcomputer.com/news/security/russian-state-hackers-lure-western-diplomats-with-bmw-car-ads/)
-* [New Windows 11 build ships with more Rust-based Kernel features](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-build-ships-with-more-rust-based-kernel-features/)
 <!--END_SECTION:feed-->
 
 <!--
