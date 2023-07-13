@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 23H2 coming this fall as a small enablement package](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-coming-this-fall-as-a-small-enablement-package/)
+* [Fake Linux vulnerability exploit drops data-stealing malware](https://www.bleepingcomputer.com/news/security/fake-linux-vulnerability-exploit-drops-data-stealing-malware/)
 * [Zimbra urges admins to manually fix zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/zimbra-urges-admins-to-manually-fix-zero-day-exploited-in-attacks/)
 * [Source code for BlackLotus Windows UEFI malware leaked on GitHub](https://www.bleepingcomputer.com/news/security/source-code-for-blacklotus-windows-uefi-malware-leaked-on-github/)
 * [Cyberattacks through Browser Extensions – the Importance of MFA](https://www.bleepingcomputer.com/news/security/cyberattacks-through-browser-extensions-the-importance-of-mfa/)
-* [USB drive malware attacks spiking again in first half of 2023](https://www.bleepingcomputer.com/news/security/usb-drive-malware-attacks-spiking-again-in-first-half-of-2023/)
-* [New PyLoose Linux malware mines crypto directly from memory](https://www.bleepingcomputer.com/news/security/new-pyloose-linux-malware-mines-crypto-directly-from-memory/)
 <!--END_SECTION:feed-->
 
 <!--
