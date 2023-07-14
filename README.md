@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rockwell warns of new APT RCE exploit targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/rockwell-warns-of-new-apt-rce-exploit-targeting-critical-infrastructure/)
 * [Spotify reportedly makes users' private playlists public](https://www.bleepingcomputer.com/news/technology/spotify-reportedly-makes-users-private-playlists-public/)
 * [WordPress AIOS plugin used by 1M sites logged plaintext passwords](https://www.bleepingcomputer.com/news/security/wordpress-aios-plugin-used-by-1m-sites-logged-plaintext-passwords/)
 * [BreachForums owner Pompompurin pleads guilty to hacking charges](https://www.bleepingcomputer.com/news/security/breachforums-owner-pompompurin-pleads-guilty-to-hacking-charges/)
 * [Colorado State University says data breach impacts students, staff](https://www.bleepingcomputer.com/news/security/colorado-state-university-says-data-breach-impacts-students-staff/)
-* [Criminal IP and Tines Forge Powerful Tech Alliance](https://www.bleepingcomputer.com/news/security/criminal-ip-and-tines-forge-powerful-tech-alliance/)
 <!--END_SECTION:feed-->
 
 <!--
