@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spotify reportedly makes users' private playlists public](https://www.bleepingcomputer.com/news/technology/spotify-reportedly-makes-users-private-playlists-public/)
 * [WordPress AIOS plugin used by 1M sites logged plaintext passwords](https://www.bleepingcomputer.com/news/security/wordpress-aios-plugin-used-by-1m-sites-logged-plaintext-passwords/)
 * [BreachForums owner Pompompurin pleads guilty to hacking charges](https://www.bleepingcomputer.com/news/security/breachforums-owner-pompompurin-pleads-guilty-to-hacking-charges/)
 * [Colorado State University says data breach impacts students, staff](https://www.bleepingcomputer.com/news/security/colorado-state-university-says-data-breach-impacts-students-staff/)
 * [Criminal IP and Tines Forge Powerful Tech Alliance](https://www.bleepingcomputer.com/news/security/criminal-ip-and-tines-forge-powerful-tech-alliance/)
-* [Shutterfly says Clop ransomware attack did not impact customer data](https://www.bleepingcomputer.com/news/security/shutterfly-says-clop-ransomware-attack-did-not-impact-customer-data/)
 <!--END_SECTION:feed-->
 
 <!--
