@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows Copilot arrives in the fall with Windows 11 23H2](https://www.bleepingcomputer.com/news/microsoft/windows-copilot-arrives-in-the-fall-with-windows-11-23h2/)
+* [Thousands of images on Docker Hub leak auth secrets, private keys](https://www.bleepingcomputer.com/news/security/thousands-of-images-on-docker-hub-leak-auth-secrets-private-keys/)
+* [Gamaredon hackers start stealing data 30 minutes after a breach](https://www.bleepingcomputer.com/news/security/gamaredon-hackers-start-stealing-data-30-minutes-after-a-breach/)
 * [Genesis Market infrastructure and inventory sold on hacker forum](https://www.bleepingcomputer.com/news/security/genesis-market-infrastructure-and-inventory-sold-on-hacker-forum/)
 * [Microsoft still unsure how hackers stole Azure AD signing key](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-unsure-how-hackers-stole-azure-ad-signing-key/)
-* [Rockwell warns of new APT RCE exploit targeting critical infrastructure](https://www.bleepingcomputer.com/news/security/rockwell-warns-of-new-apt-rce-exploit-targeting-critical-infrastructure/)
-* [Spotify reportedly makes users' private playlists public](https://www.bleepingcomputer.com/news/technology/spotify-reportedly-makes-users-private-playlists-public/)
-* [WordPress AIOS plugin used by 1M sites logged plaintext passwords](https://www.bleepingcomputer.com/news/security/wordpress-aios-plugin-used-by-1m-sites-logged-plaintext-passwords/)
 <!--END_SECTION:feed-->
 
 <!--
