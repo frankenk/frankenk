@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police arrests Ukrainian scareware developer after 10-year hunt](https://www.bleepingcomputer.com/news/security/police-arrests-ukrainian-scareware-developer-after-10-year-hunt/)
 * [IT worker jailed for impersonating ransomware gang to extort employer](https://www.bleepingcomputer.com/news/security/it-worker-jailed-for-impersonating-ransomware-gang-to-extort-employer/)
 * [Meet NoEscape: Avaddon ransomware gang's likely successor](https://www.bleepingcomputer.com/news/security/meet-noescape-avaddon-ransomware-gangs-likely-successor/)
 * [Frontline Security Practitioners Reveal the Latest About AI](https://www.bleepingcomputer.com/news/security/frontline-security-practitioners-reveal-the-latest-about-ai/)
 * [JumpCloud discloses breach by state-backed APT hacking group](https://www.bleepingcomputer.com/news/security/jumpcloud-discloses-breach-by-state-backed-apt-hacking-group/)
-* [Windows Copilot arrives in the fall with Windows 11 23H2](https://www.bleepingcomputer.com/news/microsoft/windows-copilot-arrives-in-the-fall-with-windows-11-23h2/)
 <!--END_SECTION:feed-->
 
 <!--
