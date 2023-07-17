@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [IT worker jailed for impersonating ransomware gang to extort employer](https://www.bleepingcomputer.com/news/security/it-worker-jailed-for-impersonating-ransomware-gang-to-extort-employer/)
+* [Meet NoEscape: Avaddon ransomware gang's likely successor](https://www.bleepingcomputer.com/news/security/meet-noescape-avaddon-ransomware-gangs-likely-successor/)
+* [Frontline Security Practitioners Reveal the Latest About AI](https://www.bleepingcomputer.com/news/security/frontline-security-practitioners-reveal-the-latest-about-ai/)
 * [JumpCloud discloses breach by state-backed APT hacking group](https://www.bleepingcomputer.com/news/security/jumpcloud-discloses-breach-by-state-backed-apt-hacking-group/)
 * [Windows Copilot arrives in the fall with Windows 11 23H2](https://www.bleepingcomputer.com/news/microsoft/windows-copilot-arrives-in-the-fall-with-windows-11-23h2/)
-* [Thousands of images on Docker Hub leak auth secrets, private keys](https://www.bleepingcomputer.com/news/security/thousands-of-images-on-docker-hub-leak-auth-secrets-private-keys/)
-* [Gamaredon hackers start stealing data 30 minutes after a breach](https://www.bleepingcomputer.com/news/security/gamaredon-hackers-start-stealing-data-30-minutes-after-a-breach/)
-* [Genesis Market infrastructure and inventory sold on hacker forum](https://www.bleepingcomputer.com/news/security/genesis-market-infrastructure-and-inventory-sold-on-hacker-forum/)
 <!--END_SECTION:feed-->
 
 <!--
