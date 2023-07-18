@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Citrix ADC and Gateway zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-adc-and-gateway-zero-day-actively-exploited-in-attacks/)
+* [Strengthening Password Security may Lower Cyber Insurance Premiums](https://www.bleepingcomputer.com/news/security/strengthening-password-security-may-lower-cyber-insurance-premiums/)
 * [FIN8 deploys ALPHV ransomware using Sardonic malware variant](https://www.bleepingcomputer.com/news/security/fin8-deploys-alphv-ransomware-using-sardonic-malware-variant/)
 * [Google Cloud Build bug lets hackers launch supply chain attacks](https://www.bleepingcomputer.com/news/security/google-cloud-build-bug-lets-hackers-launch-supply-chain-attacks/)
 * [Microsoft Exchange Online hit by new outage blocking emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-hit-by-new-outage-blocking-emails/)
-* [CISA orders govt agencies to mitigate Windows and Office zero-days](https://www.bleepingcomputer.com/news/security/cisa-orders-govt-agencies-to-mitigate-windows-and-office-zero-days/)
-* [Hackers exploiting critical WordPress WooCommerce Payments bug](https://www.bleepingcomputer.com/news/security/hackers-exploiting-critical-wordpress-woocommerce-payments-bug/)
 <!--END_SECTION:feed-->
 
 <!--
