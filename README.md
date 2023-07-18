@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Citrix ADC and Gateway zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/citrix-adc-and-gateway-zero-day-actively-exploited-in-attacks/)
+* [New critical Citrix ADC and Gateway flaw exploited as zero-days](https://www.bleepingcomputer.com/news/security/new-critical-citrix-adc-and-gateway-flaw-exploited-as-zero-days/)
 * [Strengthening Password Security may Lower Cyber Insurance Premiums](https://www.bleepingcomputer.com/news/security/strengthening-password-security-may-lower-cyber-insurance-premiums/)
 * [FIN8 deploys ALPHV ransomware using Sardonic malware variant](https://www.bleepingcomputer.com/news/security/fin8-deploys-alphv-ransomware-using-sardonic-malware-variant/)
 * [Google Cloud Build bug lets hackers launch supply chain attacks](https://www.bleepingcomputer.com/news/security/google-cloud-build-bug-lets-hackers-launch-supply-chain-attacks/)
