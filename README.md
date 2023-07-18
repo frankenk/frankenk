@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Cybersecurity firm Sophos impersonated by new SophosEncrypt ransomware](https://www.bleepingcomputer.com/news/security/cybersecurity-firm-sophos-impersonated-by-new-sophosencrypt-ransomware/)
-* [New critical Citrix ADC and Gateway flaw exploited as zero-days](https://www.bleepingcomputer.com/news/security/new-critical-citrix-adc-and-gateway-flaw-exploited-as-zero-days/)
+* [New critical Citrix ADC and Gateway flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/new-critical-citrix-adc-and-gateway-flaw-exploited-as-zero-day/)
 * [Strengthening Password Security may Lower Cyber Insurance Premiums](https://www.bleepingcomputer.com/news/security/strengthening-password-security-may-lower-cyber-insurance-premiums/)
 * [FIN8 deploys ALPHV ransomware using Sardonic malware variant](https://www.bleepingcomputer.com/news/security/fin8-deploys-alphv-ransomware-using-sardonic-malware-variant/)
 * [Google Cloud Build bug lets hackers launch supply chain attacks](https://www.bleepingcomputer.com/news/security/google-cloud-build-bug-lets-hackers-launch-supply-chain-attacks/)
