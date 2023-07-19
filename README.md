@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hands on with GPT-4-powered Bing AI Chat's virtual search](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-gpt-4-powered-bing-ai-chats-virtual-search/)
 * [Meta confirms WhatsApp is down worldwide](https://www.bleepingcomputer.com/news/technology/meta-confirms-whatsapp-is-down-worldwide/)
 * [Adobe emergency patch fixes new ColdFusion zero-day used in attacks](https://www.bleepingcomputer.com/news/security/adobe-emergency-patch-fixes-new-coldfusion-zero-day-used-in-attacks/)
 * [OpenAI credentials stolen by the thousands for sale on the dark web](https://www.bleepingcomputer.com/news/security/openai-credentials-stolen-by-the-thousands-for-sale-on-the-dark-web/)
 * [Microsoft: Hackers turn Exchange servers into malware control centers](https://www.bleepingcomputer.com/news/security/microsoft-hackers-turn-exchange-servers-into-malware-control-centers/)
-* [Microsoft expands access to cloud logging data for free after Exchange hacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-access-to-cloud-logging-data-for-free-after-exchange-hacks/)
 <!--END_SECTION:feed-->
 
 <!--
