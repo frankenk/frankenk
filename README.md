@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI credentials stolen by the thousands for sale on the dark web](https://www.bleepingcomputer.com/news/security/openai-credentials-stolen-by-the-thousands-for-sale-on-the-dark-web/)
+* [Microsoft: Hackers turn Exchange servers into malware control centers](https://www.bleepingcomputer.com/news/security/microsoft-hackers-turn-exchange-servers-into-malware-control-centers/)
 * [Microsoft expands access to cloud logging data for free after Exchange hacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-expands-access-to-cloud-logging-data-for-free-after-exchange-hacks/)
 * [Facebook behavioral ads banned by Norwegian privacy watchdog](https://www.bleepingcomputer.com/news/technology/facebook-behavioral-ads-banned-by-norwegian-privacy-watchdog/)
 * [Ukraine takes down massive bot farm, seizes 150,000 SIM cards](https://www.bleepingcomputer.com/news/security/ukraine-takes-down-massive-bot-farm-seizes-150-000-sim-cards/)
-* [US govt bans European spyware vendors Intellexa and Cytrox](https://www.bleepingcomputer.com/news/security/us-govt-bans-european-spyware-vendors-intellexa-and-cytrox/)
-* [FBI: Tech support scams now use shipping companies to collect cash](https://www.bleepingcomputer.com/news/security/fbi-tech-support-scams-now-use-shipping-companies-to-collect-cash/)
 <!--END_SECTION:feed-->
 
 <!--
