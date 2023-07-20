@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [JumpCloud breach traced back to North Korean state hackers](https://www.bleepingcomputer.com/news/security/jumpcloud-breach-traced-back-to-north-korean-state-hackers/)
+* [New P2PInfect worm malware targets Linux and Windows Redis servers](https://www.bleepingcomputer.com/news/security/new-p2pinfect-worm-malware-targets-linux-and-windows-redis-servers/)
+* [APT41 hackers target Android users with WyrmSpy, DragonEgg spyware](https://www.bleepingcomputer.com/news/security/apt41-hackers-target-android-users-with-wyrmspy-dragonegg-spyware/)
 * [Estée Lauder beauty giant breached by two ransomware gangs](https://www.bleepingcomputer.com/news/security/est-e-lauder-beauty-giant-breached-by-two-ransomware-gangs/)
 * [Hands on with GPT-4-powered Bing AI Chat's virtual search](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-gpt-4-powered-bing-ai-chats-virtual-search/)
-* [Meta confirms WhatsApp is down worldwide](https://www.bleepingcomputer.com/news/technology/meta-confirms-whatsapp-is-down-worldwide/)
-* [Adobe emergency patch fixes new ColdFusion zero-day used in attacks](https://www.bleepingcomputer.com/news/security/adobe-emergency-patch-fixes-new-coldfusion-zero-day-used-in-attacks/)
-* [OpenAI credentials stolen by the thousands for sale on the dark web](https://www.bleepingcomputer.com/news/security/openai-credentials-stolen-by-the-thousands-for-sale-on-the-dark-web/)
 <!--END_SECTION:feed-->
 
 <!--
