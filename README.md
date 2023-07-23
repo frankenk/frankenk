@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns govt agencies to patch Adobe ColdFusion servers](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-patch-adobe-coldfusion-servers/)
 * [Microsoft force-migrating Windows Mail & Calendar apps to Outlook app in August](https://www.bleepingcomputer.com/news/microsoft/microsoft-force-migrating-windows-mail-and-calendar-apps-to-outlook-app-in-august/)
-* [Windows 11 23H2 to give you greater control over power consumption](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-to-give-you-greater-control-over-power-consumption/)
-* [Over 15K Citrix servers likely vulnerable to CVE-2023-3519 attacks](https://www.bleepingcomputer.com/news/security/over-15k-citrix-servers-likely-vulnerable-to-cve-2023-3519-attacks/)
+* [Windows 11 23H2 getting an energy report with app's power usage](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-getting-an-energy-report-with-apps-power-usage/)
+* [Over 15K Citrix servers vulnerable to CVE-2023-3519 RCE attacks](https://www.bleepingcomputer.com/news/security/over-15k-citrix-servers-vulnerable-to-cve-2023-3519-rce-attacks/)
 * [Stolen Microsoft key offered widespread access to Microsoft cloud services](https://www.bleepingcomputer.com/news/security/stolen-microsoft-key-offered-widespread-access-to-microsoft-cloud-services/)
-* [The Week in Ransomware - July 21st 2023 - Avaddon Back as NoEscape](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-21st-2023-avaddon-back-as-noescape/)
 <!--END_SECTION:feed-->
 
 <!--
