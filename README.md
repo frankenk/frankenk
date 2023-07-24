@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft shares fix for some Outlook hyperlinks not opening](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-some-outlook-hyperlinks-not-opening/)
+* [Norwegian government IT systems hacked using zero-day flaw](https://www.bleepingcomputer.com/news/security/norwegian-government-it-systems-hacked-using-zero-day-flaw/)
+* [How is the Dark Web Reacting to the AI Revolution?](https://www.bleepingcomputer.com/news/security/how-is-the-dark-web-reacting-to-the-ai-revolution/)
 * [Windows 11 23H2 update coming this fall, here's what's new](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-update-coming-this-fall-heres-whats-new/)
 * [Clop now leaks data stolen in MOVEit attacks on clearweb sites](https://www.bleepingcomputer.com/news/security/clop-now-leaks-data-stolen-in-moveit-attacks-on-clearweb-sites/)
-* [Microsoft enhances Windows 11 Phishing Protection with new features](https://www.bleepingcomputer.com/news/microsoft/microsoft-enhances-windows-11-phishing-protection-with-new-features/)
-* [CISA warns govt agencies to patch Adobe ColdFusion servers](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-patch-adobe-coldfusion-servers/)
-* [Microsoft force-migrating Windows Mail & Calendar apps to Outlook app in August](https://www.bleepingcomputer.com/news/microsoft/microsoft-force-migrating-windows-mail-and-calendar-apps-to-outlook-app-in-august/)
 <!--END_SECTION:feed-->
 
 <!--
