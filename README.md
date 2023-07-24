@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lazarus hackers hijack Microsoft IIS servers to spread malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-hijack-microsoft-iis-servers-to-spread-malware/)
+* [Ivanti patches MobileIron zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-mobileiron-zero-day-bug-exploited-in-attacks/)
 * [Apple fixes new zero-day used in attacks against iPhones, Macs](https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-macs/)
 * [Flipper Zero now has its own app store for iOS, Android users](https://www.bleepingcomputer.com/news/security/flipper-zero-now-has-its-own-app-store-for-ios-android-users/)
 * [JumpCloud hack linked to North Korea after OPSEC mistake](https://www.bleepingcomputer.com/news/security/jumpcloud-hack-linked-to-north-korea-after-opsec-mistake/)
-* [Microsoft shares fix for some Outlook hyperlinks not opening](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-some-outlook-hyperlinks-not-opening/)
-* [Norwegian government IT systems hacked using zero-day flaw](https://www.bleepingcomputer.com/news/security/norwegian-government-it-systems-hacked-using-zero-day-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
