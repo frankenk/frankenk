@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Zenbleed attack leaks sensitive data from AMD Zen2 processors](https://www.bleepingcomputer.com/news/security/zenbleed-attack-leaks-sensitive-data-from-amd-zen2-processors/)
 * [Lazarus hackers hijack Microsoft IIS servers to spread malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-hijack-microsoft-iis-servers-to-spread-malware/)
 * [Ivanti patches MobileIron zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-mobileiron-zero-day-bug-exploited-in-attacks/)
 * [Apple fixes new zero-day used in attacks against iPhones, Macs](https://www.bleepingcomputer.com/news/apple/apple-fixes-new-zero-day-used-in-attacks-against-iphones-macs/)
 * [Flipper Zero now has its own app store for iOS, Android users](https://www.bleepingcomputer.com/news/security/flipper-zero-now-has-its-own-app-store-for-ios-android-users/)
-* [JumpCloud hack linked to North Korea after OPSEC mistake](https://www.bleepingcomputer.com/news/security/jumpcloud-hack-linked-to-north-korea-after-opsec-mistake/)
 <!--END_SECTION:feed-->
 
 <!--
