@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Realst info-stealing malware targets macOS cryptocurrency users](https://www.bleepingcomputer.com/news/security/realst-info-stealing-malware-targets-macos-cryptocurrency-users/)
+* [CISA warns govt agencies to patch Ivanti bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-patch-ivanti-bug-exploited-in-attacks/)
+* [New Realst macOS malware steals your cryptocurrency wallets](https://www.bleepingcomputer.com/news/security/new-realst-macos-malware-steals-your-cryptocurrency-wallets/)
 * [Microsoft shares temp fix for Outlook Desktop slow saving bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-desktop-slow-saving-bug/)
-* [Mysterious Decoy Dog malware toolkit still lurks in DNS shadows](https://www.bleepingcomputer.com/news/security/mysterious-decoy-dog-malware-toolkit-still-lurks-in-dns-shadows/)
 * [VMware fixes bug exposing CF API admin credentials in audit logs](https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-exposing-cf-api-admin-credentials-in-audit-logs/)
 * [More US States are ramping up data privacy laws in 2023](https://www.bleepingcomputer.com/news/security/more-us-states-are-ramping-up-data-privacy-laws-in-2023/)
 <!--END_SECTION:feed-->
