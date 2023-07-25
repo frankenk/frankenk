@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mysterious Decoy Dog malware toolkit still lurks in DNS shadows](https://www.bleepingcomputer.com/news/security/mysterious-decoy-dog-malware-toolkit-still-lurks-in-dns-shadows/)
+* [VMware fixes bug exposing CF API admin credentials in audit logs](https://www.bleepingcomputer.com/news/security/vmware-fixes-bug-exposing-cf-api-admin-credentials-in-audit-logs/)
 * [More US States are ramping up data privacy laws in 2023](https://www.bleepingcomputer.com/news/security/more-us-states-are-ramping-up-data-privacy-laws-in-2023/)
 * [Over 400,000 corporate credentials stolen by info-stealing malware](https://www.bleepingcomputer.com/news/security/over-400-000-corporate-credentials-stolen-by-info-stealing-malware/)
 * [Norway says Ivanti zero-day was used to hack govt IT systems](https://www.bleepingcomputer.com/news/security/norway-says-ivanti-zero-day-was-used-to-hack-govt-it-systems/)
-* [Microsoft Sharepoint outage caused by use of wrong TLS certificate](https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-outage-caused-by-use-of-wrong-tls-certificate/)
-* [Zenbleed attack leaks sensitive data from AMD Zen2 processors](https://www.bleepingcomputer.com/news/security/zenbleed-attack-leaks-sensitive-data-from-amd-zen2-processors/)
 <!--END_SECTION:feed-->
 
 <!--
