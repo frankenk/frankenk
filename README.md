@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5028254 update fixes VPN performance issues, 27 bugs](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5028254-update-fixes-vpn-performance-issues-27-bugs/)
+* [Windows 10 KB5028244 update released with 19 fixes, improved security](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5028244-update-released-with-19-fixes-improved-security/)
 * [NATO investigates alleged data theft by SiegedSec hackers](https://www.bleepingcomputer.com/news/security/nato-investigates-alleged-data-theft-by-siegedsec-hackers/)
 * [New Nitrogen malware pushed via Google Ads for ransomware attacks](https://www.bleepingcomputer.com/news/security/new-nitrogen-malware-pushed-via-google-ads-for-ransomware-attacks/)
 * [Microsoft fixes bug that broke video recording in Windows apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-broke-video-recording-in-windows-apps/)
-* [ALPHV ransomware adds data leak API in new extortion strategy](https://www.bleepingcomputer.com/news/security/alphv-ransomware-adds-data-leak-api-in-new-extortion-strategy/)
-* [Super Admin elevation bug puts 900,000 MikroTik devices at risk](https://www.bleepingcomputer.com/news/security/super-admin-elevation-bug-puts-900-000-mikrotik-devices-at-risk/)
 <!--END_SECTION:feed-->
 
 <!--
