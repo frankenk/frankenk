@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CoinsPaid blames Lazarus hackers for theft of $37,300,000 in crypto](https://www.bleepingcomputer.com/news/security/coinspaid-blames-lazarus-hackers-for-theft-of-37-300-000-in-crypto/)
+* [BreachForums database and private chats for sale in hacker data breach](https://www.bleepingcomputer.com/news/security/breachforums-database-and-private-chats-for-sale-in-hacker-data-breach/)
 * [Zimbra patches zero-day vulnerability exploited in XSS attacks](https://www.bleepingcomputer.com/news/security/zimbra-patches-zero-day-vulnerability-exploited-in-xss-attacks/)
 * [SSNDOB cybercrime market admin faces 15 years after pleading guilty](https://www.bleepingcomputer.com/news/security/ssndob-cybercrime-market-admin-faces-15-years-after-pleading-guilty/)
 * [WordPress Ninja Forms plugin flaw lets hackers steal submitted data](https://www.bleepingcomputer.com/news/security/wordpress-ninja-forms-plugin-flaw-lets-hackers-steal-submitted-data/)
-* [8 million people hit by data breach at US govt contractor Maximus](https://www.bleepingcomputer.com/news/security/8-million-people-hit-by-data-breach-at-us-govt-contractor-maximus/)
-* [Swiss visa appointments cancelled in UK due to 'IT incident'](https://www.bleepingcomputer.com/news/security/swiss-visa-appointments-cancelled-in-uk-due-to-it-incident/)
 <!--END_SECTION:feed-->
 
 <!--
