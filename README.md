@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [8 million people hit by data breach at US govt contractor Maximus](https://www.bleepingcomputer.com/news/security/8-million-people-hit-by-data-breach-at-us-govt-contractor-maximus/)
 * [Swiss visa appointments cancelled in UK due to 'IT incident'](https://www.bleepingcomputer.com/news/security/swiss-visa-appointments-cancelled-in-uk-due-to-it-incident/)
 * [Microsoft previews Defender for IoT firmware analysis service](https://www.bleepingcomputer.com/news/microsoft/microsoft-previews-defender-for-iot-firmware-analysis-service/)
 * [Lazarus hackers linked to $60 million Alphapo cryptocurrency heist](https://www.bleepingcomputer.com/news/security/lazarus-hackers-linked-to-60-million-alphapo-cryptocurrency-heist/)
 * [Almost 40% of Ubuntu users vulnerable to new privilege elevation flaws](https://www.bleepingcomputer.com/news/security/almost-40-percent-of-ubuntu-users-vulnerable-to-new-privilege-elevation-flaws/)
-* [SEC now requires companies to disclose cyberattacks in 4 days](https://www.bleepingcomputer.com/news/security/sec-now-requires-companies-to-disclose-cyberattacks-in-4-days/)
 <!--END_SECTION:feed-->
 
 <!--
