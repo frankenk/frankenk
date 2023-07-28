@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: New Submarine malware found on hacked Barracuda ESG appliances](https://www.bleepingcomputer.com/news/security/cisa-new-submarine-malware-found-on-hacked-barracuda-esg-appliances/)
 * [Apple says new App Store API rules will limit user fingerprinting](https://www.bleepingcomputer.com/news/apple/apple-says-new-app-store-api-rules-will-limit-user-fingerprinting/)
 * [The Week in Ransomware - July 28th 2023 - New extortion tactics](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-28th-2023-new-extortion-tactics/)
 * [Ivanti patches new zero-day exploited in Norwegian govt attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-new-zero-day-exploited-in-norwegian-govt-attacks/)
 * [Twitter's rebranding to 'X' triggers Microsoft Edge security alert](https://www.bleepingcomputer.com/news/security/twitters-rebranding-to-x-triggers-microsoft-edge-security-alert/)
-* [CISA warns of breach risks from IDOR web app vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-breach-risks-from-idor-web-app-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
