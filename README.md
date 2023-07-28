@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Twitter's rebranding to 'X' triggers Microsoft Edge security alert](https://www.bleepingcomputer.com/news/security/twitters-rebranding-to-x-triggers-microsoft-edge-security-alert/)
+* [CISA warns of breach risks from IDOR web app vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-breach-risks-from-idor-web-app-vulnerabilities/)
 * [New Android malware uses OCR to steal credentials from images](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ocr-to-steal-credentials-from-images/)
 * [Hawai'i Community College pays ransomware gang to prevent data leak](https://www.bleepingcomputer.com/news/security/hawaii-community-college-pays-ransomware-gang-to-prevent-data-leak/)
 * [CoinsPaid blames Lazarus hackers for theft of $37,300,000 in crypto](https://www.bleepingcomputer.com/news/security/coinspaid-blames-lazarus-hackers-for-theft-of-37-300-000-in-crypto/)
-* [BreachForums database and private chats for sale in hacker data breach](https://www.bleepingcomputer.com/news/security/breachforums-database-and-private-chats-for-sale-in-hacker-data-breach/)
-* [Zimbra patches zero-day vulnerability exploited in XSS attacks](https://www.bleepingcomputer.com/news/security/zimbra-patches-zero-day-vulnerability-exploited-in-xss-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
