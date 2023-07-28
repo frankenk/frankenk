@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - July 28th 2023 - New extortion tactics](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-july-28th-2023-new-extortion-tactics/)
+* [Ivanti patches new zero-day exploited in Norwegian govt attacks](https://www.bleepingcomputer.com/news/security/ivanti-patches-new-zero-day-exploited-in-norwegian-govt-attacks/)
 * [Twitter's rebranding to 'X' triggers Microsoft Edge security alert](https://www.bleepingcomputer.com/news/security/twitters-rebranding-to-x-triggers-microsoft-edge-security-alert/)
 * [CISA warns of breach risks from IDOR web app vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-breach-risks-from-idor-web-app-vulnerabilities/)
 * [New Android malware uses OCR to steal credentials from images](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-ocr-to-steal-credentials-from-images/)
-* [Hawai'i Community College pays ransomware gang to prevent data leak](https://www.bleepingcomputer.com/news/security/hawaii-community-college-pays-ransomware-gang-to-prevent-data-leak/)
-* [CoinsPaid blames Lazarus hackers for theft of $37,300,000 in crypto](https://www.bleepingcomputer.com/news/security/coinspaid-blames-lazarus-hackers-for-theft-of-37-300-000-in-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
