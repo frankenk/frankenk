@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Israel's largest oil refinery website offline amid cyber attack claims](https://www.bleepingcomputer.com/news/security/israels-largest-oil-refinery-website-offline-amid-cyber-attack-claims/)
 * [Linux version of Abyss Locker ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-abyss-locker-ransomware-targets-vmware-esxi-servers/)
 * [Browser developers push back on Google's “web DRM” WEI API](https://www.bleepingcomputer.com/news/google/browser-developers-push-back-on-googles-web-drm-wei-api/)
 * [Apple rejects new name 'X' for Twitter iOS app because... rules](https://www.bleepingcomputer.com/news/technology/apple-rejects-new-name-x-for-twitter-ios-app-because-rules/)
 * [CISA: New Submarine malware found on hacked Barracuda ESG appliances](https://www.bleepingcomputer.com/news/security/cisa-new-submarine-malware-found-on-hacked-barracuda-esg-appliances/)
-* [Apple says new App Store API rules will limit user fingerprinting](https://www.bleepingcomputer.com/news/apple/apple-says-new-app-store-api-rules-will-limit-user-fingerprinting/)
 <!--END_SECTION:feed-->
 
 <!--
