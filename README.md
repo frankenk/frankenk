@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit BleedingPipe RCE to target Minecraft servers, players](https://www.bleepingcomputer.com/news/security/hackers-exploit-bleedingpipe-rce-to-target-minecraft-servers-players/)
 * [Microsoft fixes WSUS servers not pushing Windows 11 22H2 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wsus-servers-not-pushing-windows-11-22h2-updates/)
 * [Google: Android patch gap makes n-days as dangerous as zero-days](https://www.bleepingcomputer.com/news/security/google-android-patch-gap-makes-n-days-as-dangerous-as-zero-days/)
 * [Microsoft Edge is getting a 'darker' dark mode theme](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-getting-a-darker-dark-mode-theme/)
 * [Israel's largest oil refinery website offline after DDoS attack](https://www.bleepingcomputer.com/news/security/israels-largest-oil-refinery-website-offline-after-ddos-attack/)
-* [Linux version of Abyss Locker ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-abyss-locker-ransomware-targets-vmware-esxi-servers/)
 <!--END_SECTION:feed-->
 
 <!--
