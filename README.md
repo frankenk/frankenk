@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Amazon's AWS SSM agent can be used as post-exploitation RAT malware](https://www.bleepingcomputer.com/news/security/amazons-aws-ssm-agent-can-be-used-as-post-exploitation-rat-malware/)
 * [Why Every Security Practitioner Should Attend mWISE](https://www.bleepingcomputer.com/news/security/why-every-security-practitioner-should-attend-mwise/)
 * [Hackers exploited Salesforce zero-day in Facebook phishing attack](https://www.bleepingcomputer.com/news/security/hackers-exploited-salesforce-zero-day-in-facebook-phishing-attack/)
 * [Hackers use new malware to breach air-gapped devices in Eastern Europe](https://www.bleepingcomputer.com/news/security/hackers-use-new-malware-to-breach-air-gapped-devices-in-eastern-europe/)
 * [Threat actors abuse Google AMP for evasive phishing attacks](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-amp-for-evasive-phishing-attacks/)
-* [CISA issues new warning on actively exploited Ivanti MobileIron bugs](https://www.bleepingcomputer.com/news/security/cisa-issues-new-warning-on-actively-exploited-ivanti-mobileiron-bugs/)
 <!--END_SECTION:feed-->
 
 <!--
