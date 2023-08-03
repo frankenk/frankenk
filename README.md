@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Microsoft Azure AD CTS feature can be abused for lateral movement](https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/)
 * [Hacktivists fund their operations using common cybercrime tactics](https://www.bleepingcomputer.com/news/security/hacktivists-fund-their-operations-using-common-cybercrime-tactics/)
 * [Microsoft shares fix for Outlook asking to reopen closed windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-outlook-asking-to-reopen-closed-windows/)
 * [Google makes it easier to remove your info, explicit images from search](https://www.bleepingcomputer.com/news/google/google-makes-it-easier-to-remove-your-info-explicit-images-from-search/)
 * [US govt contractor Serco discloses data breach after MoveIT attacks](https://www.bleepingcomputer.com/news/security/us-govt-contractor-serco-discloses-data-breach-after-moveit-attacks/)
-* [Brave Search adds private image and video search capability](https://www.bleepingcomputer.com/news/security/brave-search-adds-private-image-and-video-search-capability/)
 <!--END_SECTION:feed-->
 
 <!--
