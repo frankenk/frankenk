@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chrome malware Rilide targets enterprise users via PowerPoint guides](https://www.bleepingcomputer.com/news/security/chrome-malware-rilide-targets-enterprise-users-via-powerpoint-guides/)
 * [Fake FlipperZero sites promise free devices after completing offer](https://www.bleepingcomputer.com/news/security/fake-flipperzero-sites-promise-free-devices-after-completing-offer/)
 * [Ivanti discloses new critical auth bypass bug in MobileIron Core](https://www.bleepingcomputer.com/news/security/ivanti-discloses-new-critical-auth-bypass-bug-in-mobileiron-core/)
 * [Russian hackers target govt orgs in Microsoft Teams phishing attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-target-govt-orgs-in-microsoft-teams-phishing-attacks/)
 * [Over 640 Citrix servers backdoored with web shells in ongoing attacks](https://www.bleepingcomputer.com/news/security/over-640-citrix-servers-backdoored-with-web-shells-in-ongoing-attacks/)
-* [New Collide+Power side-channel attack impacts almost all CPUs](https://www.bleepingcomputer.com/news/security/new-collide-pluspower-side-channel-attack-impacts-almost-all-cpus/)
 <!--END_SECTION:feed-->
 
 <!--
