@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spotify down: music searches, pages, account signups not working](https://www.bleepingcomputer.com/news/technology/spotify-down-music-searches-pages-account-signups-not-working/)
 * [Fake VMware vConnector package on PyPI targets IT pros](https://www.bleepingcomputer.com/news/security/fake-vmware-vconnector-package-on-pypi-targets-it-pros/)
 * [New Microsoft Azure AD CTS feature can be abused for lateral movement](https://www.bleepingcomputer.com/news/security/new-microsoft-azure-ad-cts-feature-can-be-abused-for-lateral-movement/)
 * [Hacktivists fund their operations using common cybercrime tactics](https://www.bleepingcomputer.com/news/security/hacktivists-fund-their-operations-using-common-cybercrime-tactics/)
 * [Microsoft shares fix for Outlook asking to reopen closed windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-fix-for-outlook-asking-to-reopen-closed-windows/)
-* [Google makes it easier to remove your info, explicit images from search](https://www.bleepingcomputer.com/news/google/google-makes-it-easier-to-remove-your-info-explicit-images-from-search/)
 <!--END_SECTION:feed-->
 
 <!--
