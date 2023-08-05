@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Colorado Department of Higher Education warns of massive data breach](https://www.bleepingcomputer.com/news/security/colorado-department-of-higher-education-warns-of-massive-data-breach/)
+* [Clop ransomware now uses torrents to leak data and evade takedowns](https://www.bleepingcomputer.com/news/security/clop-ransomware-now-uses-torrents-to-leak-data-and-evade-takedowns/)
+* [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
 * [The Week in Ransomware - August 4th 2023 - Targeting VMware ESXi](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-4th-2023-targeting-vmware-esxi/)
 * [Microsoft fixes flaw after being called irresponsible by Tenable CEO](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-flaw-after-being-called-irresponsible-by-tenable-ceo/)
-* [New PaperCut critical bug exposes unpatched servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-papercut-critical-bug-exposes-unpatched-servers-to-rce-attacks/)
-* [FBI warns of scammers posing as NFT devs to steal your crypto](https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-posing-as-nft-devs-to-steal-your-crypto/)
-* [Microsoft kills Cortana in Windows 11 preview, long live AI!](https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-cortana-in-windows-11-preview-long-live-ai/)
 <!--END_SECTION:feed-->
 
 <!--
