@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google News, Discover links showing 404 Not Found? Here's how to fix](https://www.bleepingcomputer.com/news/technology/google-news-discover-links-showing-404-not-found-heres-how-to-fix/)
+* [Google Gmail continuously nagging to enable Enhanced Safe Browsing](https://www.bleepingcomputer.com/news/google/google-gmail-continuously-nagging-to-enable-enhanced-safe-browsing/)
+* [Tesla infotainment jailbreak unlocks paid features, extracts secrets](https://www.bleepingcomputer.com/news/security/tesla-infotainment-jailbreak-unlocks-paid-features-extracts-secrets/)
 * [How to enable hidden Windows 11 features with Microsoft StagingTool](https://www.bleepingcomputer.com/news/microsoft/how-to-enable-hidden-windows-11-features-with-microsoft-stagingtool/)
 * [Colorado Department of Higher Education warns of massive data breach](https://www.bleepingcomputer.com/news/security/colorado-department-of-higher-education-warns-of-massive-data-breach/)
-* [Clop ransomware now uses torrents to leak data and evade takedowns](https://www.bleepingcomputer.com/news/security/clop-ransomware-now-uses-torrents-to-leak-data-and-evade-takedowns/)
-* [New acoustic attack steals data from keystrokes with 95% accuracy](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-steals-data-from-keystrokes-with-95-percent-accuracy/)
-* [The Week in Ransomware - August 4th 2023 - Targeting VMware ESXi](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-4th-2023-targeting-vmware-esxi/)
 <!--END_SECTION:feed-->
 
 <!--
