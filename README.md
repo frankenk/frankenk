@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Android 14 to let you block connections to unencrypted cellular networks](https://www.bleepingcomputer.com/news/google/android-14-to-let-you-block-connections-to-unencrypted-cellular-networks/)
+* [New Inception attack leaks sensitive data from all AMD Zen CPUs](https://www.bleepingcomputer.com/news/security/new-inception-attack-leaks-sensitive-data-from-all-amd-zen-cpus/)
 * [UK Electoral Commission data breach exposes 8 years of voter data](https://www.bleepingcomputer.com/news/security/uk-electoral-commission-data-breach-exposes-8-years-of-voter-data/)
 * [Hackers increasingly abuse Cloudflare Tunnels for stealthy connections](https://www.bleepingcomputer.com/news/security/hackers-increasingly-abuse-cloudflare-tunnels-for-stealthy-connections/)
 * [Hands on with Windows 11's new modern File Explorer](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-new-modern-file-explorer/)
-* [Google Play apps with 2.5M installs load ads when screen's off](https://www.bleepingcomputer.com/news/security/google-play-apps-with-25m-installs-load-ads-when-screens-off/)
-* [North Korean hackers 'ScarCruft' breached Russian missile maker](https://www.bleepingcomputer.com/news/security/north-korean-hackers-scarcruft-breached-russian-missile-maker/)
 <!--END_SECTION:feed-->
 
 <!--
