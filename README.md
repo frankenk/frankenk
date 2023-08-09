@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Malicious extensions can abuse VS Code flaw to steal auth tokens](https://www.bleepingcomputer.com/news/security/malicious-extensions-can-abuse-vs-code-flaw-to-steal-auth-tokens/)
+* [Microsoft Visual Studio Code flaw lets extensions steal passwords](https://www.bleepingcomputer.com/news/security/microsoft-visual-studio-code-flaw-lets-extensions-steal-passwords/)
 * [Microsoft Office update breaks actively exploited RCE attack chain](https://www.bleepingcomputer.com/news/security/microsoft-office-update-breaks-actively-exploited-rce-attack-chain/)
 * [Windows 11 KB5029263 cumulative update released with 27 fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5029263-cumulative-update-released-with-27-fixes/)
 * [Microsoft August 2023 Patch Tuesday warns of 2 zero-days, 87 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2023-patch-tuesday-warns-of-2-zero-days-87-flaws/)
