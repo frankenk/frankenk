@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google to fight hackers with weekly Chrome security updates](https://www.bleepingcomputer.com/news/google/google-to-fight-hackers-with-weekly-chrome-security-updates/)
+* [Preventative medicine for securing IoT tech in healthcare organizations](https://www.bleepingcomputer.com/news/security/preventative-medicine-for-securing-iot-tech-in-healthcare-organizations/)
+* [EvilProxy phishing campaign targets 120,000 Microsoft 365 users ](https://www.bleepingcomputer.com/news/security/evilproxy-phishing-campaign-targets-120-000-microsoft-365-users/)
 * [Microsoft Visual Studio Code flaw lets extensions steal passwords](https://www.bleepingcomputer.com/news/security/microsoft-visual-studio-code-flaw-lets-extensions-steal-passwords/)
 * [Microsoft Office update breaks actively exploited RCE attack chain](https://www.bleepingcomputer.com/news/security/microsoft-office-update-breaks-actively-exploited-rce-attack-chain/)
-* [Windows 11 KB5029263 cumulative update released with 27 fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5029263-cumulative-update-released-with-27-fixes/)
-* [Microsoft August 2023 Patch Tuesday warns of 2 zero-days, 87 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2023-patch-tuesday-warns-of-2-zero-days-87-flaws/)
-* [Windows 10 KB5029244 and KB5029247 updates released](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5029244-and-kb5029247-updates-released/)
 <!--END_SECTION:feed-->
 
 <!--
