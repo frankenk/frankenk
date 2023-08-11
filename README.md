@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Xiaomi's MIUI now flags Telegram as dangerous in China](https://www.bleepingcomputer.com/news/technology/xiaomis-miui-now-flags-telegram-as-dangerous-in-china/)
 * [Police seize LOLEK bulletproof service for hosting malware](https://www.bleepingcomputer.com/news/security/police-seize-lolek-bulletproof-service-for-hosting-malware/)
 * [Industrial PLCs worldwide impacted by CODESYS V3 RCE flaws](https://www.bleepingcomputer.com/news/security/industrial-plcs-worldwide-impacted-by-codesys-v3-rce-flaws/)
-* [Amazon AWS withdraws Moq sponsorship amid data collection controversy](https://www.bleepingcomputer.com/news/security/amazon-aws-withdraws-moq-sponsorship-amid-data-collection-controversy/)
+* [Amazon AWS distances itself from Moq amid data collection controversy](https://www.bleepingcomputer.com/news/security/amazon-aws-distances-itself-from-moq-amid-data-collection-controversy/)
 * [Lapsus$ hackers took SIM-swapping attacks to the next level](https://www.bleepingcomputer.com/news/security/lapsus-hackers-took-sim-swapping-attacks-to-the-next-level/)
-* [Gafgyt malware exploits five-years-old flaw in EoL Zyxel router](https://www.bleepingcomputer.com/news/security/gafgyt-malware-exploits-five-years-old-flaw-in-eol-zyxel-router/)
 <!--END_SECTION:feed-->
 
 <!--
