@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK gov keeps repeating its voter registration website is NOT a scam](https://www.bleepingcomputer.com/news/security/uk-gov-keeps-repeating-its-voter-registration-website-is-not-a-scam/)
+* [Knight ransomware distributed in fake Tripadvisor complaint emails](https://www.bleepingcomputer.com/news/security/knight-ransomware-distributed-in-fake-tripadvisor-complaint-emails/)
+* [Ford says cars with WiFi vulnerability still safe to drive](https://www.bleepingcomputer.com/news/security/ford-says-cars-with-wifi-vulnerability-still-safe-to-drive/)
 * [The Week in Ransomware - August 11th 2023 - Targeting Healthcare](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-11th-2023-targeting-healthcare/)
 * [US cyber safety board to analyze Microsoft Exchange hack of govt emails](https://www.bleepingcomputer.com/news/security/us-cyber-safety-board-to-analyze-microsoft-exchange-hack-of-govt-emails/)
-* [Xiaomi's MIUI now flags Telegram as dangerous in China](https://www.bleepingcomputer.com/news/technology/xiaomis-miui-now-flags-telegram-as-dangerous-in-china/)
-* [LOLEKHosted admin arrested for aiding Netwalker ransomware gang](https://www.bleepingcomputer.com/news/security/lolekhosted-admin-arrested-for-aiding-netwalker-ransomware-gang/)
-* [Industrial PLCs worldwide impacted by CODESYS V3 RCE flaws](https://www.bleepingcomputer.com/news/security/industrial-plcs-worldwide-impacted-by-codesys-v3-rce-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
