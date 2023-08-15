@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New CVE-2023-3519 scanner detects hacked Citrix ADC, Gateway devices](https://www.bleepingcomputer.com/news/security/new-cve-2023-3519-scanner-detects-hacked-citrix-adc-gateway-devices/)
+* [Back to school security against ransomware attacks on K-12 and colleges](https://www.bleepingcomputer.com/news/security/back-to-school-security-against-ransomware-attacks-on-k-12-and-colleges/)
 * [Threat actors use beta apps to bypass mobile app store security](https://www.bleepingcomputer.com/news/security/threat-actors-use-beta-apps-to-bypass-mobile-app-store-security/)
 * [Discord.io confirms breach after hacker steals data of 760K users](https://www.bleepingcomputer.com/news/security/discordio-confirms-breach-after-hacker-steals-data-of-760k-users/)
 * [Over 100K hacking forums accounts exposed by info-stealing malware](https://www.bleepingcomputer.com/news/security/over-100k-hacking-forums-accounts-exposed-by-info-stealing-malware/)
-* [Microsoft enables Windows Kernel CVE-2023-32019 fix for everyone](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-kernel-cve-2023-32019-fix-for-everyone/)
-* [FBI warns of increasing cryptocurrency recovery scams](https://www.bleepingcomputer.com/news/security/fbi-warns-of-increasing-cryptocurrency-recovery-scams/)
 <!--END_SECTION:feed-->
 
 <!--
