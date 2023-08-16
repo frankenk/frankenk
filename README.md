@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
+* [Just announced: AI and security standards keynotes at mWISE](https://www.bleepingcomputer.com/news/security/just-announced-ai-and-security-standards-keynotes-at-mwise/)
 * [Ivanti Avalanche impacted by critical pre-auth stack buffer overflows](https://www.bleepingcomputer.com/news/security/ivanti-avalanche-impacted-by-critical-pre-auth-stack-buffer-overflows/)
 * [LinkedIn accounts hacked in widespread hijacking campaign](https://www.bleepingcomputer.com/news/security/linkedin-accounts-hacked-in-widespread-hijacking-campaign/)
 * [Almost 2,000 Citrix NetScaler servers backdoored in hacking campaign](https://www.bleepingcomputer.com/news/security/almost-2-000-citrix-netscaler-servers-backdoored-in-hacking-campaign/)
-* [Raccoon Stealer malware returns with new stealthier version](https://www.bleepingcomputer.com/news/security/raccoon-stealer-malware-returns-with-new-stealthier-version/)
-* [New CVE-2023-3519 scanner detects hacked Citrix ADC, Gateway devices](https://www.bleepingcomputer.com/news/security/new-cve-2023-3519-scanner-detects-hacked-citrix-adc-gateway-devices/)
 <!--END_SECTION:feed-->
 
 <!--
