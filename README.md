@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Massive 400,000 proxy botnet built with stealthy malware infections](https://www.bleepingcomputer.com/news/security/massive-400-000-proxy-botnet-built-with-stealthy-malware-infections/)
 * [Major U.S. energy org targeted in QR code phishing attack](https://www.bleepingcomputer.com/news/security/major-us-energy-org-targeted-in-qr-code-phishing-attack/)
 * [Just announced: AI and security standards keynotes at mWISE](https://www.bleepingcomputer.com/news/security/just-announced-ai-and-security-standards-keynotes-at-mwise/)
 * [Ivanti Avalanche impacted by critical pre-auth stack buffer overflows](https://www.bleepingcomputer.com/news/security/ivanti-avalanche-impacted-by-critical-pre-auth-stack-buffer-overflows/)
 * [LinkedIn accounts hacked in widespread hijacking campaign](https://www.bleepingcomputer.com/news/security/linkedin-accounts-hacked-in-widespread-hijacking-campaign/)
-* [Almost 2,000 Citrix NetScaler servers backdoored in hacking campaign](https://www.bleepingcomputer.com/news/security/almost-2-000-citrix-netscaler-servers-backdoored-in-hacking-campaign/)
 <!--END_SECTION:feed-->
 
 <!--
