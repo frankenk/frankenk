@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hotmail email delivery fails after Microsoft misconfigures DNS](https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/)
 * [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
+* [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
+* [Hackers ask * [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
 * [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
 * [Hackers ask * [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
 * [Hackers ask * [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
@@ -77,7 +80,8 @@
 * [Phishing campaign steals accounts for Zimbra email servers worlwide](https://www.bleepingcomputer.com/news/security/phishing-campaign-steals-accounts-for-zimbra-email-servers-worlwide/)
 * [Windows Task Manager refresh can be paused using CTRL key](https://www.bleepingcomputer.com/news/microsoft/windows-task-manager-refresh-can-be-paused-using-ctrl-key/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
 * [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)
-* [Phishing campaign steals accounts for Zimbra email servers worlwide](https://www.bleepingcomputer.com/news/security/phishing-campaign-steals-accounts-for-zimbra-email-servers-worlwide/)
+* [Phishing campaign steals accounts for Zimbra email servers worlwide](https://www.bleepingcomputer.com/news/security/phishing-campaign-steals-accounts-for-zimbra-email-servers-worlwide/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
+* [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
