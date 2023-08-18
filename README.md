@@ -5,6 +5,10 @@
 * [Hotmail email delivery fails after Microsoft misconfigures DNS](https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/)
 * [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
 * [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
+* [Hackers ask * [WinRAR flaw lets hackers run programs when you open RAR archives](https://www.bleepingcomputer.com/news/security/winrar-flaw-lets-hackers-run-programs-when-you-open-rar-archives/)
+* [Hotmail email delivery fails after Microsoft misconfigures DNS](https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/)
+* [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
+* [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
 * [Hackers ask * [Hotmail email delivery fails after Microsoft misconfigures DNS](https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/)
 * [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
 * [Microsoft: BlackCat's Sphynx ransomware embeds Impacket, RemCom](https://www.bleepingcomputer.com/news/microsoft/microsoft-blackcats-sphynx-ransomware-embeds-impacket-remcom/)
@@ -89,7 +93,7 @@
 * [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)
 * [Phishing campaign steals accounts for Zimbra email servers worlwide](https://www.bleepingcomputer.com/news/security/phishing-campaign-steals-accounts-for-zimbra-email-servers-worlwide/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
 * [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
-* [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
+* [Microsoft PowerShell Gallery vulnerable to spoofing, supply chain attacks](https://www.bleepingcomputer.com/news/security/microsoft-powershell-gallery-vulnerable-to-spoofing-supply-chain-attacks/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)20,000 for access to multi-billion auction house](https://www.bleepingcomputer.com/news/security/hackers-ask-120-000-for-access-to-multi-billion-auction-house/)
 <!--END_SECTION:feed-->
 
 <!--
