@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome to warn when installed extensions are malware](https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-when-installed-extensions-are-malware/)
+* [Cuba ransomware uses Veeam exploit against critical U.S. organizations](https://www.bleepingcomputer.com/news/security/cuba-ransomware-uses-veeam-exploit-against-critical-us-organizations/)
+* [Hackers use VPN provider's code certificate to sign malware](https://www.bleepingcomputer.com/news/security/hackers-use-vpn-providers-code-certificate-to-sign-malware/)
 * [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 * [The Week in Ransomware - August 18th 2023 - LockBit on Thin Ice](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-august-18th-2023-lockbit-on-thin-ice/)
-* [WinRAR flaw lets hackers run programs when you open RAR archives](https://www.bleepingcomputer.com/news/security/winrar-flaw-lets-hackers-run-programs-when-you-open-rar-archives/)
-* [Hotmail email delivery fails after Microsoft misconfigures DNS](https://www.bleepingcomputer.com/news/microsoft/hotmail-email-delivery-fails-after-microsoft-misconfigures-dns/)
-* [Interpol arrests 14 suspected cybercriminals for stealing $40 million](https://www.bleepingcomputer.com/news/security/interpol-arrests-14-suspected-cybercriminals-for-stealing-40-million/)
 <!--END_SECTION:feed-->
 
 <!--
