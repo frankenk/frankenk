@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ongoing Duo outage causes Azure Auth authentication errors](https://www.bleepingcomputer.com/news/technology/ongoing-duo-outage-causes-azure-auth-authentication-errors/)
 * [Ivanti warns of new actively exploited MobileIron zero-day bug](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-actively-exploited-mobileiron-zero-day-bug/)
 * [Japanese watchmaker Seiko breached by BlackCat ransomware gang](https://www.bleepingcomputer.com/news/security/japanese-watchmaker-seiko-breached-by-blackcat-ransomware-gang/)
 * [Hands on with Windows 11's 'never combine' taskbar feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-never-combine-taskbar-feature/)
 * [Google Chrome to warn when installed extensions are malware](https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-when-installed-extensions-are-malware/)
-* [Cuba ransomware uses Veeam exploit against critical U.S. organizations](https://www.bleepingcomputer.com/news/security/cuba-ransomware-uses-veeam-exploit-against-critical-us-organizations/)
 <!--END_SECTION:feed-->
 
 <!--
