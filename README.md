@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Japanese watchmaker Seiko breached by BlackCat ransomware gang](https://www.bleepingcomputer.com/news/security/japanese-watchmaker-seiko-breached-by-blackcat-ransomware-gang/)
 * [Hands on with Windows 11's 'never combine' taskbar feature](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-windows-11s-never-combine-taskbar-feature/)
 * [Google Chrome to warn when installed extensions are malware](https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-when-installed-extensions-are-malware/)
 * [Cuba ransomware uses Veeam exploit against critical U.S. organizations](https://www.bleepingcomputer.com/news/security/cuba-ransomware-uses-veeam-exploit-against-critical-us-organizations/)
 * [Hackers use VPN provider's code certificate to sign malware](https://www.bleepingcomputer.com/news/security/hackers-use-vpn-providers-code-certificate-to-sign-malware/)
-* [Rust devs push back as Serde project ships precompiled binaries](https://www.bleepingcomputer.com/news/security/rust-devs-push-back-as-serde-project-ships-precompiled-binaries/)
 <!--END_SECTION:feed-->
 
 <!--
