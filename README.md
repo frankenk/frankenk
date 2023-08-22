@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5029351 preview update released with Search fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5029351-preview-update-released-with-search-fixes/)
 * [New HiatusRAT malware attacks target US Defense Department](https://www.bleepingcomputer.com/news/security/new-hiatusrat-malware-attacks-target-us-defense-department/)
 * [Microsoft Excel to let you run Python scripts as formulas](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-to-let-you-run-python-scripts-as-formulas/)
 * [Akira ransomware targets Cisco VPNs to breach organizations](https://www.bleepingcomputer.com/news/security/akira-ransomware-targets-cisco-vpns-to-breach-organizations/)
 * [Carderbee hacking group hits Hong Kong orgs in supply chain attack](https://www.bleepingcomputer.com/news/security/carderbee-hacking-group-hits-hong-kong-orgs-in-supply-chain-attack/)
-* [TP-Link smart bulbs can let hackers steal your WiFi password](https://www.bleepingcomputer.com/news/security/tp-link-smart-bulbs-can-let-hackers-steal-your-wifi-password/)
 <!--END_SECTION:feed-->
 
 <!--
