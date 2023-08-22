@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Excel to let you run Python scripts as formulas](https://www.bleepingcomputer.com/news/microsoft/microsoft-excel-to-let-you-run-python-scripts-as-formulas/)
+* [Akira ransomware targets Cisco VPNs to breach organizations](https://www.bleepingcomputer.com/news/security/akira-ransomware-targets-cisco-vpns-to-breach-organizations/)
+* [Carderbee hacking group hits Hong Kong orgs in supply chain attack](https://www.bleepingcomputer.com/news/security/carderbee-hacking-group-hits-hong-kong-orgs-in-supply-chain-attack/)
 * [TP-Link smart bulbs can let hackers steal your WiFi password](https://www.bleepingcomputer.com/news/security/tp-link-smart-bulbs-can-let-hackers-steal-your-wifi-password/)
 * [Sneaky Amazon Google ad leads to Microsoft support scam](https://www.bleepingcomputer.com/news/security/sneaky-amazon-google-ad-leads-to-microsoft-support-scam/)
-* [Ongoing Duo outage causes Azure Auth authentication errors](https://www.bleepingcomputer.com/news/technology/ongoing-duo-outage-causes-azure-auth-authentication-errors/)
-* [Ivanti warns of new actively exploited MobileIron zero-day bug](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-actively-exploited-mobileiron-zero-day-bug/)
-* [Japanese watchmaker Seiko breached by BlackCat ransomware gang](https://www.bleepingcomputer.com/news/security/japanese-watchmaker-seiko-breached-by-blackcat-ransomware-gang/)
 <!--END_SECTION:feed-->
 
 <!--
