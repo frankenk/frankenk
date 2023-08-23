@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 3,000 Openfire servers vulnerable to takover attacks](https://www.bleepingcomputer.com/news/security/over-3-000-openfire-servers-vulnerable-to-takover-attacks/)
+* [Bitwarden releases free and open-source E2EE Secrets Manager](https://www.bleepingcomputer.com/news/security/bitwarden-releases-free-and-open-source-e2ee-secrets-manager/)
 * [Discord starts notifying users affected by March data breach](https://www.bleepingcomputer.com/news/security/discord-starts-notifying-users-affected-by-march-data-breach/)
 * [New stealthy techniques let hackers gain Windows SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-stealthy-techniques-let-hackers-gain-windows-system-privileges/)
 * [US charges founders of Tornado Cash mixer used by Lazarus hackers](https://www.bleepingcomputer.com/news/security/us-charges-founders-of-tornado-cash-mixer-used-by-lazarus-hackers/)
-* [Kali Linux 2023.3 released with 9 new tools, internal changes](https://www.bleepingcomputer.com/news/security/kali-linux-20233-released-with-9-new-tools-internal-changes/)
-* [Google Workspace will require two admins to sign off on critical changes](https://www.bleepingcomputer.com/news/google/google-workspace-will-require-two-admins-to-sign-off-on-critical-changes/)
 <!--END_SECTION:feed-->
 
 <!--
