@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Discord starts notifying users affected by March data breach](https://www.bleepingcomputer.com/news/security/discord-starts-notifying-users-affected-by-march-data-breach/)
+* [New stealthy techniques let hackers gain Windows SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-stealthy-techniques-let-hackers-gain-windows-system-privileges/)
 * [US charges founders of Tornado Cash mixer used by Lazarus hackers](https://www.bleepingcomputer.com/news/security/us-charges-founders-of-tornado-cash-mixer-used-by-lazarus-hackers/)
 * [Kali Linux 2023.3 released with 9 new tools, internal changes](https://www.bleepingcomputer.com/news/security/kali-linux-20233-released-with-9-new-tools-internal-changes/)
 * [Google Workspace will require two admins to sign off on critical changes](https://www.bleepingcomputer.com/news/google/google-workspace-will-require-two-admins-to-sign-off-on-critical-changes/)
-* [FBI: Lazarus hackers readying to cash out $41 million in stolen crypto](https://www.bleepingcomputer.com/news/security/fbi-lazarus-hackers-readying-to-cash-out-41-million-in-stolen-crypto/)
-* [Hosting firm says it lost all customer data after ransomware attack](https://www.bleepingcomputer.com/news/security/hosting-firm-says-it-lost-all-customer-data-after-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
