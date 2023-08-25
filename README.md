@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Leaseweb is restoring ‘critical’ systems after security breach](https://www.bleepingcomputer.com/news/security/leaseweb-is-restoring-critical-systems-after-security-breach/)
+* [Kroll data breach exposes info of FTX, BlockFi, Genesis creditors](https://www.bleepingcomputer.com/news/security/kroll-data-breach-exposes-info-of-ftx-blockfi-genesis-creditors/)
 * [FBI warns of patched Barracuda ESG appliances still being hacked](https://www.bleepingcomputer.com/news/security/fbi-warns-of-patched-barracuda-esg-appliances-still-being-hacked/)
 * [Ransomware hackers dwell time drops to 5 days, RDP still widely used](https://www.bleepingcomputer.com/news/security/ransomware-hackers-dwell-time-drops-to-5-days-rdp-still-widely-used/)
 * [Jupiter X Core WordPress plugin could let hackers hijack sites](https://www.bleepingcomputer.com/news/security/jupiter-x-core-wordpress-plugin-could-let-hackers-hijack-sites/)
-* [New Windows updates cause UNSUPPORTED_PROCESSOR blue screens](https://www.bleepingcomputer.com/news/microsoft/new-windows-updates-cause-unsupported-processor-blue-screens/)
-* [New Whiffy Recon malware uses WiFi to triangulate your location](https://www.bleepingcomputer.com/news/security/new-whiffy-recon-malware-uses-wifi-to-triangulate-your-location/)
 <!--END_SECTION:feed-->
 
 <!--
