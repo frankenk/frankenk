@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rhysida claims ransomware attack on Prospect Medical, threatens to sell data](https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/)
+* [Microsoft wants you to learn more about new features in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-you-to-learn-more-about-new-features-in-windows-11/)
 * [Data breach at French govt agency exposes info of 10 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-french-govt-agency-exposes-info-of-10-million-people/)
 * [MSI: Recent wave of Windows blue screens linked to MSI motherboards](https://www.bleepingcomputer.com/news/software/msi-recent-wave-of-windows-blue-screens-linked-to-msi-motherboards/)
 * [ICO calls social media firms to protect people's data from scraping](https://www.bleepingcomputer.com/news/security/ico-calls-social-media-firms-to-protect-peoples-data-from-scraping/)
-* [Microsoft: Stealthy Flax Typhoon hackers use LOLBins to evade detection](https://www.bleepingcomputer.com/news/security/microsoft-stealthy-flax-typhoon-hackers-use-lolbins-to-evade-detection/)
-* [Leaseweb is restoring ‘critical’ systems after security breach](https://www.bleepingcomputer.com/news/security/leaseweb-is-restoring-critical-systems-after-security-breach/)
 <!--END_SECTION:feed-->
 
 <!--
