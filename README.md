@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Attacks on Citrix NetScaler systems linked to ransomware actor](https://www.bleepingcomputer.com/news/security/attacks-on-citrix-netscaler-systems-linked-to-ransomware-actor/)
 * [MalDoc in PDFs: Hiding malicious Word docs in PDF files](https://www.bleepingcomputer.com/news/security/maldoc-in-pdfs-hiding-malicious-word-docs-in-pdf-files/)
 * [Microsoft will enable Exchange Extended Protection by default this fall](https://www.bleepingcomputer.com/news/security/microsoft-will-enable-exchange-extended-protection-by-default-this-fall/)
 * [Spain warns of LockBit Locker ransomware phishing attacks](https://www.bleepingcomputer.com/news/security/spain-warns-of-lockbit-locker-ransomware-phishing-attacks/)
 * [Microsoft blames ‘unsupported processor’ blue screens on OEM vendors](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unsupported-processor-blue-screens-on-oem-vendors/)
-* [Exploit released for Juniper firewall bugs allowing RCE attacks](https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
