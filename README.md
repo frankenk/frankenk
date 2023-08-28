@@ -5,7 +5,7 @@
 * [Microsoft wants you to learn more about new features in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-you-to-learn-more-about-new-features-in-windows-11/)
 * [Data breach at French govt agency exposes info of 10 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-french-govt-agency-exposes-info-of-10-million-people/)
 * [MSI: Recent wave of Windows blue screens linked to MSI motherboards](https://www.bleepingcomputer.com/news/software/msi-recent-wave-of-windows-blue-screens-linked-to-msi-motherboards/)
-* [ICO calls social media firms to protect people's data from scraping](https://www.bleepingcomputer.com/news/security/ico-calls-social-media-firms-to-protect-peoples-data-from-scraping/)
+* [ICO calls on social media firms to protect user's data from scraping](https://www.bleepingcomputer.com/news/security/ico-calls-on-social-media-firms-to-protect-users-data-from-scraping/)
 <!--END_SECTION:feed-->
 
 <!--
