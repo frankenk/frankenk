@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft blames ‘unsupported processor’ blue screens on OEM vendors](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unsupported-processor-blue-screens-on-oem-vendors/)
 * [Exploit released for Juniper firewall bugs allowing RCE attacks](https://www.bleepingcomputer.com/news/security/exploit-released-for-juniper-firewall-bugs-allowing-rce-attacks/)
 * [Mom’s Meals discloses data breach impacting 1.2 million people](https://www.bleepingcomputer.com/news/security/moms-meals-discloses-data-breach-impacting-12-million-people/)
 * [Four common password mistakes hackers love to exploit](https://www.bleepingcomputer.com/news/security/four-common-password-mistakes-hackers-love-to-exploit/)
 * [Rhysida claims ransomware attack on Prospect Medical, threatens to sell data](https://www.bleepingcomputer.com/news/security/rhysida-claims-ransomware-attack-on-prospect-medical-threatens-to-sell-data/)
-* [Microsoft wants you to learn more about new features in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-you-to-learn-more-about-new-features-in-windows-11/)
 <!--END_SECTION:feed-->
 
 <!--
