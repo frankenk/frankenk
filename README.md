@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress migration add-on flaw could lead to data breaches](https://www.bleepingcomputer.com/news/security/wordpress-migration-add-on-flaw-could-lead-to-data-breaches/)
 * [VMware Aria vulnerable to critical SSH authentication bypass flaw](https://www.bleepingcomputer.com/news/security/vmware-aria-vulnerable-to-critical-ssh-authentication-bypass-flaw/)
 * [Hacking campaign bruteforces Cisco VPNs to breach networks](https://www.bleepingcomputer.com/news/security/hacking-campaign-bruteforces-cisco-vpns-to-breach-networks/)
 * [Trojanized Signal and Telegram apps on Google Play delivered spyware](https://www.bleepingcomputer.com/news/security/trojanized-signal-and-telegram-apps-on-google-play-delivered-spyware/)
 * [How the FBI nuked Qakbot malware from infected Windows PCs](https://www.bleepingcomputer.com/news/security/how-the-fbi-nuked-qakbot-malware-from-infected-windows-pcs/)
-* [DreamBus malware exploits RocketMQ flaw to infect servers](https://www.bleepingcomputer.com/news/security/dreambus-malware-exploits-rocketmq-flaw-to-infect-servers/)
 <!--END_SECTION:feed-->
 
 <!--
