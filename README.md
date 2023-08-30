@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple opens 2024 applications to get ‘security research’ iPhones](https://www.bleepingcomputer.com/news/apple/apple-opens-2024-applications-to-get-security-research-iphones/)
 * [WordPress migration add-on flaw could lead to data breaches](https://www.bleepingcomputer.com/news/security/wordpress-migration-add-on-flaw-could-lead-to-data-breaches/)
 * [VMware Aria vulnerable to critical SSH authentication bypass flaw](https://www.bleepingcomputer.com/news/security/vmware-aria-vulnerable-to-critical-ssh-authentication-bypass-flaw/)
 * [Hacking campaign bruteforces Cisco VPNs to breach networks](https://www.bleepingcomputer.com/news/security/hacking-campaign-bruteforces-cisco-vpns-to-breach-networks/)
 * [Trojanized Signal and Telegram apps on Google Play delivered spyware](https://www.bleepingcomputer.com/news/security/trojanized-signal-and-telegram-apps-on-google-play-delivered-spyware/)
-* [How the FBI nuked Qakbot malware from infected Windows PCs](https://www.bleepingcomputer.com/news/security/how-the-fbi-nuked-qakbot-malware-from-infected-windows-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
