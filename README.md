@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hacking campaign bruteforces Cisco VPNs to breach networks](https://www.bleepingcomputer.com/news/security/hacking-campaign-bruteforces-cisco-vpns-to-breach-networks/)
+* [Trojanized Signal and Telegram apps on Google Play delivered spyware](https://www.bleepingcomputer.com/news/security/trojanized-signal-and-telegram-apps-on-google-play-delivered-spyware/)
 * [How the FBI nuked Qakbot malware from infected Windows PCs](https://www.bleepingcomputer.com/news/security/how-the-fbi-nuked-qakbot-malware-from-infected-windows-pcs/)
 * [DreamBus malware exploits RocketMQ flaw to infect servers](https://www.bleepingcomputer.com/news/security/dreambus-malware-exploits-rocketmq-flaw-to-infect-servers/)
 * [New Android MMRat malware uses Protobuf protocol to steal your data](https://www.bleepingcomputer.com/news/security/new-android-mmrat-malware-uses-protobuf-protocol-to-steal-your-data/)
-* [Qakbot botnet dismantled after infecting over 700,000 computers](https://www.bleepingcomputer.com/news/security/qakbot-botnet-dismantled-after-infecting-over-700-000-computers/)
-* [Microsoft adds HSTS support to Exchange Server 2016 and 2019 ](https://www.bleepingcomputer.com/news/security/microsoft-adds-hsts-support-to-exchange-server-2016-and-2019/)
 <!--END_SECTION:feed-->
 
 <!--
