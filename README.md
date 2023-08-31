@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Sourcegraph website breached using leaked admin access token](https://www.bleepingcomputer.com/news/security/sourcegraph-website-breached-using-leaked-admin-access-token/)
+* [Forever 21 data breach: hackers accessed info of 500,000](https://www.bleepingcomputer.com/news/security/forever-21-data-breach-hackers-accessed-info-of-500-000/)
 * [North Korean hackers behind malicious VMConnect PyPI campaign](https://www.bleepingcomputer.com/news/security/north-korean-hackers-behind-malicious-vmconnect-pypi-campaign/)
 * [LogicMonitor customers hacked in reported ransomware attacks](https://www.bleepingcomputer.com/news/security/logicmonitor-customers-hacked-in-reported-ransomware-attacks/)
 * [Free Key Group ransomware decryptor helps victims recover data](https://www.bleepingcomputer.com/news/security/free-key-group-ransomware-decryptor-helps-victims-recover-data/)
-* [GRU hackers attack Ukrainian military with new Android malware](https://www.bleepingcomputer.com/news/security/gru-hackers-attack-ukrainian-military-with-new-android-malware/)
-* [Classiscam fraud-as-a-service expands, now targets banks and 251 brands](https://www.bleepingcomputer.com/news/security/classiscam-fraud-as-a-service-expands-now-targets-banks-and-251-brands/)
 <!--END_SECTION:feed-->
 
 <!--
