@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Paramount discloses data breach following security incident](https://www.bleepingcomputer.com/news/security/paramount-discloses-data-breach-following-security-incident/)
 * [Windows 11 browser change: Europe applauds, outrage everywhere else](https://www.bleepingcomputer.com/news/microsoft/windows-11-browser-change-europe-applauds-outrage-everywhere-else/)
 * [Apple opens 2024 applications to get ‘security research’ iPhones](https://www.bleepingcomputer.com/news/apple/apple-opens-2024-applications-to-get-security-research-iphones/)
 * [WordPress migration add-on flaw could lead to data breaches](https://www.bleepingcomputer.com/news/security/wordpress-migration-add-on-flaw-could-lead-to-data-breaches/)
 * [VMware Aria vulnerable to critical SSH authentication bypass flaw](https://www.bleepingcomputer.com/news/security/vmware-aria-vulnerable-to-critical-ssh-authentication-bypass-flaw/)
-* [Hacking campaign bruteforces Cisco VPNs to breach networks](https://www.bleepingcomputer.com/news/security/hacking-campaign-bruteforces-cisco-vpns-to-breach-networks/)
 <!--END_SECTION:feed-->
 
 <!--
