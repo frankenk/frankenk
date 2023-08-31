@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Free Key Group ransomware decryptor helps victims recover data](https://www.bleepingcomputer.com/news/security/free-key-group-ransomware-decryptor-helps-victims-recover-data/)
 * [GRU hackers attack Ukrainian military with new Android malware](https://www.bleepingcomputer.com/news/security/gru-hackers-attack-ukrainian-military-with-new-android-malware/)
 * [Classiscam fraud-as-a-service expands, now targets banks and 251 brands](https://www.bleepingcomputer.com/news/security/classiscam-fraud-as-a-service-expands-now-targets-banks-and-251-brands/)
 * [Paramount discloses data breach following security incident](https://www.bleepingcomputer.com/news/security/paramount-discloses-data-breach-following-security-incident/)
 * [Windows 11 browser change: Europe applauds, outrage everywhere else](https://www.bleepingcomputer.com/news/microsoft/windows-11-browser-change-europe-applauds-outrage-everywhere-else/)
-* [Apple opens 2024 applications to get ‘security research’ iPhones](https://www.bleepingcomputer.com/news/apple/apple-opens-2024-applications-to-get-security-research-iphones/)
 <!--END_SECTION:feed-->
 
 <!--
