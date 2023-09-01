@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Golf gear giant Callaway data breach exposes info of 1.1 million](https://www.bleepingcomputer.com/news/security/golf-gear-giant-callaway-data-breach-exposes-info-of-11-million/)
 * [Sourcegraph website breached using leaked admin access token](https://www.bleepingcomputer.com/news/security/sourcegraph-website-breached-using-leaked-admin-access-token/)
 * [Forever 21 data breach: hackers accessed info of 500,000](https://www.bleepingcomputer.com/news/security/forever-21-data-breach-hackers-accessed-info-of-500-000/)
 * [North Korean hackers behind malicious VMConnect PyPI campaign](https://www.bleepingcomputer.com/news/security/north-korean-hackers-behind-malicious-vmconnect-pypi-campaign/)
 * [LogicMonitor customers hacked in reported ransomware attacks](https://www.bleepingcomputer.com/news/security/logicmonitor-customers-hacked-in-reported-ransomware-attacks/)
-* [Free Key Group ransomware decryptor helps victims recover data](https://www.bleepingcomputer.com/news/security/free-key-group-ransomware-decryptor-helps-victims-recover-data/)
 <!--END_SECTION:feed-->
 
 <!--
