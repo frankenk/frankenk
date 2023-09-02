@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
-* [New ‘YouPorn’ sextortion scam threatens to leak your sex tape](https://www.bleepingcomputer.com/news/security/new-youporn-sextortion-scam-threatens-to-leak-your-sex-tape/)
+* [Fake YouPorn extortion scam threatens to leak your sex tape](https://www.bleepingcomputer.com/news/security/fake-youporn-extortion-scam-threatens-to-leak-your-sex-tape/)
 * [Yes, there's an npm package called @(-.-)/env and some others like it](https://www.bleepingcomputer.com/news/technology/yes-theres-an-npm-package-called-env-and-some-others-like-it/)
 * [Microsoft is killing WordPad in Windows after 28 years](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/)
 * [Exploit released for critical VMware SSH auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-ssh-auth-bypass-vulnerability/)
