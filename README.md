@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
+* [New ‘YouPorn’ sextortion scam threatens to leak your sex tape](https://www.bleepingcomputer.com/news/security/new-youporn-sextortion-scam-threatens-to-leak-your-sex-tape/)
+* [Yes, there's an npm package called @(-.-)/env and some others like it](https://www.bleepingcomputer.com/news/technology/yes-theres-an-npm-package-called-env-and-some-others-like-it/)
 * [Microsoft is killing WordPad in Windows after 28 years](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-wordpad-in-windows-after-28-years/)
 * [Exploit released for critical VMware SSH auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-vmware-ssh-auth-bypass-vulnerability/)
-* [Microsoft reminds of Windows 11 21H2 forced updates before end of service](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-of-windows-11-21h2-forced-updates-before-end-of-service/)
-* [Microsoft retires Visual Studio for Mac, support ends in a year](https://www.bleepingcomputer.com/news/software/microsoft-retires-visual-studio-for-mac-support-ends-in-a-year/)
-* [Golf gear giant Callaway data breach exposes info of 1.1 million](https://www.bleepingcomputer.com/news/security/golf-gear-giant-callaway-data-breach-exposes-info-of-11-million/)
 <!--END_SECTION:feed-->
 
 <!--
