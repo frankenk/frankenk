@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 23H2: Top three new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-top-three-new-features/)
 * [University of Sydney data breach impacts recent applicants](https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/)
 * [Microsoft reminds users Windows will disable insecure TLS soon](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-windows-will-disable-insecure-tls-soon/)
 * [Children's snack recalled after its website caught serving porn](https://www.bleepingcomputer.com/news/security/childrens-snack-recalled-after-its-website-caught-serving-porn/)
 * [Chrome extensions can steal plaintext passwords from websites](https://www.bleepingcomputer.com/news/security/chrome-extensions-can-steal-plaintext-passwords-from-websites/)
-* [Fake YouPorn extortion scam threatens to leak your sex tape](https://www.bleepingcomputer.com/news/security/fake-youporn-extortion-scam-threatens-to-leak-your-sex-tape/)
 <!--END_SECTION:feed-->
 
 <!--
