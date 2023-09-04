@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit MinIO storage system to breach corporate networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-minio-storage-system-to-breach-corporate-networks/)
 * [Okta: Hackers target IT help desks to gain Super Admin, disable MFA](https://www.bleepingcomputer.com/news/security/okta-hackers-target-it-help-desks-to-gain-super-admin-disable-mfa/)
 * [Windows 11 23H2: Top three new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-top-three-new-features/)
 * [University of Sydney data breach impacts recent applicants](https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/)
 * [Microsoft reminds users Windows will disable insecure TLS soon](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-windows-will-disable-insecure-tls-soon/)
-* [Children's snack recalled after its website caught serving porn](https://www.bleepingcomputer.com/news/security/childrens-snack-recalled-after-its-website-caught-serving-porn/)
 <!--END_SECTION:feed-->
 
 <!--
