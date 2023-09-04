@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Freecycle confirms massive data breach impacting 7 million users](https://www.bleepingcomputer.com/news/security/freecycle-confirms-massive-data-breach-impacting-7-million-users/)
+* [Insurer fined $3M for exposing data of 650k clients for two years](https://www.bleepingcomputer.com/news/security/insurer-fined-3m-for-exposing-data-of-650k-clients-for-two-years/)
+* [German financial agency site disrupted by DDoS attack since Friday](https://www.bleepingcomputer.com/news/security/german-financial-agency-site-disrupted-by-ddos-attack-since-friday/)
 * [Hackers exploit MinIO storage system to breach corporate networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-minio-storage-system-to-breach-corporate-networks/)
 * [Okta: Hackers target IT help desks to gain Super Admin, disable MFA](https://www.bleepingcomputer.com/news/security/okta-hackers-target-it-help-desks-to-gain-super-admin-disable-mfa/)
-* [Windows 11 23H2: Top three new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-top-three-new-features/)
-* [University of Sydney data breach impacts recent applicants](https://www.bleepingcomputer.com/news/security/university-of-sydney-data-breach-impacts-recent-applicants/)
-* [Microsoft reminds users Windows will disable insecure TLS soon](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-windows-will-disable-insecure-tls-soon/)
 <!--END_SECTION:feed-->
 
 <!--
