@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AtlasVPN zero-day vulnerability leaks users' real IP address](https://www.bleepingcomputer.com/news/security/atlasvpn-zero-day-vulnerability-leaks-users-real-ip-address/)
 * [Crypto casino Stake.com loses $41 million to hot wallet hackers](https://www.bleepingcomputer.com/news/security/crypto-casino-stakecom-loses-41-million-to-hot-wallet-hackers/)
 * [Chaes malware now uses Google Chrome DevTools Protocol to steal data](https://www.bleepingcomputer.com/news/security/chaes-malware-now-uses-google-chrome-devtools-protocol-to-steal-data/)
 * [ASUS routers vulnerable to critical remote code execution flaws](https://www.bleepingcomputer.com/news/security/asus-routers-vulnerable-to-critical-remote-code-execution-flaws/)
 * [Continuous Security: PTaaS Bridges the Gap within Application Security](https://www.bleepingcomputer.com/news/security/continuous-security-ptaas-bridges-the-gap-within-application-security/)
-* [Freecycle confirms massive data breach impacting 7 million users](https://www.bleepingcomputer.com/news/security/freecycle-confirms-massive-data-breach-impacting-7-million-users/)
 <!--END_SECTION:feed-->
 
 <!--
