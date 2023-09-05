@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ASUS routers vulnerable to critical remote code execution flaws](https://www.bleepingcomputer.com/news/security/asus-routers-vulnerable-to-critical-remote-code-execution-flaws/)
+* [Continuous Security: PTaaS Bridges the Gap within Application Security](https://www.bleepingcomputer.com/news/security/continuous-security-ptaas-bridges-the-gap-within-application-security/)
 * [Freecycle confirms massive data breach impacting 7 million users](https://www.bleepingcomputer.com/news/security/freecycle-confirms-massive-data-breach-impacting-7-million-users/)
 * [Insurer fined $3M for exposing data of 650k clients for two years](https://www.bleepingcomputer.com/news/security/insurer-fined-3m-for-exposing-data-of-650k-clients-for-two-years/)
 * [German financial agency site disrupted by DDoS attack since Friday](https://www.bleepingcomputer.com/news/security/german-financial-agency-site-disrupted-by-ddos-attack-since-friday/)
-* [Hackers exploit MinIO storage system to breach corporate networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-minio-storage-system-to-breach-corporate-networks/)
-* [Okta: Hackers target IT help desks to gain Super Admin, disable MFA](https://www.bleepingcomputer.com/news/security/okta-hackers-target-it-help-desks-to-gain-super-admin-disable-mfa/)
 <!--END_SECTION:feed-->
 
 <!--
