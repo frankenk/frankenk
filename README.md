@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [W3LL phishing kit hijacks thousands of Microsoft 365 accounts, bypasses MFA](https://www.bleepingcomputer.com/news/security/w3ll-phishing-kit-hijacks-thousands-of-microsoft-365-accounts-bypasses-mfa/)
 * [Coffee Meets Bagel says recent outage caused by destructive cyberattack](https://www.bleepingcomputer.com/news/security/coffee-meets-bagel-says-recent-outage-caused-by-destructive-cyberattack/)
 * [Atlas VPN zero-day vulnerability leaks users' real IP address](https://www.bleepingcomputer.com/news/security/atlas-vpn-zero-day-vulnerability-leaks-users-real-ip-address/)
 * [Crypto casino Stake.com loses $41 million to hot wallet hackers](https://www.bleepingcomputer.com/news/security/crypto-casino-stakecom-loses-41-million-to-hot-wallet-hackers/)
 * [Chaes malware now uses Google Chrome DevTools Protocol to steal data](https://www.bleepingcomputer.com/news/security/chaes-malware-now-uses-google-chrome-devtools-protocol-to-steal-data/)
-* [ASUS routers vulnerable to critical remote code execution flaws](https://www.bleepingcomputer.com/news/security/asus-routers-vulnerable-to-critical-remote-code-execution-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
