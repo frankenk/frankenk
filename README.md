@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers stole Microsoft signing key from Windows crash dump](https://www.bleepingcomputer.com/news/microsoft/hackers-stole-microsoft-signing-key-from-windows-crash-dump/)
 * [MSI BIOS updates fix Windows unsupported processor BSOD bug](https://www.bleepingcomputer.com/news/software/msi-bios-updates-fix-windows-unsupported-processor-bsod-bug/)
 * [Mirai variant infects low-cost Android TV boxes for DDoS attacks](https://www.bleepingcomputer.com/news/security/mirai-variant-infects-low-cost-android-tv-boxes-for-ddos-attacks/)
 * [September Android updates fix zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/september-android-updates-fix-zero-day-exploited-in-attacks/)
 * [How SMEs can use Wazuh to improve cybersecurity](https://www.bleepingcomputer.com/news/security/how-smes-can-use-wazuh-to-improve-cybersecurity/)
-* [Toyota says filled disk storage halted Japan-based factories](https://www.bleepingcomputer.com/news/security/toyota-says-filled-disk-storage-halted-japan-based-factories/)
 <!--END_SECTION:feed-->
 
 <!--
