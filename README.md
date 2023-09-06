@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [MSI BIOS updates fix Windows unsupported processor BSOD bug](https://www.bleepingcomputer.com/news/software/msi-bios-updates-fix-windows-unsupported-processor-bsod-bug/)
 * [Mirai variant infects low-cost Android TV boxes for DDoS attacks](https://www.bleepingcomputer.com/news/security/mirai-variant-infects-low-cost-android-tv-boxes-for-ddos-attacks/)
 * [September Android updates fix zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/september-android-updates-fix-zero-day-exploited-in-attacks/)
 * [How SMEs can use Wazuh to improve cybersecurity](https://www.bleepingcomputer.com/news/security/how-smes-can-use-wazuh-to-improve-cybersecurity/)
 * [Toyota says filled disk storage halted Japan-based factories](https://www.bleepingcomputer.com/news/security/toyota-says-filled-disk-storage-halted-japan-based-factories/)
-* [W3LL phishing kit hijacks thousands of Microsoft 365 accounts, bypasses MFA](https://www.bleepingcomputer.com/news/security/w3ll-phishing-kit-hijacks-thousands-of-microsoft-365-accounts-bypasses-mfa/)
 <!--END_SECTION:feed-->
 
 <!--
