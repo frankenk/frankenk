@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rockstar Games reportedly sold games with Razor 1911 cracks on Steam](https://www.bleepingcomputer.com/news/gaming/rockstar-games-reportedly-sold-games-with-razor-1911-cracks-on-steam/)
 * [University of Michigan requires password resets after cyberattack](https://www.bleepingcomputer.com/news/security/university-of-michigan-requires-password-resets-after-cyberattack/)
 * [Flipper Zero can be used to launch iOS Bluetooth spam attacks](https://www.bleepingcomputer.com/news/security/flipper-zero-can-be-used-to-launch-ios-bluetooth-spam-attacks/)
 * [Hackers stole Microsoft signing key from Windows crash dump](https://www.bleepingcomputer.com/news/microsoft/hackers-stole-microsoft-signing-key-from-windows-crash-dump/)
 * [MSI BIOS updates fix Windows unsupported processor BSOD bug](https://www.bleepingcomputer.com/news/software/msi-bios-updates-fix-windows-unsupported-processor-bsod-bug/)
-* [Mirai variant infects low-cost Android TV boxes for DDoS attacks](https://www.bleepingcomputer.com/news/security/mirai-variant-infects-low-cost-android-tv-boxes-for-ddos-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
