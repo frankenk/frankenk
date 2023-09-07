@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of critical Apache RocketMQ bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-apache-rocketmq-bug-exploited-in-attacks/)
+* [Iranian hackers breach US aviation org via Zoho, Fortinet bugs](https://www.bleepingcomputer.com/news/security/iranian-hackers-breach-us-aviation-org-via-zoho-fortinet-bugs/)
+* [Google is enabling Chrome real-time phishing protection for everyone](https://www.bleepingcomputer.com/news/google/google-is-enabling-chrome-real-time-phishing-protection-for-everyone/)
 * [Apple zero-click iMessage exploit used to infect iPhones with spyware](https://www.bleepingcomputer.com/news/security/apple-zero-click-imessage-exploit-used-to-infect-iphones-with-spyware/)
 * [Cisco BroadWorks impacted by critical authentication bypass flaw](https://www.bleepingcomputer.com/news/security/cisco-broadworks-impacted-by-critical-authentication-bypass-flaw/)
-* [Google Looker Studio abused in cryptocurrency phishing attacks](https://www.bleepingcomputer.com/news/security/google-looker-studio-abused-in-cryptocurrency-phishing-attacks/)
-* [Microsoft: North Korean hackers target Russian govt, defense orgs](https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-target-russian-govt-defense-orgs/)
-* [Apple discloses 2 new zero-days exploited to attack iPhones, Macs](https://www.bleepingcomputer.com/news/apple/apple-discloses-2-new-zero-days-exploited-to-attack-iphones-macs/)
 <!--END_SECTION:feed-->
 
 <!--
