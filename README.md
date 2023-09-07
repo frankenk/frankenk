@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: North Korean hackers target Russian govt, defense orgs](https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-target-russian-govt-defense-orgs/)
 * [Apple discloses 2 new zero-days exploited to attack iPhones, Macs](https://www.bleepingcomputer.com/news/apple/apple-discloses-2-new-zero-days-exploited-to-attack-iphones-macs/)
 * [Google: State hackers attack security researchers with new zero-day](https://www.bleepingcomputer.com/news/security/google-state-hackers-attack-security-researchers-with-new-zero-day/)
 * [Windows cryptomining attacks target graphic designer's high-powered GPUs](https://www.bleepingcomputer.com/news/security/windows-cryptomining-attacks-target-graphic-designers-high-powered-gpus/)
 * [Johnson & Johnson discloses IBM data breach impacting patients](https://www.bleepingcomputer.com/news/security/johnson-and-johnson-discloses-ibm-data-breach-impacting-patients/)
-* [US and UK sanction 11 TrickBot and Conti cybercrime gang members](https://www.bleepingcomputer.com/news/security/us-and-uk-sanction-11-trickbot-and-conti-cybercrime-gang-members/)
 <!--END_SECTION:feed-->
 
 <!--
