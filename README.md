@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Johnson & Johnson discloses IBM data breach impacting patients](https://www.bleepingcomputer.com/news/security/johnson-and-johnson-discloses-ibm-data-breach-impacting-patients/)
+* [US and UK sanction 11 TrickBot and Conti cybercrime gang members](https://www.bleepingcomputer.com/news/security/us-and-uk-sanction-11-trickbot-and-conti-cybercrime-gang-members/)
+* [The Initial Access Broker Economy: A Deep Dive into Dark Web Hacking Forums](https://www.bleepingcomputer.com/news/security/the-initial-access-broker-economy-a-deep-dive-into-dark-web-hacking-forums/)
 * [Rogers silent as Canadian customers report internet outages](https://www.bleepingcomputer.com/news/technology/rogers-silent-as-canadian-customers-report-internet-outages/)
 * [Rockstar Games reportedly sold games with Razor 1911 cracks on Steam](https://www.bleepingcomputer.com/news/gaming/rockstar-games-reportedly-sold-games-with-razor-1911-cracks-on-steam/)
-* [University of Michigan requires password resets after cyberattack](https://www.bleepingcomputer.com/news/security/university-of-michigan-requires-password-resets-after-cyberattack/)
-* [Flipper Zero can be used to launch iOS Bluetooth spam attacks](https://www.bleepingcomputer.com/news/security/flipper-zero-can-be-used-to-launch-ios-bluetooth-spam-attacks/)
-* [Hackers stole Microsoft signing key from Windows crash dump](https://www.bleepingcomputer.com/news/microsoft/hackers-stole-microsoft-signing-key-from-windows-crash-dump/)
 <!--END_SECTION:feed-->
 
 <!--
