@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Paint in Windows 11 gets a background removal feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-paint-in-windows-11-gets-a-background-removal-feature/)
 * [CISA warns of critical Apache RocketMQ bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-apache-rocketmq-bug-exploited-in-attacks/)
 * [Iranian hackers breach US aviation org via Zoho, Fortinet bugs](https://www.bleepingcomputer.com/news/security/iranian-hackers-breach-us-aviation-org-via-zoho-fortinet-bugs/)
 * [Google is enabling Chrome real-time phishing protection for everyone](https://www.bleepingcomputer.com/news/google/google-is-enabling-chrome-real-time-phishing-protection-for-everyone/)
 * [Apple zero-click iMessage exploit used to infect iPhones with spyware](https://www.bleepingcomputer.com/news/security/apple-zero-click-imessage-exploit-used-to-infect-iphones-with-spyware/)
-* [Cisco BroadWorks impacted by critical authentication bypass flaw](https://www.bleepingcomputer.com/news/security/cisco-broadworks-impacted-by-critical-authentication-bypass-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
