@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - September 8th 2023 - Conti Indictments](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-8th-2023-conti-indictments/)
 * [Notepad++ 8.5.7 released with fixes for four security vulnerabilities](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-857-released-with-fixes-for-four-security-vulnerabilities/)
 * [Ragnar Locker claims attack on Israel's Mayanei Hayeshua hospital](https://www.bleepingcomputer.com/news/security/ragnar-locker-claims-attack-on-israels-mayanei-hayeshua-hospital/)
 * [Dymocks Booksellers suffers data breach impacting 836k customers](https://www.bleepingcomputer.com/news/security/dymocks-booksellers-suffers-data-breach-impacting-836k-customers/)
 * [Cisco warns of VPN zero-day exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisco-warns-of-vpn-zero-day-exploited-by-ransomware-gangs/)
-* [Microsoft Paint in Windows 11 gets a background removal tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-paint-in-windows-11-gets-a-background-removal-tool/)
 <!--END_SECTION:feed-->
 
 <!--
