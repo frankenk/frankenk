@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns govt agencies to secure iPhones against spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-secure-iphones-against-spyware-attacks/)
+* [Iranian hackers backdoor 34 orgs with new Sponsor malware](https://www.bleepingcomputer.com/news/security/iranian-hackers-backdoor-34-orgs-with-new-sponsor-malware/)
 * [Square: Last week’s outage was caused by DNS issue, not a cyberattack](https://www.bleepingcomputer.com/news/technology/square-last-weeks-outage-was-caused-by-dns-issue-not-a-cyberattack/)
 * [Facebook Messenger phishing wave targets 100K business accounts per week](https://www.bleepingcomputer.com/news/security/facebook-messenger-phishing-wave-targets-100k-business-accounts-per-week/)
 * [Associated Press warns that AP Stylebook data breach led to phishing attack](https://www.bleepingcomputer.com/news/security/associated-press-warns-that-ap-stylebook-data-breach-led-to-phishing-attack/)
-* ['Evil Telegram' Android apps on Google Play infected 60K with spyware](https://www.bleepingcomputer.com/news/security/evil-telegram-android-apps-on-google-play-infected-60k-with-spyware/)
-* [Google rolls out Privacy Sandbox to use Chrome browsing history for ads](https://www.bleepingcomputer.com/news/google/google-rolls-out-privacy-sandbox-to-use-chrome-browsing-history-for-ads/)
 <!--END_SECTION:feed-->
 
 <!--
