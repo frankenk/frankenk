@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes another Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-another-chrome-zero-day-bug-exploited-in-attacks/)
+* [Microsoft will block 3rd-party printer drivers in Windows Update](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-block-3rd-party-printer-drivers-in-windows-update/)
 * [MGM Resorts shuts down IT systems after cyberattack](https://www.bleepingcomputer.com/news/security/mgm-resorts-shuts-down-it-systems-after-cyberattack/)
 * [CISA warns govt agencies to secure iPhones against spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-secure-iphones-against-spyware-attacks/)
 * [Iranian hackers backdoor 34 orgs with new Sponsor malware](https://www.bleepingcomputer.com/news/security/iranian-hackers-backdoor-34-orgs-with-new-sponsor-malware/)
-* [Square: Last week’s outage was caused by DNS issue, not a cyberattack](https://www.bleepingcomputer.com/news/technology/square-last-weeks-outage-was-caused-by-dns-issue-not-a-cyberattack/)
-* [Facebook Messenger phishing wave targets 100K business accounts per week](https://www.bleepingcomputer.com/news/security/facebook-messenger-phishing-wave-targets-100k-business-accounts-per-week/)
 <!--END_SECTION:feed-->
 
 <!--
