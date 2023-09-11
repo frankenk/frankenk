@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New WiKI-Eve attack can steal numerical passwords over WiFi](https://www.bleepingcomputer.com/news/security/new-wiki-eve-attack-can-steal-numerical-passwords-over-wifi/)
 * [Google fixes another Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-another-chrome-zero-day-bug-exploited-in-attacks/)
 * [Microsoft will block 3rd-party printer drivers in Windows Update](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-block-3rd-party-printer-drivers-in-windows-update/)
 * [MGM Resorts shuts down IT systems after cyberattack](https://www.bleepingcomputer.com/news/security/mgm-resorts-shuts-down-it-systems-after-cyberattack/)
 * [CISA warns govt agencies to secure iPhones against spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-govt-agencies-to-secure-iphones-against-spyware-attacks/)
-* [Iranian hackers backdoor 34 orgs with new Sponsor malware](https://www.bleepingcomputer.com/news/security/iranian-hackers-backdoor-34-orgs-with-new-sponsor-malware/)
 <!--END_SECTION:feed-->
 
 <!--
