@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft September 2023 Patch Tuesday fixes 2 zero-days, 59 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2023-patch-tuesday-fixes-2-zero-days-59-flaws/)
+* [Windows 10 KB5030211 update released with 11 improvements](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5030211-update-released-with-11-improvements/)
 * [Adobe warns of critical Acrobat and Reader zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/adobe-warns-of-critical-acrobat-and-reader-zero-day-exploited-in-attacks/)
 * [Windows 11 KB5030219 cumulative update released with 24 fixes, changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5030219-cumulative-update-released-with-24-fixes-changes/)
 * [CISA offers free security scans for public water utilities](https://www.bleepingcomputer.com/news/security/cisa-offers-free-security-scans-for-public-water-utilities/)
-* [Free Download Manager site redirected Linux users to malware for years](https://www.bleepingcomputer.com/news/security/free-download-manager-site-redirected-linux-users-to-malware-for-years/)
-* [Apple backports BLASTPASS zero-day fix to older iPhones](https://www.bleepingcomputer.com/news/security/apple-backports-blastpass-zero-day-fix-to-older-iphones/)
 <!--END_SECTION:feed-->
 
 <!--
