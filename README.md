@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Teams down: Ongoing outage behind message failures, delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-down-ongoing-outage-behind-message-failures-delays/)
+* [Hackers steal $53 million worth of cryptocurrency from CoinEx](https://www.bleepingcomputer.com/news/security/hackers-steal-53-million-worth-of-cryptocurrency-from-coinex/)
+* [How end-user phishing training works (and why it doesn’t)](https://www.bleepingcomputer.com/news/security/how-end-user-phishing-training-works-and-why-it-doesnt/)
 * [Hackers use new 3AM ransomware to save failed LockBit attack](https://www.bleepingcomputer.com/news/security/hackers-use-new-3am-ransomware-to-save-failed-lockbit-attack/)
 * [Mozilla patches Firefox, Thunderbird against zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-patches-firefox-thunderbird-against-zero-day-exploited-in-attacks/)
-* [New 'MetaStealer' malware targets Intel-based macOS systems](https://www.bleepingcomputer.com/news/security/new-metastealer-malware-targets-intel-based-macos-systems/)
-* [Ransomware access broker steals accounts via Microsoft Teams phishing](https://www.bleepingcomputer.com/news/security/ransomware-access-broker-steals-accounts-via-microsoft-teams-phishing/)
-* [Microsoft September 2023 Patch Tuesday fixes 2 zero-days, 59 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2023-patch-tuesday-fixes-2-zero-days-59-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
