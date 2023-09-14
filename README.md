@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Auckland transport authority hit by suspected ransomware attack](https://www.bleepingcomputer.com/news/security/auckland-transport-authority-hit-by-suspected-ransomware-attack/)
 * [Windows 11 Snipping Tool gets OCR support to copy text from images](https://www.bleepingcomputer.com/news/microsoft/windows-11-snipping-tool-gets-ocr-support-to-copy-text-from-images/)
 * [Caesars Entertainment confirms ransom payment, customer data theft](https://www.bleepingcomputer.com/news/security/caesars-entertainment-confirms-ransom-payment-customer-data-theft/)
 * [Iranian hackers breach defense orgs in password spray attacks](https://www.bleepingcomputer.com/news/security/iranian-hackers-breach-defense-orgs-in-password-spray-attacks/)
 * [Windows 11 ‘ThemeBleed’ RCE bug gets proof-of-concept exploit](https://www.bleepingcomputer.com/news/security/windows-11-themebleed-rce-bug-gets-proof-of-concept-exploit/)
-* [Manchester Police officers' data exposed in ransomware attack](https://www.bleepingcomputer.com/news/security/manchester-police-officers-data-exposed-in-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
