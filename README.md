@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - September 15th 2023 - Russian Roulette](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-15th-2023-russian-roulette/)
 * [Retool blames breach on Google Authenticator MFA cloud sync feature](https://www.bleepingcomputer.com/news/security/retool-blames-breach-on-google-authenticator-mfa-cloud-sync-feature/)
 * [Google extends security update support for Chromebooks to 10 years](https://www.bleepingcomputer.com/news/security/google-extends-security-update-support-for-chromebooks-to-10-years/)
 * [Google pays $93M to settle Android tracking lawsuit in California](https://www.bleepingcomputer.com/news/google/google-pays-93m-to-settle-android-tracking-lawsuit-in-california/)
 * [ORBCOMM ransomware attack causes trucking fleet management outage](https://www.bleepingcomputer.com/news/security/orbcomm-ransomware-attack-causes-trucking-fleet-management-outage/)
-* [TikTok slapped with $368 million fine over child privacy violations](https://www.bleepingcomputer.com/news/technology/tiktok-slapped-with-368-million-fine-over-child-privacy-violations/)
 <!--END_SECTION:feed-->
 
 <!--
