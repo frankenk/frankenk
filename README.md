@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bing Chat AI is down, affecting Windows Copilot and more](https://www.bleepingcomputer.com/news/microsoft/bing-chat-ai-is-down-affecting-windows-copilot-and-more/)
 * [MGM casino's ESXi servers allegedly encrypted in ransomware attack](https://www.bleepingcomputer.com/news/security/mgm-casinos-esxi-servers-allegedly-encrypted-in-ransomware-attack/)
 * [Auckland transport authority hit by suspected ransomware attack](https://www.bleepingcomputer.com/news/security/auckland-transport-authority-hit-by-suspected-ransomware-attack/)
 * [Windows 11 Snipping Tool gets OCR support to copy text from images](https://www.bleepingcomputer.com/news/microsoft/windows-11-snipping-tool-gets-ocr-support-to-copy-text-from-images/)
 * [Caesars Entertainment confirms ransom payment, customer data theft](https://www.bleepingcomputer.com/news/security/caesars-entertainment-confirms-ransom-payment-customer-data-theft/)
-* [Iranian hackers breach defense orgs in password spray attacks](https://www.bleepingcomputer.com/news/security/iranian-hackers-breach-defense-orgs-in-password-spray-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
