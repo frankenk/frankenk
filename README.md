@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome tests Microsoft Edge-like Read Aloud feature](https://www.bleepingcomputer.com/news/google/google-chrome-tests-microsoft-edge-like-read-aloud-feature/)
+* [ Microsoft Edge is losing tablet-friendly "Web Select" feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-losing-tablet-friendly-web-select-feature/)
 * [WhatsApp rival Telegram gets Crypto wallet integration](https://www.bleepingcomputer.com/news/technology/whatsapp-rival-telegram-gets-crypto-wallet-integration/)
 * [BlackCat ransomware hits Azure Storage with Sphynx encryptor](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-hits-azure-storage-with-sphynx-encryptor/)
 * [The Week in Ransomware - September 15th 2023 - Russian Roulette](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-15th-2023-russian-roulette/)
-* [Retool blames breach on Google Authenticator MFA cloud sync feature](https://www.bleepingcomputer.com/news/security/retool-blames-breach-on-google-authenticator-mfa-cloud-sync-feature/)
-* [Google extends security update support for Chromebooks to 10 years](https://www.bleepingcomputer.com/news/security/google-extends-security-update-support-for-chromebooks-to-10-years/)
 <!--END_SECTION:feed-->
 
 <!--
