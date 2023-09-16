@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WhatsApp rival Telegram gets Crypto wallet integration](https://www.bleepingcomputer.com/news/technology/whatsapp-rival-telegram-gets-crypto-wallet-integration/)
+* [BlackCat ransomware hits Azure Storage with Sphynx encryptor](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-hits-azure-storage-with-sphynx-encryptor/)
 * [The Week in Ransomware - September 15th 2023 - Russian Roulette](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-15th-2023-russian-roulette/)
 * [Retool blames breach on Google Authenticator MFA cloud sync feature](https://www.bleepingcomputer.com/news/security/retool-blames-breach-on-google-authenticator-mfa-cloud-sync-feature/)
 * [Google extends security update support for Chromebooks to 10 years](https://www.bleepingcomputer.com/news/security/google-extends-security-update-support-for-chromebooks-to-10-years/)
-* [Google pays $93M to settle Android tracking lawsuit in California](https://www.bleepingcomputer.com/news/google/google-pays-93m-to-settle-android-tracking-lawsuit-in-california/)
-* [ORBCOMM ransomware attack causes trucking fleet management outage](https://www.bleepingcomputer.com/news/security/orbcomm-ransomware-attack-causes-trucking-fleet-management-outage/)
 <!--END_SECTION:feed-->
 
 <!--
