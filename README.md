@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [APT36 state hackers infect Android devices using YouTube app clones](https://www.bleepingcomputer.com/news/security/apt36-state-hackers-infect-android-devices-using-youtube-app-clones/)
 * [Windows Subsystem for Linux gets new 'mirrored' network mode](https://www.bleepingcomputer.com/news/microsoft/windows-subsystem-for-linux-gets-new-mirrored-network-mode/)
 * [Thousands of Juniper devices vulnerable to unauthenticated RCE flaw](https://www.bleepingcomputer.com/news/security/thousands-of-juniper-devices-vulnerable-to-unauthenticated-rce-flaw/)
 * [Microsoft Paint finally gets support for layers and transparency](https://www.bleepingcomputer.com/news/microsoft/microsoft-paint-finally-gets-support-for-layers-and-transparency/)
 * [Bumblebee malware returns in new attacks abusing WebDAV folders](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-in-new-attacks-abusing-webdav-folders/)
-* [Microsoft leaks 38TB of private data via unsecured Azure storage](https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/)
 <!--END_SECTION:feed-->
 
 <!--
