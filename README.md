@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Paint finally gets support for layers and transparency](https://www.bleepingcomputer.com/news/microsoft/microsoft-paint-finally-gets-support-for-layers-and-transparency/)
 * [Bumblebee malware returns in new attacks abusing WebDAV folders](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-in-new-attacks-abusing-webdav-folders/)
 * [Microsoft leaks 38TB of private data via unsecured Azure storage](https://www.bleepingcomputer.com/news/microsoft/microsoft-leaks-38tb-of-private-data-via-unsecured-azure-storage/)
 * [New SprySOCKS Linux malware used in cyber espionage attacks](https://www.bleepingcomputer.com/news/security/new-sprysocks-linux-malware-used-in-cyber-espionage-attacks/)
 * [Are your end-users' passwords compromised? Here's how to check.](https://www.bleepingcomputer.com/news/security/are-your-end-users-passwords-compromised-heres-how-to-check/)
-* [TikTok flooded by 'Elon Musk' cryptocurrency giveaway scams](https://www.bleepingcomputer.com/news/security/tiktok-flooded-by-elon-musk-cryptocurrency-giveaway-scams/)
 <!--END_SECTION:feed-->
 
 <!--
