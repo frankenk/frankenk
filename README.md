@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Trend Micro fixes endpoint protection zero-day used in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-endpoint-protection-zero-day-used-in-attacks/)
 * [Hackers breached International Criminal Court’s systems last week](https://www.bleepingcomputer.com/news/security/hackers-breached-international-criminal-courts-systems-last-week/)
 * [GitLab urges users to install security updates for critical pipeline flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-install-security-updates-for-critical-pipeline-flaw/)
 * [Microsoft to start retiring Exchange Web Services in October 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-retiring-exchange-web-services-in-october-2026/)
 * [Hackers backdoor telecom providers with new HTTPSnoop malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-telecom-providers-with-new-httpsnoop-malware/)
-* [APT36 state hackers infect Android devices using YouTube app clones](https://www.bleepingcomputer.com/news/security/apt36-state-hackers-infect-android-devices-using-youtube-app-clones/)
 <!--END_SECTION:feed-->
 
 <!--
