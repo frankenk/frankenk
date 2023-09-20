@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Signal adds quantum-resistant encryption to its E2EE messaging protocol](https://www.bleepingcomputer.com/news/security/signal-adds-quantum-resistant-encryption-to-its-e2ee-messaging-protocol/)
 * [Claimants in Celsius crypto bankruptcy targeted in phishing attack](https://www.bleepingcomputer.com/news/security/claimants-in-celsius-crypto-bankruptcy-targeted-in-phishing-attack/)
 * [Trend Micro fixes endpoint protection zero-day used in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-endpoint-protection-zero-day-used-in-attacks/)
 * [Hackers breached International Criminal Court’s systems last week](https://www.bleepingcomputer.com/news/security/hackers-breached-international-criminal-courts-systems-last-week/)
 * [GitLab urges users to install security updates for critical pipeline flaw](https://www.bleepingcomputer.com/news/security/gitlab-urges-users-to-install-security-updates-for-critical-pipeline-flaw/)
-* [Microsoft to start retiring Exchange Web Services in October 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-retiring-exchange-web-services-in-october-2026/)
 <!--END_SECTION:feed-->
 
 <!--
