@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Air Canada discloses data breach of employee and 'certain records'](https://www.bleepingcomputer.com/news/security/air-canada-discloses-data-breach-of-employee-and-certain-records/)
 * [Dallas says Royal ransomware breached its network using stolen account](https://www.bleepingcomputer.com/news/security/dallas-says-royal-ransomware-breached-its-network-using-stolen-account/)
 * [Nigerian man pleads guilty to attempted $6 million BEC email heist](https://www.bleepingcomputer.com/news/security/nigerian-man-pleads-guilty-to-attempted-6-million-bec-email-heist/)
 * [Recently patched Apple, Chrome zero-days exploited in spyware attacks](https://www.bleepingcomputer.com/news/security/recently-patched-apple-chrome-zero-days-exploited-in-spyware-attacks/)
 * [Government of Bermuda links cyberattack to Russian hackers](https://www.bleepingcomputer.com/news/security/government-of-bermuda-links-cyberattack-to-russian-hackers/)
-* [Crypto firm Nansen asks users to reset passwords after vendor breach](https://www.bleepingcomputer.com/news/security/crypto-firm-nansen-asks-users-to-reset-passwords-after-vendor-breach/)
 <!--END_SECTION:feed-->
 
 <!--
