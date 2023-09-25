@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mixin Network suspends operations following $200 million hack](https://www.bleepingcomputer.com/news/security/mixin-network-suspends-operations-following-200-million-hack/)
+* [Fake celebrity photo leak videos flood TikTok with Temu referral codes](https://www.bleepingcomputer.com/news/security/fake-celebrity-photo-leak-videos-flood-tiktok-with-temu-referral-codes/)
+* [New stealthy and modular Deadglyph malware used in govt attacks](https://www.bleepingcomputer.com/news/security/new-stealthy-and-modular-deadglyph-malware-used-in-govt-attacks/)
 * [Evasive Gelsemium hackers spotted in attack against Asian govt](https://www.bleepingcomputer.com/news/security/evasive-gelsemium-hackers-spotted-in-attack-against-asian-govt/)
 * [National Student Clearinghouse data breach impacts 890 schools](https://www.bleepingcomputer.com/news/security/national-student-clearinghouse-data-breach-impacts-890-schools/)
-* [Air Canada discloses data breach of employee and 'certain records'](https://www.bleepingcomputer.com/news/security/air-canada-discloses-data-breach-of-employee-and-certain-records/)
-* [Dallas says Royal ransomware breached its network using stolen account](https://www.bleepingcomputer.com/news/security/dallas-says-royal-ransomware-breached-its-network-using-stolen-account/)
-* [Nigerian man pleads guilty to attempted $6 million BEC email heist](https://www.bleepingcomputer.com/news/security/nigerian-man-pleads-guilty-to-attempted-6-million-bec-email-heist/)
 <!--END_SECTION:feed-->
 
 <!--
