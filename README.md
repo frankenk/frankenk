@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Millions of Exim mail servers exposed to zero-day RCE attacks](https://www.bleepingcomputer.com/news/security/millions-of-exim-mail-servers-exposed-to-zero-day-rce-attacks/)
 * [Exploit released for Microsoft SharePoint Server auth bypass flaw](https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-sharepoint-server-auth-bypass-flaw/)
 * [ShinyHunters member pleads guilty to $6 million in data theft damages](https://www.bleepingcomputer.com/news/security/shinyhunters-member-pleads-guilty-to-6-million-in-data-theft-damages/)
 * [Discord is investigating cause of ‘You have been blocked’ errors](https://www.bleepingcomputer.com/news/security/discord-is-investigating-cause-of-you-have-been-blocked-errors/)
 * [Lazarus hackers breach aerospace firm with new LightlessCan malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-aerospace-firm-with-new-lightlesscan-malware/)
-* [Progress warns of maximum severity WS_FTP Server vulnerability](https://www.bleepingcomputer.com/news/security/progress-warns-of-maximum-severity-ws-ftp-server-vulnerability/)
 <!--END_SECTION:feed-->
 
 <!--
