@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit released for Microsoft SharePoint Server auth bypass flaw](https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-sharepoint-server-auth-bypass-flaw/)
 * [ShinyHunters member pleads guilty to $6 million in data theft damages](https://www.bleepingcomputer.com/news/security/shinyhunters-member-pleads-guilty-to-6-million-in-data-theft-damages/)
 * [Discord is investigating cause of ‘You have been blocked’ errors](https://www.bleepingcomputer.com/news/security/discord-is-investigating-cause-of-you-have-been-blocked-errors/)
 * [Lazarus hackers breach aerospace firm with new LightlessCan malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-aerospace-firm-with-new-lightlesscan-malware/)
 * [Progress warns of maximum severity WS_FTP Server vulnerability](https://www.bleepingcomputer.com/news/security/progress-warns-of-maximum-severity-ws-ftp-server-vulnerability/)
-* [Microsoft breach led to theft of 60,000 US State Dept emails](https://www.bleepingcomputer.com/news/security/microsoft-breach-led-to-theft-of-60-000-us-state-dept-emails/)
 <!--END_SECTION:feed-->
 
 <!--
