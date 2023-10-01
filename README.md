@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare DDoS protections ironically bypassed using Cloudflare](https://www.bleepingcomputer.com/news/security/cloudflare-ddos-protections-ironically-bypassed-using-cloudflare/)
+* [Microsoft fixes Outlook prompts to reopen closed windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-prompts-to-reopen-closed-windows/)
 * [The Week in Ransomware - September 29th 2023 - Dark Angels](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-september-29th-2023-dark-angels/)
 * [Millions of Exim mail servers exposed to zero-day RCE attacks](https://www.bleepingcomputer.com/news/security/millions-of-exim-mail-servers-exposed-to-zero-day-rce-attacks/)
 * [Exploit released for Microsoft SharePoint Server auth bypass flaw](https://www.bleepingcomputer.com/news/security/exploit-released-for-microsoft-sharepoint-server-auth-bypass-flaw/)
-* [ShinyHunters member pleads guilty to $6 million in data theft damages](https://www.bleepingcomputer.com/news/security/shinyhunters-member-pleads-guilty-to-6-million-in-data-theft-damages/)
-* [Discord is investigating cause of ‘You have been blocked’ errors](https://www.bleepingcomputer.com/news/security/discord-is-investigating-cause-of-you-have-been-blocked-errors/)
 <!--END_SECTION:feed-->
 
 <!--
