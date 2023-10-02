@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New BunnyLoader threat emerges as a feature-rich malware-as-a-service](https://www.bleepingcomputer.com/news/security/new-bunnyloader-threat-emerges-as-a-feature-rich-malware-as-a-service/)
+* [Ransomware gangs now exploiting critical TeamCity RCE flaw](https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-exploiting-critical-teamcity-rce-flaw/)
 * [Exploit available for critical WS_FTP bug exploited in attacks](https://www.bleepingcomputer.com/news/security/exploit-available-for-critical-ws-ftp-bug-exploited-in-attacks/)
 * [Arm warns of Mali GPU flaws likely exploited in targeted attacks](https://www.bleepingcomputer.com/news/security/arm-warns-of-mali-gpu-flaws-likely-exploited-in-targeted-attacks/)
 * [Motel One discloses data breach following ransomware attack](https://www.bleepingcomputer.com/news/security/motel-one-discloses-data-breach-following-ransomware-attack/)
-* [FBI warns of surge in 'phantom hacker' scams impacting elderly](https://www.bleepingcomputer.com/news/security/fbi-warns-of-surge-in-phantom-hacker-scams-impacting-elderly/)
-* [Amazon sends Mastercard, Google Play gift card order emails by mistake](https://www.bleepingcomputer.com/news/security/amazon-sends-mastercard-google-play-gift-card-order-emails-by-mistake/)
 <!--END_SECTION:feed-->
 
 <!--
