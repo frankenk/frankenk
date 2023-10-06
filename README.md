@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [MGM Resorts says ransomware attack cost * [Microsoft officially removes Cortana for Windows 11 Insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-removes-cortana-for-windows-11-insiders/)
+* [Exploits released for Linux flaw giving root on major distros](https://www.bleepingcomputer.com/news/security/exploits-released-for-linux-flaw-giving-root-on-major-distros/)
+* [China-linked cyberspies backdoor semiconductor firms with Cobalt Strike](https://www.bleepingcomputer.com/news/security/china-linked-cyberspies-backdoor-semiconductor-firms-with-cobalt-strike/)
+* [NSA and CISA reveal top 10 cybersecurity misconfigurations](https://www.bleepingcomputer.com/news/security/nsa-and-cisa-reveal-top-10-cybersecurity-misconfigurations/)
+* [Amazon to make MFA mandatory for 'root' AWS accounts by mid-2024](https://www.bleepingcomputer.com/news/security/amazon-to-make-mfa-mandatory-for-root-aws-accounts-by-mid-2024/)00 million, data stolen](https://www.bleepingcomputer.com/news/security/mgm-resorts-says-ransomware-attack-cost-100-million-data-stolen/)
 * [Microsoft officially removes Cortana for Windows 11 Insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-removes-cortana-for-windows-11-insiders/)
 * [Exploits released for Linux flaw giving root on major distros](https://www.bleepingcomputer.com/news/security/exploits-released-for-linux-flaw-giving-root-on-major-distros/)
 * [China-linked cyberspies backdoor semiconductor firms with Cobalt Strike](https://www.bleepingcomputer.com/news/security/china-linked-cyberspies-backdoor-semiconductor-firms-with-cobalt-strike/)
 * [NSA and CISA reveal top 10 cybersecurity misconfigurations](https://www.bleepingcomputer.com/news/security/nsa-and-cisa-reveal-top-10-cybersecurity-misconfigurations/)
-* [Amazon to make MFA mandatory for 'root' AWS accounts by mid-2024](https://www.bleepingcomputer.com/news/security/amazon-to-make-mfa-mandatory-for-root-aws-accounts-by-mid-2024/)
 <!--END_SECTION:feed-->
 
 <!--
