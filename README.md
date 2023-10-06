@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC warns of ‘staggering’ losses to social media scams since 2021](https://www.bleepingcomputer.com/news/security/ftc-warns-of-staggering-losses-to-social-media-scams-since-2021/)
 * [Genetics firm 23andMe says user data stolen in credential stuffing attack](https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/)
+* [MGM Resorts ransomware attack led to * [Genetics firm 23andMe says user data stolen in credential stuffing attack](https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/)
 * [MGM Resorts ransomware attack led to * [Genetics firm 23andMe says user data stolen in credential stuffing attack](https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/)
 * [MGM Resorts ransomware attack led to * [MGM Resorts ransomware attack led to * [MGM Resorts says ransomware attack cost * [Microsoft officially removes Cortana for Windows 11 Insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-removes-cortana-for-windows-11-insiders/)
 * [Exploits released for Linux flaw giving root on major distros](https://www.bleepingcomputer.com/news/security/exploits-released-for-linux-flaw-giving-root-on-major-distros/)
@@ -21,7 +23,9 @@
 * [China-linked cyberspies backdoor semiconductor firms with Cobalt Strike](https://www.bleepingcomputer.com/news/security/china-linked-cyberspies-backdoor-semiconductor-firms-with-cobalt-strike/)00 million loss, data theft](https://www.bleepingcomputer.com/news/security/mgm-resorts-ransomware-attack-led-to-100-million-loss-data-theft/)
 * [Microsoft officially removes Cortana for Windows 11 Insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-removes-cortana-for-windows-11-insiders/)
 * [Exploits released for Linux flaw giving root on major distros](https://www.bleepingcomputer.com/news/security/exploits-released-for-linux-flaw-giving-root-on-major-distros/)
-* [China-linked cyberspies backdoor semiconductor firms with Cobalt Strike](https://www.bleepingcomputer.com/news/security/china-linked-cyberspies-backdoor-semiconductor-firms-with-cobalt-strike/)
+* [China-linked cyberspies backdoor semiconductor firms with Cobalt Strike](https://www.bleepingcomputer.com/news/security/china-linked-cyberspies-backdoor-semiconductor-firms-with-cobalt-strike/)00 million loss, data theft](https://www.bleepingcomputer.com/news/security/mgm-resorts-ransomware-attack-led-to-100-million-loss-data-theft/)
+* [Microsoft officially removes Cortana for Windows 11 Insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-removes-cortana-for-windows-11-insiders/)
+* [Exploits released for Linux flaw giving root on major distros](https://www.bleepingcomputer.com/news/security/exploits-released-for-linux-flaw-giving-root-on-major-distros/)
 <!--END_SECTION:feed-->
 
 <!--
