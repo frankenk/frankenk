@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers hijack Citrix NetScaler login pages to steal credentials](https://www.bleepingcomputer.com/news/security/hackers-hijack-citrix-netscaler-login-pages-to-steal-credentials/)
+* [HelloKitty ransomware source code leaked on hacking forum](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-source-code-leaked-on-hacking-forum/)
 * [Google Chrome's organize tabs will automatically reorder tabs](https://www.bleepingcomputer.com/news/google/google-chromes-organize-tabs-will-automatically-reorder-tabs/)
 * [Microsoft 365 admins warned of new Google anti-spam rules](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/)
 * [Third Flagstar Bank data breach since 2021 affects 800,000 customers](https://www.bleepingcomputer.com/news/security/third-flagstar-bank-data-breach-since-2021-affects-800-000-customers/)
-* [Bounty offered for secret NSA seeds behind NIST elliptic curves algo](https://www.bleepingcomputer.com/news/security/bounty-offered-for-secret-nsa-seeds-behind-nist-elliptic-curves-algo/)
-* [D.C. Board of Elections confirms voter data stolen in site hack](https://www.bleepingcomputer.com/news/security/dc-board-of-elections-confirms-voter-data-stolen-in-site-hack/)
 <!--END_SECTION:feed-->
 
 <!--
