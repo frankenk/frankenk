@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome's organize tabs will automatically reorder tabs](https://www.bleepingcomputer.com/news/google/google-chromes-organize-tabs-will-automatically-reorder-tabs/)
+* [Microsoft 365 admins warned of new Google anti-spam rules](https://www.bleepingcomputer.com/news/security/microsoft-365-admins-warned-of-new-google-anti-spam-rules/)
+* [Third Flagstar Bank data breach since 2021 affects 800,000 customers](https://www.bleepingcomputer.com/news/security/third-flagstar-bank-data-breach-since-2021-affects-800-000-customers/)
 * [Bounty offered for secret NSA seeds behind NIST elliptic curves algo](https://www.bleepingcomputer.com/news/security/bounty-offered-for-secret-nsa-seeds-behind-nist-elliptic-curves-algo/)
 * [D.C. Board of Elections confirms voter data stolen in site hack](https://www.bleepingcomputer.com/news/security/dc-board-of-elections-confirms-voter-data-stolen-in-site-hack/)
-* [Blackbaud agrees to $49.5 million settlement for ransomware data breach](https://www.bleepingcomputer.com/news/security/blackbaud-agrees-to-495-million-settlement-for-ransomware-data-breach/)
-* [FTC warns of ‘staggering’ losses to social media scams since 2021](https://www.bleepingcomputer.com/news/security/ftc-warns-of-staggering-losses-to-social-media-scams-since-2021/)
-* [Genetics firm 23andMe says user data stolen in credential stuffing attack](https://www.bleepingcomputer.com/news/security/genetics-firm-23andme-says-user-data-stolen-in-credential-stuffing-attack/)
 <!--END_SECTION:feed-->
 
 <!--
