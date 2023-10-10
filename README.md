@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google makes passkeys the default sign-in for personal accounts](https://www.bleepingcomputer.com/news/security/google-makes-passkeys-the-default-sign-in-for-personal-accounts/)
 * [D-Link WiFi range extender vulnerable to command injection attacks](https://www.bleepingcomputer.com/news/security/d-link-wifi-range-extender-vulnerable-to-command-injection-attacks/)
 * [ALPHV ransomware gang claims attack on Florida circuit court](https://www.bleepingcomputer.com/news/security/alphv-ransomware-gang-claims-attack-on-florida-circuit-court/)
 * [GNOME Linux systems exposed to RCE attacks via file downloads](https://www.bleepingcomputer.com/news/security/gnome-linux-systems-exposed-to-rce-attacks-via-file-downloads/)
 * [Over 17,000 WordPress sites hacked in Balada Injector attacks last month](https://www.bleepingcomputer.com/news/security/over-17-000-wordpress-sites-hacked-in-balada-injector-attacks-last-month/)
-* [Hackers modify online stores’ 404 pages to steal credit cards](https://www.bleepingcomputer.com/news/security/hackers-modify-online-stores-404-pages-to-steal-credit-cards/)
 <!--END_SECTION:feed-->
 
 <!--
