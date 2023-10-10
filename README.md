@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft warns of incorrect BitLocker encryption errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-incorrect-bitlocker-encryption-errors/)
 * [Mirai DDoS malware variant expands targets with 13 router exploits](https://www.bleepingcomputer.com/news/security/mirai-ddos-malware-variant-expands-targets-with-13-router-exploits/)
 * [Microsoft Exchange gets ‘better’ patch to mitigate critical bug](https://www.bleepingcomputer.com/news/security/microsoft-exchange-gets-better-patch-to-mitigate-critical-bug/)
 * [Windows 10 KB5031356 update released with 25 improvements](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5031356-update-released-with-25-improvements/)
 * [Windows 11 KB5031354 cumulative update released with new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5031354-cumulative-update-released-with-new-features/)
-* [Microsoft October 2023 Patch Tuesday fixes 3 zero-days, 104 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2023-patch-tuesday-fixes-3-zero-days-104-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
