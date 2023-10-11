@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 21H2 and Windows Server 2012 reach end of support](https://www.bleepingcomputer.com/news/microsoft/windows-11-21h2-and-windows-server-2012-reach-end-of-support/)
 * [Microsoft: State hackers exploiting Confluence zero-day since September](https://www.bleepingcomputer.com/news/security/microsoft-state-hackers-exploiting-confluence-zero-day-since-september/)
 * [Generative AI Security: Preventing Microsoft Copilot Data Exposure](https://www.bleepingcomputer.com/news/security/generative-ai-security-preventing-microsoft-copilot-data-exposure/)
 * [Simpson Manufacturing shuts down IT systems after cyberattack](https://www.bleepingcomputer.com/news/security/simpson-manufacturing-shuts-down-it-systems-after-cyberattack/)
 * [LinkedIn Smart Links attacks return to target Microsoft accounts](https://www.bleepingcomputer.com/news/security/linkedin-smart-links-attacks-return-to-target-microsoft-accounts/)
-* [Microsoft warns of incorrect BitLocker encryption errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-incorrect-bitlocker-encryption-errors/)
 <!--END_SECTION:feed-->
 
 <!--
