@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hyped up curl vulnerability falls short of expectations](https://www.bleepingcomputer.com/news/security/hyped-up-curl-vulnerability-falls-short-of-expectations/)
 * [Shadow PC warns of data breach as hacker tries to sell gamers' info](https://www.bleepingcomputer.com/news/security/shadow-pc-warns-of-data-breach-as-hacker-tries-to-sell-gamers-info/)
 * [New WordPress backdoor creates rogue admin to hijack websites](https://www.bleepingcomputer.com/news/security/new-wordpress-backdoor-creates-rogue-admin-to-hijack-websites/)
 * [BianLian extortion group claims recent Air Canada breach](https://www.bleepingcomputer.com/news/security/bianlian-extortion-group-claims-recent-air-canada-breach/)
 * [Microsoft Defender now auto-isolates compromised accounts](https://www.bleepingcomputer.com/news/security/microsoft-defender-now-auto-isolates-compromised-accounts/)
-* [Exchange Online mail delivery issues caused by anti-spam rules](https://www.bleepingcomputer.com/news/microsoft/exchange-online-mail-delivery-issues-caused-by-anti-spam-rules/)
 <!--END_SECTION:feed-->
 
 <!--
