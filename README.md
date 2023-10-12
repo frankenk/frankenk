@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple fixes iOS Kernel zero-day vulnerability on older iPhones](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-kernel-zero-day-vulnerability-on-older-iphones/)
 * [ToddyCat hackers use 'disposable' malware to target Asian telecoms](https://www.bleepingcomputer.com/news/security/toddycat-hackers-use-disposable-malware-to-target-asian-telecoms/)
 * [Hyped up curl vulnerability falls short of expectations](https://www.bleepingcomputer.com/news/security/hyped-up-curl-vulnerability-falls-short-of-expectations/)
 * [Shadow PC warns of data breach as hacker tries to sell gamers' info](https://www.bleepingcomputer.com/news/security/shadow-pc-warns-of-data-breach-as-hacker-tries-to-sell-gamers-info/)
 * [New WordPress backdoor creates rogue admin to hijack websites](https://www.bleepingcomputer.com/news/security/new-wordpress-backdoor-creates-rogue-admin-to-hijack-websites/)
-* [BianLian extortion group claims recent Air Canada breach](https://www.bleepingcomputer.com/news/security/bianlian-extortion-group-claims-recent-air-canada-breach/)
 <!--END_SECTION:feed-->
 
 <!--
