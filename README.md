@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [23andMe hit with lawsuits after hacker leaks stolen genetics data](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/)
 * [Microsoft: October Windows 10 security updates fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-10-security-updates-fail-to-install/)
 * [Kwik Trip IT systems outage caused by mysterious ‘network incident’](https://www.bleepingcomputer.com/news/technology/kwik-trip-it-systems-outage-caused-by-mysterious-network-incident/)
 * [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
 * [Hackers use Binance Smart Chain contracts to store malicious scripts](https://www.bleepingcomputer.com/news/security/hackers-use-binance-smart-chain-contracts-to-store-malicious-scripts/)
-* [CISA shares vulnerabilities, misconfigs used by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-shares-vulnerabilities-misconfigs-used-by-ransomware-gangs/)
 <!--END_SECTION:feed-->
 
 <!--
