@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI shares AvosLocker ransomware technical details, defense tips](https://www.bleepingcomputer.com/news/security/fbi-shares-avoslocker-ransomware-technical-details-defense-tips/)
 * [Ransomware attacks now target unpatched WS_FTP servers](https://www.bleepingcomputer.com/news/security/ransomware-attacks-now-target-unpatched-ws-ftp-servers/)
 * [Malicious Solana, Kucoin packages infect NuGet devs with SeroXen RAT](https://www.bleepingcomputer.com/news/security/malicious-solana-kucoin-packages-infect-nuget-devs-with-seroxen-rat/)
 * [New Microsoft bug bounty program focuses on AI-powered Bing](https://www.bleepingcomputer.com/news/security/new-microsoft-bug-bounty-program-focuses-on-ai-powered-bing/)
 * [Apple fixes iOS Kernel zero-day vulnerability on older iPhones](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-kernel-zero-day-vulnerability-on-older-iphones/)
-* [ToddyCat hackers use 'disposable' malware to target Asian telecoms](https://www.bleepingcomputer.com/news/security/toddycat-hackers-use-disposable-malware-to-target-asian-telecoms/)
 <!--END_SECTION:feed-->
 
 <!--
