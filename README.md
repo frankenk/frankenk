@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft plans to kill off NTLM authentication in Windows 11](https://www.bleepingcomputer.com/news/security/microsoft-plans-to-kill-off-ntlm-authentication-in-windows-11/)
+* [Hackers use Binance Smart Chain contracts to store malicious scripts](https://www.bleepingcomputer.com/news/security/hackers-use-binance-smart-chain-contracts-to-store-malicious-scripts/)
 * [CISA shares vulnerabilities, misconfigs used by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-shares-vulnerabilities-misconfigs-used-by-ransomware-gangs/)
 * [FBI shares AvosLocker ransomware technical details, defense tips](https://www.bleepingcomputer.com/news/security/fbi-shares-avoslocker-ransomware-technical-details-defense-tips/)
 * [Ransomware attacks now target unpatched WS_FTP servers](https://www.bleepingcomputer.com/news/security/ransomware-attacks-now-target-unpatched-ws-ftp-servers/)
-* [Malicious Solana, Kucoin packages infect NuGet devs with SeroXen RAT](https://www.bleepingcomputer.com/news/security/malicious-solana-kucoin-packages-infect-nuget-devs-with-seroxen-rat/)
-* [New Microsoft bug bounty program focuses on AI-powered Bing](https://www.bleepingcomputer.com/news/security/new-microsoft-bug-bounty-program-focuses-on-ai-powered-bing/)
 <!--END_SECTION:feed-->
 
 <!--
