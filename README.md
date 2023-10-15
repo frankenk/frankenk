@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Steam enforces SMS verification to curb malware-ridden updates](https://www.bleepingcomputer.com/news/security/steam-enforces-sms-verification-to-curb-malware-ridden-updates/)
+* [Women Political Leaders Summit targeted in RomCom malware phishing](https://www.bleepingcomputer.com/news/security/women-political-leaders-summit-targeted-in-romcom-malware-phishing/)
+* [AI algorithm detects MitM attacks on unmanned military vehicles](https://www.bleepingcomputer.com/news/security/ai-algorithm-detects-mitm-attacks-on-unmanned-military-vehicles/)
+* [DarkGate malware spreads through compromised Skype accounts](https://www.bleepingcomputer.com/news/security/darkgate-malware-spreads-through-compromised-skype-accounts/)
 * [Ubuntu discovers 'hate speech' in release 23.10 — how to upgrade?](https://www.bleepingcomputer.com/news/security/ubuntu-discovers-hate-speech-in-release-2310-how-to-upgrade/)
-* [The Week in Ransomware - October 13th 2023 - Increasing Attacks](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-13th-2023-increasing-attacks/)
-* [23andMe hit with lawsuits after hacker leaks stolen genetics data](https://www.bleepingcomputer.com/news/security/23andme-hit-with-lawsuits-after-hacker-leaks-stolen-genetics-data/)
-* [Microsoft: October Windows 10 security updates fail to install](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-10-security-updates-fail-to-install/)
-* [Kwik Trip IT systems outage caused by mysterious ‘network incident’](https://www.bleepingcomputer.com/news/technology/kwik-trip-it-systems-outage-caused-by-mysterious-network-incident/)
 <!--END_SECTION:feed-->
 
 <!--
