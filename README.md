@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit critical flaw in WordPress Royal Elementor plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-wordpress-royal-elementor-plugin/)
 * [Russian Sandworm hackers breached 11 Ukrainian telcos since May](https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-breached-11-ukrainian-telcos-since-may/)
 * [Cisco warns of new IOS XE zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-ios-xe-zero-day-actively-exploited-in-attacks/)
 * [Fake 'RedAlert' rocket alert app for Israel installs Android spyware](https://www.bleepingcomputer.com/news/security/fake-redalert-rocket-alert-app-for-israel-installs-android-spyware/)
 * [CISA, FBI urge admins to patch Atlassian Confluence immediately](https://www.bleepingcomputer.com/news/security/cisa-fbi-urge-admins-to-patch-atlassian-confluence-immediately/)
-* [Microsoft fixes Windows 10 security update installation issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-security-update-installation-issue/)
 <!--END_SECTION:feed-->
 
 <!--
