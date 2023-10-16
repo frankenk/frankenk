@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [Steam enforces SMS verification to curb malware-ridden updates](https://www.bleepingcomputer.com/news/security/steam-enforces-sms-verification-to-curb-malware-ridden-updates/)
 * [Women Political Leaders Summit targeted in RomCom malware phishing](https://www.bleepingcomputer.com/news/security/women-political-leaders-summit-targeted-in-romcom-malware-phishing/)
 * [AI algorithm detects MitM attacks on unmanned military vehicles](https://www.bleepingcomputer.com/news/security/ai-algorithm-detects-mitm-attacks-on-unmanned-military-vehicles/)
 * [DarkGate malware spreads through compromised Skype accounts](https://www.bleepingcomputer.com/news/security/darkgate-malware-spreads-through-compromised-skype-accounts/)
-* [Ubuntu discovers 'hate speech' in release 23.10 — how to upgrade?](https://www.bleepingcomputer.com/news/security/ubuntu-discovers-hate-speech-in-release-2310-how-to-upgrade/)
 <!--END_SECTION:feed-->
 
 <!--
