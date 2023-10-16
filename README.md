@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA, FBI urge admins to patch Atlassian Confluence immediately](https://www.bleepingcomputer.com/news/security/cisa-fbi-urge-admins-to-patch-atlassian-confluence-immediately/)
 * [Microsoft fixes Windows 10 security update installation issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-security-update-installation-issue/)
 * [Signal says there is no evidence rumored zero-day bug is real](https://www.bleepingcomputer.com/news/security/signal-says-there-is-no-evidence-rumored-zero-day-bug-is-real/)
 * [Steam enforces SMS verification to curb malware-ridden updates](https://www.bleepingcomputer.com/news/security/steam-enforces-sms-verification-to-curb-malware-ridden-updates/)
 * [Women Political Leaders Summit targeted in RomCom malware phishing](https://www.bleepingcomputer.com/news/security/women-political-leaders-summit-targeted-in-romcom-malware-phishing/)
-* [AI algorithm detects MitM attacks on unmanned military vehicles](https://www.bleepingcomputer.com/news/security/ai-algorithm-detects-mitm-attacks-on-unmanned-military-vehicles/)
 <!--END_SECTION:feed-->
 
 <!--
