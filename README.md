@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious Notepad++ Google ads evade detection for months](https://www.bleepingcomputer.com/news/security/malicious-notepad-plus-plus-google-ads-evade-detection-for-months/)
+* [Amazon adds passkey support as new passwordless login option](https://www.bleepingcomputer.com/news/security/amazon-adds-passkey-support-as-new-passwordless-login-option/)
 * [D-Link confirms data breach after employee phishing attack](https://www.bleepingcomputer.com/news/security/d-link-confirms-data-breach-after-employee-phishing-attack/)
 * [SpyNote Android malware spreads via fake volcano eruption alerts](https://www.bleepingcomputer.com/news/security/spynote-android-malware-spreads-via-fake-volcano-eruption-alerts/)
 * [Microsoft fixes known issue causing Outlook freezes, slow starts](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-outlook-freezes-slow-starts/)
-* [Fighting off cyberattacks? Make sure user credentials aren’t compromised](https://www.bleepingcomputer.com/news/security/fighting-off-cyberattacks-make-sure-user-credentials-arent-compromised/)
-* [Thousands of Cisco IOS XE devices hacked in widespread attacks](https://www.bleepingcomputer.com/news/security/thousands-of-cisco-ios-xe-devices-hacked-in-widespread-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
