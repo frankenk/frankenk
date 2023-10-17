@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes known issue causing Outlook freezes, slow starts](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-outlook-freezes-slow-starts/)
+* [Fighting off cyberattacks? Make sure user credentials aren’t compromised](https://www.bleepingcomputer.com/news/security/fighting-off-cyberattacks-make-sure-user-credentials-arent-compromised/)
+* [Thousands of Cisco IOS XE devices hacked in widespread attacks](https://www.bleepingcomputer.com/news/security/thousands-of-cisco-ios-xe-devices-hacked-in-widespread-attacks/)
 * [October Windows Server updates cause Hyper-V VM boot issues](https://www.bleepingcomputer.com/news/microsoft/october-windows-server-updates-cause-hyper-v-vm-boot-issues/)
 * [Discord still a hotbed of malware activity — Now APTs join the fun](https://www.bleepingcomputer.com/news/security/discord-still-a-hotbed-of-malware-activity-now-apts-join-the-fun/)
-* [Kansas courts IT systems offline after ‘security incident’](https://www.bleepingcomputer.com/news/security/kansas-courts-it-systems-offline-after-security-incident/)
-* [Hackers exploit critical flaw in WordPress Royal Elementor plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-flaw-in-wordpress-royal-elementor-plugin/)
-* [Russian Sandworm hackers breached 11 Ukrainian telcos since May](https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-breached-11-ukrainian-telcos-since-may/)
 <!--END_SECTION:feed-->
 
 <!--
