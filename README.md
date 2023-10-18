@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ex-Navy IT head gets 5 years for selling people’s data on darkweb](https://www.bleepingcomputer.com/news/security/ex-navy-it-head-gets-5-years-for-selling-peoples-data-on-darkweb/)
 * [Hacker leaks millions of new 23andMe genetic data profiles](https://www.bleepingcomputer.com/news/security/hacker-leaks-millions-of-new-23andme-genetic-data-profiles/)
 * [Google Play Protect adds real-time scanning to fight Android malware](https://www.bleepingcomputer.com/news/security/google-play-protect-adds-real-time-scanning-to-fight-android-malware/)
 * [MATA malware framework exploits EDR in attacks on defense firms](https://www.bleepingcomputer.com/news/security/mata-malware-framework-exploits-edr-in-attacks-on-defense-firms/)
 * [Google links WinRAR exploitation to Russian, Chinese state hackers](https://www.bleepingcomputer.com/news/security/google-links-winrar-exploitation-to-russian-chinese-state-hackers/)
-* [Single Sign On and the Cybercrime Ecosystem](https://www.bleepingcomputer.com/news/security/single-sign-on-and-the-cybercrime-ecosystem/)
 <!--END_SECTION:feed-->
 
 <!--
