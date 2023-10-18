@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Recently patched Citrix NetScaler bug exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/recently-patched-citrix-netscaler-bug-exploited-as-zero-day-since-august/)
+* [Qubitstrike attacks rootkit Jupyter Linux servers to steal credentials](https://www.bleepingcomputer.com/news/security/qubitstrike-attacks-rootkit-jupyter-linux-servers-to-steal-credentials/)
 * [Twitter testing annual subscriptions for tweeting and retweeting](https://www.bleepingcomputer.com/news/technology/twitter-testing-annual-subscriptions-for-tweeting-and-retweeting/)
 * [Microsoft disables bad spam rule flagging all sent emails as junk](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-bad-spam-rule-flagging-all-sent-emails-as-junk/)
 * [FBI warns of extortion groups targeting plastic surgery offices](https://www.bleepingcomputer.com/news/security/fbi-warns-of-extortion-groups-targeting-plastic-surgery-offices/)
-* [Over 40,000 admin portal accounts use 'admin' as a password](https://www.bleepingcomputer.com/news/security/over-40-000-admin-portal-accounts-use-admin-as-a-password/)
-* [KwikTrip all but says IT outage was caused by a cyberattack](https://www.bleepingcomputer.com/news/security/kwiktrip-all-but-says-it-outage-was-caused-by-a-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
