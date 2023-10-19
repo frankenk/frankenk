@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [E-Root admin faces 20 years for selling stolen RDP, SSH accounts](https://www.bleepingcomputer.com/news/security/e-root-admin-faces-20-years-for-selling-stolen-rdp-ssh-accounts/)
 * [BlackCat ransomware uses new ‘Munchkin’ Linux VM in stealthy attacks](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-uses-new-munchkin-linux-vm-in-stealthy-attacks/)
 * [Microsoft extends Purview Audit log retention after July breach](https://www.bleepingcomputer.com/news/security/microsoft-extends-purview-audit-log-retention-after-july-breach/)
 * [Fake KeePass site uses Google Ads and Punycode to push malware](https://www.bleepingcomputer.com/news/security/fake-keepass-site-uses-google-ads-and-punycode-to-push-malware/)
 * [India targets Microsoft, Amazon tech support scammers in nationwide crackdown](https://www.bleepingcomputer.com/news/security/india-targets-microsoft-amazon-tech-support-scammers-in-nationwide-crackdown/)
-* [Iranian hackers lurked in Middle Eastern govt network for 8 months](https://www.bleepingcomputer.com/news/security/iranian-hackers-lurked-in-middle-eastern-govt-network-for-8-months/)
 <!--END_SECTION:feed-->
 
 <!--
