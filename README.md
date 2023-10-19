@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WhatsApp gets support for multiple accounts on the same phone](https://www.bleepingcomputer.com/news/software/whatsapp-gets-support-for-multiple-accounts-on-the-same-phone/)
 * [Casio discloses data breach impacting customers in 149 countries](https://www.bleepingcomputer.com/news/security/casio-discloses-data-breach-impacting-customers-in-149-countries/)
 * [Ukrainian activists hack Trigona ransomware gang, wipe servers](https://www.bleepingcomputer.com/news/security/ukrainian-activists-hack-trigona-ransomware-gang-wipe-servers/)
 * [North Korean hackers exploit critical TeamCity flaw to breach networks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-critical-teamcity-flaw-to-breach-networks/)
 * [Ex-Navy IT head gets 5 years for selling people’s data on darkweb](https://www.bleepingcomputer.com/news/security/ex-navy-it-head-gets-5-years-for-selling-peoples-data-on-darkweb/)
-* [Hacker leaks millions of new 23andMe genetic data profiles](https://www.bleepingcomputer.com/news/security/hacker-leaks-millions-of-new-23andme-genetic-data-profiles/)
 <!--END_SECTION:feed-->
 
 <!--
