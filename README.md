@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft extends Purview Audit log retention after July breach](https://www.bleepingcomputer.com/news/security/microsoft-extends-purview-audit-log-retention-after-july-breach/)
 * [Fake KeePass site uses Google Ads and Punycode to push malware](https://www.bleepingcomputer.com/news/security/fake-keepass-site-uses-google-ads-and-punycode-to-push-malware/)
 * [India targets Microsoft, Amazon tech support scammers in nationwide crackdown](https://www.bleepingcomputer.com/news/security/india-targets-microsoft-amazon-tech-support-scammers-in-nationwide-crackdown/)
 * [Iranian hackers lurked in Middle Eastern govt network for 8 months](https://www.bleepingcomputer.com/news/security/iranian-hackers-lurked-in-middle-eastern-govt-network-for-8-months/)
 * [Ragnar Locker ransomware’s dark web extortion sites seized by police](https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomwares-dark-web-extortion-sites-seized-by-police/)
-* [WhatsApp gets support for multiple accounts on the same phone](https://www.bleepingcomputer.com/news/software/whatsapp-gets-support-for-multiple-accounts-on-the-same-phone/)
 <!--END_SECTION:feed-->
 
 <!--
