@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco discloses new IOS XE zero-day exploited to deploy malware implant](https://www.bleepingcomputer.com/news/security/cisco-discloses-new-ios-xe-zero-day-exploited-to-deploy-malware-implant/)
 * [Okta says its support system was breached using stolen credentials](https://www.bleepingcomputer.com/news/security/okta-says-its-support-system-was-breached-using-stolen-credentials/)
 * [Ragnar Locker ransomware developer arrested in France](https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-developer-arrested-in-france/)
 * [Critical RCE flaws found in SolarWinds access audit solution](https://www.bleepingcomputer.com/news/security/critical-rce-flaws-found-in-solarwinds-access-audit-solution/)
 * [Kwik Trip finally confirms cyberattack was behind ongoing outage](https://www.bleepingcomputer.com/news/security/kwik-trip-finally-confirms-cyberattack-was-behind-ongoing-outage/)
-* [Fake Corsair job offers on LinkedIn push DarkGate malware](https://www.bleepingcomputer.com/news/security/fake-corsair-job-offers-on-linkedin-push-darkgate-malware/)
 <!--END_SECTION:feed-->
 
 <!--
