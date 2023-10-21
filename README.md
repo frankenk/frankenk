@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [American Family Insurance confirms cyberattack is behind IT outages](https://www.bleepingcomputer.com/news/security/american-family-insurance-confirms-cyberattack-is-behind-it-outages/)
 * [The Week in Ransomware - October 20th 2023 - Fighting Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-20th-2023-fighting-back/)
 * [International Criminal Court systems breached for cyber espionage](https://www.bleepingcomputer.com/news/security/international-criminal-court-systems-breached-for-cyber-espionage/)
 * [Cisco discloses new IOS XE zero-day exploited to deploy malware implant](https://www.bleepingcomputer.com/news/security/cisco-discloses-new-ios-xe-zero-day-exploited-to-deploy-malware-implant/)
 * [Okta says its support system was breached using stolen credentials](https://www.bleepingcomputer.com/news/security/okta-says-its-support-system-was-breached-using-stolen-credentials/)
-* [Ragnar Locker ransomware developer arrested in France](https://www.bleepingcomputer.com/news/security/ragnar-locker-ransomware-developer-arrested-in-france/)
 <!--END_SECTION:feed-->
 
 <!--
