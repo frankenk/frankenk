@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Number of hacked Cisco IOS XE devices plummets from 50K to hundreds](https://www.bleepingcomputer.com/news/security/number-of-hacked-cisco-ios-xe-devices-plummets-from-50k-to-hundreds/)
+* [New TetrisPhantom hackers steal data from secure USB drives on govt systems](https://www.bleepingcomputer.com/news/security/new-tetrisphantom-hackers-steal-data-from-secure-usb-drives-on-govt-systems/)
+* [Microsoft announces Security Copilot early access program](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-security-copilot-early-access-program/)
 * [American Family Insurance confirms cyberattack is behind IT outages](https://www.bleepingcomputer.com/news/security/american-family-insurance-confirms-cyberattack-is-behind-it-outages/)
 * [The Week in Ransomware - October 20th 2023 - Fighting Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-20th-2023-fighting-back/)
-* [International Criminal Court systems breached for cyber espionage](https://www.bleepingcomputer.com/news/security/international-criminal-court-systems-breached-for-cyber-espionage/)
-* [Cisco discloses new IOS XE zero-day exploited to deploy malware implant](https://www.bleepingcomputer.com/news/security/cisco-discloses-new-ios-xe-zero-day-exploited-to-deploy-malware-implant/)
-* [Okta says its support system was breached using stolen credentials](https://www.bleepingcomputer.com/news/security/okta-says-its-support-system-was-breached-using-stolen-credentials/)
 <!--END_SECTION:feed-->
 
 <!--
