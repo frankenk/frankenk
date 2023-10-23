@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spain arrests 34 cybercriminals who stole data of 4 million people](https://www.bleepingcomputer.com/news/security/spain-arrests-34-cybercriminals-who-stole-data-of-4-million-people/)
+* [Cisco patches IOS XE zero-days used to hack over 50,000 devices](https://www.bleepingcomputer.com/news/security/cisco-patches-ios-xe-zero-days-used-to-hack-over-50-000-devices/)
 * [QNAP takes down server behind widespread brute-force attacks](https://www.bleepingcomputer.com/news/security/qnap-takes-down-server-behind-widespread-brute-force-attacks/)
 * [City of Philadelphia discloses data breach after five months](https://www.bleepingcomputer.com/news/security/city-of-philadelphia-discloses-data-breach-after-five-months/)
 * [D.C. Board of Elections: Hackers may have breached entire voter roll](https://www.bleepingcomputer.com/news/security/dc-board-of-elections-hackers-may-have-breached-entire-voter-roll/)
-* [Google Chrome's new "IP Protection" will hide users' IP addresses](https://www.bleepingcomputer.com/news/google/google-chromes-new-ip-protection-will-hide-users-ip-addresses/)
-* [Number of hacked Cisco IOS XE devices plummets from 50K to hundreds](https://www.bleepingcomputer.com/news/security/number-of-hacked-cisco-ios-xe-devices-plummets-from-50k-to-hundreds/)
 <!--END_SECTION:feed-->
 
 <!--
