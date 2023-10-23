@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [1Password discloses security incident linked to Okta breach](https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/)
 * [University of Michigan employee, student data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/university-of-michigan-employee-student-data-stolen-in-cyberattack/)
 * [Palestine crypto donation scams emerge amid Israel-Hamas war](https://www.bleepingcomputer.com/news/security/palestine-crypto-donation-scams-emerge-amid-israel-hamas-war/)
 * [Citrix warns admins to patch NetScaler CVE-2023-4966 bug immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-netscaler-cve-2023-4966-bug-immediately/)
 * [US energy firm shares how Akira ransomware hacked its systems](https://www.bleepingcomputer.com/news/security/us-energy-firm-shares-how-akira-ransomware-hacked-its-systems/)
-* [Spain arrests 34 cybercriminals who stole data of 4 million people](https://www.bleepingcomputer.com/news/security/spain-arrests-34-cybercriminals-who-stole-data-of-4-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
