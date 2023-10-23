@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [City of Philadelphia discloses data breach after five months](https://www.bleepingcomputer.com/news/security/city-of-philadelphia-discloses-data-breach-after-five-months/)
 * [D.C. Board of Elections: Hackers may have breached entire voter roll](https://www.bleepingcomputer.com/news/security/dc-board-of-elections-hackers-may-have-breached-entire-voter-roll/)
 * [Google Chrome's new "IP Protection" will hide users' IP addresses](https://www.bleepingcomputer.com/news/google/google-chromes-new-ip-protection-will-hide-users-ip-addresses/)
 * [Number of hacked Cisco IOS XE devices plummets from 50K to hundreds](https://www.bleepingcomputer.com/news/security/number-of-hacked-cisco-ios-xe-devices-plummets-from-50k-to-hundreds/)
 * [New TetrisPhantom hackers steal data from secure USB drives on govt systems](https://www.bleepingcomputer.com/news/security/new-tetrisphantom-hackers-steal-data-from-secure-usb-drives-on-govt-systems/)
-* [Microsoft announces Security Copilot early access program](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-security-copilot-early-access-program/)
 <!--END_SECTION:feed-->
 
 <!--
