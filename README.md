@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Decentralized Matrix messaging network says it has 115M users](https://www.bleepingcomputer.com/news/security/decentralized-matrix-messaging-network-says-it-has-115m-users/)
+* [Decentralized Matrix messaging network says it now has 115M users](https://www.bleepingcomputer.com/news/security/decentralized-matrix-messaging-network-says-it-now-has-115m-users/)
 * [ASVEL basketball team confirms data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/asvel-basketball-team-confirms-data-breach-after-ransomware-attack/)
 * [VMware warns admins of public exploit for vRealize RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-warns-admins-of-public-exploit-for-vrealize-rce-flaw/)
 * [September was a record month for ransomware attacks in 2023](https://www.bleepingcomputer.com/news/security/september-was-a-record-month-for-ransomware-attacks-in-2023/)
