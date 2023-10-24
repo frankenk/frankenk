@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware warns admins of public exploit for vRealize RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-warns-admins-of-public-exploit-for-vrealize-rce-flaw/)
+* [September was a record month for ransomware attacks in 2023](https://www.bleepingcomputer.com/news/security/september-was-a-record-month-for-ransomware-attacks-in-2023/)
 * [1Password discloses security incident linked to Okta breach](https://www.bleepingcomputer.com/news/security/1password-discloses-security-incident-linked-to-okta-breach/)
 * [University of Michigan employee, student data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/university-of-michigan-employee-student-data-stolen-in-cyberattack/)
 * [Palestine crypto donation scams emerge amid Israel-Hamas war](https://www.bleepingcomputer.com/news/security/palestine-crypto-donation-scams-emerge-amid-israel-hamas-war/)
-* [Citrix warns admins to patch NetScaler CVE-2023-4966 bug immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-netscaler-cve-2023-4966-bug-immediately/)
-* [US energy firm shares how Akira ransomware hacked its systems](https://www.bleepingcomputer.com/news/security/us-energy-firm-shares-how-akira-ransomware-hacked-its-systems/)
 <!--END_SECTION:feed-->
 
 <!--
