@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Citrix Bleed exploit lets hackers hijack NetScaler accounts](https://www.bleepingcomputer.com/news/security/citrix-bleed-exploit-lets-hackers-hijack-netscaler-accounts/)
+* [Ransomware isn’t going away – the problem is only getting worse](https://www.bleepingcomputer.com/news/security/ransomware-isnt-going-away-the-problem-is-only-getting-worse/)
 * [European govt email servers hacked using Roundcube zero-day](https://www.bleepingcomputer.com/news/security/european-govt-email-servers-hacked-using-roundcube-zero-day/)
 * [VMware fixes critical code execution flaw in vCenter Server](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-code-execution-flaw-in-vcenter-server/)
 * [Samsung Galaxy S23 hacked twice on first day of Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s23-hacked-twice-on-first-day-of-pwn2own-toronto/)
-* [Hackers backdoor Russian state, industrial orgs for data theft](https://www.bleepingcomputer.com/news/security/hackers-backdoor-russian-state-industrial-orgs-for-data-theft/)
-* [Decentralized Matrix messaging network says it now has 115M users](https://www.bleepingcomputer.com/news/security/decentralized-matrix-messaging-network-says-it-now-has-115m-users/)
 <!--END_SECTION:feed-->
 
 <!--
