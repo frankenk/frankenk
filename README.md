@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Flipper Zero can now spam Android, Windows users with Bluetooth alerts](https://www.bleepingcomputer.com/news/security/flipper-zero-can-now-spam-android-windows-users-with-bluetooth-alerts/)
+* [Windows 11 to let admins mandate SMB encryption for outbound connections](https://www.bleepingcomputer.com/news/microsoft/windows-11-to-let-admins-mandate-smb-encryption-for-outbound-connections/)
 * [Seiko says ransomware attack exposed sensitive customer data](https://www.bleepingcomputer.com/news/security/seiko-says-ransomware-attack-exposed-sensitive-customer-data/)
 * [Citrix Bleed exploit lets hackers hijack NetScaler accounts](https://www.bleepingcomputer.com/news/security/citrix-bleed-exploit-lets-hackers-hijack-netscaler-accounts/)
 * [Ransomware isn’t going away – the problem is only getting worse](https://www.bleepingcomputer.com/news/security/ransomware-isnt-going-away-the-problem-is-only-getting-worse/)
-* [European govt email servers hacked using Roundcube zero-day](https://www.bleepingcomputer.com/news/security/european-govt-email-servers-hacked-using-roundcube-zero-day/)
-* [VMware fixes critical code execution flaw in vCenter Server](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-code-execution-flaw-in-vcenter-server/)
 <!--END_SECTION:feed-->
 
 <!--
