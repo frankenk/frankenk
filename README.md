@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lazarus hackers breached dev repeatedly to deploy SIGNBT malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breached-dev-repeatedly-to-deploy-signbt-malware/)
 * [F5 fixes BIG-IP auth bypass allowing remote code execution attacks](https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/)
 * [Windows 11 KB5031455 preview update enables Moment 4 features by default](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5031455-preview-update-enables-moment-4-features-by-default/)
 * [Windows 10 KB5031445 preview update fixes ctfmon.exe memory leak, 9 issues](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5031445-preview-update-fixes-ctfmonexe-memory-leak-9-issues/)
 * [Microsoft: Octo Tempest is one of the most dangerous financial hacking groups](https://www.bleepingcomputer.com/news/security/microsoft-octo-tempest-is-one-of-the-most-dangerous-financial-hacking-groups/)
-* [Android adware apps on Google Play amass two million installs](https://www.bleepingcomputer.com/news/security/android-adware-apps-on-google-play-amass-two-million-installs/)
 <!--END_SECTION:feed-->
 
 <!--
