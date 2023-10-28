@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Microsoft 365 users get workaround for ‘Something Went Wrong’ errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/)
+* [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/)
+* [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/)
+* [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Hackers earn over * [Microsoft 365 users get workaround for ‘Something Went Wrong’ errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/)
 * [Lazarus hackers breached dev repeatedly to deploy SIGNBT malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breached-dev-repeatedly-to-deploy-signbt-malware/)
 * [F5 fixes BIG-IP auth bypass allowing remote code execution attacks](https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/)
 * [Windows 11 KB5031455 preview update enables Moment 4 features by default](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5031455-preview-update-enables-moment-4-features-by-default/)
@@ -101,7 +103,9 @@
 * [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/)
 * [Microsoft 365 users get workaround for ‘Something Went Wrong’ errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/)
 * [Lazarus hackers breached dev repeatedly to deploy SIGNBT malware](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breached-dev-repeatedly-to-deploy-signbt-malware/)
-* [F5 fixes BIG-IP auth bypass allowing remote code execution attacks](https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/)
+* [F5 fixes BIG-IP auth bypass allowing remote code execution attacks](https://www.bleepingcomputer.com/news/security/f5-fixes-big-ip-auth-bypass-allowing-remote-code-execution-attacks/) million for 58 zero-days at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-over-1-million-for-58-zero-days-at-pwn2own-toronto/)
+* [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/)
+* [Microsoft 365 users get workaround for ‘Something Went Wrong’ errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-get-workaround-for-something-went-wrong-errors/)
 <!--END_SECTION:feed-->
 
 <!--
