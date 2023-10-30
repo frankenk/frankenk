@@ -5,6 +5,10 @@
 * [New BiBi-Linux wiper malware targets Israeli orgs in destructive attacks](https://www.bleepingcomputer.com/news/security/new-bibi-linux-wiper-malware-targets-israeli-orgs-in-destructive-attacks/)
 * [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
 * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
+* [Pirate IPTV network in Austria dismantled and * [Toronto Public Library services down following weekend cyberattack](https://www.bleepingcomputer.com/news/security/toronto-public-library-services-down-following-weekend-cyberattack/)
+* [New BiBi-Linux wiper malware targets Israeli orgs in destructive attacks](https://www.bleepingcomputer.com/news/security/new-bibi-linux-wiper-malware-targets-israeli-orgs-in-destructive-attacks/)
+* [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
+* [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 * [Pirate IPTV network in Austria dismantled and * [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
 * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 * [Pirate IPTV network in Austria dismantled and * [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
@@ -289,7 +293,7 @@
 * [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
 * [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
 * [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
-* [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
+* [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
 <!--END_SECTION:feed-->
 
 <!--
