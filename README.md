@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC orders non-bank financial firms to report breaches in 30 days](https://www.bleepingcomputer.com/news/security/ftc-orders-non-bank-financial-firms-to-report-breaches-in-30-days/)
 * [Google Chrome now auto-upgrades to secure connections for all users](https://www.bleepingcomputer.com/news/google/google-chrome-now-auto-upgrades-to-secure-connections-for-all-users/)
 * [Toronto Public Library services down following weekend cyberattack](https://www.bleepingcomputer.com/news/security/toronto-public-library-services-down-following-weekend-cyberattack/)
 * [New BiBi-Linux wiper malware targets Israeli orgs in destructive attacks](https://www.bleepingcomputer.com/news/security/new-bibi-linux-wiper-malware-targets-israeli-orgs-in-destructive-attacks/)
 * [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
-* [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 <!--END_SECTION:feed-->
 
 <!--
