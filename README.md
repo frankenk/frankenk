@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
+* [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
+* [Pirate IPTV network in Austria dismantled and * [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
 * [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/)
 * [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/)
 * [Hackers earn over * [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
@@ -217,7 +218,10 @@
 * [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/) million for 58 zero-days at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-over-1-million-for-58-zero-days-at-pwn2own-toronto/)
 * [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/) million for 58 zero-days at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-over-1-million-for-58-zero-days-at-pwn2own-toronto/)
 * [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/) million for 58 zero-days at Pwn2Own Toronto](https://www.bleepingcomputer.com/news/security/hackers-earn-over-1-million-for-58-zero-days-at-pwn2own-toronto/)
-* [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/)
+* [The Week in Ransomware - October 27th 2023 - Breaking Records](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-october-27th-2023-breaking-records/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
+* [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
+* [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/)
+* [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/)
 <!--END_SECTION:feed-->
 
 <!--
