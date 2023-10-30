@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Huawei, Vivo phones tag Google app as TrojanSMS-PA malware](https://www.bleepingcomputer.com/news/security/huawei-vivo-phones-tag-google-app-as-trojansms-pa-malware/)
 * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
+* [Pirate IPTV network in Austria dismantled and * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 * [Pirate IPTV network in Austria dismantled and * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 * [Pirate IPTV network in Austria dismantled and * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
 * [Pirate IPTV network in Austria dismantled and * [New Hunters International ransomware possible rebrand of Hive](https://www.bleepingcomputer.com/news/security/new-hunters-international-ransomware-possible-rebrand-of-hive/)
@@ -277,7 +279,9 @@
 * [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
 * [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
 * [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/)
-* [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/)
+* [HackerOne paid ethical hackers over $300 million in bug bounties](https://www.bleepingcomputer.com/news/security/hackerone-paid-ethical-hackers-over-300-million-in-bug-bounties/).74 million seized](https://www.bleepingcomputer.com/news/security/pirate-iptv-network-in-austria-dismantled-and-174-million-seized/)
+* [Windows 11 adds support for 11 file archives, including 7-Zip and RAR](https://www.bleepingcomputer.com/news/microsoft/windows-11-adds-support-for-11-file-archives-including-7-zip-and-rar/)
+* [Hackers email stolen student data to parents of Nevada school district](https://www.bleepingcomputer.com/news/security/hackers-email-stolen-student-data-to-parents-of-nevada-school-district/)
 <!--END_SECTION:feed-->
 
 <!--
