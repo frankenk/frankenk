@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Avast confirms it tagged Google app as malware on Android phones](https://www.bleepingcomputer.com/news/security/avast-confirms-it-tagged-google-app-as-malware-on-android-phones/)
+* [Flipper Zero Bluetooth spam attacks ported to new Android app](https://www.bleepingcomputer.com/news/security/flipper-zero-bluetooth-spam-attacks-ported-to-new-android-app/)
 * [Windows 11 23H2 - New features in the Windows 11 2023 Update](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-new-features-in-the-windows-11-2023-update/)
 * [How to download a Windows 11 23H2 ISO from Microsoft](https://www.bleepingcomputer.com/news/microsoft/how-to-download-a-windows-11-23h2-iso-from-microsoft/)
 * [British Library knocked offline by weekend cyberattack](https://www.bleepingcomputer.com/news/security/british-library-knocked-offline-by-weekend-cyberattack/)
-* [Atlassian warns of critical Confluence flaw leading to data loss](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-confluence-flaw-leading-to-data-loss/)
-* [Microsoft releases Windows 11 23H2 as an enablement package](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-11-23h2-as-an-enablement-package/)
 <!--END_SECTION:feed-->
 
 <!--
