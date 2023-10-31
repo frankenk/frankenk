@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit released for critical Cisco IOS XE flaw, many hosts still hacked](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-cisco-ios-xe-flaw-many-hosts-still-hacked/)
 * [LastPass breach linked to theft of $4.4 million in crypto](https://www.bleepingcomputer.com/news/security/lastpass-breach-linked-to-theft-of-44-million-in-crypto/)
 * [SEC sues SolarWinds for misleading investors before 2020 hack](https://www.bleepingcomputer.com/news/security/sec-sues-solarwinds-for-misleading-investors-before-2020-hack/)
 * [RCE exploit for Wyze Cam v3 publicly released, patch now](https://www.bleepingcomputer.com/news/security/rce-exploit-for-wyze-cam-v3-publicly-released-patch-now/)
 * [FTC orders non-bank financial firms to report breaches in 30 days](https://www.bleepingcomputer.com/news/security/ftc-orders-non-bank-financial-firms-to-report-breaches-in-30-days/)
-* [Google Chrome now auto-upgrades to secure connections for all users](https://www.bleepingcomputer.com/news/google/google-chrome-now-auto-upgrades-to-secure-connections-for-all-users/)
 <!--END_SECTION:feed-->
 
 <!--
