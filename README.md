@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Massive cybercrime URL shortening service uncovered via DNS data](https://www.bleepingcomputer.com/news/security/massive-cybercrime-url-shortening-service-uncovered-via-dns-data/)
+* [Canada bans WeChat and Kaspersky products on govt devices](https://www.bleepingcomputer.com/news/security/canada-bans-wechat-and-kaspersky-products-on-govt-devices/)
 * [Malicious NuGet packages abuse MSBuild to install malware](https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-abuse-msbuild-to-install-malware/)
 * [Exploit released for critical Cisco IOS XE flaw, many hosts still hacked](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-cisco-ios-xe-flaw-many-hosts-still-hacked/)
 * [LastPass breach linked to theft of $4.4 million in crypto](https://www.bleepingcomputer.com/news/security/lastpass-breach-linked-to-theft-of-44-million-in-crypto/)
-* [SEC sues SolarWinds for misleading investors before 2020 hack](https://www.bleepingcomputer.com/news/security/sec-sues-solarwinds-for-misleading-investors-before-2020-hack/)
-* [RCE exploit for Wyze Cam v3 publicly released, patch now](https://www.bleepingcomputer.com/news/security/rce-exploit-for-wyze-cam-v3-publicly-released-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
