@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Dozens of countries will pledge to stop paying ransomware gangs](https://www.bleepingcomputer.com/news/security/dozens-of-countries-will-pledge-to-stop-paying-ransomware-gangs/)
+* [Samsung Galaxy gets new Auto Blocker anti-malware feature](https://www.bleepingcomputer.com/news/security/samsung-galaxy-gets-new-auto-blocker-anti-malware-feature/)
 * [Massive cybercrime URL shortening service uncovered via DNS data](https://www.bleepingcomputer.com/news/security/massive-cybercrime-url-shortening-service-uncovered-via-dns-data/)
 * [Canada bans WeChat and Kaspersky products on govt devices](https://www.bleepingcomputer.com/news/security/canada-bans-wechat-and-kaspersky-products-on-govt-devices/)
 * [Malicious NuGet packages abuse MSBuild to install malware](https://www.bleepingcomputer.com/news/security/malicious-nuget-packages-abuse-msbuild-to-install-malware/)
-* [Exploit released for critical Cisco IOS XE flaw, many hosts still hacked](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-cisco-ios-xe-flaw-many-hosts-still-hacked/)
-* [LastPass breach linked to theft of $4.4 million in crypto](https://www.bleepingcomputer.com/news/security/lastpass-breach-linked-to-theft-of-44-million-in-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
