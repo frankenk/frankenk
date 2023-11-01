@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New CVSS 4.0 vulnerability severity rating standard released](https://www.bleepingcomputer.com/news/security/new-cvss-40-vulnerability-severity-rating-standard-released/)
 * [Hackers use Citrix Bleed flaw in attacks on govt networks worldwide](https://www.bleepingcomputer.com/news/security/hackers-use-citrix-bleed-flaw-in-attacks-on-govt-networks-worldwide/)
 * [3,000 Apache ActiveMQ servers vulnerable to RCE attacks exposed online](https://www.bleepingcomputer.com/news/security/3-000-apache-activemq-servers-vulnerable-to-rce-attacks-exposed-online/)
 * [Microsoft: Windows Copilot makes desktop icons jump between displays](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-copilot-makes-desktop-icons-jump-between-displays/)
 * [Mozi malware botnet goes dark after mysterious use of kill-switch](https://www.bleepingcomputer.com/news/security/mozi-malware-botnet-goes-dark-after-mysterious-use-of-kill-switch/)
-* [Hackers exploit recent F5 BIG-IP flaws in stealthy attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-recent-f5-big-ip-flaws-in-stealthy-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
