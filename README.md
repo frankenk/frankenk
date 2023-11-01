@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [3,000 Apache ActiveMQ servers vulnerable to RCE attacks exposed online](https://www.bleepingcomputer.com/news/security/3-000-apache-activemq-servers-vulnerable-to-rce-attacks-exposed-online/)
+* [Microsoft: Windows Copilot makes desktop icons jump between displays](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-copilot-makes-desktop-icons-jump-between-displays/)
+* [Mozi malware botnet goes dark after mysterious use of kill-switch](https://www.bleepingcomputer.com/news/security/mozi-malware-botnet-goes-dark-after-mysterious-use-of-kill-switch/)
 * [Hackers exploit recent F5 BIG-IP flaws in stealthy attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-recent-f5-big-ip-flaws-in-stealthy-attacks/)
 * [LayerX Enterprise Browser Security Extension – Secure the Modern Workspace](https://www.bleepingcomputer.com/news/security/layerx-enterprise-browser-security-extension-secure-the-modern-workspace/)
-* [Avast confirms it tagged Google app as malware on Android phones](https://www.bleepingcomputer.com/news/security/avast-confirms-it-tagged-google-app-as-malware-on-android-phones/)
-* [Flipper Zero Bluetooth spam attacks ported to new Android app](https://www.bleepingcomputer.com/news/security/flipper-zero-bluetooth-spam-attacks-ported-to-new-android-app/)
-* [Windows 11 23H2 - New features in the Windows 11 2023 Update](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-new-features-in-the-windows-11-2023-update/)
 <!--END_SECTION:feed-->
 
 <!--
