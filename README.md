@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Boeing confirms cyberattack amid LockBit ransomware claims](https://www.bleepingcomputer.com/news/security/boeing-confirms-cyberattack-amid-lockbit-ransomware-claims/)
 * [Microsoft pledges to bolster security as part of ‘Secure Future’ initiative](https://www.bleepingcomputer.com/news/microsoft/microsoft-pledges-to-bolster-security-as-part-of-secure-future-initiative/)
-* [Okta data breach exposed personal information of employees](https://www.bleepingcomputer.com/news/security/okta-data-breach-exposed-personal-information-of-employees/)
+* [Okta hit by third-party data breach exposing employee information](https://www.bleepingcomputer.com/news/security/okta-hit-by-third-party-data-breach-exposing-employee-information/)
 * [Your end-users are reusing passwords – that’s a big problem](https://www.bleepingcomputer.com/news/security/your-end-users-are-reusing-passwords-thats-a-big-problem/)
 * [Meta faces EU ban on Facebook, Instagram targeted advertising](https://www.bleepingcomputer.com/news/technology/meta-faces-eu-ban-on-facebook-instagram-targeted-advertising/)
-* [FSB arrests Russian hackers working for Ukrainian cyber forces](https://www.bleepingcomputer.com/news/legal/fsb-arrests-russian-hackers-working-for-ukrainian-cyber-forces/)
 <!--END_SECTION:feed-->
 
 <!--
