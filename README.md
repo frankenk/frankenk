@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft pledges to bolster security as part of ‘Secure Future’ initiative](https://www.bleepingcomputer.com/news/microsoft/microsoft-pledges-to-bolster-security-as-part-of-secure-future-initiative/)
+* [Okta data breach exposed personal information of employees](https://www.bleepingcomputer.com/news/security/okta-data-breach-exposed-personal-information-of-employees/)
+* [Your end-users are reusing passwords – that’s a big problem](https://www.bleepingcomputer.com/news/security/your-end-users-are-reusing-passwords-thats-a-big-problem/)
 * [Meta faces EU ban on Facebook, Instagram targeted advertising](https://www.bleepingcomputer.com/news/technology/meta-faces-eu-ban-on-facebook-instagram-targeted-advertising/)
 * [FSB arrests Russian hackers working for Ukrainian cyber forces](https://www.bleepingcomputer.com/news/legal/fsb-arrests-russian-hackers-working-for-ukrainian-cyber-forces/)
-* [Toronto Public Library outages caused by Black Basta ransomware attack](https://www.bleepingcomputer.com/news/security/toronto-public-library-outages-caused-by-black-basta-ransomware-attack/)
-* [New CVSS 4.0 vulnerability severity rating standard released](https://www.bleepingcomputer.com/news/security/new-cvss-40-vulnerability-severity-rating-standard-released/)
-* [Hackers use Citrix Bleed flaw in attacks on govt networks worldwide](https://www.bleepingcomputer.com/news/security/hackers-use-citrix-bleed-flaw-in-attacks-on-govt-networks-worldwide/)
 <!--END_SECTION:feed-->
 
 <!--
