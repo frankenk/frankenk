@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BlackCat ransomware claims breach of healthcare giant Henry Schein](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-claims-breach-of-healthcare-giant-henry-schein/)
+* [Mortgage giant Mr. Cooper hit by cyberattack impacting IT systems](https://www.bleepingcomputer.com/news/security/mortgage-giant-mr-cooper-hit-by-cyberattack-impacting-it-systems/)
 * [HelloKitty ransomware now exploiting Apache ActiveMQ flaw in attacks](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-now-exploiting-apache-activemq-flaw-in-attacks/)
 * [Cloudflare Dashboard and APIs down after data center power outage](https://www.bleepingcomputer.com/news/security/cloudflare-dashboard-and-apis-down-after-data-center-power-outage/)
 * [Boeing confirms cyberattack amid LockBit ransomware claims](https://www.bleepingcomputer.com/news/security/boeing-confirms-cyberattack-amid-lockbit-ransomware-claims/)
-* [Microsoft pledges to bolster security as part of ‘Secure Future’ initiative](https://www.bleepingcomputer.com/news/microsoft/microsoft-pledges-to-bolster-security-as-part-of-secure-future-initiative/)
-* [Okta hit by third-party data breach exposing employee information](https://www.bleepingcomputer.com/news/security/okta-hit-by-third-party-data-breach-exposing-employee-information/)
 <!--END_SECTION:feed-->
 
 <!--
