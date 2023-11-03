@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [American Airlines pilot union hit by ransomware attack](https://www.bleepingcomputer.com/news/security/american-airlines-pilot-union-hit-by-ransomware-attack/)
 * [Google Play adds security audit badges for Android VPN apps](https://www.bleepingcomputer.com/news/security/google-play-adds-security-audit-badges-for-android-vpn-apps/)
 * [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 * [Okta breach: 134 customers exposed in October support system hack](https://www.bleepingcomputer.com/news/security/okta-breach-134-customers-exposed-in-october-support-system-hack/)
 * [Atlassian warns of exploit for Confluence data wiping bug, get patching](https://www.bleepingcomputer.com/news/security/atlassian-warns-of-exploit-for-confluence-data-wiping-bug-get-patching/)
-* [Ace Hardware says 1,202 devices were hit during cyberattack](https://www.bleepingcomputer.com/news/security/ace-hardware-says-1-202-devices-were-hit-during-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
