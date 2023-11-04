@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Discord will switch to temporary file links to block malware delivery](https://www.bleepingcomputer.com/news/security/discord-will-switch-to-temporary-file-links-to-block-malware-delivery/)
+* [Apple 'Find My' network can be abused to steal keylogged passwords](https://www.bleepingcomputer.com/news/apple/apple-find-my-network-can-be-abused-to-steal-keylogged-passwords/)
 * [The Week in Ransomware - November 3rd 2023 - Hive's Back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-3rd-2023-hives-back/)
 * [Dutch hacker jailed for extortion, selling stolen data on RaidForums](https://www.bleepingcomputer.com/news/security/dutch-hacker-jailed-for-extortion-selling-stolen-data-on-raidforums/)
 * [American Airlines pilot union hit by ransomware attack](https://www.bleepingcomputer.com/news/security/american-airlines-pilot-union-hit-by-ransomware-attack/)
-* [Google Play adds security audit badges for Android VPN apps](https://www.bleepingcomputer.com/news/security/google-play-adds-security-audit-badges-for-android-vpn-apps/)
-* [New Microsoft Exchange zero-days allow RCE, data theft attacks](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-exchange-zero-days-allow-rce-data-theft-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
