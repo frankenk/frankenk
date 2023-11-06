@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft will roll out MFA-enforcing policies for admin portal access](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/)
 * [Critical Atlassian Confluence bug exploited in Cerber ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-atlassian-confluence-bug-exploited-in-cerber-ransomware-attacks/)
 * [US sanctions Russian who laundered money for Ryuk ransomware affiliate](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-who-laundered-money-for-ryuk-ransomware-affiliate/)
 * [TellYouThePass ransomware joins Apache ActiveMQ RCE attacks](https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-joins-apache-activemq-rce-attacks/)
 * [QNAP warns of critical command injection flaws in QTS OS, apps](https://www.bleepingcomputer.com/news/security/qnap-warns-of-critical-command-injection-flaws-in-qts-os-apps/)
-* [Cybercrime service bypasses Android security to install malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-bypasses-android-security-to-install-malware/)
 <!--END_SECTION:feed-->
 
 <!--
