@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Marina Bay Sands discloses data breach impacting 665,000 customers](https://www.bleepingcomputer.com/news/security/marina-bay-sands-discloses-data-breach-impacting-665-000-customers/)
 * [Veeam warns of critical bugs in Veeam ONE monitoring platform](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-bugs-in-veeam-one-monitoring-platform/)
 * [Hackers exploit Looney Tunables Linux bug, steal cloud creds](https://www.bleepingcomputer.com/news/security/hackers-exploit-looney-tunables-linux-bug-steal-cloud-creds/)
 * [Microsoft will roll out MFA-enforcing policies for admin portal access](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-roll-out-mfa-enforcing-policies-for-admin-portal-access/)
 * [Critical Atlassian Confluence bug exploited in Cerber ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-atlassian-confluence-bug-exploited-in-cerber-ransomware-attacks/)
-* [US sanctions Russian who laundered money for Ryuk ransomware affiliate](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-who-laundered-money-for-ryuk-ransomware-affiliate/)
 <!--END_SECTION:feed-->
 
 <!--
