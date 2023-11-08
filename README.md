@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft drops SMB1 firewall rules in new Windows 11 build](https://www.bleepingcomputer.com/news/microsoft/microsoft-drops-smb1-firewall-rules-in-new-windows-11-build/)
 * [Sumo Logic discloses security breach, advises API key resets](https://www.bleepingcomputer.com/news/security/sumo-logic-discloses-security-breach-advises-api-key-resets/)
 * [Russian state-owned Sberbank hit by 1 million RPS DDoS attack](https://www.bleepingcomputer.com/news/security/russian-state-owned-sberbank-hit-by-1-million-rps-ddos-attack/)
 * [FBI: Ransomware gangs hack casinos via 3rd party gaming vendors](https://www.bleepingcomputer.com/news/security/fbi-ransomware-gangs-hack-casinos-via-3rd-party-gaming-vendors/)
-* [ChatGPT down after major outage impacting OpenAI systems](https://www.bleepingcomputer.com/news/technology/chatgpt-down-after-major-outage-impacting-openai-systems/)
-* [WhatsApp now lets users hide their location during calls](https://www.bleepingcomputer.com/news/security/whatsapp-now-lets-users-hide-their-location-during-calls/)
+* [ChatGPT back online after major OpenAI systems outage](https://www.bleepingcomputer.com/news/technology/chatgpt-back-online-after-major-openai-systems-outage/)
 <!--END_SECTION:feed-->
 
 <!--
