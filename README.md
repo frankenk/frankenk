@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ChatGPT down after major outage impacting OpenAI systems](https://www.bleepingcomputer.com/news/technology/chatgpt-down-after-major-outage-impacting-openai-systems/)
+* [WhatsApp now lets users hide their location during calls](https://www.bleepingcomputer.com/news/security/whatsapp-now-lets-users-hide-their-location-during-calls/)
 * [Russian-speaking threat actor "farnetwork" linked to 5 ransomware gangs](https://www.bleepingcomputer.com/news/security/russian-speaking-threat-actor-farnetwork-linked-to-5-ransomware-gangs/)
 * [TransForm says ransomware data breach affects 267,000 patients](https://www.bleepingcomputer.com/news/security/transform-says-ransomware-data-breach-affects-267-000-patients/)
 * [Fake Ledger Live app in Microsoft Store steals $768,000 in crypto](https://www.bleepingcomputer.com/news/security/fake-ledger-live-app-in-microsoft-store-steals-768-000-in-crypto/)
-* [BlueNoroff hackers backdoor Macs with new ObjCShellz malware](https://www.bleepingcomputer.com/news/security/bluenoroff-hackers-backdoor-macs-with-new-objcshellz-malware/)
-* [Microsoft: Some Outlook.com users can't send emails with attachments](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-outlookcom-users-cant-send-emails-with-attachments/)
 <!--END_SECTION:feed-->
 
 <!--
