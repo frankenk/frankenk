@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian hackers switch to LOTL technique to cause power outage](https://www.bleepingcomputer.com/news/security/russian-hackers-switch-to-lotl-technique-to-cause-power-outage/)
 * [OpenAI confirms DDoS attacks behind ongoing ChatGPT outages](https://www.bleepingcomputer.com/news/security/openai-confirms-ddos-attacks-behind-ongoing-chatgpt-outages/)
 * [Signal tests usernames that keep your phone number private](https://www.bleepingcomputer.com/news/software/signal-tests-usernames-that-keep-your-phone-number-private/)
 * [Microsoft drops SMB1 firewall rules in new Windows 11 build](https://www.bleepingcomputer.com/news/microsoft/microsoft-drops-smb1-firewall-rules-in-new-windows-11-build/)
 * [Sumo Logic discloses security breach, advises API key resets](https://www.bleepingcomputer.com/news/security/sumo-logic-discloses-security-breach-advises-api-key-resets/)
-* [Russian state-owned Sberbank hit by 1 million RPS DDoS attack](https://www.bleepingcomputer.com/news/security/russian-state-owned-sberbank-hit-by-1-million-rps-ddos-attack/)
 <!--END_SECTION:feed-->
 
 <!--
