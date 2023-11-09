@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google ads push malicious CPU-Z app from fake Windows news site](https://www.bleepingcomputer.com/news/security/google-ads-push-malicious-cpu-z-app-from-fake-windows-news-site/)
 * [Microsoft: SysAid zero-day flaw exploited in Clop ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-sysaid-zero-day-flaw-exploited-in-clop-ransomware-attacks/)
 * [Russian hackers switch to LOTL technique to cause power outage](https://www.bleepingcomputer.com/news/security/russian-hackers-switch-to-lotl-technique-to-cause-power-outage/)
 * [OpenAI confirms DDoS attacks behind ongoing ChatGPT outages](https://www.bleepingcomputer.com/news/security/openai-confirms-ddos-attacks-behind-ongoing-chatgpt-outages/)
 * [Signal tests usernames that keep your phone number private](https://www.bleepingcomputer.com/news/software/signal-tests-usernames-that-keep-your-phone-number-private/)
-* [Microsoft drops SMB1 firewall rules in new Windows 11 build](https://www.bleepingcomputer.com/news/microsoft/microsoft-drops-smb1-firewall-rules-in-new-windows-11-build/)
 <!--END_SECTION:feed-->
 
 <!--
