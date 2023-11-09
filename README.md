@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Cloudflare website down, showing ‘We’re sorry’ Google errors](https://www.bleepingcomputer.com/news/technology/cloudflare-website-down-showing-were-sorry-google-errors/)
+* [Kyocera AVX says ransomware attack impacted 39,000 individuals](https://www.bleepingcomputer.com/news/security/kyocera-avx-says-ransomware-attack-impacted-39-000-individuals/)
+* [Cloudflare website downed by DDoS attack claimed by Anonymous Sudan](https://www.bleepingcomputer.com/news/technology/cloudflare-website-downed-by-ddos-attack-claimed-by-anonymous-sudan/)
 * [Industrial and Commercial Bank of China hit by ransomware attack](https://www.bleepingcomputer.com/news/security/industrial-and-commercial-bank-of-china-hit-by-ransomware-attack/)
 * [Microsoft shares temp fix for broken Windows Server 2022 VMs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-broken-windows-server-2022-vms/)
 * [Google ads push malicious CPU-Z app from fake Windows news site](https://www.bleepingcomputer.com/news/security/google-ads-push-malicious-cpu-z-app-from-fake-windows-news-site/)
-* [Microsoft: SysAid zero-day flaw exploited in Clop ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-sysaid-zero-day-flaw-exploited-in-clop-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
