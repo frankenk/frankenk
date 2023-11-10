@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [McLaren Health Care says data breach impacted 2.2 million people](https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacted-22-million-people/)
+* [The Rise of Ransomware in Healthcare: What IT Leaders Need to Know](https://www.bleepingcomputer.com/news/security/the-rise-of-ransomware-in-healthcare-what-it-leaders-need-to-know/)
 * [Kyocera AVX says ransomware attack impacted 39,000 individuals](https://www.bleepingcomputer.com/news/security/kyocera-avx-says-ransomware-attack-impacted-39-000-individuals/)
 * [Cloudflare website downed by DDoS attack claimed by Anonymous Sudan](https://www.bleepingcomputer.com/news/technology/cloudflare-website-downed-by-ddos-attack-claimed-by-anonymous-sudan/)
 * [World’s largest commercial bank ICBC confirms ransomware attack](https://www.bleepingcomputer.com/news/security/worlds-largest-commercial-bank-icbc-confirms-ransomware-attack/)
-* [Microsoft shares temp fix for broken Windows Server 2022 VMs](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-broken-windows-server-2022-vms/)
-* [Google ads push malicious CPU-Z app from fake Windows news site](https://www.bleepingcomputer.com/news/security/google-ads-push-malicious-cpu-z-app-from-fake-windows-news-site/)
 <!--END_SECTION:feed-->
 
 <!--
