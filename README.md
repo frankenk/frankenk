@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft extends Windows Server 2012 ESUs to October 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2012-esus-to-october-2026/)
+* [Maine govt notifies 1.3 million people of MOVEit data breach](https://www.bleepingcomputer.com/news/security/maine-govt-notifies-13-million-people-of-moveit-data-breach/)
 * [McLaren Health Care says data breach impacted 2.2 million people](https://www.bleepingcomputer.com/news/security/mclaren-health-care-says-data-breach-impacted-22-million-people/)
 * [The Rise of Ransomware in Healthcare: What IT Leaders Need to Know](https://www.bleepingcomputer.com/news/security/the-rise-of-ransomware-in-healthcare-what-it-leaders-need-to-know/)
 * [Kyocera AVX says ransomware attack impacted 39,000 individuals](https://www.bleepingcomputer.com/news/security/kyocera-avx-says-ransomware-attack-impacted-39-000-individuals/)
-* [Cloudflare website downed by DDoS attack claimed by Anonymous Sudan](https://www.bleepingcomputer.com/news/technology/cloudflare-website-downed-by-ddos-attack-claimed-by-anonymous-sudan/)
-* [World’s largest commercial bank ICBC confirms ransomware attack](https://www.bleepingcomputer.com/news/security/worlds-largest-commercial-bank-icbc-confirms-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
