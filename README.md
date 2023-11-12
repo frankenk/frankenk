@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Iranian hackers launch malware attacks on Israel’s tech sector](https://www.bleepingcomputer.com/news/security/iranian-hackers-launch-malware-attacks-on-israels-tech-sector/)
 * [Microsoft Edge is testing a new video translation feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-testing-a-new-video-translation-feature/)
 * [Police takes down BulletProftLink large-scale phishing provider](https://www.bleepingcomputer.com/news/security/police-takes-down-bulletproftlink-large-scale-phishing-provider/)
 * [Microsoft fixes Outlook Desktop bug causing slow saving issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-desktop-bug-causing-slow-saving-issues/)
 * [Mortgage giant Mr. Cooper says customer data exposed in breach](https://www.bleepingcomputer.com/news/security/mortgage-giant-mr-cooper-says-customer-data-exposed-in-breach/)
-* [Microsoft: BlueNoroff hackers plan new crypto-theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-bluenoroff-hackers-plan-new-crypto-theft-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
