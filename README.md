@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: Royal ransomware asked 350 victims to pay $275 million](https://www.bleepingcomputer.com/news/security/fbi-royal-ransomware-asked-350-victims-to-pay-275-million/)
 * [DP World cyberattack blocks thousands of containers in ports](https://www.bleepingcomputer.com/news/security/dp-world-cyberattack-blocks-thousands-of-containers-in-ports/)
 * [CISA warns of actively exploited Juniper pre-auth RCE exploit chain](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-juniper-pre-auth-rce-exploit-chain/)
 * [Israel warns of BiBi wiper attacks targeting Linux and Windows](https://www.bleepingcomputer.com/news/security/israel-warns-of-bibi-wiper-attacks-targeting-linux-and-windows/)
 * [Criminal IP & Cisco SecureX/XDR: Enhanced Cyber Threat Analysis](https://www.bleepingcomputer.com/news/security/criminal-ip-and-cisco-securex-xdr-enhanced-cyber-threat-analysis/)
-* [LockBit ransomware leaks gigabytes of Boeing data](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-leaks-gigabytes-of-boeing-data/)
 <!--END_SECTION:feed-->
 
 <!--
