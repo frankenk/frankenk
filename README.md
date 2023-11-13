@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Israel warns of BiBi wiper attacks targeting Linux and Windows](https://www.bleepingcomputer.com/news/security/israel-warns-of-bibi-wiper-attacks-targeting-linux-and-windows/)
+* [Criminal IP & Cisco SecureX/XDR: Enhanced Cyber Threat Analysis](https://www.bleepingcomputer.com/news/security/criminal-ip-and-cisco-securex-xdr-enhanced-cyber-threat-analysis/)
 * [LockBit ransomware leaks gigabytes of Boeing data](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-leaks-gigabytes-of-boeing-data/)
 * [Windows 11 will soon let you uninstall more inbox apps](https://www.bleepingcomputer.com/news/microsoft/windows-11-will-soon-let-you-uninstall-more-inbox-apps/)
 * [Google Chrome & Microsoft Edge to get 'Save Frame' feature for YouTube](https://www.bleepingcomputer.com/news/google/google-chrome-and-microsoft-edge-to-get-save-frame-feature-for-youtube/)
-* [Iranian hackers launch malware attacks on Israel’s tech sector](https://www.bleepingcomputer.com/news/security/iranian-hackers-launch-malware-attacks-on-israels-tech-sector/)
-* [Microsoft Edge is testing a new video translation feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-testing-a-new-video-translation-feature/)
 <!--END_SECTION:feed-->
 
 <!--
