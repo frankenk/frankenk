@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [VMWare discloses critical VCD Appliance auth bypass with no patch](https://www.bleepingcomputer.com/news/security/vmware-discloses-critical-vcd-appliance-auth-bypass-with-no-patch/)
+* [VMware discloses critical VCD Appliance auth bypass with no patch](https://www.bleepingcomputer.com/news/security/vmware-discloses-critical-vcd-appliance-auth-bypass-with-no-patch/)
 * [New CacheWarp AMD CPU attack lets hackers gain root in Linux VMs](https://www.bleepingcomputer.com/news/security/new-cachewarp-amd-cpu-attack-lets-hackers-gain-root-in-linux-vms/)
 * [LockBit ransomware exploits Citrix Bleed in attacks, 10K servers exposed](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-exploits-citrix-bleed-in-attacks-10k-servers-exposed/)
 * [Microsoft November 2023 Patch Tuesday fixes 5 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2023-patch-tuesday-fixes-5-zero-days-58-flaws/)
