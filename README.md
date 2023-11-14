@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Pharmacy provider Truepill data breach hits 2.3 million customers](https://www.bleepingcomputer.com/news/security/pharmacy-provider-truepill-data-breach-hits-23-million-customers/)
 * [Meet the Unique New "Hacking" Group: AlphaLock](https://www.bleepingcomputer.com/news/security/meet-the-unique-new-hacking-group-alphalock/)
 * [Ethereum feature abused to steal $60 million from 99K victims](https://www.bleepingcomputer.com/news/security/ethereum-feature-abused-to-steal-60-million-from-99k-victims/)
 * [FBI: Royal ransomware asked 350 victims to pay $275 million](https://www.bleepingcomputer.com/news/security/fbi-royal-ransomware-asked-350-victims-to-pay-275-million/)
 * [DP World cyberattack blocks thousands of containers in ports](https://www.bleepingcomputer.com/news/security/dp-world-cyberattack-blocks-thousands-of-containers-in-ports/)
-* [CISA warns of actively exploited Juniper pre-auth RCE exploit chain](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-juniper-pre-auth-rce-exploit-chain/)
 <!--END_SECTION:feed-->
 
 <!--
