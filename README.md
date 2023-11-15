@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [IPStorm botnet with 23,000 proxies for malicious traffic dismantled](https://www.bleepingcomputer.com/news/security/ipstorm-botnet-with-23-000-proxies-for-malicious-traffic-dismantled/)
+* [WP Fastest Cache plugin bug exposes 600K WordPress sites to attacks](https://www.bleepingcomputer.com/news/security/wp-fastest-cache-plugin-bug-exposes-600k-wordpress-sites-to-attacks/)
+* [New Reptar CPU flaw impacts Intel desktop and server systems](https://www.bleepingcomputer.com/news/security/new-reptar-cpu-flaw-impacts-intel-desktop-and-server-systems/)
 * [VMware discloses critical VCD Appliance auth bypass with no patch](https://www.bleepingcomputer.com/news/security/vmware-discloses-critical-vcd-appliance-auth-bypass-with-no-patch/)
 * [New CacheWarp AMD CPU attack lets hackers gain root in Linux VMs](https://www.bleepingcomputer.com/news/security/new-cachewarp-amd-cpu-attack-lets-hackers-gain-root-in-linux-vms/)
-* [LockBit ransomware exploits Citrix Bleed in attacks, 10K servers exposed](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-exploits-citrix-bleed-in-attacks-10k-servers-exposed/)
-* [Microsoft November 2023 Patch Tuesday fixes 5 zero-days, 58 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2023-patch-tuesday-fixes-5-zero-days-58-flaws/)
-* [Microsoft fixes critical Azure CLI flaw that leaked credentials in logs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-critical-azure-cli-flaw-that-leaked-credentials-in-logs/)
 <!--END_SECTION:feed-->
 
 <!--
