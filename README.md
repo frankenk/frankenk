@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI and CISA warn of opportunistic Rhysida ransomware attacks](https://www.bleepingcomputer.com/news/security/fbi-and-cisa-warn-of-opportunistic-rhysida-ransomware-attacks/)
 * [PJ&A says cyberattack exposed data of nearly 9 million patients](https://www.bleepingcomputer.com/news/security/pj-and-a-says-cyberattack-exposed-data-of-nearly-9-million-patients/)
 * [Fraud researchers impersonated on X to push crypto-stealing sites](https://www.bleepingcomputer.com/news/security/fraud-researchers-impersonated-on-x-to-push-crypto-stealing-sites/)
 * [The OWASP Top 10: What They Are and How to Test Them](https://www.bleepingcomputer.com/news/security/the-owasp-top-10-what-they-are-and-how-to-test-them/)
 * [IPStorm botnet with 23,000 proxies for malicious traffic dismantled](https://www.bleepingcomputer.com/news/security/ipstorm-botnet-with-23-000-proxies-for-malicious-traffic-dismantled/)
-* [WP Fastest Cache plugin bug exposes 600K WordPress sites to attacks](https://www.bleepingcomputer.com/news/security/wp-fastest-cache-plugin-bug-exposes-600k-wordpress-sites-to-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
