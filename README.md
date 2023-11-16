@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fortinet warns of critical command injection bug in FortiSIEM](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-command-injection-bug-in-fortisiem/)
+* [How DDoS attacks are taking down even the largest tech companies](https://www.bleepingcomputer.com/news/security/how-ddos-attacks-are-taking-down-even-the-largest-tech-companies/)
 * [Ransomware gang files SEC complaint over victim’s undisclosed breach](https://www.bleepingcomputer.com/news/security/ransomware-gang-files-sec-complaint-over-victims-undisclosed-breach/)
-* [Samsung hit by new data breach impacting UK store customers](https://www.bleepingcomputer.com/news/security/samsung-hit-by-new-data-breach-impacting-uk-store-customers/)
+* [New Samsung data breach impacts UK store customers](https://www.bleepingcomputer.com/news/security/new-samsung-data-breach-impacts-uk-store-customers/)
 * [Microsoft fixes Windows Server VMs broken by October updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-vms-broken-by-october-updates/)
-* [Citrix Hypervisor gets hotfix for new Reptar Intel CPU flaw](https://www.bleepingcomputer.com/news/security/citrix-hypervisor-gets-hotfix-for-new-reptar-intel-cpu-flaw/)
-* [Toronto Public Library confirms data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/toronto-public-library-confirms-data-stolen-in-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
