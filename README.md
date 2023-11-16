@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI shares tactics of notorious Scattered Spider hacker collective](https://www.bleepingcomputer.com/news/security/fbi-shares-tactics-of-notorious-scattered-spider-hacker-collective/)
 * [MySQL servers targeted by 'Ddostf' DDoS-as-a-Service botnet](https://www.bleepingcomputer.com/news/security/mysql-servers-targeted-by-ddostf-ddos-as-a-service-botnet/)
 * [Toyota confirms breach after Medusa ransomware threatens to leak data](https://www.bleepingcomputer.com/news/security/toyota-confirms-breach-after-medusa-ransomware-threatens-to-leak-data/)
 * [Microsoft confirms Copilot AI assistant coming to Windows 10](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-copilot-ai-assistant-coming-to-windows-10/)
 * [Fortinet warns of critical command injection bug in FortiSIEM](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-command-injection-bug-in-fortisiem/)
-* [How DDoS attacks are taking down even the largest tech companies](https://www.bleepingcomputer.com/news/security/how-ddos-attacks-are-taking-down-even-the-largest-tech-companies/)
 <!--END_SECTION:feed-->
 
 <!--
