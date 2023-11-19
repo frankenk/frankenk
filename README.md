@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 to let admins control how optional updates are deployed](https://www.bleepingcomputer.com/news/microsoft/windows-10-to-let-admins-control-how-optional-updates-are-deployed/)
+* [FCC adopts new rules to protect consumers from SIM-swapping attacks](https://www.bleepingcomputer.com/news/security/fcc-adopts-new-rules-to-protect-consumers-from-sim-swapping-attacks/)
+* [Exploit for CrushFTP RCE chain released, patch now](https://www.bleepingcomputer.com/news/security/exploit-for-crushftp-rce-chain-released-patch-now/)
+* [Google shares plans for blocking third-party cookies in Chrome](https://www.bleepingcomputer.com/news/google/google-shares-plans-for-blocking-third-party-cookies-in-chrome/)
 * [The Week in Ransomware - November 17th 2023 - Citrix in the Crosshairs](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-november-17th-2023-citrix-in-the-crosshairs/)
-* [Bloomberg Crypto X account snafu leads to Discord phishing attack](https://www.bleepingcomputer.com/news/security/bloomberg-crypto-x-account-snafu-leads-to-discord-phishing-attack/)
-* [Yamaha Motor confirms ransomware attack on Philippines subsidiary](https://www.bleepingcomputer.com/news/security/yamaha-motor-confirms-ransomware-attack-on-philippines-subsidiary/)
-* [Google: Hackers exploited Zimbra zero-day in attacks on govt orgs](https://www.bleepingcomputer.com/news/security/google-hackers-exploited-zimbra-zero-day-in-attacks-on-govt-orgs/)
-* [CISA warns of actively exploited Windows, Sophos, and Oracle bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-windows-sophos-and-oracle-bugs/)
 <!--END_SECTION:feed-->
 
 <!--
