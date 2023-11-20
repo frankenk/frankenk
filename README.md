@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes ‘Something Went Wrong’ Office sign-in errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-something-went-wrong-office-sign-in-errors/)
 * [VX-Underground malware collective framed by Phobos ransomware](https://www.bleepingcomputer.com/news/security/vx-underground-malware-collective-framed-by-phobos-ransomware/)
 * [Cybersecurity firm executive pleads guilty to hacking hospitals](https://www.bleepingcomputer.com/news/security/cybersecurity-firm-executive-pleads-guilty-to-hacking-hospitals/)
 * [Canadian government discloses data breach after contractor hacks](https://www.bleepingcomputer.com/news/security/canadian-government-discloses-data-breach-after-contractor-hacks/)
 * [Kinsing malware exploits Apache ActiveMQ RCE to plant rootkits](https://www.bleepingcomputer.com/news/security/kinsing-malware-exploits-apache-activemq-rce-to-plant-rootkits/)
-* [Rhysida ransomware gang claims British Library cyberattack](https://www.bleepingcomputer.com/news/security/rhysida-ransomware-gang-claims-british-library-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
