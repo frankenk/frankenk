@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rhysida ransomware gang claims British Library cyberattack](https://www.bleepingcomputer.com/news/security/rhysida-ransomware-gang-claims-british-library-cyberattack/)
+* [How to boost Security with Self-Service Password Resets](https://www.bleepingcomputer.com/news/security/how-to-boost-security-with-self-service-password-resets/)
 * [Lumma Stealer malware now uses trigonometry to evade detection](https://www.bleepingcomputer.com/news/security/lumma-stealer-malware-now-uses-trigonometry-to-evade-detection/)
 * [Russian hackers use Ngrok feature and WinRAR exploit to attack embassies](https://www.bleepingcomputer.com/news/security/russian-hackers-use-ngrok-feature-and-winrar-exploit-to-attack-embassies/)
 * [Researchers extract RSA keys from SSH server signing errors](https://www.bleepingcomputer.com/news/security/researchers-extract-rsa-keys-from-ssh-server-signing-errors/)
-* [Windows 10 to let admins control how optional updates are deployed](https://www.bleepingcomputer.com/news/microsoft/windows-10-to-let-admins-control-how-optional-updates-are-deployed/)
-* [FCC adopts new rules to protect consumers from SIM-swapping attacks](https://www.bleepingcomputer.com/news/security/fcc-adopts-new-rules-to-protect-consumers-from-sim-swapping-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
