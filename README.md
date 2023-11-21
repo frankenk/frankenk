@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DarkGate and Pikabot malware emerge as Qakbot’s successors](https://www.bleepingcomputer.com/news/security/darkgate-and-pikabot-malware-emerge-as-qakbots-successors/)
+* [Criminal IP Becomes VirusTotal IP and URL Scan Contributor](https://www.bleepingcomputer.com/news/security/criminal-ip-becomes-virustotal-ip-and-url-scan-contributor/)
+* [Black Friday deal: Get 50% off Malwarebytes Premium + Privacy VPN](https://www.bleepingcomputer.com/news/security/black-friday-deal-get-50-percent-off-malwarebytes-premium-plus-privacy-vpn/)
 * [Tor Project removes relays because of for-profit, risky activity](https://www.bleepingcomputer.com/news/security/tor-project-removes-relays-because-of-for-profit-risky-activity/)
 * [Gamaredon's LittleDrifter USB malware spreads beyond Ukraine](https://www.bleepingcomputer.com/news/security/gamaredons-littledrifter-usb-malware-spreads-beyond-ukraine/)
-* [Microsoft fixes ‘Something Went Wrong’ Office sign-in errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-something-went-wrong-office-sign-in-errors/)
-* [VX-Underground malware collective framed by Phobos ransomware](https://www.bleepingcomputer.com/news/security/vx-underground-malware-collective-framed-by-phobos-ransomware/)
-* [Cybersecurity firm executive pleads guilty to hacking hospitals](https://www.bleepingcomputer.com/news/security/cybersecurity-firm-executive-pleads-guilty-to-hacking-hospitals/)
 <!--END_SECTION:feed-->
 
 <!--
