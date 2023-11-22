@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Lazarus hackers breach CyberLink in supply chain attack](https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-breach-cyberlink-in-supply-chain-attack/)
+* [New botnet malware exploits two zero-days to infect NVRs and routers](https://www.bleepingcomputer.com/news/security/new-botnet-malware-exploits-two-zero-days-to-infect-nvrs-and-routers/)
 * [The Black Friday 2023 Security, IT, VPN, & Antivirus Deals](https://www.bleepingcomputer.com/news/security/the-black-friday-2023-security-it-vpn-and-antivirus-deals/)
 * [Open-source Blender project battling DDoS attacks since Saturday](https://www.bleepingcomputer.com/news/security/open-source-blender-project-battling-ddos-attacks-since-saturday/)
 * [Microsoft now rolling out Copilot to Windows 10 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-rolling-out-copilot-to-windows-10-devices/)
-* [Hacktivists breach U.S. nuclear research lab, steal employee data](https://www.bleepingcomputer.com/news/security/hacktivists-breach-us-nuclear-research-lab-steal-employee-data/)
-* [Malware dev says they can revive expired Google auth cookies](https://www.bleepingcomputer.com/news/security/malware-dev-says-they-can-revive-expired-google-auth-cookies/)
 <!--END_SECTION:feed-->
 
 <!--
