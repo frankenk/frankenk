@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Black Friday 2023: Get 25% off the Zero2Automated malware analysis course ](https://www.bleepingcomputer.com/news/security/black-friday-2023-get-25-percent-off-the-zero2automated-malware-analysis-course/)
 * [Kansas courts confirm data theft, ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/kansas-courts-confirm-data-theft-ransom-demand-after-cyberattack/)
 * [Windows Hello auth bypassed on Microsoft, Dell, Lenovo laptops](https://www.bleepingcomputer.com/news/security/windows-hello-auth-bypassed-on-microsoft-dell-lenovo-laptops/)
 * [Welltok data breach exposes data of 8.5 million US patients](https://www.bleepingcomputer.com/news/security/welltok-data-breach-exposes-data-of-85-million-us-patients/)
 * [Microsoft: Lazarus hackers breach CyberLink in supply chain attack](https://www.bleepingcomputer.com/news/security/microsoft-lazarus-hackers-breach-cyberlink-in-supply-chain-attack/)
-* [New botnet malware exploits two zero-days to infect NVRs and routers](https://www.bleepingcomputer.com/news/security/new-botnet-malware-exploits-two-zero-days-to-infect-nvrs-and-routers/)
 <!--END_SECTION:feed-->
 
 <!--
