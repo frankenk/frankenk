@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Healthcare giant Henry Schein hit twice by BlackCat ransomware](https://www.bleepingcomputer.com/news/security/healthcare-giant-henry-schein-hit-twice-by-blackcat-ransomware/)
 * [Ukraine says it hacked Russian aviation agency, leaks data](https://www.bleepingcomputer.com/news/security/ukraine-says-it-hacked-russian-aviation-agency-leaks-data/)
 * [Ardent hospital ERs disrupted in 6 states after ransomware attack](https://www.bleepingcomputer.com/news/security/ardent-hospital-ers-disrupted-in-6-states-after-ransomware-attack/)
 * [Slovenia's largest power provider HSE hit by ransomware attack](https://www.bleepingcomputer.com/news/security/slovenias-largest-power-provider-hse-hit-by-ransomware-attack/)
 * [Leveraging Wazuh to combat insider threats](https://www.bleepingcomputer.com/news/security/leveraging-wazuh-to-combat-insider-threats/)
-* [Google Drive users angry over losing months of stored data](https://www.bleepingcomputer.com/news/google/google-drive-users-angry-over-losing-months-of-stored-data/)
 <!--END_SECTION:feed-->
 
 <!--
