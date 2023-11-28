@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers start exploiting critical ownCloud flaw, patch now](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-owncloud-flaw-patch-now/)
 * [Police dismantle ransomware group behind attacks in 71 countries](https://www.bleepingcomputer.com/news/security/police-dismantle-ransomware-group-behind-attacks-in-71-countries/)
 * [Microsoft deprecates Defender Application Guard for Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-defender-application-guard-for-office/)
 * [Ransomware attack on indie game maker wiped all player accounts](https://www.bleepingcomputer.com/news/security/ransomware-attack-on-indie-game-maker-wiped-all-player-accounts/)
 * [Healthcare giant Henry Schein hit twice by BlackCat ransomware](https://www.bleepingcomputer.com/news/security/healthcare-giant-henry-schein-hit-twice-by-blackcat-ransomware/)
-* [Ukraine says it hacked Russian aviation agency, leaks data](https://www.bleepingcomputer.com/news/security/ukraine-says-it-hacked-russian-aviation-agency-leaks-data/)
 <!--END_SECTION:feed-->
 
 <!--
