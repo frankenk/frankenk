@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Qilin ransomware claims attack on automotive giant Yanfeng](https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-attack-on-automotive-giant-yanfeng/)
 * [Microsoft shares temp fix for Outlook crashes when sending emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-crashes-when-sending-emails/)
 * [DP World confirms data stolen in cyberattack, no ransomware used](https://www.bleepingcomputer.com/news/security/dp-world-confirms-data-stolen-in-cyberattack-no-ransomware-used/)
 * [Hackers start exploiting critical ownCloud flaw, patch now](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-owncloud-flaw-patch-now/)
 * [Police dismantle ransomware group behind attacks in 71 countries](https://www.bleepingcomputer.com/news/security/police-dismantle-ransomware-group-behind-attacks-in-71-countries/)
-* [Microsoft deprecates Defender Application Guard for Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-defender-application-guard-for-office/)
 <!--END_SECTION:feed-->
 
 <!--
