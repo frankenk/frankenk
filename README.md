@@ -3,6 +3,8 @@
 <!--START_SECTION:feed-->
 * [SIM swapper gets 8 years in prison for account hacks, crypto theft](https://www.bleepingcomputer.com/news/security/sim-swapper-gets-8-years-in-prison-for-account-hacks-crypto-theft/)
 * [Microsoft starts testing new Windows 11 Energy Saver feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-new-windows-11-energy-saver-feature/)
+* [Black Basta ransomware made over * [SIM swapper gets 8 years in prison for account hacks, crypto theft](https://www.bleepingcomputer.com/news/security/sim-swapper-gets-8-years-in-prison-for-account-hacks-crypto-theft/)
+* [Microsoft starts testing new Windows 11 Energy Saver feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-new-windows-11-energy-saver-feature/)
 * [Black Basta ransomware made over * [Black Basta ransomware made over * [Hackers breach US water facility via exposed Unitronics PLCs](https://www.bleepingcomputer.com/news/security/hackers-breach-us-water-facility-via-exposed-unitronics-plcs/)
 * [Japanese Space Agency JAXA hacked in summer cyberattack](https://www.bleepingcomputer.com/news/security/japanese-space-agency-jaxa-hacked-in-summer-cyberattack/)
 * [US seizes Sinbad crypto mixer used by North Korean Lazarus hackers](https://www.bleepingcomputer.com/news/security/us-seizes-sinbad-crypto-mixer-used-by-north-korean-lazarus-hackers/)
@@ -12,6 +14,8 @@
 * [Japanese Space Agency JAXA hacked in summer cyberattack](https://www.bleepingcomputer.com/news/security/japanese-space-agency-jaxa-hacked-in-summer-cyberattack/)
 * [US seizes Sinbad crypto mixer used by North Korean Lazarus hackers](https://www.bleepingcomputer.com/news/security/us-seizes-sinbad-crypto-mixer-used-by-north-korean-lazarus-hackers/)
 * [How Continuous Pen Testing Protects Web Apps from Emerging Threats](https://www.bleepingcomputer.com/news/security/how-continuous-pen-testing-protects-web-apps-from-emerging-threats/)00 million from extortion](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-made-over-100-million-from-extortion/)
+* [Hackers breach US water facility via exposed Unitronics PLCs](https://www.bleepingcomputer.com/news/security/hackers-breach-us-water-facility-via-exposed-unitronics-plcs/)
+* [Japanese Space Agency JAXA hacked in summer cyberattack](https://www.bleepingcomputer.com/news/security/japanese-space-agency-jaxa-hacked-in-summer-cyberattack/)00 million from extortion](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-made-over-100-million-from-extortion/)
 * [Hackers breach US water facility via exposed Unitronics PLCs](https://www.bleepingcomputer.com/news/security/hackers-breach-us-water-facility-via-exposed-unitronics-plcs/)
 * [Japanese Space Agency JAXA hacked in summer cyberattack](https://www.bleepingcomputer.com/news/security/japanese-space-agency-jaxa-hacked-in-summer-cyberattack/)
 <!--END_SECTION:feed-->
