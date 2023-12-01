@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 1st 2023 - Police hits affiliates](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-1st-2023-police-hits-affiliates/)
 * [TrickBot malware dev pleads guilty, faces 35 years in prison](https://www.bleepingcomputer.com/news/security/trickbot-malware-dev-pleads-guilty-faces-35-years-in-prison/)
 * [Hackers use new Agent Raccoon malware to backdoor US targets](https://www.bleepingcomputer.com/news/security/hackers-use-new-agent-raccoon-malware-to-backdoor-us-targets/)
 * [French government recommends against using foreign chat apps](https://www.bleepingcomputer.com/news/security/french-government-recommends-against-using-foreign-chat-apps/)
 * [VMware fixes critical Cloud Director auth bypass unpatched for 2 weeks](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-director-auth-bypass-unpatched-for-2-weeks/)
-* [Windows 10 KB5032278 update adds Copilot AI assistant, fixes 13 bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5032278-update-adds-copilot-ai-assistant-fixes-13-bugs/)
 <!--END_SECTION:feed-->
 
 <!--
