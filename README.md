@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [LogoFAIL bugs in UEFI code allow planting bootkits via images](https://www.bleepingcomputer.com/news/security/logofail-bugs-in-uefi-code-allow-planting-bootkits-via-images/)
+* [VMware fixes critical Cloud Director auth bypass unpatched for 2 weeks](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-cloud-director-auth-bypass-unpatched-for-2-weeks/)
+* [Windows 10 KB5032278 update adds Copilot AI assistant, fixes 13 bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5032278-update-adds-copilot-ai-assistant-fixes-13-bugs/)
+* [LogoFAIL attack can install UEFI bootkits through bootup logos](https://www.bleepingcomputer.com/news/security/logofail-attack-can-install-uefi-bootkits-through-bootup-logos/)
 * [US govt sanctions North Korea’s Kimsuky hacking group](https://www.bleepingcomputer.com/news/security/us-govt-sanctions-north-koreas-kimsuky-hacking-group/)
 * [WhatsApp's new Secret Code feature hides your locked chats](https://www.bleepingcomputer.com/news/security/whatsapps-new-secret-code-feature-hides-your-locked-chats/)
-* [Get 20% off Emsisoft's Enterprise Security EDR solution for the holidays](https://www.bleepingcomputer.com/news/security/get-20-percent-off-emsisofts-enterprise-security-edr-solution-for-the-holidays/)
-* [Apple fixes two new iOS zero-days in emergency updates](https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-in-emergency-updates/)
 <!--END_SECTION:feed-->
 
 <!--
