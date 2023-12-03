@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Linux version of Qilin ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-qilin-ransomware-focuses-on-vmware-esxi/)
+* [North Korea's state hackers stole $3 billion in crypto since 2017](https://www.bleepingcomputer.com/news/security/north-koreas-state-hackers-stole-3-billion-in-crypto-since-2017/)
+* [Google is phasing out ad personalization for some AdSense products](https://www.bleepingcomputer.com/news/google/google-is-phasing-out-ad-personalization-for-some-adsense-products/)
+* [New proxy malware targets Mac users through pirated software](https://www.bleepingcomputer.com/news/security/new-proxy-malware-targets-mac-users-through-pirated-software/)
 * [Over 20,000 vulnerable Microsoft Exchange servers exposed to attacks](https://www.bleepingcomputer.com/news/security/over-20-000-vulnerable-microsoft-exchange-servers-exposed-to-attacks/)
-* [Google Chrome's new cache change could boost performance](https://www.bleepingcomputer.com/news/google/google-chromes-new-cache-change-could-boost-performance/)
-* [US Health Dept urges hospitals to patch critical Citrix Bleed bug](https://www.bleepingcomputer.com/news/security/us-health-dept-urges-hospitals-to-patch-critical-citrix-bleed-bug/)
-* [The Week in Ransomware - December 1st 2023 - Police hits affiliates](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-1st-2023-police-hits-affiliates/)
-* [TrickBot malware dev pleads guilty, faces 35 years in prison](https://www.bleepingcomputer.com/news/security/trickbot-malware-dev-pleads-guilty-faces-35-years-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
