@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [December Android updates fix critical zero-click RCE flaw](https://www.bleepingcomputer.com/news/security/december-android-updates-fix-critical-zero-click-rce-flaw/)
+* [Tipalti investigates claims of data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-by-ransomware-gang/)
 * [Fake WordPress security advisory pushes backdoor plugin](https://www.bleepingcomputer.com/news/security/fake-wordpress-security-advisory-pushes-backdoor-plugin/)
 * [New AeroBlade hackers target aerospace sector in the U.S.](https://www.bleepingcomputer.com/news/security/new-aeroblade-hackers-target-aerospace-sector-in-the-us/)
 * [Linux version of Qilin ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-qilin-ransomware-focuses-on-vmware-esxi/)
-* [North Korea's state hackers stole $3 billion in crypto since 2017](https://www.bleepingcomputer.com/news/security/north-koreas-state-hackers-stole-3-billion-in-crypto-since-2017/)
-* [Google is phasing out ad personalization for some AdSense products](https://www.bleepingcomputer.com/news/google/google-is-phasing-out-ad-personalization-for-some-adsense-products/)
 <!--END_SECTION:feed-->
 
 <!--
