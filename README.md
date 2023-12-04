@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New AeroBlade hackers target aerospace sector in the U.S.](https://www.bleepingcomputer.com/news/security/new-aeroblade-hackers-target-aerospace-sector-in-the-us/)
 * [Linux version of Qilin ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-qilin-ransomware-focuses-on-vmware-esxi/)
 * [North Korea's state hackers stole $3 billion in crypto since 2017](https://www.bleepingcomputer.com/news/security/north-koreas-state-hackers-stole-3-billion-in-crypto-since-2017/)
 * [Google is phasing out ad personalization for some AdSense products](https://www.bleepingcomputer.com/news/google/google-is-phasing-out-ad-personalization-for-some-adsense-products/)
 * [New proxy malware targets Mac users through pirated software](https://www.bleepingcomputer.com/news/security/new-proxy-malware-targets-mac-users-through-pirated-software/)
-* [Over 20,000 vulnerable Microsoft Exchange servers exposed to attacks](https://www.bleepingcomputer.com/news/security/over-20-000-vulnerable-microsoft-exchange-servers-exposed-to-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
