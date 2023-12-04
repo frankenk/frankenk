@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5032288 update improves Copilot, fixes 11 bugs](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5032288-update-improves-copilot-fixes-11-bugs/)
 * [Microsoft fixes Outlook Desktop crashes when sending emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-desktop-crashes-when-sending-emails/)
 * [Stealthier version of P2Pinfect malware targets MIPS devices](https://www.bleepingcomputer.com/news/security/stealthier-version-of-p2pinfect-malware-targets-mips-devices/)
 * [Russian hackers exploiting Outlook bug to hijack Exchange accounts](https://www.bleepingcomputer.com/news/microsoft/russian-hackers-exploiting-outlook-bug-to-hijack-exchange-accounts/)
 * [December Android updates fix critical zero-click RCE flaw](https://www.bleepingcomputer.com/news/security/december-android-updates-fix-critical-zero-click-rce-flaw/)
-* [Tipalti investigates claims of data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-in-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
