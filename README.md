@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Outlook Desktop crashes when sending emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-desktop-crashes-when-sending-emails/)
+* [Stealthier version of P2Pinfect malware targets MIPS devices](https://www.bleepingcomputer.com/news/security/stealthier-version-of-p2pinfect-malware-targets-mips-devices/)
 * [Russian hackers exploiting Outlook bug to hijack Exchange accounts](https://www.bleepingcomputer.com/news/microsoft/russian-hackers-exploiting-outlook-bug-to-hijack-exchange-accounts/)
 * [December Android updates fix critical zero-click RCE flaw](https://www.bleepingcomputer.com/news/security/december-android-updates-fix-critical-zero-click-rce-flaw/)
-* [Tipalti investigates claims of data stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-by-ransomware-gang/)
-* [Fake WordPress security advisory pushes backdoor plugin](https://www.bleepingcomputer.com/news/security/fake-wordpress-security-advisory-pushes-backdoor-plugin/)
-* [New AeroBlade hackers target aerospace sector in the U.S.](https://www.bleepingcomputer.com/news/security/new-aeroblade-hackers-target-aerospace-sector-in-the-us/)
+* [Tipalti investigates claims of data stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/tipalti-investigates-claims-of-data-stolen-in-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
