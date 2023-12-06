@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Atlassian patches critical RCE flaws across multiple products](https://www.bleepingcomputer.com/news/security/atlassian-patches-critical-rce-flaws-across-multiple-products/)
+* [Varonis Introduces Athena AI to Transform Data Security and Incident Response](https://www.bleepingcomputer.com/news/security/varonis-introduces-athena-ai-to-transform-data-security-and-incident-response/)
 * [Nissan is investigating cyberattack and potential data breach](https://www.bleepingcomputer.com/news/security/nissan-is-investigating-cyberattack-and-potential-data-breach/)
 * ["Sierra:21" vulnerabilities impact critical infrastructure routers](https://www.bleepingcomputer.com/news/security/sierra-21-vulnerabilities-impact-critical-infrastructure-routers/)
 * [HTC Global Services confirms cyberattack after data leaked online](https://www.bleepingcomputer.com/news/security/htc-global-services-confirms-cyberattack-after-data-leaked-online/)
-* [Multiple NFT collections at risk by flaw in open-source library](https://www.bleepingcomputer.com/news/security/multiple-nft-collections-at-risk-by-flaw-in-open-source-library/)
-* [Kali Linux 2023.4 released with GNOME 45 and 15 new tools](https://www.bleepingcomputer.com/news/security/kali-linux-20234-released-with-gnome-45-and-15-new-tools/)
 <!--END_SECTION:feed-->
 
 <!--
