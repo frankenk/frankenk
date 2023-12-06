@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Navy contractor Austal USA confirms cyberattack after data leak](https://www.bleepingcomputer.com/news/security/navy-contractor-austal-usa-confirms-cyberattack-after-data-leak/)
 * [Atlassian patches critical RCE flaws across multiple products](https://www.bleepingcomputer.com/news/security/atlassian-patches-critical-rce-flaws-across-multiple-products/)
 * [Varonis Introduces Athena AI to Transform Data Security and Incident Response](https://www.bleepingcomputer.com/news/security/varonis-introduces-athena-ai-to-transform-data-security-and-incident-response/)
 * [Nissan is investigating cyberattack and potential data breach](https://www.bleepingcomputer.com/news/security/nissan-is-investigating-cyberattack-and-potential-data-breach/)
 * ["Sierra:21" vulnerabilities impact critical infrastructure routers](https://www.bleepingcomputer.com/news/security/sierra-21-vulnerabilities-impact-critical-infrastructure-routers/)
-* [HTC Global Services confirms cyberattack after data leaked online](https://www.bleepingcomputer.com/news/security/htc-global-services-confirms-cyberattack-after-data-leaked-online/)
 <!--END_SECTION:feed-->
 
 <!--
