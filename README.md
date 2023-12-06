@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HTC Global Services confirms cyberattack after data leaked online](https://www.bleepingcomputer.com/news/security/htc-global-services-confirms-cyberattack-after-data-leaked-online/)
+* [Multiple NFT collections at risk by flaw in open-source library](https://www.bleepingcomputer.com/news/security/multiple-nft-collections-at-risk-by-flaw-in-open-source-library/)
 * [Kali Linux 2023.4 released with GNOME 45 and 15 new tools](https://www.bleepingcomputer.com/news/security/kali-linux-20234-released-with-gnome-45-and-15-new-tools/)
 * [Microsoft to let Windows 10 home users buy Extended Security Updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-let-windows-10-home-users-buy-extended-security-updates/)
 * [Hackers breach US govt agencies using Adobe ColdFusion exploit](https://www.bleepingcomputer.com/news/security/hackers-breach-us-govt-agencies-using-adobe-coldfusion-exploit/)
-* [Holiday Hackers: How to Safeguard Your Service Desk ](https://www.bleepingcomputer.com/news/security/holiday-hackers-how-to-safeguard-your-service-desk/)
-* [SpyLoan Android malware on Google Play downloaded 12 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-downloaded-12-million-times/)
 <!--END_SECTION:feed-->
 
 <!--
