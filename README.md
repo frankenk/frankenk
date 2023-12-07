@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK and allies expose Russian FSB hacking group, sanction members](https://www.bleepingcomputer.com/news/security/uk-and-allies-expose-russian-fsb-hacking-group-sanction-members/)
 * [Meta rolls out default end-to-end encryption on Messenger, Facebook](https://www.bleepingcomputer.com/news/security/meta-rolls-out-default-end-to-end-encryption-on-messenger-facebook/)
 * [Krasue RAT malware hides on Linux servers using embedded rootkits](https://www.bleepingcomputer.com/news/security/krasue-rat-malware-hides-on-linux-servers-using-embedded-rootkits/)
 * [New SLAM attack steals sensitive data from AMD, future Intel CPUs](https://www.bleepingcomputer.com/news/security/new-slam-attack-steals-sensitive-data-from-amd-future-intel-cpus/)
 * [US senator: Govts spy on Apple, Google users via mobile notifications](https://www.bleepingcomputer.com/news/security/us-senator-govts-spy-on-apple-google-users-via-mobile-notifications/)
-* [Navy contractor Austal USA confirms cyberattack after data leak](https://www.bleepingcomputer.com/news/security/navy-contractor-austal-usa-confirms-cyberattack-after-data-leak/)
 <!--END_SECTION:feed-->
 
 <!--
