@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 Notepad gets a built-in character counter, finally](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-gets-a-built-in-character-counter-finally/)
+* [WordPress fixes POP chain exposing websites to RCE attacks](https://www.bleepingcomputer.com/news/security/wordpress-fixes-pop-chain-exposing-websites-to-rce-attacks/)
 * [Russian pleads guilty to running crypto-exchange used by ransomware gangs](https://www.bleepingcomputer.com/news/security/russian-pleads-guilty-to-running-crypto-exchange-used-by-ransomware-gangs/)
 * [UK and allies expose Russian FSB hacking group, sanction members](https://www.bleepingcomputer.com/news/security/uk-and-allies-expose-russian-fsb-hacking-group-sanction-members/)
 * [Meta rolls out default end-to-end encryption on Messenger, Facebook](https://www.bleepingcomputer.com/news/security/meta-rolls-out-default-end-to-end-encryption-on-messenger-facebook/)
-* [Krasue RAT malware hides on Linux servers using embedded rootkits](https://www.bleepingcomputer.com/news/security/krasue-rat-malware-hides-on-linux-servers-using-embedded-rootkits/)
-* [New SLAM attack steals sensitive data from AMD, future Intel CPUs](https://www.bleepingcomputer.com/news/security/new-slam-attack-steals-sensitive-data-from-amd-future-intel-cpus/)
 <!--END_SECTION:feed-->
 
 <!--
