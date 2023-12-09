@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Norton Healthcare discloses data breach after May ransomware attack](https://www.bleepingcomputer.com/news/security/norton-healthcare-discloses-data-breach-after-may-ransomware-attack/)
 * [Google shares “fix” for deleted Google Drive files](https://www.bleepingcomputer.com/news/google/google-shares-fix-for-deleted-google-drive-files/)
 * [Microsoft: Outlook email sending issues for users with lots of folders](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-email-sending-issues-for-users-with-lots-of-folders/)
 * [ALPHV ransomware site outage rumored to be caused by law enforcement](https://www.bleepingcomputer.com/news/security/alphv-ransomware-site-outage-rumored-to-be-caused-by-law-enforcement/)
 * [Privilege elevation exploits used in over 50% of insider attacks](https://www.bleepingcomputer.com/news/security/privilege-elevation-exploits-used-in-over-50-percent-of-insider-attacks/)
-* [Amazon sues REKK fraud gang that stole millions in illicit refunds](https://www.bleepingcomputer.com/news/security/amazon-sues-rekk-fraud-gang-that-stole-millions-in-illicit-refunds/)
 <!--END_SECTION:feed-->
 
 <!--
