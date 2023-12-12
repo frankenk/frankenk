@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Avira antivirus causes Windows computers to freeze after boot](https://www.bleepingcomputer.com/news/technology/avira-antivirus-causes-windows-computers-to-freeze-after-boot/)
 * [Microsoft December 2023 Patch Tuesday fixes 34 flaws, 1 zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2023-patch-tuesday-fixes-34-flaws-1-zero-day/)
 * [Windows 11 KB5033375 update released with upgraded Copilot AI-assistant](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5033375-update-released-with-upgraded-copilot-ai-assistant/)
 * [Windows 10 KB5033372 update released with Copilot for everyone, 20 changes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5033372-update-released-with-copilot-for-everyone-20-changes/)
 * [Sophos backports RCE fix after attacks on unsupported firewalls](https://www.bleepingcomputer.com/news/security/sophos-backports-rce-fix-after-attacks-on-unsupported-firewalls/)
-* [Ukraine's largest mobile carrier Kyivstar down following cyberattack](https://www.bleepingcomputer.com/news/security/ukraines-largest-mobile-carrier-kyivstar-down-following-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
