@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloud engineer gets 2 years for wiping ex-employer’s code repos](https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/)
+* [Over 1,450 pfSense servers exposed to RCE attacks via bug chain](https://www.bleepingcomputer.com/news/security/over-1-450-pfsense-servers-exposed-to-rce-attacks-via-bug-chain/)
 * [50K WordPress sites exposed to RCE attacks by critical bug in backup plugin](https://www.bleepingcomputer.com/news/security/50k-wordpress-sites-exposed-to-rce-attacks-by-critical-bug-in-backup-plugin/)
 * [Lazarus hackers drop new RAT malware using 2-year-old Log4j bug](https://www.bleepingcomputer.com/news/security/lazarus-hackers-drop-new-rat-malware-using-2-year-old-log4j-bug/)
 * [Counter-Strike 2 HTML injection bug exposes players’ IP addresses](https://www.bleepingcomputer.com/news/security/counter-strike-2-html-injection-bug-exposes-players-ip-addresses/)
-* [Apple emergency updates fix recent zero-days on older iPhones](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-recent-zero-days-on-older-iphones/)
-* [Cold storage giant Americold discloses data breach after April malware attack](https://www.bleepingcomputer.com/news/security/cold-storage-giant-americold-discloses-data-breach-after-april-malware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
