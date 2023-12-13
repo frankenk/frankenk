@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LockBit ransomware now poaching BlackCat, NoEscape affiliates](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-poaching-blackcat-noescape-affiliates/)
 * [CISA: Russian hackers target TeamCity servers since September](https://www.bleepingcomputer.com/news/security/cisa-russian-hackers-target-teamcity-servers-since-september/)
 * [Hackers are exploiting critical Apache Struts flaw using public PoC](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-apache-struts-flaw-using-public-poc/)
 * [New cybercrime market 'OLVX' gains popularity among hackers](https://www.bleepingcomputer.com/news/security/new-cybercrime-market-olvx-gains-popularity-among-hackers/)
 * [Microsoft: OAuth apps used to automate BEC and cryptomining attacks](https://www.bleepingcomputer.com/news/security/microsoft-oauth-apps-used-to-automate-bec-and-cryptomining-attacks/)
-* [Ukrainian military says it hacked Russia's federal tax agency](https://www.bleepingcomputer.com/news/security/ukrainian-military-says-it-hacked-russias-federal-tax-agency/)
 <!--END_SECTION:feed-->
 
 <!--
