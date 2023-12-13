@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Stealthy KV-botnet hijacks SOHO routers and VPN devices](https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/)
 * [BazarCall attacks abuse Google Forms to legitimize phishing emails](https://www.bleepingcomputer.com/news/security/bazarcall-attacks-abuse-google-forms-to-legitimize-phishing-emails/)
 * [French police arrests Russian suspect linked to Hive ransomware](https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/)
 * [LockBit ransomware now poaching BlackCat, NoEscape affiliates](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-poaching-blackcat-noescape-affiliates/)
 * [CISA: Russian hackers target TeamCity servers since September](https://www.bleepingcomputer.com/news/security/cisa-russian-hackers-target-teamcity-servers-since-september/)
-* [Hackers are exploiting critical Apache Struts flaw using public PoC](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-apache-struts-flaw-using-public-poc/)
 <!--END_SECTION:feed-->
 
 <!--
