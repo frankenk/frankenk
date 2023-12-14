@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ledger dApp supply chain attack steals $600K from crypto wallets](https://www.bleepingcomputer.com/news/security/ledger-dapp-supply-chain-attack-steals-600k-from-crypto-wallets/)
+* [Protect your Active Directory from these Password-based Vulnerabilities ](https://www.bleepingcomputer.com/news/security/protect-your-active-directory-from-these-password-based-vulnerabilities/)
 * [Microsoft seizes domains used to sell fraudulent Outlook accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-seizes-domains-used-to-sell-fraudulent-outlook-accounts/)
 * [Stealthy KV-botnet hijacks SOHO routers and VPN devices](https://www.bleepingcomputer.com/news/security/stealthy-kv-botnet-hijacks-soho-routers-and-vpn-devices/)
 * [BazarCall attacks abuse Google Forms to legitimize phishing emails](https://www.bleepingcomputer.com/news/security/bazarcall-attacks-abuse-google-forms-to-legitimize-phishing-emails/)
-* [French police arrests Russian suspect linked to Hive ransomware](https://www.bleepingcomputer.com/news/security/french-police-arrests-russian-suspect-linked-to-hive-ransomware/)
-* [LockBit ransomware now poaching BlackCat, NoEscape affiliates](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-now-poaching-blackcat-noescape-affiliates/)
 <!--END_SECTION:feed-->
 
 <!--
