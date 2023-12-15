@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gang behind threats to Fred Hutch cancer patients](https://www.bleepingcomputer.com/news/security/ransomware-gang-behind-threats-to-fred-hutch-cancer-patients/)
 * [Box cloud storage down amid 'critical' outage](https://www.bleepingcomputer.com/news/technology/box-cloud-storage-down-amid-critical-outage/)
 * [Delta Dental says data breach exposed info of 7 million people](https://www.bleepingcomputer.com/news/security/delta-dental-says-data-breach-exposed-info-of-7-million-people/)
 * [Kraft Heinz investigates hack claims, says systems ‘operating normally’](https://www.bleepingcomputer.com/news/security/kraft-heinz-investigates-hack-claims-says-systems-operating-normally/)
 * [New NKAbuse malware abuses NKN blockchain for stealthy comms](https://www.bleepingcomputer.com/news/security/new-nkabuse-malware-abuses-nkn-blockchain-for-stealthy-comms/)
-* [Ubiquiti users report having access to others’ UniFi routers, cameras](https://www.bleepingcomputer.com/news/security/ubiquiti-users-report-having-access-to-others-unifi-routers-cameras/)
 <!--END_SECTION:feed-->
 
 <!--
