@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 15th 2023 - Ransomware Drama](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-15th-2023-ransomware-drama/)
 * [Ex-Amazon engineer pleads guilty to hacking crypto exchanges](https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges/)
 * [CISA urges tech manufacturers to stop using default passwords](https://www.bleepingcomputer.com/news/security/cisa-urges-tech-manufacturers-to-stop-using-default-passwords/)
 * [3CX warns customers to disable SQL database integrations](https://www.bleepingcomputer.com/news/security/3cx-warns-customers-to-disable-sql-database-integrations/)
 * [Ransomware gang behind threats to Fred Hutch cancer patients](https://www.bleepingcomputer.com/news/security/ransomware-gang-behind-threats-to-fred-hutch-cancer-patients/)
-* [Box cloud storage down amid 'critical' outage](https://www.bleepingcomputer.com/news/technology/box-cloud-storage-down-amid-critical-outage/)
 <!--END_SECTION:feed-->
 
 <!--
