@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Rhadamanthys Stealer malware evolves with more powerful features](https://www.bleepingcomputer.com/news/security/rhadamanthys-stealer-malware-evolves-with-more-powerful-features/)
+* [What to do when receiving unprompted MFA OTP codes](https://www.bleepingcomputer.com/news/security/what-to-do-when-receiving-unprompted-mfa-otp-codes/)
+* [Qbot malware returns in campaign targeting hospitality industry](https://www.bleepingcomputer.com/news/security/qbot-malware-returns-in-campaign-targeting-hospitality-industry/)
 * [MongoDB says customer data was exposed in a cyberattack](https://www.bleepingcomputer.com/news/security/mongodb-says-customer-data-was-exposed-in-a-cyberattack/)
 * [QNAP VioStor NVR vulnerability actively exploited by malware botnet](https://www.bleepingcomputer.com/news/security/qnap-viostor-nvr-vulnerability-actively-exploited-by-malware-botnet/)
-* [Microsoft unveils new, more secure Windows Protected Print Mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-unveils-new-more-secure-windows-protected-print-mode/)
-* [The Week in Ransomware - December 15th 2023 - Ransomware Drama](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-15th-2023-ransomware-drama/)
-* [Ex-Amazon engineer pleads guilty to hacking crypto exchanges](https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-pleads-guilty-to-hacking-crypto-exchanges/)
 <!--END_SECTION:feed-->
 
 <!--
