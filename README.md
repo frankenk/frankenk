@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Former IT manager pleads guilty to attacking high school network](https://www.bleepingcomputer.com/news/security/former-it-manager-pleads-guilty-to-attacking-high-school-network/)
 * [Mortgage giant Mr. Cooper data breach affects 14.7 million people](https://www.bleepingcomputer.com/news/security/mortgage-giant-mr-cooper-data-breach-affects-147-million-people/)
 * [WordPress hosting service Kinsta targeted by Google phishing ads](https://www.bleepingcomputer.com/news/security/wordpress-hosting-service-kinsta-targeted-by-google-phishing-ads/)
 * [Rhadamanthys Stealer malware evolves with more powerful features](https://www.bleepingcomputer.com/news/security/rhadamanthys-stealer-malware-evolves-with-more-powerful-features/)
 * [What to do when receiving unprompted MFA OTP codes](https://www.bleepingcomputer.com/news/security/what-to-do-when-receiving-unprompted-mfa-otp-codes/)
-* [Qbot malware returns in campaign targeting hospitality industry](https://www.bleepingcomputer.com/news/security/qbot-malware-returns-in-campaign-targeting-hospitality-industry/)
 <!--END_SECTION:feed-->
 
 <!--
