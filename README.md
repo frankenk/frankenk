@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: ALPHV ransomware raked in $300 million from over 1,000 victims](https://www.bleepingcomputer.com/news/security/fbi-alphv-ransomware-raked-in-300-million-from-over-1-000-victims/)
+* [Interpol operation arrests 3,500 cybercriminals, seizes $300 million](https://www.bleepingcomputer.com/news/security/interpol-operation-arrests-3-500-cybercriminals-seizes-300-million/)
 * [Microsoft confirms Windows 11 Wi-Fi issues, asks for user feedback](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-11-wi-fi-issues-asks-for-user-feedback/)
 * [How the FBI seized BlackCat (ALPHV) ransomware’s servers](https://www.bleepingcomputer.com/news/security/how-the-fbi-seized-blackcat-alphv-ransomwares-servers/)
 * [Terrapin attacks can downgrade security of OpenSSH connections](https://www.bleepingcomputer.com/news/security/terrapin-attacks-can-downgrade-security-of-openssh-connections/)
-* [FBI disrupts Blackcat ransomware operation, creates decryption tool](https://www.bleepingcomputer.com/news/security/fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool/)
-* [Xfinity discloses data breach affecting over 35 million people](https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
