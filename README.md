@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft confirms Windows 11 Wi-Fi issues, asks for user feedback](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-11-wi-fi-issues-asks-for-user-feedback/)
 * [How the FBI seized BlackCat (ALPHV) ransomware’s servers](https://www.bleepingcomputer.com/news/security/how-the-fbi-seized-blackcat-alphv-ransomwares-servers/)
 * [Terrapin attacks can downgrade security of OpenSSH connections](https://www.bleepingcomputer.com/news/security/terrapin-attacks-can-downgrade-security-of-openssh-connections/)
 * [FBI disrupts Blackcat ransomware operation, creates decryption tool](https://www.bleepingcomputer.com/news/security/fbi-disrupts-blackcat-ransomware-operation-creates-decryption-tool/)
 * [Xfinity discloses data breach affecting over 35 million people](https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-affecting-over-35-million-people/)
-* [December's Windows 11 KB5033375 update breaks Wi-Fi connectivity](https://www.bleepingcomputer.com/news/microsoft/decembers-windows-11-kb5033375-update-breaks-wi-fi-connectivity/)
 <!--END_SECTION:feed-->
 
 <!--
