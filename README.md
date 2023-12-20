@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Wi-Fi issues triggered by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wi-fi-issues-triggered-by-recent-windows-updates/)
+* [Healthcare software provider data breach impacts 2.7 million](https://www.bleepingcomputer.com/news/security/healthcare-software-provider-data-breach-impacts-27-million/)
+* [The password attacks of 2023: Lessons learned and next steps](https://www.bleepingcomputer.com/news/security/the-password-attacks-of-2023-lessons-learned-and-next-steps/)
 * [German police takes down Kingdom Market cybercrime marketplace](https://www.bleepingcomputer.com/news/security/german-police-takes-down-kingdom-market-cybercrime-marketplace/)
 * [New Web injections campaign steals banking data from 50,000 people](https://www.bleepingcomputer.com/news/security/new-web-injections-campaign-steals-banking-data-from-50-000-people/)
-* [FBI: ALPHV ransomware raked in $300 million from over 1,000 victims](https://www.bleepingcomputer.com/news/security/fbi-alphv-ransomware-raked-in-300-million-from-over-1-000-victims/)
-* [Interpol operation arrests 3,500 cybercriminals, seizes $300 million](https://www.bleepingcomputer.com/news/security/interpol-operation-arrests-3-500-cybercriminals-seizes-300-million/)
-* [Microsoft confirms Windows 11 Wi-Fi issues, asks for user feedback](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-11-wi-fi-issues-asks-for-user-feedback/)
 <!--END_SECTION:feed-->
 
 <!--
