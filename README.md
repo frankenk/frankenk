@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ivanti releases patches for 13 critical Avalanche RCE flaws](https://www.bleepingcomputer.com/news/security/ivanti-releases-patches-for-13-critical-avalanche-rce-flaws/)
 * [Microsoft fixes Wi-Fi issues triggered by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wi-fi-issues-triggered-by-recent-windows-updates/)
 * [Healthcare software provider data breach impacts 2.7 million](https://www.bleepingcomputer.com/news/security/healthcare-software-provider-data-breach-impacts-27-million/)
 * [The password attacks of 2023: Lessons learned and next steps](https://www.bleepingcomputer.com/news/security/the-password-attacks-of-2023-lessons-learned-and-next-steps/)
 * [German police takes down Kingdom Market cybercrime marketplace](https://www.bleepingcomputer.com/news/security/german-police-takes-down-kingdom-market-cybercrime-marketplace/)
-* [New Web injections campaign steals banking data from 50,000 people](https://www.bleepingcomputer.com/news/security/new-web-injections-campaign-steals-banking-data-from-50-000-people/)
 <!--END_SECTION:feed-->
 
 <!--
