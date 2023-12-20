@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New phishing attack steals your Instagram backup codes to bypass 2FA](https://www.bleepingcomputer.com/news/security/new-phishing-attack-steals-your-instagram-backup-codes-to-bypass-2fa/)
 * [Ivanti releases patches for 13 critical Avalanche RCE flaws](https://www.bleepingcomputer.com/news/security/ivanti-releases-patches-for-13-critical-avalanche-rce-flaws/)
 * [Microsoft fixes Wi-Fi issues triggered by recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-wi-fi-issues-triggered-by-recent-windows-updates/)
 * [Healthcare software provider data breach impacts 2.7 million](https://www.bleepingcomputer.com/news/security/healthcare-software-provider-data-breach-impacts-27-million/)
 * [The password attacks of 2023: Lessons learned and next steps](https://www.bleepingcomputer.com/news/security/the-password-attacks-of-2023-lessons-learned-and-next-steps/)
-* [German police takes down Kingdom Market cybercrime marketplace](https://www.bleepingcomputer.com/news/security/german-police-takes-down-kingdom-market-cybercrime-marketplace/)
 <!--END_SECTION:feed-->
 
 <!--
