@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [‘Wall of Flippers’ detects Flipper Zero Bluetooth spam attacks](https://www.bleepingcomputer.com/news/security/wall-of-flippers-detects-flipper-zero-bluetooth-spam-attacks/)
 * [Mint Mobile discloses new data breach exposing customer data](https://www.bleepingcomputer.com/news/security/mint-mobile-discloses-new-data-breach-exposing-customer-data/)
 * [The Week in Ransomware - December 22nd 2023 - BlackCat hacked](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-22nd-2023-blackcat-hacked/)
 * [Ubisoft says it's investigating reports of a new security breach](https://www.bleepingcomputer.com/news/security/ubisoft-says-its-investigating-reports-of-a-new-security-breach/)
 * [Nissan Australia cyberattack claimed by Akira ransomware gang](https://www.bleepingcomputer.com/news/security/nissan-australia-cyberattack-claimed-by-akira-ransomware-gang/)
-* [Europol warns 443 online shops infected with credit card stealers](https://www.bleepingcomputer.com/news/security/europol-warns-443-online-shops-infected-with-credit-card-stealers/)
 <!--END_SECTION:feed-->
 
 <!--
