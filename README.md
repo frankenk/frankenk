@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [GTA 5 source code reportedly leaked online a year after RockStar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
+* [Integris Health patients get extortion emails after cyberattack](https://www.bleepingcomputer.com/news/security/integris-health-patients-get-extortion-emails-after-cyberattack/)
+* [GTA 5 source code reportedly leaked online a year after Rockstar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
 * [Google Chrome now scans for compromised passwords in the background](https://www.bleepingcomputer.com/news/google/google-chrome-now-scans-for-compromised-passwords-in-the-background/)
 * [‘Wall of Flippers’ detects Flipper Zero Bluetooth spam attacks](https://www.bleepingcomputer.com/news/security/wall-of-flippers-detects-flipper-zero-bluetooth-spam-attacks/)
 * [Mint Mobile discloses new data breach exposing customer data](https://www.bleepingcomputer.com/news/security/mint-mobile-discloses-new-data-breach-exposing-customer-data/)
-* [The Week in Ransomware - December 22nd 2023 - BlackCat hacked](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-22nd-2023-blackcat-hacked/)
 <!--END_SECTION:feed-->
 
 <!--
