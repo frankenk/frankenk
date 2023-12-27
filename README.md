@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Barracuda fixes new ESG zero-day exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/barracuda-fixes-new-esg-zero-day-exploited-by-chinese-hackers/)
 * [Yakult Australia confirms 'cyber incident' after 95 GB data leak](https://www.bleepingcomputer.com/news/security/yakult-australia-confirms-cyber-incident-after-95-gb-data-leak/)
 * [GitHub warns users to enable 2FA before upcoming deadline](https://www.bleepingcomputer.com/news/software/github-warns-users-to-enable-2fa-before-upcoming-deadline/)
 * [Integris Health patients get extortion emails after cyberattack](https://www.bleepingcomputer.com/news/security/integris-health-patients-get-extortion-emails-after-cyberattack/)
 * [GTA 5 source code reportedly leaked online a year after Rockstar hack](https://www.bleepingcomputer.com/news/security/gta-5-source-code-reportedly-leaked-online-a-year-after-rockstar-hack/)
-* [Google Chrome now scans for compromised passwords in the background](https://www.bleepingcomputer.com/news/google/google-chrome-now-scans-for-compromised-passwords-in-the-background/)
 <!--END_SECTION:feed-->
 
 <!--
