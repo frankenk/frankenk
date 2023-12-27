@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Xamalicious Android malware installed 330k times on Google Play](https://www.bleepingcomputer.com/news/security/new-xamalicious-android-malware-installed-330k-times-on-google-play/)
 * [iPhone Triangulation attack abused undocumented hardware feature](https://www.bleepingcomputer.com/news/security/iphone-triangulation-attack-abused-undocumented-hardware-feature/)
 * [Barracuda fixes new ESG zero-day exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/barracuda-fixes-new-esg-zero-day-exploited-by-chinese-hackers/)
 * [Yakult Australia confirms 'cyber incident' after 95 GB data leak](https://www.bleepingcomputer.com/news/security/yakult-australia-confirms-cyber-incident-after-95-gb-data-leak/)
 * [GitHub warns users to enable 2FA before upcoming deadline](https://www.bleepingcomputer.com/news/software/github-warns-users-to-enable-2fa-before-upcoming-deadline/)
-* [Integris Health patients get extortion emails after cyberattack](https://www.bleepingcomputer.com/news/security/integris-health-patients-get-extortion-emails-after-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
