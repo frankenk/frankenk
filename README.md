@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kroll reveals FTX customer info exposed in August data breach](https://www.bleepingcomputer.com/news/security/kroll-reveals-ftx-customer-info-exposed-in-august-data-breach/)
+* [Russian military hackers target Ukraine with new MASEPIE malware](https://www.bleepingcomputer.com/news/security/russian-military-hackers-target-ukraine-with-new-masepie-malware/)
 * [Apache OFBiz RCE flaw exploited to find vulnerable Confluence servers](https://www.bleepingcomputer.com/news/security/apache-ofbiz-rce-flaw-exploited-to-find-vulnerable-confluence-servers/)
 * [Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 * [Ohio Lottery hit by cyberattack claimed by DragonForce ransomware](https://www.bleepingcomputer.com/news/security/ohio-lottery-hit-by-cyberattack-claimed-by-dragonforce-ransomware/)
-* [Lockbit ransomware disrupts emergency care at German hospitals](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupts-emergency-care-at-german-hospitals/)
-* [Mortgage firm LoanCare warns 1.3 million people of data breach](https://www.bleepingcomputer.com/news/security/mortgage-firm-loancare-warns-13-million-people-of-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
