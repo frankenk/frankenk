@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [EasyPark discloses data breach that may impact millions of users](https://www.bleepingcomputer.com/news/security/easypark-discloses-data-breach-that-may-impact-millions-of-users/)
+* [Microsoft disables MSIX protocol handler abused in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks/)
 * [Kroll reveals FTX customer info exposed in August data breach](https://www.bleepingcomputer.com/news/security/kroll-reveals-ftx-customer-info-exposed-in-august-data-breach/)
 * [Russian military hackers target Ukraine with new MASEPIE malware](https://www.bleepingcomputer.com/news/security/russian-military-hackers-target-ukraine-with-new-masepie-malware/)
 * [Apache OFBiz RCE flaw exploited to find vulnerable Confluence servers](https://www.bleepingcomputer.com/news/security/apache-ofbiz-rce-flaw-exploited-to-find-vulnerable-confluence-servers/)
-* [Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
-* [Ohio Lottery hit by cyberattack claimed by DragonForce ransomware](https://www.bleepingcomputer.com/news/security/ohio-lottery-hit-by-cyberattack-claimed-by-dragonforce-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
