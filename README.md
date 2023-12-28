@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Blockchain dev's wallet emptied in "job interview" using npm package](https://www.bleepingcomputer.com/news/security/blockchain-devs-wallet-emptied-in-job-interview-using-npm-package/)
 * [Ohio Lottery hit by cyberattack claimed by DragonForce ransomware](https://www.bleepingcomputer.com/news/security/ohio-lottery-hit-by-cyberattack-claimed-by-dragonforce-ransomware/)
 * [Lockbit ransomware disrupts emergency care at German hospitals](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupts-emergency-care-at-german-hospitals/)
 * [Mortgage firm LoanCare warns 1.3 million people of data breach](https://www.bleepingcomputer.com/news/security/mortgage-firm-loancare-warns-13-million-people-of-data-breach/)
 * [Panasonic discloses data breach after December 2022 cyberattack](https://www.bleepingcomputer.com/news/security/panasonic-discloses-data-breach-after-december-2022-cyberattack/)
-* [New Xamalicious Android malware installed 330k times on Google Play](https://www.bleepingcomputer.com/news/security/new-xamalicious-android-malware-installed-330k-times-on-google-play/)
 <!--END_SECTION:feed-->
 
 <!--
