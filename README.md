@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - December 29th 2023 - LockBit targets hospitals](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-29th-2023-lockbit-targets-hospitals/)
+* [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
 * [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [Steam game mod breached to push password-stealing malware](https://www.bleepingcomputer.com/news/security/steam-game-mod-breached-to-push-password-stealing-malware/)
 * [Eagers Automotive halts trading in response to cyberattack](https://www.bleepingcomputer.com/news/security/eagers-automotive-halts-trading-in-response-to-cyberattack/)
-* [EasyPark discloses data breach that may impact millions of users](https://www.bleepingcomputer.com/news/security/easypark-discloses-data-breach-that-may-impact-millions-of-users/)
-* [Microsoft disables MSIX protocol handler abused in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
