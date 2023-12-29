@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Game mod on Steam breached to push password-stealing malware](https://www.bleepingcomputer.com/news/security/game-mod-on-steam-breached-to-push-password-stealing-malware/)
+* [Steam game mod breached to push password-stealing malware](https://www.bleepingcomputer.com/news/security/steam-game-mod-breached-to-push-password-stealing-malware/)
 * [Eagers Automotive halts trading in response to cyberattack](https://www.bleepingcomputer.com/news/security/eagers-automotive-halts-trading-in-response-to-cyberattack/)
 * [EasyPark discloses data breach that may impact millions of users](https://www.bleepingcomputer.com/news/security/easypark-discloses-data-breach-that-may-impact-millions-of-users/)
 * [Microsoft disables MSIX protocol handler abused in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks/)
