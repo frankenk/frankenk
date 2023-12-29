@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
 * [Steam game mod breached to push password-stealing malware](https://www.bleepingcomputer.com/news/security/steam-game-mod-breached-to-push-password-stealing-malware/)
 * [Eagers Automotive halts trading in response to cyberattack](https://www.bleepingcomputer.com/news/security/eagers-automotive-halts-trading-in-response-to-cyberattack/)
 * [EasyPark discloses data breach that may impact millions of users](https://www.bleepingcomputer.com/news/security/easypark-discloses-data-breach-that-may-impact-millions-of-users/)
 * [Microsoft disables MSIX protocol handler abused in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-disables-msix-protocol-handler-abused-in-malware-attacks/)
-* [Kroll reveals FTX customer info exposed in August data breach](https://www.bleepingcomputer.com/news/security/kroll-reveals-ftx-customer-info-exposed-in-august-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
