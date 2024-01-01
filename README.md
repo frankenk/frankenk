@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Android game dev’s Google Drive misconfig highlights cloud security risks](https://www.bleepingcomputer.com/news/security/android-game-devs-google-drive-misconfig-highlights-cloud-security-risks/)
 * [New Black Basta decryptor exploits ransomware flaw to recover files](https://www.bleepingcomputer.com/news/security/new-black-basta-decryptor-exploits-ransomware-flaw-to-recover-files/)
 * [The Week in Ransomware - December 29th 2023 - LockBit targets hospitals](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-december-29th-2023-lockbit-targets-hospitals/)
 * [Hospitals ask courts to force cloud storage firm to return stolen data](https://www.bleepingcomputer.com/news/security/hospitals-ask-courts-to-force-cloud-storage-firm-to-return-stolen-data/)
 * [Malware abuses Google OAuth endpoint to ‘revive’ cookies, hijack accounts](https://www.bleepingcomputer.com/news/security/malware-abuses-google-oauth-endpoint-to-revive-cookies-hijack-accounts/)
-* [Steam game mod breached to push password-stealing malware](https://www.bleepingcomputer.com/news/security/steam-game-mod-breached-to-push-password-stealing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
