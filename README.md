@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ Google Groups is ending support for Usenet to combat spam](https://www.bleepingcomputer.com/news/google/google-groups-is-ending-support-for-usenet-to-combat-spam/)
 * [Victoria court recordings exposed in reported ransomware attack](https://www.bleepingcomputer.com/news/security/victoria-court-recordings-exposed-in-reported-ransomware-attack/)
 * [The law enforcement operations targeting cybercrime in 2023](https://www.bleepingcomputer.com/news/security/the-law-enforcement-operations-targeting-cybercrime-in-2023/)
 * [The biggest cybersecurity and cyberattack stories of 2023](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2023/)
 * [Android game dev’s Google Drive misconfig highlights cloud security risks](https://www.bleepingcomputer.com/news/security/android-game-devs-google-drive-misconfig-highlights-cloud-security-risks/)
-* [New Black Basta decryptor exploits ransomware flaw to recover files](https://www.bleepingcomputer.com/news/security/new-black-basta-decryptor-exploits-ransomware-flaw-to-recover-files/)
 <!--END_SECTION:feed-->
 
 <!--
