@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hacker hijacks Orange Spain RIPE account to cause BGP havoc](https://www.bleepingcomputer.com/news/security/hacker-hijacks-orange-spain-ripe-account-to-cause-bgp-havoc/)
+* [Nigerian hacker arrested for stealing $7.5M from charities](https://www.bleepingcomputer.com/news/security/nigerian-hacker-arrested-for-stealing-75m-from-charities/)
 * [PornHub blocks North Carolina, Montana over new age verification laws](https://www.bleepingcomputer.com/news/security/pornhub-blocks-north-carolina-montana-over-new-age-verification-laws/)
 * [LastPass now requires 12-character master passwords for better security](https://www.bleepingcomputer.com/news/security/lastpass-now-requires-12-character-master-passwords-for-better-security/)
 * [Data breach at healthcare tech firm impacts 4.5 million patients](https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/)
-* [Nearly 11 million SSH servers vulnerable to new Terrapin attacks](https://www.bleepingcomputer.com/news/security/nearly-11-million-ssh-servers-vulnerable-to-new-terrapin-attacks/)
-* [CISA warns of actively exploited bugs in Chrome and Excel parsing library](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-bugs-in-chrome-and-excel-parsing-library/)
 <!--END_SECTION:feed-->
 
 <!--
