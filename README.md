@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PornHub blocks North Carolina, Montana over new age verification laws](https://www.bleepingcomputer.com/news/security/pornhub-blocks-north-carolina-montana-over-new-age-verification-laws/)
+* [LastPass now requires 12-character master passwords for better security](https://www.bleepingcomputer.com/news/security/lastpass-now-requires-12-character-master-passwords-for-better-security/)
 * [Data breach at healthcare tech firm impacts 4.5 million patients](https://www.bleepingcomputer.com/news/security/data-breach-at-healthcare-tech-firm-impacts-45-million-patients/)
 * [Nearly 11 million SSH servers vulnerable to new Terrapin attacks](https://www.bleepingcomputer.com/news/security/nearly-11-million-ssh-servers-vulnerable-to-new-terrapin-attacks/)
 * [CISA warns of actively exploited bugs in Chrome and Excel parsing library](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-bugs-in-chrome-and-excel-parsing-library/)
-* [Steam drops support for Windows 7 and 8.1 to boost security](https://www.bleepingcomputer.com/news/security/steam-drops-support-for-windows-7-and-81-to-boost-security/)
-* [Orbit Chain loses $86 million in the last fintech hack of 2023](https://www.bleepingcomputer.com/news/security/orbit-chain-loses-86-million-in-the-last-fintech-hack-of-2023/)
 <!--END_SECTION:feed-->
 
 <!--
