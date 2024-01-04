@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian hackers wiped thousands of systems in KyivStar attack](https://www.bleepingcomputer.com/news/security/russian-hackers-wiped-thousands-of-systems-in-kyivstar-attack/)
 * [Hackers hijack govt and business accounts on X for crypto scams](https://www.bleepingcomputer.com/news/security/hackers-hijack-govt-and-business-accounts-on-x-for-crypto-scams/)
 * [Zeppelin ransomware source code sold for $500 on hacking forum](https://www.bleepingcomputer.com/news/security/zeppelin-ransomware-source-code-sold-for-500-on-hacking-forum/)
 * [FTC offers $25,000 prize for detecting AI-enabled voice cloning](https://www.bleepingcomputer.com/news/security/ftc-offers-25-000-prize-for-detecting-ai-enabled-voice-cloning/)
 * ['everything' blocks devs from removing their own npm packages](https://www.bleepingcomputer.com/news/security/everything-blocks-devs-from-removing-their-own-npm-packages/)
-* [Mandiant’s account on X hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/mandiants-account-on-x-hacked-to-push-cryptocurrency-scam/)
 <!--END_SECTION:feed-->
 
 <!--
