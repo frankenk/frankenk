@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Mandiant's Twitter account hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/mandiants-twitter-account-hacked-to-push-cryptocurrency-scam/)
+* [Mandiant’s account on X hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/mandiants-account-on-x-hacked-to-push-cryptocurrency-scam/)
 * [Hacker hijacks Orange Spain RIPE account to cause BGP havoc](https://www.bleepingcomputer.com/news/security/hacker-hijacks-orange-spain-ripe-account-to-cause-bgp-havoc/)
 * [Nigerian hacker arrested for stealing $7.5M from charities](https://www.bleepingcomputer.com/news/security/nigerian-hacker-arrested-for-stealing-75m-from-charities/)
 * [PornHub blocks North Carolina, Montana over new age verification laws](https://www.bleepingcomputer.com/news/security/pornhub-blocks-north-carolina-montana-over-new-age-verification-laws/)
