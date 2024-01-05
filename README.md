@@ -5,6 +5,10 @@
 * [Web3 security firm CertiK's X account hacked to push crypto drainer](https://www.bleepingcomputer.com/news/security/web3-security-firm-certiks-x-account-hacked-to-push-crypto-drainer/)
 * [Memorial University recovers from cyberattack, delays semester start](https://www.bleepingcomputer.com/news/security/memorial-university-recovers-from-cyberattack-delays-semester-start/)
 * [Update your white hat hacking skills with $70 off this training bundle](https://www.bleepingcomputer.com/news/security/update-your-white-hat-hacking-skills-with-70-off-this-training-bundle/)
+* [Crypto wallet founder loses * [Hackers target Apache RocketMQ servers vulnerable to RCE attacks](https://www.bleepingcomputer.com/news/security/hackers-target-apache-rocketmq-servers-vulnerable-to-rce-attacks/)
+* [Web3 security firm CertiK's X account hacked to push crypto drainer](https://www.bleepingcomputer.com/news/security/web3-security-firm-certiks-x-account-hacked-to-push-crypto-drainer/)
+* [Memorial University recovers from cyberattack, delays semester start](https://www.bleepingcomputer.com/news/security/memorial-university-recovers-from-cyberattack-delays-semester-start/)
+* [Update your white hat hacking skills with $70 off this training bundle](https://www.bleepingcomputer.com/news/security/update-your-white-hat-hacking-skills-with-70-off-this-training-bundle/)
 * [Crypto wallet founder loses * [Memorial University recovers from cyberattack, delays semester start](https://www.bleepingcomputer.com/news/security/memorial-university-recovers-from-cyberattack-delays-semester-start/)
 * [Update your white hat hacking skills with $70 off this training bundle](https://www.bleepingcomputer.com/news/security/update-your-white-hat-hacking-skills-with-70-off-this-training-bundle/)
 * [Crypto wallet founder loses * [Memorial University recovers from cyberattack, delays semester start](https://www.bleepingcomputer.com/news/security/memorial-university-recovers-from-cyberattack-delays-semester-start/)
@@ -29,7 +33,7 @@
 * [Ivanti warns critical EPM bug lets hackers hijack enrolled devices](https://www.bleepingcomputer.com/news/security/ivanti-warns-critical-epm-bug-lets-hackers-hijack-enrolled-devices/)
 * [Russian hackers wiped thousands of systems in KyivStar attack](https://www.bleepingcomputer.com/news/security/russian-hackers-wiped-thousands-of-systems-in-kyivstar-attack/)25,000 to fake airdrop website](https://www.bleepingcomputer.com/news/security/crypto-wallet-founder-loses-125-000-to-fake-airdrop-website/)
 * [Ivanti warns critical EPM bug lets hackers hijack enrolled devices](https://www.bleepingcomputer.com/news/security/ivanti-warns-critical-epm-bug-lets-hackers-hijack-enrolled-devices/)
-* [Russian hackers wiped thousands of systems in KyivStar attack](https://www.bleepingcomputer.com/news/security/russian-hackers-wiped-thousands-of-systems-in-kyivstar-attack/)25,000 to fake airdrop website](https://www.bleepingcomputer.com/news/security/crypto-wallet-founder-loses-125-000-to-fake-airdrop-website/)
+* [Russian hackers wiped thousands of systems in KyivStar attack](https://www.bleepingcomputer.com/news/security/russian-hackers-wiped-thousands-of-systems-in-kyivstar-attack/)25,000 to fake airdrop website](https://www.bleepingcomputer.com/news/security/crypto-wallet-founder-loses-125-000-to-fake-airdrop-website/)25,000 to fake airdrop website](https://www.bleepingcomputer.com/news/security/crypto-wallet-founder-loses-125-000-to-fake-airdrop-website/)
 <!--END_SECTION:feed-->
 
 <!--
