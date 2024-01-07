@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mortgage firm loanDepot cyberattack impacts IT systems, payment portal](https://www.bleepingcomputer.com/news/security/mortgage-firm-loandepot-cyberattack-impacts-it-systems-payment-portal/)
+* [Stealthy AsyncRAT malware attacks targets US infrastructure for 11 months](https://www.bleepingcomputer.com/news/security/stealthy-asyncrat-malware-attacks-targets-us-infrastructure-for-11-months/)
+* [KyberSlash attacks put quantum encryption projects at risk](https://www.bleepingcomputer.com/news/security/kyberslash-attacks-put-quantum-encryption-projects-at-risk/)
 * [Google: Malware abusing API is standard token theft, not an API issue](https://www.bleepingcomputer.com/news/security/google-malware-abusing-api-is-standard-token-theft-not-an-api-issue/)
 * [X users fed up with constant stream of malicious crypto ads](https://www.bleepingcomputer.com/news/security/x-users-fed-up-with-constant-stream-of-malicious-crypto-ads/)
-* [The Week in Ransomware - January 5th 2024 - Secret decryptors](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-5th-2024-secret-decryptors/)
-* [US charged 19 suspects linked to xDedic cybercrime marketplace](https://www.bleepingcomputer.com/news/security/us-charged-19-suspects-linked-to-xdedic-cybercrime-marketplace/)
-* [BreachForums admin jailed again for using a VPN, unmonitored PC](https://www.bleepingcomputer.com/news/security/breachforums-admin-jailed-again-for-using-a-vpn-unmonitored-pc/)
 <!--END_SECTION:feed-->
 
 <!--
