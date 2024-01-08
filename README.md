@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Capital Health attack claimed by LockBit ransomware, risk of data leak](https://www.bleepingcomputer.com/news/security/capital-health-attack-claimed-by-lockbit-ransomware-risk-of-data-leak/)
+* [Securing helpdesks from hackers: What we can learn from the MGM breach](https://www.bleepingcomputer.com/news/security/securing-helpdesks-from-hackers-what-we-can-learn-from-the-mgm-breach/)
 * [Mortgage firm loanDepot cyberattack impacts IT systems, payment portal](https://www.bleepingcomputer.com/news/security/mortgage-firm-loandepot-cyberattack-impacts-it-systems-payment-portal/)
 * [Stealthy AsyncRAT malware attacks targets US infrastructure for 11 months](https://www.bleepingcomputer.com/news/security/stealthy-asyncrat-malware-attacks-targets-us-infrastructure-for-11-months/)
 * [KyberSlash attacks put quantum encryption projects at risk](https://www.bleepingcomputer.com/news/security/kyberslash-attacks-put-quantum-encryption-projects-at-risk/)
-* [Google: Malware abusing API is standard token theft, not an API issue](https://www.bleepingcomputer.com/news/security/google-malware-abusing-api-is-standard-token-theft-not-an-api-issue/)
-* [X users fed up with constant stream of malicious crypto ads](https://www.bleepingcomputer.com/news/security/x-users-fed-up-with-constant-stream-of-malicious-crypto-ads/)
 <!--END_SECTION:feed-->
 
 <!--
