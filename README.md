@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [China claims it cracked Apple's AirDrop to find numbers, email addresses](https://www.bleepingcomputer.com/news/security/china-claims-it-cracked-apples-airdrop-to-find-numbers-email-addresses/)
+* [Ransomware victims targeted by fake hack-back offers](https://www.bleepingcomputer.com/news/security/ransomware-victims-targeted-by-fake-hack-back-offers/)
 * [FTC bans data broker from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-bans-data-broker-from-selling-americans-location-data/)
 * [Windows 10 KB5034122 update released with fix for shut down bug](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034122-update-released-with-fix-for-shut-down-bug/)
 * [CISA warns agencies of fourth flaw used in Triangulation spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-agencies-of-fourth-flaw-used-in-triangulation-spyware-attacks/)
-* [Microsoft January 2024 Patch Tuesday fixes 49 flaws, 12 RCE bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2024-patch-tuesday-fixes-49-flaws-12-rce-bugs/)
-* [Windows 11 KB5034123 update released with security and Wi-Fi fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034123-update-released-with-security-and-wi-fi-fixes/)
 <!--END_SECTION:feed-->
 
 <!--
