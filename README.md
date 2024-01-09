@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC bans data broker from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-bans-data-broker-from-selling-americans-location-data/)
 * [Windows 10 KB5034122 update released with fix for shut down bug](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034122-update-released-with-fix-for-shut-down-bug/)
 * [CISA warns agencies of fourth flaw used in Triangulation spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-agencies-of-fourth-flaw-used-in-triangulation-spyware-attacks/)
 * [Microsoft January 2024 Patch Tuesday fixes 49 flaws, 12 RCE bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2024-patch-tuesday-fixes-49-flaws-12-rce-bugs/)
 * [Windows 11 KB5034123 update released with security and Wi-Fi fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034123-update-released-with-security-and-wi-fi-fixes/)
-* [Hackers target Microsoft SQL servers in Mimic ransomware attacks](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sql-servers-in-mimic-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
