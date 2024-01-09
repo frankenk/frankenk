@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Decryptor for Babuk ransomware variant released after hacker arrested](https://www.bleepingcomputer.com/news/security/decryptor-for-babuk-ransomware-variant-released-after-hacker-arrested/)
+* [Paraguay warns of Black Hunt ransomware attacks after Tigo Business breach](https://www.bleepingcomputer.com/news/security/paraguay-warns-of-black-hunt-ransomware-attacks-after-tigo-business-breach/)
+* [Criminal IP and Tenable Partner for Swift Vulnerability Detection](https://www.bleepingcomputer.com/news/security/criminal-ip-and-tenable-partner-for-swift-vulnerability-detection/)
 * [Google Search bug shows blank page in Firefox for Android](https://www.bleepingcomputer.com/news/security/google-search-bug-shows-blank-page-in-firefox-for-android/)
 * [The best Windows 11 features added in 2023](https://www.bleepingcomputer.com/news/microsoft/the-best-windows-11-features-added-in-2023/)
-* [Toronto Zoo: Ransomware attack had no impact on animal wellbeing](https://www.bleepingcomputer.com/news/security/toronto-zoo-ransomware-attack-had-no-impact-on-animal-wellbeing/)
-* [Netgear, Hyundai latest X accounts hacked to push crypto drainers](https://www.bleepingcomputer.com/news/security/netgear-hyundai-latest-x-accounts-hacked-to-push-crypto-drainers/)
-* [Turkish hackers Sea Turtle expand attacks to Dutch ISPs, telcos](https://www.bleepingcomputer.com/news/security/turkish-hackers-sea-turtle-expand-attacks-to-dutch-isps-telcos/)
 <!--END_SECTION:feed-->
 
 <!--
