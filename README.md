@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Search bug shows blank page in Firefox for Android](https://www.bleepingcomputer.com/news/security/google-search-bug-shows-blank-page-in-firefox-for-android/)
 * [The best Windows 11 features added in 2023](https://www.bleepingcomputer.com/news/microsoft/the-best-windows-11-features-added-in-2023/)
 * [Toronto Zoo: Ransomware attack had no impact on animal wellbeing](https://www.bleepingcomputer.com/news/security/toronto-zoo-ransomware-attack-had-no-impact-on-animal-wellbeing/)
 * [Netgear, Hyundai latest X accounts hacked to push crypto drainers](https://www.bleepingcomputer.com/news/security/netgear-hyundai-latest-x-accounts-hacked-to-push-crypto-drainers/)
 * [Turkish hackers Sea Turtle expand attacks to Dutch ISPs, telcos](https://www.bleepingcomputer.com/news/security/turkish-hackers-sea-turtle-expand-attacks-to-dutch-isps-telcos/)
-* [Twilio will ditch its Authy desktop 2FA app in August, goes mobile only](https://www.bleepingcomputer.com/news/security/twilio-will-ditch-its-authy-desktop-2fa-app-in-august-goes-mobile-only/)
 <!--END_SECTION:feed-->
 
 <!--
