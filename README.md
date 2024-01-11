@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Framework discloses data breach after accountant gets phished](https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/)
+* [Over 150k WordPress sites at takeover risk via vulnerable plugin](https://www.bleepingcomputer.com/news/security/over-150k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/)
 * [Halara probes breach after hacker leaks data for 950,000 people](https://www.bleepingcomputer.com/news/security/halara-probes-breach-after-hacker-leaks-data-for-950-000-people/)
 * [Microsoft testing Windows 11 USB 80Gbps support, Copilot on login](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-windows-11-usb-80gbps-support-copilot-on-login/)
 * [Bitwarden adds passkey support to log into web password vaults](https://www.bleepingcomputer.com/news/security/bitwarden-adds-passkey-support-to-log-into-web-password-vaults/)
-* [Microsoft shares script to update Windows 10 WinRE with BitLocker fixes](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-update-windows-10-winre-with-bitlocker-fixes/)
-* [New Balada Injector campaign infects 6,700 WordPress sites](https://www.bleepingcomputer.com/news/security/new-balada-injector-campaign-infects-6-700-wordpress-sites/)
 <!--END_SECTION:feed-->
 
 <!--
