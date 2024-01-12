@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Juniper warns of critical RCE bug in its firewalls and switches](https://www.bleepingcomputer.com/news/security/juniper-warns-of-critical-rce-bug-in-its-firewalls-and-switches/)
 * [Ivanti Connect Secure zero-days exploited to deploy custom malware](https://www.bleepingcomputer.com/news/security/ivanti-connect-secure-zero-days-exploited-to-deploy-custom-malware/)
 * [Major T-Mobile outage takes down account access, mobile app](https://www.bleepingcomputer.com/news/technology/major-t-mobile-outage-takes-down-account-access-mobile-app/)
 * [Framework discloses data breach after accountant gets phished](https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/)
 * [Over 150k WordPress sites at takeover risk via vulnerable plugin](https://www.bleepingcomputer.com/news/security/over-150k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/)
-* [Halara probes breach after hacker leaks data for 950,000 people](https://www.bleepingcomputer.com/news/security/halara-probes-breach-after-hacker-leaks-data-for-950-000-people/)
 <!--END_SECTION:feed-->
 
 <!--
