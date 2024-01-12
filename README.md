@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: Critical Microsoft SharePoint bug now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-microsoft-sharepoint-bug-now-actively-exploited/)
+* [GitLab warns of critical zero-click account hijacking vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-zero-click-account-hijacking-vulnerability/)
 * [Juniper warns of critical RCE bug in its firewalls and switches](https://www.bleepingcomputer.com/news/security/juniper-warns-of-critical-rce-bug-in-its-firewalls-and-switches/)
 * [Ivanti Connect Secure zero-days exploited to deploy custom malware](https://www.bleepingcomputer.com/news/security/ivanti-connect-secure-zero-days-exploited-to-deploy-custom-malware/)
 * [Major T-Mobile outage takes down account access, mobile app](https://www.bleepingcomputer.com/news/technology/major-t-mobile-outage-takes-down-account-access-mobile-app/)
-* [Framework discloses data breach after accountant gets phished](https://www.bleepingcomputer.com/news/security/framework-discloses-data-breach-after-accountant-gets-phished/)
-* [Over 150k WordPress sites at takeover risk via vulnerable plugin](https://www.bleepingcomputer.com/news/security/over-150k-wordpress-sites-at-takeover-risk-via-vulnerable-plugin/)
 <!--END_SECTION:feed-->
 
 <!--
