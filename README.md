@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The new Windows 11 features coming in 2024](https://www.bleepingcomputer.com/news/microsoft/the-new-windows-11-features-coming-in-2024/)
+* [GrapheneOS: Frequent Android auto-reboots block firmware exploits](https://www.bleepingcomputer.com/news/security/grapheneos-frequent-android-auto-reboots-block-firmware-exploits/)
+* [Save up to $315 on data privacy tools with AdGuard VPN](https://www.bleepingcomputer.com/news/security/save-up-to-315-on-data-privacy-tools-with-adguard-vpn/)
 * [Hacker spins up 1 million virtual servers to illegally mine crypto](https://www.bleepingcomputer.com/news/security/hacker-spins-up-1-million-virtual-servers-to-illegally-mine-crypto/)
 * [The Week in Ransomware - January 12th 2024 - Targeting homeowners' data](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-january-12th-2024-targeting-homeowners-data/)
-* [CISA: Critical Microsoft SharePoint bug now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-microsoft-sharepoint-bug-now-actively-exploited/)
-* [GitLab warns of critical zero-click account hijacking vulnerability](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-zero-click-account-hijacking-vulnerability/)
-* [Juniper warns of critical RCE bug in its firewalls and switches](https://www.bleepingcomputer.com/news/security/juniper-warns-of-critical-rce-bug-in-its-firewalls-and-switches/)
 <!--END_SECTION:feed-->
 
 <!--
