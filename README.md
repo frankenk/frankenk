@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows Copilot autostart tests limited to 27" displays or larger](https://www.bleepingcomputer.com/news/microsoft/windows-copilot-autostart-tests-limited-to-27-displays-or-larger/)
+* [US court docs expose fake antivirus renewal phishing tactics](https://www.bleepingcomputer.com/news/security/us-court-docs-expose-fake-antivirus-renewal-phishing-tactics/)
 * [Microsoft working on a fix for Windows 10 0x80070643 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-a-fix-for-windows-10-0x80070643-errors/)
 * [Windows SmartScreen flaw exploited to drop Phemedrone malware](https://www.bleepingcomputer.com/news/security/windows-smartscreen-flaw-exploited-to-drop-phemedrone-malware/)
 * [Over 178K SonicWall firewalls vulnerable to DoS, potential RCE attacks](https://www.bleepingcomputer.com/news/security/over-178k-sonicwall-firewalls-vulnerable-to-dos-potential-rce-attacks/)
-* [Latest Adblock update causes massive YouTube performance hit](https://www.bleepingcomputer.com/news/security/latest-adblock-update-causes-massive-youtube-performance-hit/)
-* [The new Windows 11 features coming in 2024](https://www.bleepingcomputer.com/news/microsoft/the-new-windows-11-features-coming-in-2024/)
 <!--END_SECTION:feed-->
 
 <!--
