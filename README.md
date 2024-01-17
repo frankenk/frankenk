@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bigpanzi botnet infects 170,000 Android TV boxes with malware](https://www.bleepingcomputer.com/news/security/bigpanzi-botnet-infects-170-000-android-tv-boxes-with-malware/)
+* [CISA pushes federal agencies to patch Citrix RCE within a week](https://www.bleepingcomputer.com/news/security/cisa-pushes-federal-agencies-to-patch-citrix-rce-within-a-week/)
 * [iShutdown scripts can help detect iOS spyware on your iPhone](https://www.bleepingcomputer.com/news/security/ishutdown-scripts-can-help-detect-ios-spyware-on-your-iphone/)
 * [AMD, Apple, Qualcomm GPUs leak AI data in LeftoverLocals attacks](https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/)
 * [Wazuh: Building robust cybersecurity architecture with open source tools](https://www.bleepingcomputer.com/news/security/wazuh-building-robust-cybersecurity-architecture-with-open-source-tools/)
-* [GitHub rotates keys to mitigate impact of credential-exposing flaw](https://www.bleepingcomputer.com/news/security/github-rotates-keys-to-mitigate-impact-of-credential-exposing-flaw/)
-* [MacOS info-stealers quickly evolve to evade XProtect detection](https://www.bleepingcomputer.com/news/security/macos-info-stealers-quickly-evolve-to-evade-xprotect-detection/)
 <!--END_SECTION:feed-->
 
 <!--
