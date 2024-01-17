@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Iranian hackers target researchers with new MediaPl malware](https://www.bleepingcomputer.com/news/security/microsoft-iranian-hackers-target-researchers-with-new-mediapl-malware/)
 * [Bigpanzi botnet infects 170,000 Android TV boxes with malware](https://www.bleepingcomputer.com/news/security/bigpanzi-botnet-infects-170-000-android-tv-boxes-with-malware/)
 * [CISA pushes federal agencies to patch Citrix RCE within a week](https://www.bleepingcomputer.com/news/security/cisa-pushes-federal-agencies-to-patch-citrix-rce-within-a-week/)
 * [iShutdown scripts can help detect iOS spyware on your iPhone](https://www.bleepingcomputer.com/news/security/ishutdown-scripts-can-help-detect-ios-spyware-on-your-iphone/)
 * [AMD, Apple, Qualcomm GPUs leak AI data in LeftoverLocals attacks](https://www.bleepingcomputer.com/news/security/amd-apple-qualcomm-gpus-leak-ai-data-in-leftoverlocals-attacks/)
-* [Wazuh: Building robust cybersecurity architecture with open source tools](https://www.bleepingcomputer.com/news/security/wazuh-building-robust-cybersecurity-architecture-with-open-source-tools/)
 <!--END_SECTION:feed-->
 
 <!--
