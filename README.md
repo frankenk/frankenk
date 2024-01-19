@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware confirms critical vCenter flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/vmware-confirms-critical-vcenter-flaw-now-exploited-in-attacks/)
 * [TeamViewer abused to breach networks in new ransomware attacks](https://www.bleepingcomputer.com/news/security/teamviewer-abused-to-breach-networks-in-new-ransomware-attacks/)
 * [CISA: Critical Ivanti auth bypass bug now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-ivanti-auth-bypass-bug-now-actively-exploited/)
 * [Microsoft tests instant access to Android photos in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-instant-access-to-android-photos-in-windows-11/)
 * [Kansas State University cyberattack disrupts IT network and services](https://www.bleepingcomputer.com/news/security/kansas-state-university-cyberattack-disrupts-it-network-and-services/)
-* [Haier hits Home Assistant plugin dev with takedown notice](https://www.bleepingcomputer.com/news/security/haier-hits-home-assistant-plugin-dev-with-takedown-notice/)
 <!--END_SECTION:feed-->
 
 <!--
