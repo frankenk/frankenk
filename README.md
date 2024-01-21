@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tietoevry ransomware attack causes outages for Swedish firms, cities](https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/)
+* [Watch out for "I can't believe he is gone" Facebook phishing posts](https://www.bleepingcomputer.com/news/security/watch-out-for-i-cant-believe-he-is-gone-facebook-phishing-posts/)
+* [Brave to end 'Strict' fingerprinting protection as it breaks websites](https://www.bleepingcomputer.com/news/security/brave-to-end-strict-fingerprinting-protection-as-it-breaks-websites/)
+* [Court charges dev with hacking after cybersecurity issue disclosure](https://www.bleepingcomputer.com/news/security/court-charges-dev-with-hacking-after-cybersecurity-issue-disclosure/)
 * [Researchers link 3AM ransomware to Conti, Royal cybercrime gangs](https://www.bleepingcomputer.com/news/security/researchers-link-3am-ransomware-to-conti-royal-cybercrime-gangs/)
-* [Meta won't remove fake Instagram profiles that are clearly catfishing](https://www.bleepingcomputer.com/news/security/meta-wont-remove-fake-instagram-profiles-that-are-clearly-catfishing/)
-* [Russian hackers stole Microsoft corporate emails in month-long breach](https://www.bleepingcomputer.com/news/security/russian-hackers-stole-microsoft-corporate-emails-in-month-long-breach/)
-* [BreachForums hacking forum admin sentenced to 20 years supervised release](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-admin-sentenced-to-20-years-supervised-release/)
-* [Payoneer accounts in Argentina hacked in 2FA bypass attacks](https://www.bleepingcomputer.com/news/security/payoneer-accounts-in-argentina-hacked-in-2fa-bypass-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
