@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC orders Intuit to stop pushing "free" software that isn't really free](https://www.bleepingcomputer.com/news/technology/ftc-orders-intuit-to-stop-pushing-free-software-that-isnt-really-free/)
 * [Malicious web redirect scripts stealth up to hide on hacked sites](https://www.bleepingcomputer.com/news/security/malicious-web-redirect-scripts-stealth-up-to-hide-on-hacked-sites/)
 * [Apple fixes first zero-day bug exploited in attacks this year](https://www.bleepingcomputer.com/news/apple/apple-fixes-first-zero-day-bug-exploited-in-attacks-this-year/)
 * [Ivanti: VPN appliances vulnerable if pushing configs after mitigation](https://www.bleepingcomputer.com/news/security/ivanti-vpn-appliances-vulnerable-if-pushing-configs-after-mitigation/)
 * [loanDepot cyberattack causes data breach for 16.6 million people](https://www.bleepingcomputer.com/news/security/loandepot-cyberattack-causes-data-breach-for-166-million-people/)
-* [Trezor support site breach exposes personal data of 66,000 customers](https://www.bleepingcomputer.com/news/security/trezor-support-site-breach-exposes-personal-data-of-66-000-customers/)
 <!--END_SECTION:feed-->
 
 <!--
