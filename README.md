@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers start exploiting critical Atlassian Confluence RCE flaw](https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-atlassian-confluence-rce-flaw/)
 * [Tietoevry ransomware attack causes outages for Swedish firms, cities](https://www.bleepingcomputer.com/news/security/tietoevry-ransomware-attack-causes-outages-for-swedish-firms-cities/)
 * [Watch out for "I can't believe he is gone" Facebook phishing posts](https://www.bleepingcomputer.com/news/security/watch-out-for-i-cant-believe-he-is-gone-facebook-phishing-posts/)
 * [Brave to end 'Strict' fingerprinting protection as it breaks websites](https://www.bleepingcomputer.com/news/security/brave-to-end-strict-fingerprinting-protection-as-it-breaks-websites/)
 * [Court charges dev with hacking after cybersecurity issue disclosure](https://www.bleepingcomputer.com/news/security/court-charges-dev-with-hacking-after-cybersecurity-issue-disclosure/)
-* [Researchers link 3AM ransomware to Conti, Royal cybercrime gangs](https://www.bleepingcomputer.com/news/security/researchers-link-3am-ransomware-to-conti-royal-cybercrime-gangs/)
 <!--END_SECTION:feed-->
 
 <!--
