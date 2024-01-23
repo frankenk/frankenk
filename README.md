@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fortra warns of new critical GoAnywhere MFT auth bypass, patch now](https://www.bleepingcomputer.com/news/security/fortra-warns-of-new-critical-goanywhere-mft-auth-bypass-patch-now/)
 * [Australia sanctions REvil hacker behind Medibank data breach](https://www.bleepingcomputer.com/news/security/australia-sanctions-revil-hacker-behind-medibank-data-breach/)
 * [SEC confirms X account was hacked in SIM swapping attack](https://www.bleepingcomputer.com/news/security/sec-confirms-x-account-was-hacked-in-sim-swapping-attack/)
 * [Cracked macOS apps drain wallets using scripts fetched from DNS records](https://www.bleepingcomputer.com/news/security/cracked-macos-apps-drain-wallets-using-scripts-fetched-from-dns-records/)
 * [FTC orders Intuit to stop pushing "free" software that isn't really free](https://www.bleepingcomputer.com/news/technology/ftc-orders-intuit-to-stop-pushing-free-software-that-isnt-really-free/)
-* [Malicious web redirect scripts stealth up to hide on hacked sites](https://www.bleepingcomputer.com/news/security/malicious-web-redirect-scripts-stealth-up-to-hide-on-hacked-sites/)
 <!--END_SECTION:feed-->
 
 <!--
