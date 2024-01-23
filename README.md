@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [X adds passkeys support for iOS users in the United States](https://www.bleepingcomputer.com/news/security/x-adds-passkeys-support-for-ios-users-in-the-united-states/)
 * [Kasseika ransomware uses antivirus driver to kill other antiviruses](https://www.bleepingcomputer.com/news/security/kasseika-ransomware-uses-antivirus-driver-to-kill-other-antiviruses/)
 * [Windows 10 KB5034203 preview update adds EU DMA compliance](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034203-preview-update-adds-eu-dma-compliance/)
 * [Jason’s Deli says customer data exposed in credential stuffing attack](https://www.bleepingcomputer.com/news/security/jasons-deli-says-customer-data-exposed-in-credential-stuffing-attack/)
 * [Fortra warns of new critical GoAnywhere MFT auth bypass, patch now](https://www.bleepingcomputer.com/news/security/fortra-warns-of-new-critical-goanywhere-mft-auth-bypass-patch-now/)
-* [Australia sanctions REvil hacker behind Medibank data breach](https://www.bleepingcomputer.com/news/security/australia-sanctions-revil-hacker-behind-medibank-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
