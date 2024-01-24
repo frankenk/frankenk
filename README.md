@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VexTrio TDS: Inside a massive 70,000-domain cybercrime operation](https://www.bleepingcomputer.com/news/security/vextrio-tds-inside-a-massive-70-000-domain-cybercrime-operation/)
 * [Over 5,300 GitLab servers exposed to zero-click account takeover attacks](https://www.bleepingcomputer.com/news/security/over-5-300-gitlab-servers-exposed-to-zero-click-account-takeover-attacks/)
 * [UK says AI will empower ransomware over the next two years](https://www.bleepingcomputer.com/news/security/uk-says-ai-will-empower-ransomware-over-the-next-two-years/)
 * [Global fintech firm EquiLend offline after recent cyberattack](https://www.bleepingcomputer.com/news/security/global-fintech-firm-equilend-offline-after-recent-cyberattack/)
 * [Google Pixel phones unusable after January 2024 system update](https://www.bleepingcomputer.com/news/google/google-pixel-phones-unusable-after-january-2024-system-update/)
-* [How to secure AD passwords without sacrificing end-user experience](https://www.bleepingcomputer.com/news/security/how-to-secure-ad-passwords-without-sacrificing-end-user-experience/)
 <!--END_SECTION:feed-->
 
 <!--
