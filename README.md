@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [23andMe data breach: Hackers stole raw genotype data, health reports](https://www.bleepingcomputer.com/news/security/23andme-data-breach-hackers-stole-raw-genotype-data-health-reports/)
 * [Blackwood hackers hijack WPS Office update to install malware](https://www.bleepingcomputer.com/news/security/blackwood-hackers-hijack-wps-office-update-to-install-malware/)
 * [Russian TrickBot malware dev sentenced to 64 months in prison](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)
 * [iPhone apps abuse iOS push notifications to collect user data](https://www.bleepingcomputer.com/news/security/iphone-apps-abuse-ios-push-notifications-to-collect-user-data/)
 * [Tesla hacked again, 24 more zero-days exploited at Pwn2Own Tokyo](https://www.bleepingcomputer.com/news/security/tesla-hacked-again-24-more-zero-days-exploited-at-pwn2own-tokyo/)
-* [Cisco warns of critical RCE flaw in communications software](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-flaw-in-communications-software/)
 <!--END_SECTION:feed-->
 
 <!--
