@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco warns of critical RCE flaw in communications software](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-flaw-in-communications-software/)
+* [Hackers target WordPress database plugin active on 1 million sites](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-database-plugin-active-on-1-million-sites/)
 * [HPE: Russian hackers breached its security team’s email accounts](https://www.bleepingcomputer.com/news/security/hpe-russian-hackers-breached-its-security-teams-email-accounts/)
 * [VexTrio TDS: Inside a massive 70,000-domain cybercrime operation](https://www.bleepingcomputer.com/news/security/vextrio-tds-inside-a-massive-70-000-domain-cybercrime-operation/)
 * [Over 5,300 GitLab servers exposed to zero-click account takeover attacks](https://www.bleepingcomputer.com/news/security/over-5-300-gitlab-servers-exposed-to-zero-click-account-takeover-attacks/)
-* [UK says AI will empower ransomware over the next two years](https://www.bleepingcomputer.com/news/security/uk-says-ai-will-empower-ransomware-over-the-next-two-years/)
-* [Global fintech firm EquiLend offline after recent cyberattack](https://www.bleepingcomputer.com/news/security/global-fintech-firm-equilend-offline-after-recent-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
