@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Blackwood hackers hijack WPS Office update to install malware](https://www.bleepingcomputer.com/news/security/blackwood-hackers-hijack-wps-office-update-to-install-malware/)
 * [Russian TrickBot malware dev sentenced to 64 months in prison](https://www.bleepingcomputer.com/news/security/russian-trickbot-malware-dev-sentenced-to-64-months-in-prison/)
 * [iPhone apps abuse iOS push notifications to collect user data](https://www.bleepingcomputer.com/news/security/iphone-apps-abuse-ios-push-notifications-to-collect-user-data/)
 * [Tesla hacked again, 24 more zero-days exploited at Pwn2Own Tokyo](https://www.bleepingcomputer.com/news/security/tesla-hacked-again-24-more-zero-days-exploited-at-pwn2own-tokyo/)
 * [Cisco warns of critical RCE flaw in communications software](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-rce-flaw-in-communications-software/)
-* [Hackers target WordPress database plugin active on 1 million sites](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-database-plugin-active-on-1-million-sites/)
 <!--END_SECTION:feed-->
 
 <!--
