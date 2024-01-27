@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kansas public transportation authority hit by ransomware](https://www.bleepingcomputer.com/news/security/kansas-public-transportation-authority-hit-by-ransomware/)
 * [Microsoft releases first Windows Server 2025 preview build](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-first-windows-server-2025-preview-build/)
 * [Microsoft introduces flighting for Windows Server insiders](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-flighting-for-windows-server-insiders/)
 * [Microsoft Teams outage causes connection issues, message delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-causes-connection-issues-message-delays/)
 * [Ukraine: Hack wiped 2 petabytes of data from Russian research center](https://www.bleepingcomputer.com/news/security/ukraine-hack-wiped-2-petabytes-of-data-from-russian-research-center/)
-* [Microsoft reveals how hackers breached its Exchange Online accounts](https://www.bleepingcomputer.com/news/security/microsoft-reveals-how-hackers-breached-its-exchange-online-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
