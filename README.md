@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Online ransomware decryptor helps recover partially encrypted files](https://www.bleepingcomputer.com/news/security/online-ransomware-decryptor-helps-recover-partially-encrypted-files/)
+* [US charges two more suspects with DraftKing account hacks](https://www.bleepingcomputer.com/news/security/us-charges-two-more-suspects-with-draftking-account-hacks/)
 * [Vastaamo hacker traced via ‘untraceable’ Monero transactions, police says](https://www.bleepingcomputer.com/news/security/vastaamo-hacker-traced-via-untraceable-monero-transactions-police-says/)
 * [A mishandled GitHub token exposed Mercedes-Benz source code](https://www.bleepingcomputer.com/news/security/a-mishandled-github-token-exposed-mercedes-benz-source-code/)
 * [Microsoft Teams phishing pushes DarkGate malware via group chats](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-pushes-darkgate-malware-via-group-chats/)
-* [How SMBs can lower their risk of cyberattacks and data breaches](https://www.bleepingcomputer.com/news/security/how-smbs-can-lower-their-risk-of-cyberattacks-and-data-breaches/)
-* [Citibank sued over failure to defend customers against hacks, fraud](https://www.bleepingcomputer.com/news/technology/citibank-sued-over-failure-to-defend-customers-against-hacks-fraud/)
 <!--END_SECTION:feed-->
 
 <!--
