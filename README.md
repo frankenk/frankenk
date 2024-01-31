@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: Vendors must secure SOHO routers against Volt Typhoon attacks](https://www.bleepingcomputer.com/news/security/cisa-vendors-must-secure-soho-routers-against-volt-typhoon-attacks/)
 * [Johnson Controls says ransomware attack cost $27 million, data stolen](https://www.bleepingcomputer.com/news/security/johnson-controls-says-ransomware-attack-cost-27-million-data-stolen/)
 * [Ivanti warns of new Connect Secure zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-connect-secure-zero-day-exploited-in-attacks/)
 * [New Linux glibc flaw lets attackers get root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-glibc-flaw-lets-attackers-get-root-on-major-distros/)
 * [Online ransomware decryptor helps recover partially encrypted files](https://www.bleepingcomputer.com/news/security/online-ransomware-decryptor-helps-recover-partially-encrypted-files/)
-* [US charges two more suspects with DraftKing account hacks](https://www.bleepingcomputer.com/news/security/us-charges-two-more-suspects-with-draftking-account-hacks/)
 <!--END_SECTION:feed-->
 
 <!--
