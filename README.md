@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [PurpleFox malware infected thousands of systems in Ukraine](https://www.bleepingcomputer.com/news/security/purplefox-malware-infected-thousands-of-systems-in-ukraine/)
+* [Microsoft fixes connection issue affecting Outlook email apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-connection-issue-affecting-outlook-email-apps/)
+* [More Android apps riddled with malware spotted on Google Play](https://www.bleepingcomputer.com/news/security/more-android-apps-riddled-with-malware-spotted-on-google-play/)
+* [PurpleFox malware infects thousands of computers in Ukraine](https://www.bleepingcomputer.com/news/security/purplefox-malware-infects-thousands-of-computers-in-ukraine/)
 * [Google shares fix for Pixel phones hit by bad system update](https://www.bleepingcomputer.com/news/mobile/google-shares-fix-for-pixel-phones-hit-by-bad-system-update/)
 * [New Windows Event Log zero-day flaw gets unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-event-log-zero-day-flaw-gets-unofficial-patches/)
-* [CISA orders federal agencies to disconnect Ivanti VPN appliances by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-disconnect-ivanti-vpn-appliances-by-saturday/)
-* [Hackers push USB malware payloads via news, media hosting sites](https://www.bleepingcomputer.com/news/security/hackers-push-usb-malware-payloads-via-news-media-hosting-sites/)
 <!--END_SECTION:feed-->
 
 <!--
