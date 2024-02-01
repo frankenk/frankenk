@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA orders federal agencies to disconnect Ivanti VPN appliances by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-disconnect-ivanti-vpn-appliances-by-saturday/)
 * [Hackers push USB malware payloads via news, media hosting sites](https://www.bleepingcomputer.com/news/security/hackers-push-usb-malware-payloads-via-news-media-hosting-sites/)
 * [Police seize record 50,000 Bitcoin from now-defunct piracy site](https://www.bleepingcomputer.com/news/legal/police-seize-record-50-000-bitcoin-from-now-defunct-piracy-site/)
 * [Europcar denies data breach of 50 million users, says data is fake](https://www.bleepingcomputer.com/news/security/europcar-denies-data-breach-of-50-million-users-says-data-is-fake/)
 * [Exploit released for Android local elevation flaw impacting 7 OEMs](https://www.bleepingcomputer.com/news/security/exploit-released-for-android-local-elevation-flaw-impacting-7-oems/)
-* [CISA warns of patched iPhone kernel bug now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-patched-iphone-kernel-bug-now-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
