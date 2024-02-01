@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare hacked using auth tokens stolen in Okta attack](https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/)
 * [Microsoft fixes connection issue affecting Outlook email apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-connection-issue-affecting-outlook-email-apps/)
 * [More Android apps riddled with malware spotted on Google Play](https://www.bleepingcomputer.com/news/security/more-android-apps-riddled-with-malware-spotted-on-google-play/)
 * [PurpleFox malware infects thousands of computers in Ukraine](https://www.bleepingcomputer.com/news/security/purplefox-malware-infects-thousands-of-computers-in-ukraine/)
 * [Google shares fix for Pixel phones hit by bad system update](https://www.bleepingcomputer.com/news/mobile/google-shares-fix-for-pixel-phones-hit-by-bad-system-update/)
-* [New Windows Event Log zero-day flaw gets unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-event-log-zero-day-flaw-gets-unofficial-patches/)
 <!--END_SECTION:feed-->
 
 <!--
