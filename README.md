@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google shares fix for Pixel phones hit by bad system update](https://www.bleepingcomputer.com/news/mobile/google-shares-fix-for-pixel-phones-hit-by-bad-system-update/)
+* [New Windows Event Log zero-day flaw gets unofficial patches](https://www.bleepingcomputer.com/news/microsoft/new-windows-event-log-zero-day-flaw-gets-unofficial-patches/)
 * [CISA orders federal agencies to disconnect Ivanti VPN appliances by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-federal-agencies-to-disconnect-ivanti-vpn-appliances-by-saturday/)
 * [Hackers push USB malware payloads via news, media hosting sites](https://www.bleepingcomputer.com/news/security/hackers-push-usb-malware-payloads-via-news-media-hosting-sites/)
 * [Police seize record 50,000 Bitcoin from now-defunct piracy site](https://www.bleepingcomputer.com/news/legal/police-seize-record-50-000-bitcoin-from-now-defunct-piracy-site/)
-* [Europcar denies data breach of 50 million users, says data is fake](https://www.bleepingcomputer.com/news/security/europcar-denies-data-breach-of-50-million-users-says-data-is-fake/)
-* [Exploit released for Android local elevation flaw impacting 7 OEMs](https://www.bleepingcomputer.com/news/security/exploit-released-for-android-local-elevation-flaw-impacting-7-oems/)
 <!--END_SECTION:feed-->
 
 <!--
