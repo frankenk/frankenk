@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BTC-e server admin indicted for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/legal/btc-e-server-admin-indicted-for-laundering-ransom-payments-stolen-crypto/)
+* [Interpol operation Synergia takes down 1,300 servers used for cybercrime](https://www.bleepingcomputer.com/news/legal/interpol-operation-synergia-takes-down-1-300-servers-used-for-cybercrime/)
 * [FTC orders Blackbaud to boost security after massive data breach](https://www.bleepingcomputer.com/news/security/ftc-orders-blackbaud-to-boost-security-after-massive-data-breach/)
 * [Cloudflare hacked using auth tokens stolen in Okta attack](https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/)
 * [Microsoft fixes connection issue affecting Outlook email apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-connection-issue-affecting-outlook-email-apps/)
-* [More Android apps riddled with malware spotted on Google Play](https://www.bleepingcomputer.com/news/security/more-android-apps-riddled-with-malware-spotted-on-google-play/)
-* [PurpleFox malware infects thousands of computers in Ukraine](https://www.bleepingcomputer.com/news/security/purplefox-malware-infects-thousands-of-computers-in-ukraine/)
 <!--END_SECTION:feed-->
 
 <!--
