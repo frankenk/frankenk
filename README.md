@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lurie Children's Hospital took systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/lurie-childrens-hospital-took-systems-offline-after-cyberattack/)
 * [BTC-e server admin indicted for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/legal/btc-e-server-admin-indicted-for-laundering-ransom-payments-stolen-crypto/)
 * [Interpol operation Synergia takes down 1,300 servers used for cybercrime](https://www.bleepingcomputer.com/news/legal/interpol-operation-synergia-takes-down-1-300-servers-used-for-cybercrime/)
 * [FTC orders Blackbaud to boost security after massive data breach](https://www.bleepingcomputer.com/news/security/ftc-orders-blackbaud-to-boost-security-after-massive-data-breach/)
 * [Cloudflare hacked using auth tokens stolen in Okta attack](https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/)
-* [Microsoft fixes connection issue affecting Outlook email apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-connection-issue-affecting-outlook-email-apps/)
 <!--END_SECTION:feed-->
 
 <!--
