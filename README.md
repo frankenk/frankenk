@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mastodon vulnerability allows attackers to take over accounts](https://www.bleepingcomputer.com/news/security/mastodon-vulnerability-allows-attackers-to-take-over-accounts/)
 * [The Week in Ransomware - February 2nd 2024 - No honor among thieves](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-2nd-2024-no-honor-among-thieves/)
 * [AnyDesk says hackers breached its production servers, reset passwords](https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/)
 * [Lurie Children's Hospital took systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/lurie-childrens-hospital-took-systems-offline-after-cyberattack/)
 * [BTC-e server admin indicted for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/legal/btc-e-server-admin-indicted-for-laundering-ransom-payments-stolen-crypto/)
-* [Interpol operation Synergia takes down 1,300 servers used for cybercrime](https://www.bleepingcomputer.com/news/legal/interpol-operation-synergia-takes-down-1-300-servers-used-for-cybercrime/)
 <!--END_SECTION:feed-->
 
 <!--
