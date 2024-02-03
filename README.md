@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [AnyDesk says hackers breached its production servers, resets passwords](https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-resets-passwords/)
+* [The Week in Ransomware - February 2nd 2024 - No honor among thieves](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-2nd-2024-no-honor-among-thieves/)
+* [AnyDesk says hackers breached its production servers, reset passwords](https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/)
 * [Lurie Children's Hospital took systems offline after cyberattack](https://www.bleepingcomputer.com/news/security/lurie-childrens-hospital-took-systems-offline-after-cyberattack/)
 * [BTC-e server admin indicted for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/legal/btc-e-server-admin-indicted-for-laundering-ransom-payments-stolen-crypto/)
 * [Interpol operation Synergia takes down 1,300 servers used for cybercrime](https://www.bleepingcomputer.com/news/legal/interpol-operation-synergia-takes-down-1-300-servers-used-for-cybercrime/)
-* [FTC orders Blackbaud to boost security after massive data breach](https://www.bleepingcomputer.com/news/security/ftc-orders-blackbaud-to-boost-security-after-massive-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
