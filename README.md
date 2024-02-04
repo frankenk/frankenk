@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft is bringing the Linux sudo command to Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-the-linux-sudo-command-to-windows-server/)
 * [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
 * [Clorox says cyberattack caused $49 million in expenses](https://www.bleepingcomputer.com/news/security/clorox-says-cyberattack-caused-49-million-in-expenses/)
 * [Check if you're in Google Chrome's third-party cookie phaseout test](https://www.bleepingcomputer.com/news/google/check-if-youre-in-google-chromes-third-party-cookie-phaseout-test/)
 * [Mastodon vulnerability allows attackers to take over accounts](https://www.bleepingcomputer.com/news/security/mastodon-vulnerability-allows-attackers-to-take-over-accounts/)
-* [The Week in Ransomware - February 2nd 2024 - No honor among thieves](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-february-2nd-2024-no-honor-among-thieves/)
 <!--END_SECTION:feed-->
 
 <!--
