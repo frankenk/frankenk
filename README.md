@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Outlook December updates trigger ICS security alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-december-updates-trigger-ics-security-alerts/)
 * [US announces visa ban on those linked to commercial spyware](https://www.bleepingcomputer.com/news/security/us-announces-visa-ban-on-those-linked-to-commercial-spyware/)
 * [HPE investigates new breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/hpe-investigates-new-breach-after-data-for-sale-on-hacking-forum/)
 * [Newest Ivanti SSRF zero-day now under mass exploitation](https://www.bleepingcomputer.com/news/security/newest-ivanti-ssrf-zero-day-now-under-mass-exploitation/)
 * [Microsoft is bringing the Linux sudo command to Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-bringing-the-linux-sudo-command-to-windows-server/)
-* [Leaky Vessels flaws allow hackers to escape Docker, runc containers](https://www.bleepingcomputer.com/news/security/leaky-vessels-flaws-allow-hackers-to-escape-docker-runc-containers/)
 <!--END_SECTION:feed-->
 
 <!--
