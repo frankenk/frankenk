@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Denmark orders schools to stop sending student data to Google](https://www.bleepingcomputer.com/news/google/denmark-orders-schools-to-stop-sending-student-data-to-google/)
+* [Chinese hackers hid in US infrastructure network for 5 years](https://www.bleepingcomputer.com/news/security/chinese-hackers-hid-in-us-infrastructure-network-for-5-years/)
 * [Google tests blocking side-loaded Android apps with risky permissions](https://www.bleepingcomputer.com/news/security/google-tests-blocking-side-loaded-android-apps-with-risky-permissions/)
 * [Critical Cisco bug exposes Expressway gateways to CSRF attacks](https://www.bleepingcomputer.com/news/security/critical-cisco-bug-exposes-expressway-gateways-to-csrf-attacks/)
 * [No, 3 million electric toothbrushes were not used in a DDoS attack](https://www.bleepingcomputer.com/news/security/no-3-million-electric-toothbrushes-were-not-used-in-a-ddos-attack/)
-* [Critical flaw in Shim bootloader impacts major Linux distros](https://www.bleepingcomputer.com/news/security/critical-flaw-in-shim-bootloader-impacts-major-linux-distros/)
-* [How to Apply Zero Trust to your Active Directory](https://www.bleepingcomputer.com/news/security/how-to-apply-zero-trust-to-your-active-directory/)
 <!--END_SECTION:feed-->
 
 <!--
