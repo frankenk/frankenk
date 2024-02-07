@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The unlikely 3 million electric toothbrush DDoS attack](https://www.bleepingcomputer.com/news/security/the-unlikely-3-million-electric-toothbrush-ddos-attack/)
 * [Critical flaw in Shim bootloader impacts major Linux distros](https://www.bleepingcomputer.com/news/security/critical-flaw-in-shim-bootloader-impacts-major-linux-distros/)
+* [How to Apply Zero Trust to your Active Directory](https://www.bleepingcomputer.com/news/security/how-to-apply-zero-trust-to-your-active-directory/)
+* [Chinese hackers fail to rebuild botnet after FBI takedown](https://www.bleepingcomputer.com/news/security/chinese-hackers-fail-to-rebuild-botnet-after-fbi-takedown/)
+* [Ransomware payments reached record * [Critical flaw in Shim bootloader impacts major Linux distros](https://www.bleepingcomputer.com/news/security/critical-flaw-in-shim-bootloader-impacts-major-linux-distros/)
 * [How to Apply Zero Trust to your Active Directory](https://www.bleepingcomputer.com/news/security/how-to-apply-zero-trust-to-your-active-directory/)
 * [Chinese hackers fail to rebuild botnet after FBI takedown](https://www.bleepingcomputer.com/news/security/chinese-hackers-fail-to-rebuild-botnet-after-fbi-takedown/)
 * [Ransomware payments reached record * [Critical flaw in Shim bootloader impacts major Linux distros](https://www.bleepingcomputer.com/news/security/critical-flaw-in-shim-bootloader-impacts-major-linux-distros/)
@@ -17,7 +21,7 @@
 * [Data breach at French healthcare services firm puts millions at risk](https://www.bleepingcomputer.com/news/security/data-breach-at-french-healthcare-services-firm-puts-millions-at-risk/)
 * [JetBrains warns of new TeamCity auth bypass vulnerability](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-new-teamcity-auth-bypass-vulnerability/).1 billion in 2023](https://www.bleepingcomputer.com/news/security/ransomware-payments-reached-record-11-billion-in-2023/)
 * [Fortinet snafu: Critical FortiSIEM CVEs are duplicates, issued in error](https://www.bleepingcomputer.com/news/security/fortinet-snafu-critical-fortisiem-cves-are-duplicates-issued-in-error/).1 billion in 2023](https://www.bleepingcomputer.com/news/security/ransomware-payments-reached-record-11-billion-in-2023/)
-* [Fortinet snafu: Critical FortiSIEM CVEs are duplicates, issued in error](https://www.bleepingcomputer.com/news/security/fortinet-snafu-critical-fortisiem-cves-are-duplicates-issued-in-error/)
+* [Fortinet snafu: Critical FortiSIEM CVEs are duplicates, issued in error](https://www.bleepingcomputer.com/news/security/fortinet-snafu-critical-fortisiem-cves-are-duplicates-issued-in-error/).1 billion in 2023](https://www.bleepingcomputer.com/news/security/ransomware-payments-reached-record-11-billion-in-2023/)
 <!--END_SECTION:feed-->
 
 <!--
