@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Data breaches at Viamedis and Almerys impact 33 million in France](https://www.bleepingcomputer.com/news/security/data-breaches-at-viamedis-and-almerys-impact-33-million-in-france/)
 * [Google teases a new modern look for sign-in pages, including Gmail](https://www.bleepingcomputer.com/news/google/google-teases-a-new-modern-look-for-sign-in-pages-including-gmail/)
 * [Fortinet warns of new FortiSIEM RCE bugs in confusing disclosure](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortisiem-rce-bugs-in-confusing-disclosure/)
 * [Facebook ads push new Ov3r_Stealer password-stealing malware](https://www.bleepingcomputer.com/news/security/facebook-ads-push-new-ov3r-stealer-password-stealing-malware/)
 * [Denmark orders schools to stop sending student data to Google](https://www.bleepingcomputer.com/news/google/denmark-orders-schools-to-stop-sending-student-data-to-google/)
-* [Chinese hackers hid in US infrastructure network for 5 years](https://www.bleepingcomputer.com/news/security/chinese-hackers-hid-in-us-infrastructure-network-for-5-years/)
 <!--END_SECTION:feed-->
 
 <!--
