@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Canada to ban the Flipper Zero to stop surge in car thefts](https://www.bleepingcomputer.com/news/security/canada-to-ban-the-flipper-zero-to-stop-surge-in-car-thefts/)
 * [Microsoft: Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-clients-not-syncing-over-exchange-activesync/)
+* [New RustDoor macOS malware impersonates Visual Studio update](https://www.bleepingcomputer.com/news/security/new-rustdoor-macos-malware-impersonates-visual-studio-update/)
+* [Americans lost record * [Microsoft: Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-clients-not-syncing-over-exchange-activesync/)
 * [New RustDoor macOS malware impersonates Visual Studio update](https://www.bleepingcomputer.com/news/security/new-rustdoor-macos-malware-impersonates-visual-studio-update/)
 * [Americans lost record * [Microsoft: Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-clients-not-syncing-over-exchange-activesync/)
 * [New RustDoor macOS malware impersonates Visual Studio update](https://www.bleepingcomputer.com/news/security/new-rustdoor-macos-malware-impersonates-visual-studio-update/)
@@ -21,7 +24,8 @@
 * [New Fortinet RCE flaw in SSL VPN likely exploited in attacks](https://www.bleepingcomputer.com/news/security/new-fortinet-rce-flaw-in-ssl-vpn-likely-exploited-in-attacks/)
 * [Microsoft fixes Copilot issue blocking Windows 11 upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-copilot-issue-blocking-windows-11-upgrades/)0 billion to fraud in 2023, FTC warns](https://www.bleepingcomputer.com/news/security/americans-lost-record-10-billion-to-fraud-in-2023-ftc-warns/)
 * [New Fortinet RCE flaw in SSL VPN likely exploited in attacks](https://www.bleepingcomputer.com/news/security/new-fortinet-rce-flaw-in-ssl-vpn-likely-exploited-in-attacks/)
-* [Microsoft fixes Copilot issue blocking Windows 11 upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-copilot-issue-blocking-windows-11-upgrades/)
+* [Microsoft fixes Copilot issue blocking Windows 11 upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-copilot-issue-blocking-windows-11-upgrades/)0 billion to fraud in 2023, FTC warns](https://www.bleepingcomputer.com/news/security/americans-lost-record-10-billion-to-fraud-in-2023-ftc-warns/)
+* [New Fortinet RCE flaw in SSL VPN likely exploited in attacks](https://www.bleepingcomputer.com/news/security/new-fortinet-rce-flaw-in-ssl-vpn-likely-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
