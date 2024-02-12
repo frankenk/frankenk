@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FCC orders telecom carriers to report PII data breaches within 30 days](https://www.bleepingcomputer.com/news/security/fcc-orders-telecom-carriers-to-report-pii-data-breaches-within-30-days/)
+* [Microsoft tests Windows 11 ‘Super Resolution’ AI-upscaling for gamers](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-windows-11-super-resolution-ai-upscaling-for-gamers/)
 * [Ongoing Microsoft Azure account hijacking campaign targets executives](https://www.bleepingcomputer.com/news/security/ongoing-microsoft-azure-account-hijacking-campaign-targets-executives/)
 * [CISA: Roundcube email server bug now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-roundcube-email-server-bug-now-exploited-in-attacks/)
 * [Hackers exploit Ivanti SSRF flaw to deploy new DSLog backdoor](https://www.bleepingcomputer.com/news/security/hackers-exploit-ivanti-ssrf-flaw-to-deploy-new-dslog-backdoor/)
-* [Free Rhysida ransomware decryptor for Windows exploits RNG flaw](https://www.bleepingcomputer.com/news/security/free-rhysida-ransomware-decryptor-for-windows-exploits-rng-flaw/)
-* [Ransomware attack forces 21 Romanian hospitals to go offline](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-21-romanian-hospitals-to-go-offline/)
 <!--END_SECTION:feed-->
 
 <!--
