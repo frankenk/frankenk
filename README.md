@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ongoing Microsoft Azure account hijacking campaign targets executives](https://www.bleepingcomputer.com/news/security/ongoing-microsoft-azure-account-hijacking-campaign-targets-executives/)
 * [CISA: Roundcube email server bug now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-roundcube-email-server-bug-now-exploited-in-attacks/)
 * [Hackers exploit Ivanti SSRF flaw to deploy new DSLog backdoor](https://www.bleepingcomputer.com/news/security/hackers-exploit-ivanti-ssrf-flaw-to-deploy-new-dslog-backdoor/)
 * [Free Rhysida ransomware decryptor for Windows exploits RNG flaw](https://www.bleepingcomputer.com/news/security/free-rhysida-ransomware-decryptor-for-windows-exploits-rng-flaw/)
 * [Ransomware attack forces 21 Romanian hospitals to go offline](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-21-romanian-hospitals-to-go-offline/)
-* [ExpressVPN bug has been leaking some DNS requests for years](https://www.bleepingcomputer.com/news/security/expressvpn-bug-has-been-leaking-some-dns-requests-for-years/)
 <!--END_SECTION:feed-->
 
 <!--
