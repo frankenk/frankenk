@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [200,000 Facebook Marketplace user records leaked on hacking forum](https://www.bleepingcomputer.com/news/security/200-000-facebook-marketplace-user-records-leaked-on-hacking-forum/)
+* [Integris Health says data breach impacts 2.4 million patients](https://www.bleepingcomputer.com/news/security/integris-health-says-data-breach-impacts-24-million-patients/)
+* [Microsoft February 2024 Patch Tuesday fixes 2 zero-days, 74 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2024-patch-tuesday-fixes-2-zero-days-74-flaws/)
 * [Windows 11 KB5034765 update released with Start Menu fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034765-update-released-with-start-menu-fixes/)
 * [Hackers steal $290 million in crypto from PlayDapp gaming platform](https://www.bleepingcomputer.com/news/security/hackers-steal-290-million-in-crypto-from-playdapp-gaming-platform/)
-* [Bumblebee malware attacks are back after 4-month break](https://www.bleepingcomputer.com/news/security/bumblebee-malware-attacks-are-back-after-4-month-break/)
-* [5 Steps to Improve Your Security Posture in Microsoft Teams](https://www.bleepingcomputer.com/news/security/5-steps-to-improve-your-security-posture-in-microsoft-teams/)
-* [Bank of America warns customers of data breach after vendor hack](https://www.bleepingcomputer.com/news/security/bank-of-america-warns-customers-of-data-breach-after-vendor-hack/)
 <!--END_SECTION:feed-->
 
 <!--
