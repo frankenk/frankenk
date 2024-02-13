@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers steal $290 million in crypto from PlayDapp gaming platform](https://www.bleepingcomputer.com/news/security/hackers-steal-290-million-in-crypto-from-playdapp-gaming-platform/)
 * [Bumblebee malware attacks are back after 4-month break](https://www.bleepingcomputer.com/news/security/bumblebee-malware-attacks-are-back-after-4-month-break/)
 * [5 Steps to Improve Your Security Posture in Microsoft Teams](https://www.bleepingcomputer.com/news/security/5-steps-to-improve-your-security-posture-in-microsoft-teams/)
 * [Bank of America warns customers of data breach after vendor hack](https://www.bleepingcomputer.com/news/security/bank-of-america-warns-customers-of-data-breach-after-vendor-hack/)
 * [FBI seizes Warzone RAT infrastructure, arrests malware vendor](https://www.bleepingcomputer.com/news/security/fbi-seizes-warzone-rat-infrastructure-arrests-malware-vendor/)
-* [FCC orders telecom carriers to report PII data breaches within 30 days](https://www.bleepingcomputer.com/news/security/fcc-orders-telecom-carriers-to-report-pii-data-breaches-within-30-days/)
 <!--END_SECTION:feed-->
 
 <!--
