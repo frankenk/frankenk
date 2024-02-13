@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers used new Windows Defender zero-day to drop DarkMe malware](https://www.bleepingcomputer.com/news/security/hackers-used-new-windows-defender-zero-day-to-drop-darkme-malware/)
+* [Windows 10 KB5034763 update released with new fixes, changes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034763-update-released-with-new-fixes-changes/)
 * [200,000 Facebook Marketplace user records leaked on hacking forum](https://www.bleepingcomputer.com/news/security/200-000-facebook-marketplace-user-records-leaked-on-hacking-forum/)
 * [Integris Health says data breach impacts 2.4 million patients](https://www.bleepingcomputer.com/news/security/integris-health-says-data-breach-impacts-24-million-patients/)
-* [Microsoft February 2024 Patch Tuesday fixes 2 zero-days, 74 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2024-patch-tuesday-fixes-2-zero-days-74-flaws/)
-* [Windows 11 KB5034765 update released with Start Menu fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034765-update-released-with-start-menu-fixes/)
-* [Hackers steal $290 million in crypto from PlayDapp gaming platform](https://www.bleepingcomputer.com/news/security/hackers-steal-290-million-in-crypto-from-playdapp-gaming-platform/)
+* [Microsoft February 2024 Patch Tuesday fixes 2 zero-days, 73 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2024-patch-tuesday-fixes-2-zero-days-73-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
