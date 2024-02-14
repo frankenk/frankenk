@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [German battery maker Varta halts production after cyberattack](https://www.bleepingcomputer.com/news/security/german-battery-maker-varta-halts-production-after-cyberattack/)
 * [Ubuntu 'command-not-found' tool can be abused to spread malware](https://www.bleepingcomputer.com/news/security/ubuntu-command-not-found-tool-can-be-abused-to-spread-malware/)
 * [Trans-Northern Pipelines investigating ALPHV ransomware attack claims](https://www.bleepingcomputer.com/news/security/trans-northern-pipelines-investigating-alphv-ransomware-attack-claims/)
 * [DuckDuckGo browser gets end-to-end encrypted sync feature](https://www.bleepingcomputer.com/news/security/duckduckgo-browser-gets-end-to-end-encrypted-sync-feature/)
 * [Prudential Financial breached in data theft cyberattack](https://www.bleepingcomputer.com/news/security/prudential-financial-breached-in-data-theft-cyberattack/)
-* [Hackers used new Windows Defender zero-day to drop DarkMe malware](https://www.bleepingcomputer.com/news/security/hackers-used-new-windows-defender-zero-day-to-drop-darkme-malware/)
 <!--END_SECTION:feed-->
 
 <!--
