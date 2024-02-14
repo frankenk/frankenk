@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ubuntu 'command-not-found' tool can be abused to spread malware](https://www.bleepingcomputer.com/news/security/ubuntu-command-not-found-tool-can-be-abused-to-spread-malware/)
+* [Trans-Northern Pipelines investigating ALPHV ransomware attack claims](https://www.bleepingcomputer.com/news/security/trans-northern-pipelines-investigating-alphv-ransomware-attack-claims/)
 * [DuckDuckGo browser gets end-to-end encrypted sync feature](https://www.bleepingcomputer.com/news/security/duckduckgo-browser-gets-end-to-end-encrypted-sync-feature/)
 * [Prudential Financial breached in data theft cyberattack](https://www.bleepingcomputer.com/news/security/prudential-financial-breached-in-data-theft-cyberattack/)
 * [Hackers used new Windows Defender zero-day to drop DarkMe malware](https://www.bleepingcomputer.com/news/security/hackers-used-new-windows-defender-zero-day-to-drop-darkme-malware/)
-* [Windows 10 KB5034763 update released with new fixes, changes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034763-update-released-with-new-fixes-changes/)
-* [200,000 Facebook Marketplace user records leaked on hacking forum](https://www.bleepingcomputer.com/news/security/200-000-facebook-marketplace-user-records-leaked-on-hacking-forum/)
 <!--END_SECTION:feed-->
 
 <!--
