@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit critical RCE flaw in Bricks WordPress site builder](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/)
+* [Wyze camera glitch gave 13,000 users a peek into other homes](https://www.bleepingcomputer.com/news/security/wyze-camera-glitch-gave-13-000-users-a-peek-into-other-homes/)
 * [Anatsa Android malware downloaded 150,000 times via Google Play](https://www.bleepingcomputer.com/news/security/anatsa-android-malware-downloaded-150-000-times-via-google-play/)
 * [Hacker arrested for selling bank accounts of US, Canadian users](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-selling-bank-accounts-of-us-canadian-users/)
 * [KeyTrap attack: Internet access disrupted with one DNS packet](https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/)
-* [New Google Chrome feature blocks attacks against home networks](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-blocks-attacks-against-home-networks/)
-* [ALPHV ransomware claims loanDepot, Prudential Financial breaches](https://www.bleepingcomputer.com/news/security/alphv-ransomware-claims-loandepot-prudential-financial-breaches/)
 <!--END_SECTION:feed-->
 
 <!--
