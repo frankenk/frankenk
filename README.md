@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LockBit ransomware disrupted by global police operation](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupted-by-global-police-operation/)
 * [North Korean hackers linked to defense sector supply-chain attack](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-defense-sector-supply-chain-attack/)
 * [Cactus ransomware claim to steal 1.5TB of Schneider Electric data](https://www.bleepingcomputer.com/news/security/cactus-ransomware-claim-to-steal-15tb-of-schneider-electric-data/)
 * [Over 28,500 Exchange servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-28-500-exchange-servers-vulnerable-to-actively-exploited-bug/)
 * [Hackers exploit critical RCE flaw in Bricks WordPress site builder](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/)
-* [Wyze camera glitch gave 13,000 users a peek into other homes](https://www.bleepingcomputer.com/news/security/wyze-camera-glitch-gave-13-000-users-a-peek-into-other-homes/)
 <!--END_SECTION:feed-->
 
 <!--
