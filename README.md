@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cactus ransomware claim to steal 1.5TB of Schneider Electric data](https://www.bleepingcomputer.com/news/security/cactus-ransomware-claim-to-steal-15tb-of-schneider-electric-data/)
+* [Over 28,500 Exchange servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-28-500-exchange-servers-vulnerable-to-actively-exploited-bug/)
 * [Hackers exploit critical RCE flaw in Bricks WordPress site builder](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/)
 * [Wyze camera glitch gave 13,000 users a peek into other homes](https://www.bleepingcomputer.com/news/security/wyze-camera-glitch-gave-13-000-users-a-peek-into-other-homes/)
 * [Anatsa Android malware downloaded 150,000 times via Google Play](https://www.bleepingcomputer.com/news/security/anatsa-android-malware-downloaded-150-000-times-via-google-play/)
-* [Hacker arrested for selling bank accounts of US, Canadian users](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-selling-bank-accounts-of-us-canadian-users/)
-* [KeyTrap attack: Internet access disrupted with one DNS packet](https://www.bleepingcomputer.com/news/security/keytrap-attack-internet-access-disrupted-with-one-dns-packet/)
 <!--END_SECTION:feed-->
 
 <!--
