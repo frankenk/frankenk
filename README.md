@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police arrests LockBit ransomware members, release decryptor in global crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-lockbit-ransomware-members-release-decryptor-in-global-crackdown/)
 * [LockBit ransomware disrupted by global police operation](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupted-by-global-police-operation/)
 * [North Korean hackers linked to defense sector supply-chain attack](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-defense-sector-supply-chain-attack/)
 * [Cactus ransomware claim to steal 1.5TB of Schneider Electric data](https://www.bleepingcomputer.com/news/security/cactus-ransomware-claim-to-steal-15tb-of-schneider-electric-data/)
 * [Over 28,500 Exchange servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-28-500-exchange-servers-vulnerable-to-actively-exploited-bug/)
-* [Hackers exploit critical RCE flaw in Bricks WordPress site builder](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-rce-flaw-in-bricks-wordpress-site-builder/)
 <!--END_SECTION:feed-->
 
 <!--
