@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware Groups, Targeting Preferences, and the Access Economy](https://www.bleepingcomputer.com/news/security/ransomware-groups-targeting-preferences-and-the-access-economy/)
 * [Critical infrastructure software maker confirms ransomware attack](https://www.bleepingcomputer.com/news/security/critical-infrastructure-software-maker-confirms-ransomware-attack/)
 * [Police arrest LockBit ransomware members, release decryptor in global crackdown](https://www.bleepingcomputer.com/news/security/police-arrest-lockbit-ransomware-members-release-decryptor-in-global-crackdown/)
 * [LockBit ransomware disrupted by global police operation](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-disrupted-by-global-police-operation/)
 * [North Korean hackers linked to defense sector supply-chain attack](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-defense-sector-supply-chain-attack/)
-* [Cactus ransomware claim to steal 1.5TB of Schneider Electric data](https://www.bleepingcomputer.com/news/security/cactus-ransomware-claim-to-steal-15tb-of-schneider-electric-data/)
 <!--END_SECTION:feed-->
 
 <!--
