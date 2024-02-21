@@ -1,35 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Joomla fixes XSS flaws that could expose sites to RCE attacks](https://www.bleepingcomputer.com/news/security/joomla-fixes-xss-flaws-that-could-expose-sites-to-rce-attacks/)
+* [Microsoft finally expands free logging—but only for govt agencies](https://www.bleepingcomputer.com/news/security/microsoft-finally-expands-free-logging-but-only-for-govt-agencies/)
+* [Hackers abuse Google Cloud Run in massive banking trojan campaign](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-cloud-run-in-massive-banking-trojan-campaign/)
 * [Fraudsters tried to scam Apple out of 5,000 iPhones worth over $3 million](https://www.bleepingcomputer.com/news/security/fraudsters-tried-to-scam-apple-out-of-5-000-iphones-worth-over-3-million/)
 * [New SSH-Snake malware steals SSH keys to spread across the network](https://www.bleepingcomputer.com/news/security/new-ssh-snake-malware-steals-ssh-keys-to-spread-across-the-network/)
-* [US govt shares cyberattack defense tips for water utilities](https://www.bleepingcomputer.com/news/security/us-govt-shares-cyberattack-defense-tips-for-water-utilities/)
-* [ScreenConnect critical bug now under attack as exploit code emerges](https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/)
-* [US offers * [Fraudsters tried to scam Apple out of 5,000 iPhones worth over $3 million](https://www.bleepingcomputer.com/news/security/fraudsters-tried-to-scam-apple-out-of-5-000-iphones-worth-over-3-million/)
-* [New SSH-Snake malware steals SSH keys to spread across the network](https://www.bleepingcomputer.com/news/security/new-ssh-snake-malware-steals-ssh-keys-to-spread-across-the-network/)
-* [US govt shares cyberattack defense tips for water utilities](https://www.bleepingcomputer.com/news/security/us-govt-shares-cyberattack-defense-tips-for-water-utilities/)
-* [ScreenConnect critical bug now under attack as exploit code emerges](https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/)
-* [US offers * [US govt shares cyberattack defense tips for water utilities](https://www.bleepingcomputer.com/news/security/us-govt-shares-cyberattack-defense-tips-for-water-utilities/)
-* [ScreenConnect critical bug now under attack as exploit code emerges](https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/)
-* [US offers * [US govt shares cyberattack defense tips for water utilities](https://www.bleepingcomputer.com/news/security/us-govt-shares-cyberattack-defense-tips-for-water-utilities/)
-* [ScreenConnect critical bug now under attack as exploit code emerges](https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/)
-* [US offers * [ScreenConnect critical bug now under attack as exploit code emerges](https://www.bleepingcomputer.com/news/security/screenconnect-critical-bug-now-under-attack-as-exploit-code-emerges/)
-* [US offers * [US offers * [VMware urges admins to remove deprecated, vulnerable auth plug-in](https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/)
-* [VoltSchemer attacks use wireless chargers to inject voice commands, fry phones](https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/)
-* [New Migo malware disables protection features on Redis servers](https://www.bleepingcomputer.com/news/security/new-migo-malware-disables-protection-features-on-redis-servers/)
-* [Signal rolls out usernames that let you hide your phone number](https://www.bleepingcomputer.com/news/technology/signal-rolls-out-usernames-that-let-you-hide-your-phone-number/)
-* [ConnectWise urges ScreenConnect admins to patch critical RCE flaw](https://www.bleepingcomputer.com/news/security/connectwise-urges-screenconnect-admins-to-patch-critical-rce-flaw/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)
-* [VMware urges admins to remove deprecated, vulnerable auth plug-in](https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/)
-* [VoltSchemer attacks use wireless chargers to inject voice commands, fry phones](https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/)
-* [New Migo malware disables protection features on Redis servers](https://www.bleepingcomputer.com/news/security/new-migo-malware-disables-protection-features-on-redis-servers/)
-* [Signal rolls out usernames that let you hide your phone number](https://www.bleepingcomputer.com/news/technology/signal-rolls-out-usernames-that-let-you-hide-your-phone-number/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)
-* [VMware urges admins to remove deprecated, vulnerable auth plug-in](https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/)
-* [VoltSchemer attacks use wireless chargers to inject voice commands, fry phones](https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/)
-* [New Migo malware disables protection features on Redis servers](https://www.bleepingcomputer.com/news/security/new-migo-malware-disables-protection-features-on-redis-servers/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)
-* [VMware urges admins to remove deprecated, vulnerable auth plug-in](https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/)
-* [VoltSchemer attacks use wireless chargers to inject voice commands, fry phones](https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)
-* [VMware urges admins to remove deprecated, vulnerable auth plug-in](https://www.bleepingcomputer.com/news/security/vmware-urges-admins-to-remove-deprecated-vulnerable-auth-plug-in/)
-* [VoltSchemer attacks use wireless chargers to inject voice commands, fry phones](https://www.bleepingcomputer.com/news/security/voltschemer-attacks-use-wireless-chargers-to-inject-voice-commands-fry-phones/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)5 million bounty for info on LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/us-offers-15-million-bounty-for-info-on-lockbit-ransomware-gang/)
 <!--END_SECTION:feed-->
 
 <!--
