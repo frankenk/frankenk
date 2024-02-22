@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC to ban Avast from selling browsing data for advertising purposes](https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/)
 * [Massive AT&T, Verizon, and T-Mobile outage impacts US customers](https://www.bleepingcomputer.com/news/mobile/massive-atandt-verizon-and-t-mobile-outage-impacts-us-customers/)
 * [LockBit ransomware secretly building next-gen encryptor before takedown](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-secretly-building-next-gen-encryptor-before-takedown/)
 * [Joomla fixes XSS flaws that could expose sites to RCE attacks](https://www.bleepingcomputer.com/news/security/joomla-fixes-xss-flaws-that-could-expose-sites-to-rce-attacks/)
 * [Microsoft expands free logging capabilities after May breach](https://www.bleepingcomputer.com/news/security/microsoft-expands-free-logging-capabilities-after-may-breach/)
-* [Hackers abuse Google Cloud Run in massive banking trojan campaign](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-cloud-run-in-massive-banking-trojan-campaign/)
 <!--END_SECTION:feed-->
 
 <!--
