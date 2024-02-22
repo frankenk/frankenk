@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft has started testing Wi-Fi 7 support in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-has-started-testing-wi-fi-7-support-in-windows-11/)
 * [Microsoft now force installing Windows 11 23H2 on eligible PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-installing-windows-11-23h2-on-eligible-pcs/)
 * [Bitwarden’s new auto-fill option adds phishing resistance](https://www.bleepingcomputer.com/news/security/bitwardens-new-auto-fill-option-adds-phishing-resistance/)
 * [ScreenConnect servers hacked in LockBit ransomware attacks](https://www.bleepingcomputer.com/news/security/screenconnect-servers-hacked-in-lockbit-ransomware-attacks/)
 * [FTC to ban Avast from selling browsing data for advertising purposes](https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/)
-* [Massive AT&T outage impacts US mobile subscribers](https://www.bleepingcomputer.com/news/mobile/massive-atandt-outage-impacts-us-mobile-subscribers/)
 <!--END_SECTION:feed-->
 
 <!--
