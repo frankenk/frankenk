@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ScreenConnect servers hacked in LockBit ransomware attacks](https://www.bleepingcomputer.com/news/security/screenconnect-servers-hacked-in-lockbit-ransomware-attacks/)
 * [FTC to ban Avast from selling browsing data for advertising purposes](https://www.bleepingcomputer.com/news/security/ftc-to-ban-avast-from-selling-browsing-data-for-advertising-purposes/)
 * [Massive AT&T outage impacts US mobile subscribers](https://www.bleepingcomputer.com/news/mobile/massive-atandt-outage-impacts-us-mobile-subscribers/)
 * [LockBit ransomware secretly building next-gen encryptor before takedown](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-secretly-building-next-gen-encryptor-before-takedown/)
 * [Joomla fixes XSS flaws that could expose sites to RCE attacks](https://www.bleepingcomputer.com/news/security/joomla-fixes-xss-flaws-that-could-expose-sites-to-rce-attacks/)
-* [Microsoft expands free logging capabilities after May breach](https://www.bleepingcomputer.com/news/security/microsoft-expands-free-logging-capabilities-after-may-breach/)
 <!--END_SECTION:feed-->
 
 <!--
