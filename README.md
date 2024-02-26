@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cybersecurity Training Not Sticking? How to Fix Risky Password Habits](https://www.bleepingcomputer.com/news/security/cybersecurity-training-not-sticking-how-to-fix-risky-password-habits/)
+* [SubdoMailing campaign spams 5 million emails daily via 8k hijacked domains](https://www.bleepingcomputer.com/news/security/subdomailing-campaign-spams-5-million-emails-daily-via-8k-hijacked-domains/)
 * [LockBit ransomware returns, restores servers after police disruption](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-returns-restores-servers-after-police-disruption/)
 * [PayPal files patent for new method to detect stolen cookies](https://www.bleepingcomputer.com/news/security/paypal-files-patent-for-new-method-to-detect-stolen-cookies/)
 * [RCMP investigating cyber attack as its website remains down](https://www.bleepingcomputer.com/news/security/rcmp-investigating-cyber-attack-as-its-website-remains-down/)
-* [Apple adds PQ3 quantum-resistant encryption to iMessage](https://www.bleepingcomputer.com/news/security/apple-adds-pq3-quantum-resistant-encryption-to-imessage/)
-* [FTC sues H&R Block over deceptive 'free' online filing ads](https://www.bleepingcomputer.com/news/technology/ftc-sues-handr-block-over-deceptive-free-online-filing-ads/)
 <!--END_SECTION:feed-->
 
 <!--
