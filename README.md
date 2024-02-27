@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UnitedHealth subsidiary Optum hack linked to BlackCat ransomware](https://www.bleepingcomputer.com/news/security/unitedhealth-subsidiary-optum-hack-linked-to-blackcat-ransomware/)
 * [New IDAT loader version uses steganography to push Remcos RAT](https://www.bleepingcomputer.com/news/security/new-idat-loader-version-uses-steganography-to-push-remcos-rat/)
 * [Mowing down demons: DOOM comes to Husqvarna smart lawnmowers](https://www.bleepingcomputer.com/news/technology/mowing-down-demons-doom-comes-to-husqvarna-smart-lawnmowers/)
 * [White House urges devs to switch to memory-safe programming languages](https://www.bleepingcomputer.com/news/security/white-house-urges-devs-to-switch-to-memory-safe-programming-languages/)
 * [Hackers exploit 14-year-old CMS editor on govt, edu sites for SEO poisoning](https://www.bleepingcomputer.com/news/security/hackers-exploit-14-year-old-cms-editor-on-govt-edu-sites-for-seo-poisoning/)
-* [Russian hackers shift to cloud attacks, US and allies warn](https://www.bleepingcomputer.com/news/security/russian-hackers-shift-to-cloud-attacks-us-and-allies-warn/)
 <!--END_SECTION:feed-->
 
 <!--
