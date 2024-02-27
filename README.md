@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI, CISA warn US hospitals of targeted BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-us-hospitals-of-targeted-blackcat-ransomware-attacks/)
 * [LabHost cybercrime service lets anyone phish Canadian bank users](https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/)
 * [Black Basta, Bl00dy ransomware gangs join ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/black-basta-bl00dy-ransomware-gangs-join-screenconnect-attacks/)
 * [Russian hackers hijack Ubiquiti routers to launch stealthy attacks](https://www.bleepingcomputer.com/news/security/russian-hackers-hijack-ubiquiti-routers-to-launch-stealthy-attacks/)
 * [Hessen Consumer Center says systems encrypted by ransomware](https://www.bleepingcomputer.com/news/security/hessen-consumer-center-says-systems-encrypted-by-ransomware/)
-* [Malicious code in Tornado Cash governance proposal puts user funds at risk](https://www.bleepingcomputer.com/news/security/malicious-code-in-tornado-cash-governance-proposal-puts-user-funds-at-risk/)
 <!--END_SECTION:feed-->
 
 <!--
