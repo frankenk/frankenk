@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Savvy Seahorse gang uses DNS CNAME records to power investor scams](https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/)
 * [Registrars can now block all domains that resemble brand names](https://www.bleepingcomputer.com/news/technology/registrars-can-now-block-all-domains-that-resemble-brand-names/)
 * [Pharmaceutical giant Cencora says data was stolen in a cyberattack](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-cencora-says-data-was-stolen-in-a-cyberattack/)
 * [FBI, CISA warn US hospitals of targeted BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-us-hospitals-of-targeted-blackcat-ransomware-attacks/)
 * [LabHost cybercrime service lets anyone phish Canadian bank users](https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/)
-* [Black Basta, Bl00dy ransomware gangs join ScreenConnect attacks](https://www.bleepingcomputer.com/news/security/black-basta-bl00dy-ransomware-gangs-join-screenconnect-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
