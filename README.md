@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LockBit ransomware returns to attacks with new encryptors, servers](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-returns-to-attacks-with-new-encryptors-servers/)
 * [Lazarus hackers exploited Windows zero-day to gain Kernel privileges](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-gain-kernel-privileges/)
 * [Epic Games: "Zero evidence" we were hacked by Mogilevich gang](https://www.bleepingcomputer.com/news/security/epic-games-zero-evidence-we-were-hacked-by-mogilevich-gang/)
 * [Japan warns of malicious PyPi packages created by North Korean hackers](https://www.bleepingcomputer.com/news/security/japan-warns-of-malicious-pypi-packages-created-by-north-korean-hackers/)
 * [Need to Know: Key Takeaways from the Latest Phishing Attacks ](https://www.bleepingcomputer.com/news/security/need-to-know-key-takeaways-from-the-latest-phishing-attacks/)
-* [Savvy Seahorse gang uses DNS CNAME records to power investor scams](https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/)
 <!--END_SECTION:feed-->
 
 <!--
