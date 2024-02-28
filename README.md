@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Anycubic 3D printers hacked worldwide to expose security flaw](https://www.bleepingcomputer.com/news/security/anycubic-3d-printers-hacked-worldwide-to-expose-security-flaw/)
+* [Malicious AI models on Hugging Face backdoor users’ machines](https://www.bleepingcomputer.com/news/security/malicious-ai-models-on-hugging-face-backdoor-users-machines/)
 * [New executive order bans mass sale of personal data to China, Russia](https://www.bleepingcomputer.com/news/security/new-executive-order-bans-mass-sale-of-personal-data-to-china-russia/)
 * [Rhysida ransomware wants $3.6 million for children’s stolen data](https://www.bleepingcomputer.com/news/security/rhysida-ransomware-wants-36-million-for-childrens-stolen-data/)
 * [Kali Linux 2024.1 released with 4 new tools, UI refresh](https://www.bleepingcomputer.com/news/security/kali-linux-20241-released-with-4-new-tools-ui-refresh/)
-* [Ransomware gang claims they stole 6TB of Change Healthcare data](https://www.bleepingcomputer.com/news/security/ransomware-gang-claims-they-stole-6tb-of-change-healthcare-data/)
-* [LockBit ransomware returns to attacks with new encryptors, servers](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-returns-to-attacks-with-new-encryptors-servers/)
 <!--END_SECTION:feed-->
 
 <!--
