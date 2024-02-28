@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Japan warns of malicious PyPi packages created by North Korean hackers](https://www.bleepingcomputer.com/news/security/japan-warns-of-malicious-pypi-packages-created-by-north-korean-hackers/)
+* [Need to Know: Key Takeaways from the Latest Phishing Attacks ](https://www.bleepingcomputer.com/news/security/need-to-know-key-takeaways-from-the-latest-phishing-attacks/)
 * [Savvy Seahorse gang uses DNS CNAME records to power investor scams](https://www.bleepingcomputer.com/news/security/savvy-seahorse-gang-uses-dns-cname-records-to-power-investor-scams/)
 * [Registrars can now block all domains that resemble brand names](https://www.bleepingcomputer.com/news/technology/registrars-can-now-block-all-domains-that-resemble-brand-names/)
 * [Pharmaceutical giant Cencora says data was stolen in a cyberattack](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-cencora-says-data-was-stolen-in-a-cyberattack/)
-* [FBI, CISA warn US hospitals of targeted BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-us-hospitals-of-targeted-blackcat-ransomware-attacks/)
-* [LabHost cybercrime service lets anyone phish Canadian bank users](https://www.bleepingcomputer.com/news/security/labhost-cybercrime-service-lets-anyone-phish-canadian-bank-users/)
 <!--END_SECTION:feed-->
 
 <!--
