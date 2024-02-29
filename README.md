@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Brave browser launches privacy-focused AI assistant on Android](https://www.bleepingcomputer.com/news/security/brave-browser-launches-privacy-focused-ai-assistant-on-android/)
+* [CISA warns against using hacked Ivanti devices even after factory resets](https://www.bleepingcomputer.com/news/security/cisa-warns-against-using-hacked-ivanti-devices-even-after-factory-resets/)
+* [Windows 10 KB5034843 update released with 9 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034843-update-released-with-9-new-changes-fixes/)
 * [Windows 11 KB5034848 preview update adds USB 80Gbps support](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034848-preview-update-adds-usb-80gbps-support/)
 * [GitHub enables push protection by default to stop secrets leak](https://www.bleepingcomputer.com/news/security/github-enables-push-protection-by-default-to-stop-secrets-leak/)
-* [Citrix, Sophos software impacted by 2024 leap year bugs](https://www.bleepingcomputer.com/news/software/citrix-sophos-software-impacted-by-2024-leap-year-bugs/)
-* [Windows 11 'Moment 5' update released, here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-moment-5-update-released-here-are-the-new-features/)
-* [Microsoft rolls back decision to stop Windows 11 22H2 preview updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-back-decision-to-stop-windows-11-22h2-preview-updates/)
 <!--END_SECTION:feed-->
 
 <!--
