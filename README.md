@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)
+* [New Bifrost malware for Linux mimics VMware domain for evasion](https://www.bleepingcomputer.com/news/security/new-bifrost-malware-for-linux-mimics-vmware-domain-for-evasion/)
 * [Brave browser launches privacy-focused AI assistant on Android](https://www.bleepingcomputer.com/news/security/brave-browser-launches-privacy-focused-ai-assistant-on-android/)
 * [CISA warns against using hacked Ivanti devices even after factory resets](https://www.bleepingcomputer.com/news/security/cisa-warns-against-using-hacked-ivanti-devices-even-after-factory-resets/)
 * [Windows 10 KB5034843 update released with 9 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034843-update-released-with-9-new-changes-fixes/)
-* [Windows 11 KB5034848 preview update adds USB 80Gbps support](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5034848-preview-update-adds-usb-80gbps-support/)
-* [GitHub enables push protection by default to stop secrets leak](https://www.bleepingcomputer.com/news/security/github-enables-push-protection-by-default-to-stop-secrets-leak/)
 <!--END_SECTION:feed-->
 
 <!--
