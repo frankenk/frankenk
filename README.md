@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of Microsoft Streaming bug exploited in malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-microsoft-streaming-bug-exploited-in-malware-attacks/)
 * [Germany takes down largest cybercrime market in the country, arrests 6](https://www.bleepingcomputer.com/news/legal/germany-takes-down-largest-cybercrime-market-in-the-country-arrests-6/)
+* [Microsoft fixes Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-clients-not-syncing-over-exchange-activesync/)
+* [Microsoft pulls Edge update causing 'Out of Memory' crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-edge-update-causing-out-of-memory-crashes/)
+* [U.S. charges Iranian for hacks on defense orgs, offers * [Germany takes down largest cybercrime market in the country, arrests 6](https://www.bleepingcomputer.com/news/legal/germany-takes-down-largest-cybercrime-market-in-the-country-arrests-6/)
 * [Microsoft fixes Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-clients-not-syncing-over-exchange-activesync/)
 * [Microsoft pulls Edge update causing 'Out of Memory' crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-edge-update-causing-out-of-memory-crashes/)
 * [U.S. charges Iranian for hacks on defense orgs, offers * [Germany takes down largest cybercrime market in the country, arrests 6](https://www.bleepingcomputer.com/news/legal/germany-takes-down-largest-cybercrime-market-in-the-country-arrests-6/)
@@ -25,7 +29,7 @@
 * [New Bifrost malware for Linux mimics VMware domain for evasion](https://www.bleepingcomputer.com/news/security/new-bifrost-malware-for-linux-mimics-vmware-domain-for-evasion/)0M for info](https://www.bleepingcomputer.com/news/security/us-charges-iranian-for-hacks-on-defense-orgs-offers-10m-for-info/)
 * [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)0M for info](https://www.bleepingcomputer.com/news/security/us-charges-iranian-for-hacks-on-defense-orgs-offers-10m-for-info/)
 * [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)0M for info](https://www.bleepingcomputer.com/news/security/us-charges-iranian-for-hacks-on-defense-orgs-offers-10m-for-info/)
-* [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)
+* [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)0M for info](https://www.bleepingcomputer.com/news/security/us-charges-iranian-for-hacks-on-defense-orgs-offers-10m-for-info/)
 <!--END_SECTION:feed-->
 
 <!--
