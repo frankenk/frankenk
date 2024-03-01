@@ -4,7 +4,7 @@
 * [Golden Corral restaurant chain data breach impacts 183,000 people](https://www.bleepingcomputer.com/news/security/golden-corral-restaurant-chain-data-breach-impacts-183-000-people/)
 * [New Bifrost malware for Linux mimics VMware domain for evasion](https://www.bleepingcomputer.com/news/security/new-bifrost-malware-for-linux-mimics-vmware-domain-for-evasion/)
 * [Brave browser launches privacy-focused AI assistant on Android](https://www.bleepingcomputer.com/news/security/brave-browser-launches-privacy-focused-ai-assistant-on-android/)
-* [CISA warns against using hacked Ivanti devices even after factory resets](https://www.bleepingcomputer.com/news/security/cisa-warns-against-using-hacked-ivanti-devices-even-after-factory-resets/)
+* [CISA cautions against using hacked Ivanti VPN gateways even after factory resets](https://www.bleepingcomputer.com/news/security/cisa-cautions-against-using-hacked-ivanti-vpn-gateways-even-after-factory-resets/)
 * [Windows 10 KB5034843 update released with 9 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5034843-update-released-with-9-new-changes-fixes/)
 <!--END_SECTION:feed-->
 
