@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [News farm impersonates 60+ major outlets: BBC, CNN, CNBC, Guardian...](https://www.bleepingcomputer.com/news/security/news-farm-impersonates-60-plus-major-outlets-bbc-cnn-cnbc-guardian/)
+* [Hackers target FCC, crypto firms in advanced Okta phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-fcc-crypto-firms-in-advanced-okta-phishing-attacks/)
 * [Windows Kernel bug fixed last month exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/)
 * [The Week in Ransomware - March 1st 2024 - Healthcare under siege](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-1st-2024-healthcare-under-siege/)
 * [CISA warns of Microsoft Streaming bug exploited in malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-microsoft-streaming-bug-exploited-in-malware-attacks/)
-* [Germany takes down cybercrime market with over 180,000 users](https://www.bleepingcomputer.com/news/legal/germany-takes-down-cybercrime-market-with-over-180-000-users/)
-* [Microsoft fixes Outlook clients not syncing over Exchange ActiveSync](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-clients-not-syncing-over-exchange-activesync/)
 <!--END_SECTION:feed-->
 
 <!--
