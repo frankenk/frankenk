@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exploit available for new critical TeamCity auth bypass bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-critical-teamcity-auth-bypass-bug-patch-now/)
+* [ScreenConnect flaws exploited to drop new ToddleShark malware](https://www.bleepingcomputer.com/news/security/screenconnect-flaws-exploited-to-drop-new-toddleshark-malware/)
 * [Hackers steal Windows NTLM authentication hashes in phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-steal-windows-ntlm-authentication-hashes-in-phishing-attacks/)
+* [Apple blames Spotify for * [Hackers steal Windows NTLM authentication hashes in phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-steal-windows-ntlm-authentication-hashes-in-phishing-attacks/)
 * [Apple blames Spotify for * [Apple blames Spotify for * [Apple blames Spotify for * [Apple blames Spotify for * [Apple blames Spotify for * [Ukraine claims it hacked Russian Ministry of Defense servers](https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-russian-ministry-of-defense-servers/)
 * [North Korea hacks two South Korean chip firms to steal engineering data](https://www.bleepingcomputer.com/news/security/north-korea-hacks-two-south-korean-chip-firms-to-steal-engineering-data/)
 * [American Express credit cards exposed in vendor data breach](https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-vendor-data-breach/)
@@ -25,7 +28,8 @@
 * [American Express credit cards exposed in third-party data breach](https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-third-party-data-breach/).95 billion fine over "abusive" App store rules](https://www.bleepingcomputer.com/news/apple/apple-blames-spotify-for-195-billion-fine-over-abusive-app-store-rules/)
 * [BlackCat ransomware turns off servers amid claim they stole $22 million ransom](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-turns-off-servers-amid-claim-they-stole-22-million-ransom/)
 * [Ukraine claims it hacked Russian Ministry of Defense servers](https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-russian-ministry-of-defense-servers/)
-* [North Korea hacks two South Korean chip firms to steal engineering data](https://www.bleepingcomputer.com/news/security/north-korea-hacks-two-south-korean-chip-firms-to-steal-engineering-data/)
+* [North Korea hacks two South Korean chip firms to steal engineering data](https://www.bleepingcomputer.com/news/security/north-korea-hacks-two-south-korean-chip-firms-to-steal-engineering-data/).95 billion fine over "abusive" App store rules](https://www.bleepingcomputer.com/news/apple/apple-blames-spotify-for-195-billion-fine-over-abusive-app-store-rules/)
+* [BlackCat ransomware turns off servers amid claim they stole $22 million ransom](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-turns-off-servers-amid-claim-they-stole-22-million-ransom/)
 <!--END_SECTION:feed-->
 
 <!--
