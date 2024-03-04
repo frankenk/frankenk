@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [North Korea hacks two South Korean chip firms to steal engineering data](https://www.bleepingcomputer.com/news/security/north-korea-hacks-two-south-korean-chip-firms-to-steal-engineering-data/)
+* [American Express credit cards exposed in vendor data breach](https://www.bleepingcomputer.com/news/security/american-express-credit-cards-exposed-in-vendor-data-breach/)
 * [Stealthy GTPDOOR Linux malware targets mobile operator networks](https://www.bleepingcomputer.com/news/security/stealthy-gtpdoor-linux-malware-targets-mobile-operator-networks/)
 * [Microsoft: Windows 11 “invites” coming to more Windows 10 Pro PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-invites-coming-to-more-windows-10-pro-pcs/)
 * [Content farm impersonates 60+ major news outlets, like BBC, CNN, CNBC](https://www.bleepingcomputer.com/news/security/content-farm-impersonates-60-plus-major-news-outlets-like-bbc-cnn-cnbc/)
-* [Hackers target FCC, crypto firms in advanced Okta phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-fcc-crypto-firms-in-advanced-okta-phishing-attacks/)
-* [Windows Kernel bug fixed last month exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/)
 <!--END_SECTION:feed-->
 
 <!--
