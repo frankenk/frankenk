@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [News farm impersonates 60+ major outlets: BBC, CNN, CNBC, Guardian...](https://www.bleepingcomputer.com/news/security/news-farm-impersonates-60-plus-major-outlets-bbc-cnn-cnbc-guardian/)
+* [Stealthy GTPDOOR Linux malware targets mobile operator networks](https://www.bleepingcomputer.com/news/security/stealthy-gtpdoor-linux-malware-targets-mobile-operator-networks/)
+* [Microsoft: Windows 11 “invites” coming to more Windows 10 Pro PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-invites-coming-to-more-windows-10-pro-pcs/)
+* [Content farm impersonates 60+ major news outlets, like BBC, CNN, CNBC](https://www.bleepingcomputer.com/news/security/content-farm-impersonates-60-plus-major-news-outlets-like-bbc-cnn-cnbc/)
 * [Hackers target FCC, crypto firms in advanced Okta phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-target-fcc-crypto-firms-in-advanced-okta-phishing-attacks/)
 * [Windows Kernel bug fixed last month exploited as zero-day since August](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-fixed-last-month-exploited-as-zero-day-since-august/)
-* [The Week in Ransomware - March 1st 2024 - Healthcare under siege](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-1st-2024-healthcare-under-siege/)
-* [CISA warns of Microsoft Streaming bug exploited in malware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-microsoft-streaming-bug-exploited-in-malware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
