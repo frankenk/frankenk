@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers abuse QEMU to covertly tunnel network traffic in cyberattacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-qemu-to-covertly-tunnel-network-traffic-in-cyberattacks/)
+* [Facebook and Instagram outage logs out users, passwords not working](https://www.bleepingcomputer.com/news/technology/facebook-and-instagram-outage-logs-out-users-passwords-not-working/)
 * [BlackCat ransomware shuts down in exit scam, blames the "feds"](https://www.bleepingcomputer.com/news/security/blackcat-ransomware-shuts-down-in-exit-scam-blames-the-feds/)
 * [Passwords are Costing Your Organization Money - How to Minimize Those Costs](https://www.bleepingcomputer.com/news/security/passwords-are-costing-your-organization-money-how-to-minimize-those-costs/)
 * [Exploit available for new critical TeamCity auth bypass bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-critical-teamcity-auth-bypass-bug-patch-now/)
-* [ScreenConnect flaws exploited to drop new ToddlerShark malware](https://www.bleepingcomputer.com/news/security/screenconnect-flaws-exploited-to-drop-new-toddlershark-malware/)
-* [Hackers steal Windows NTLM authentication hashes in phishing attacks](https://www.bleepingcomputer.com/news/security/hackers-steal-windows-ntlm-authentication-hashes-in-phishing-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
