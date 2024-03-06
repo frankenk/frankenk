@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Duvel says it has "more than enough" beer after ransomware attack](https://www.bleepingcomputer.com/news/security/duvel-says-it-has-more-than-enough-beer-after-ransomware-attack/)
 * [Canada's anti-money laundering agency offline after cyberattack](https://www.bleepingcomputer.com/news/security/canadas-anti-money-laundering-agency-offline-after-cyberattack/)
 * [VMware fixes critical sandbox escape flaws in ESXi, Workstation, and Fusion](https://www.bleepingcomputer.com/news/security/vmware-fixes-critical-sandbox-escape-flaws-in-esxi-workstation-and-fusion/)
 * [Hackers target Docker, Hadoop, Redis, Confluence with new Golang malware](https://www.bleepingcomputer.com/news/security/hackers-target-docker-hadoop-redis-confluence-with-new-golang-malware/)
 * [NSA shares zero-trust guidance to limit adversaries on the network](https://www.bleepingcomputer.com/news/security/nsa-shares-zero-trust-guidance-to-limit-adversaries-on-the-network/)
-* [Apple fixes two new iOS zero-days exploited in attacks on iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-exploited-in-attacks-on-iphones/)
 <!--END_SECTION:feed-->
 
 <!--
