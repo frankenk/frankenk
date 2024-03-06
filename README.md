@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers target Docker, Hadoop, Redis, Confluence with new Golang malware](https://www.bleepingcomputer.com/news/security/hackers-target-docker-hadoop-redis-confluence-with-new-golang-malware/)
 * [NSA shares zero-trust guidance to limit adversaries on the network](https://www.bleepingcomputer.com/news/security/nsa-shares-zero-trust-guidance-to-limit-adversaries-on-the-network/)
 * [Apple fixes two new iOS zero-days exploited in attacks on iPhones](https://www.bleepingcomputer.com/news/apple/apple-fixes-two-new-ios-zero-days-exploited-in-attacks-on-iphones/)
 * [New WogRAT malware abuses online notepad service to store malware](https://www.bleepingcomputer.com/news/security/new-wograt-malware-abuses-online-notepad-service-to-store-malware/)
 * [Microsoft is killing off the Android apps in Windows 11 feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-off-the-android-apps-in-windows-11-feature/)
-* [U.S. sanctions Predator spyware operators for spying on Americans](https://www.bleepingcomputer.com/news/legal/us-sanctions-predator-spyware-operators-for-spying-on-americans/)
 <!--END_SECTION:feed-->
 
 <!--
