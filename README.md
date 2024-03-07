@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AnyCubic fixes exploited 3D printer zero day flaw with new firmware](https://www.bleepingcomputer.com/news/security/anycubic-fixes-exploited-3d-printer-zero-day-flaw-with-new-firmware/)
 * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
+* [FBI: U.S. lost record * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
 * [FBI: U.S. lost record * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
 * [FBI: U.S. lost record * [FBI: U.S. lost record * [FBI: U.S. lost record * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
 * [TeamCity auth bypass bug exploited to mass-generate admin accounts](https://www.bleepingcomputer.com/news/security/teamcity-auth-bypass-bug-exploited-to-mass-generate-admin-accounts/)
@@ -21,7 +23,9 @@
 * [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
 * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
 * [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
-* [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)
+* [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
+* [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
+* [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
