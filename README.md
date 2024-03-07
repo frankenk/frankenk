@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [FBI: U.S. lost record * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
+* [FBI: U.S. lost record * [FBI: U.S. lost record * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
 * [TeamCity auth bypass bug exploited to mass-generate admin accounts](https://www.bleepingcomputer.com/news/security/teamcity-auth-bypass-bug-exploited-to-mass-generate-admin-accounts/)
 * [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)
 * [Hackers impersonate U.S. government agencies in BEC attacks](https://www.bleepingcomputer.com/news/security/hackers-impersonate-us-government-agencies-in-bec-attacks/)
 * [Duvel says it has "more than enough" beer after ransomware attack](https://www.bleepingcomputer.com/news/security/duvel-says-it-has-more-than-enough-beer-after-ransomware-attack/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
+* [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
+* [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
+* [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)
+* [Hackers impersonate U.S. government agencies in BEC attacks](https://www.bleepingcomputer.com/news/security/hackers-impersonate-us-government-agencies-in-bec-attacks/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
 * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
 * [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
 * [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)
