@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5001716 update fails with 0x80070643 errors, how to fix](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5001716-update-fails-with-0x80070643-errors-how-to-fix/)
+* [Flipper Zero WiFi attack can unlock and steal Tesla cars](https://www.bleepingcomputer.com/news/security/flipper-zero-wifi-attack-can-unlock-and-steal-tesla-cars/)
 * [AnyCubic fixes exploited 3D printer zero day flaw with new firmware](https://www.bleepingcomputer.com/news/security/anycubic-fixes-exploited-3d-printer-zero-day-flaw-with-new-firmware/)
+* [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
+* [FBI: U.S. lost record * [AnyCubic fixes exploited 3D printer zero day flaw with new firmware](https://www.bleepingcomputer.com/news/security/anycubic-fixes-exploited-3d-printer-zero-day-flaw-with-new-firmware/)
 * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
 * [FBI: U.S. lost record * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
 * [FBI: U.S. lost record * [Google engineer caught stealing AI tech secrets for Chinese firms](https://www.bleepingcomputer.com/news/google/google-engineer-caught-stealing-ai-tech-secrets-for-chinese-firms/)
@@ -25,7 +29,7 @@
 * [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
 * [Hacked WordPress sites use visitors' browsers to hack other sites](https://www.bleepingcomputer.com/news/security/hacked-wordpress-sites-use-visitors-browsers-to-hack-other-sites/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
 * [PetSmart warns of credential stuffing attacks trying to hack accounts](https://www.bleepingcomputer.com/news/security/petsmart-warns-of-credential-stuffing-attacks-trying-to-hack-accounts/)
-* [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)
+* [Critical TeamCity flaw now widely exploited to create admin accounts](https://www.bleepingcomputer.com/news/security/critical-teamcity-flaw-now-widely-exploited-to-create-admin-accounts/)2.5 billion to online crime in 2023](https://www.bleepingcomputer.com/news/security/fbi-us-lost-record-125-billion-to-online-crime-in-2023/)
 <!--END_SECTION:feed-->
 
 <!--
