@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit WordPress plugin flaw to infect 3,300 sites with malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-flaw-to-infect-3-300-sites-with-malware/)
+* [Magnet Goblin hackers use 1-day flaws to drop custom Linux malware](https://www.bleepingcomputer.com/news/security/magnet-goblin-hackers-use-1-day-flaws-to-drop-custom-linux-malware/)
 * [The Week in Ransomware - March 8th 2024 - Waiting for the BlackCat rebrand](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-march-8th-2024-waiting-for-the-blackcat-rebrand/)
 * [Critical Fortinet flaw may impact 150,000 exposed devices](https://www.bleepingcomputer.com/news/security/critical-fortinet-flaw-may-impact-150-000-exposed-devices/)
 * [QNAP warns of critical auth bypass flaw in its NAS devices](https://www.bleepingcomputer.com/news/security/qnap-warns-of-critical-auth-bypass-flaw-in-its-nas-devices/)
-* [UnitedHealth brings some Change Healthcare pharmacy services back online](https://www.bleepingcomputer.com/news/security/unitedhealth-brings-some-change-healthcare-pharmacy-services-back-online/)
-* [Microsoft says Russian hackers breached its systems, accessed source code](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-russian-hackers-breached-its-systems-accessed-source-code/)
 <!--END_SECTION:feed-->
 
 <!--
