@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tuta Mail adds new quantum-resistant encryption to protect email](https://www.bleepingcomputer.com/news/security/tuta-mail-adds-new-quantum-resistant-encryption-to-protect-email/)
 * [Microsoft says Windows 10 21H2 support is ending in June](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-10-21h2-support-is-ending-in-june/)
 * [Okta says data leaked on hacking forum not from its systems](https://www.bleepingcomputer.com/news/security/okta-says-data-leaked-on-hacking-forum-not-from-its-systems/)
 * [Researchers expose Microsoft SCCM misconfigs usable in cyberattacks](https://www.bleepingcomputer.com/news/security/researchers-expose-microsoft-sccm-misconfigs-usable-in-cyberattacks/)
 * [Equilend warns employees their data was stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/equilend-warns-employees-their-data-was-stolen-by-ransomware-gang/)
-* [Over 15,000 hacked Roku accounts sold for 50¢ each to buy hardware](https://www.bleepingcomputer.com/news/security/over-15-000-hacked-roku-accounts-sold-for-50-each-to-buy-hardware/)
 <!--END_SECTION:feed-->
 
 <!--
