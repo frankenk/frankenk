@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Researchers expose Microsoft SCCM misconfigs usable in cyberattacks](https://www.bleepingcomputer.com/news/security/researchers-expose-microsoft-sccm-misconfigs-usable-in-cyberattacks/)
+* [Equilend warns employees their data was stolen by ransomware gang](https://www.bleepingcomputer.com/news/security/equilend-warns-employees-their-data-was-stolen-by-ransomware-gang/)
 * [Over 15,000 hacked Roku accounts sold for 50¢ each to buy hardware](https://www.bleepingcomputer.com/news/security/over-15-000-hacked-roku-accounts-sold-for-50-each-to-buy-hardware/)
 * [Fake Leather wallet app on Apple App Store is a crypto drainer](https://www.bleepingcomputer.com/news/security/fake-leather-wallet-app-on-apple-app-store-is-a-crypto-drainer/)
 * [YouTube stops recommending videos when signed out of Google](https://www.bleepingcomputer.com/news/google/youtube-stops-recommending-videos-when-signed-out-of-google/)
-* [Hackers exploit WordPress plugin flaw to infect 3,300 sites with malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-flaw-to-infect-3-300-sites-with-malware/)
-* [Magnet Goblin hackers use 1-day flaws to drop custom Linux malware](https://www.bleepingcomputer.com/news/security/magnet-goblin-hackers-use-1-day-flaws-to-drop-custom-linux-malware/)
 <!--END_SECTION:feed-->
 
 <!--
