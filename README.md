@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Pen test vendor rotation: do you need to change annually?](https://www.bleepingcomputer.com/news/security/pen-test-vendor-rotation-do-you-need-to-change-annually/)
 * [Bitcoin Fog mixer operator convicted for laundering $400 million](https://www.bleepingcomputer.com/news/legal/bitcoin-fog-mixer-operator-convicted-for-laundering-400-million/)
 * [LockBit ransomware affiliate gets four years in jail, to pay $860k](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-affiliate-gets-four-years-in-jail-to-pay-860k/)
 * [Brave: Sharp increase in installs after iOS DMA update in EU](https://www.bleepingcomputer.com/news/technology/brave-sharp-increase-in-installs-after-ios-dma-update-in-eu/)
 * [Windows KB5035849 update failing to install with 0xd000034 errors](https://www.bleepingcomputer.com/news/microsoft/windows-kb5035849-update-failing-to-install-with-0xd000034-errors/)
-* [Stanford: Data of 27,000 people stolen in September ransomware attack](https://www.bleepingcomputer.com/news/security/stanford-data-of-27-000-people-stolen-in-september-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
