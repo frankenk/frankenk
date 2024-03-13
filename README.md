@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 gets single Teams app for work and personal accounts](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-single-teams-app-for-work-and-personal-accounts/)
+* [Hackers abuse Windows SmartScreen flaw to drop DarkGate malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-windows-smartscreen-flaw-to-drop-darkgate-malware/)
 * [US govt probes if ransomware gang stole Change Healthcare data](https://www.bleepingcomputer.com/news/security/us-govt-probes-if-ransomware-gang-stole-change-healthcare-data/)
 * [Fortinet warns of critical RCE bug in endpoint management software](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-bug-in-endpoint-management-software/)
 * [PixPirate Android malware uses new tactic to hide on phones](https://www.bleepingcomputer.com/news/security/pixpirate-android-malware-uses-new-tactic-to-hide-on-phones/)
-* [Pen test vendor rotation: do you need to change annually?](https://www.bleepingcomputer.com/news/security/pen-test-vendor-rotation-do-you-need-to-change-annually/)
-* [Bitcoin Fog mixer operator convicted for laundering $400 million](https://www.bleepingcomputer.com/news/legal/bitcoin-fog-mixer-operator-convicted-for-laundering-400-million/)
 <!--END_SECTION:feed-->
 
 <!--
