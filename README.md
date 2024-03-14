@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [StopCrypt: Most widely distributed ransomware now evades detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-now-evades-detection/)
 * [SIM swappers hijacking phone numbers in eSIM attacks](https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/)
 * [Tech support firms Restoro, Reimage fined $26 million for scare tactics](https://www.bleepingcomputer.com/news/security/tech-support-firms-restoro-reimage-fined-26-million-for-scare-tactics/)
 * [Google Chrome gets real-time phishing protection later this month](https://www.bleepingcomputer.com/news/google/google-chrome-gets-real-time-phishing-protection-later-this-month/)
 * [French unemployment agency data breach impacts 43 million people](https://www.bleepingcomputer.com/news/security/french-unemployment-agency-data-breach-impacts-43-million-people/)
-* [Nissan confirms ransomware attack exposed data of 100,000 people](https://www.bleepingcomputer.com/news/security/nissan-confirms-ransomware-attack-exposed-data-of-100-000-people/)
 <!--END_SECTION:feed-->
 
 <!--
