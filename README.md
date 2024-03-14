@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [French unemployment agency data breach impacts 43 million people](https://www.bleepingcomputer.com/news/security/french-unemployment-agency-data-breach-impacts-43-million-people/)
 * [Nissan confirms ransomware attack exposed data of 100,000 people](https://www.bleepingcomputer.com/news/security/nissan-confirms-ransomware-attack-exposed-data-of-100-000-people/)
 * [Windows 11 gets single Teams app for work and personal accounts](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-single-teams-app-for-work-and-personal-accounts/)
 * [Hackers exploit Windows SmartScreen flaw to drop DarkGate malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-windows-smartscreen-flaw-to-drop-darkgate-malware/)
 * [US govt probes if ransomware gang stole Change Healthcare data](https://www.bleepingcomputer.com/news/security/us-govt-probes-if-ransomware-gang-stole-change-healthcare-data/)
-* [Fortinet warns of critical RCE bug in endpoint management software](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-bug-in-endpoint-management-software/)
 <!--END_SECTION:feed-->
 
 <!--
