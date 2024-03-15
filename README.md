@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Former telecom manager admits to doing SIM swaps for * [McDonald's IT systems outage impacts restaurants worldwide](https://www.bleepingcomputer.com/news/technology/mcdonalds-it-systems-outage-impacts-restaurants-worldwide/)
+* [StopCrypt: Most widely distributed ransomware evolves to evade detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-evolves-to-evade-detection/)
+* [SIM swappers hijacking phone numbers in eSIM attacks](https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/)
+* [Tech support firms Restoro, Reimage fined $26 million for scare tactics](https://www.bleepingcomputer.com/news/security/tech-support-firms-restoro-reimage-fined-26-million-for-scare-tactics/)
+* [Google Chrome gets real-time phishing protection later this month](https://www.bleepingcomputer.com/news/google/google-chrome-gets-real-time-phishing-protection-later-this-month/),000](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [McDonald's IT systems outage impacts restaurants worldwide](https://www.bleepingcomputer.com/news/technology/mcdonalds-it-systems-outage-impacts-restaurants-worldwide/)
 * [StopCrypt: Most widely distributed ransomware evolves to evade detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-evolves-to-evade-detection/)
 * [SIM swappers hijacking phone numbers in eSIM attacks](https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/)
 * [Tech support firms Restoro, Reimage fined $26 million for scare tactics](https://www.bleepingcomputer.com/news/security/tech-support-firms-restoro-reimage-fined-26-million-for-scare-tactics/)
-* [Google Chrome gets real-time phishing protection later this month](https://www.bleepingcomputer.com/news/google/google-chrome-gets-real-time-phishing-protection-later-this-month/)
 <!--END_SECTION:feed-->
 
 <!--
