@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US moves to recover $2.3 million from "pig butchers" on Binance](https://www.bleepingcomputer.com/news/cryptocurrency/us-moves-to-recover-23-million-from-pig-butchers-on-binance/)
+* [PornHub now also blocks Texas over age verification laws](https://www.bleepingcomputer.com/news/security/pornhub-now-also-blocks-texas-over-age-verification-laws/)
 * [Microsoft announces Office LTSC 2024 preview starting next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-office-ltsc-2024-preview-starting-next-month/)
+* [Admin of major stolen account marketplace gets 42 months in prison](https://www.bleepingcomputer.com/news/security/admin-of-major-stolen-account-marketplace-gets-42-months-in-prison/)
+* [Former telecom manager admits to doing SIM swaps for * [Microsoft announces Office LTSC 2024 preview starting next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-office-ltsc-2024-preview-starting-next-month/)
 * [Admin of major stolen account marketplace gets 42 months in prison](https://www.bleepingcomputer.com/news/security/admin-of-major-stolen-account-marketplace-gets-42-months-in-prison/)
 * [Former telecom manager admits to doing SIM swaps for * [Former telecom manager admits to doing SIM swaps for * [McDonald's IT systems outage impacts restaurants worldwide](https://www.bleepingcomputer.com/news/technology/mcdonalds-it-systems-outage-impacts-restaurants-worldwide/)
 * [StopCrypt: Most widely distributed ransomware evolves to evade detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-evolves-to-evade-detection/)
@@ -13,7 +17,7 @@
 * [SIM swappers hijacking phone numbers in eSIM attacks](https://www.bleepingcomputer.com/news/security/sim-swappers-hijacking-phone-numbers-in-esim-attacks/)
 * [Tech support firms Restoro, Reimage fined $26 million for scare tactics](https://www.bleepingcomputer.com/news/security/tech-support-firms-restoro-reimage-fined-26-million-for-scare-tactics/),000](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 * [McDonald's IT systems outage impacts restaurants worldwide](https://www.bleepingcomputer.com/news/technology/mcdonalds-it-systems-outage-impacts-restaurants-worldwide/)
-* [StopCrypt: Most widely distributed ransomware evolves to evade detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-evolves-to-evade-detection/)
+* [StopCrypt: Most widely distributed ransomware evolves to evade detection](https://www.bleepingcomputer.com/news/security/stopcrypt-most-widely-distributed-ransomware-evolves-to-evade-detection/),000](https://www.bleepingcomputer.com/news/security/former-telecom-manager-admits-to-doing-sim-swaps-for-1-000/)
 <!--END_SECTION:feed-->
 
 <!--
