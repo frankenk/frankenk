@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New acoustic attack determines keystrokes from typing patterns](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-determines-keystrokes-from-typing-patterns/)
 * [Hackers exploit Aiohttp bug to find vulnerable networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-aiohttp-bug-to-find-vulnerable-networks/)
 * [International Monetary Fund email accounts hacked in cyberattack](https://www.bleepingcomputer.com/news/security/international-monetary-fund-email-accounts-hacked-in-cyberattack/)
 * [McDonald's: Global outage was caused by "configuration change"](https://www.bleepingcomputer.com/news/technology/mcdonalds-global-outage-was-caused-by-configuration-change/)
 * [US moves to recover $2.3 million from "pig butchers" on Binance](https://www.bleepingcomputer.com/news/cryptocurrency/us-moves-to-recover-23-million-from-pig-butchers-on-binance/)
-* [PornHub now also blocks Texas over age verification laws](https://www.bleepingcomputer.com/news/security/pornhub-now-also-blocks-texas-over-age-verification-laws/)
 <!--END_SECTION:feed-->
 
 <!--
