@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AT&T says leaked data of 70 million people is not from its systems](https://www.bleepingcomputer.com/news/security/att-says-leaked-data-of-70-million-people-is-not-from-its-systems/)
 * [Microsoft again bothers Chrome users with Bing popup ads in Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-again-bothers-chrome-users-with-bing-popup-ads-in-windows/)
 * [New acoustic attack determines keystrokes from typing patterns](https://www.bleepingcomputer.com/news/security/new-acoustic-attack-determines-keystrokes-from-typing-patterns/)
 * [Hackers exploit Aiohttp bug to find vulnerable networks](https://www.bleepingcomputer.com/news/security/hackers-exploit-aiohttp-bug-to-find-vulnerable-networks/)
 * [International Monetary Fund email accounts hacked in cyberattack](https://www.bleepingcomputer.com/news/security/international-monetary-fund-email-accounts-hacked-in-cyberattack/)
-* [McDonald's: Global outage was caused by "configuration change"](https://www.bleepingcomputer.com/news/technology/mcdonalds-global-outage-was-caused-by-configuration-change/)
 <!--END_SECTION:feed-->
 
 <!--
