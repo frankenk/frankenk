@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Misconfigured Firebase instances leaked 19 million plaintext passwords](https://www.bleepingcomputer.com/news/security/misconfigured-firebase-instances-leaked-19-million-plaintext-passwords/)
 * [White House and EPA warn of hackers breaching water systems](https://www.bleepingcomputer.com/news/security/white-house-and-epa-warn-of-hackers-breaching-water-systems/)
 * [US Defense Dept received 50,000 vulnerability reports since 2016](https://www.bleepingcomputer.com/news/security/us-defense-dept-received-50-000-vulnerability-reports-since-2016/)
 * [CISA shares critical infrastructure defense tips against Chinese hackers](https://www.bleepingcomputer.com/news/security/cisa-shares-critical-infrastructure-defense-tips-against-chinese-hackers/)
 * [FTC warns scammers are impersonating its employees to steal money](https://www.bleepingcomputer.com/news/security/ftc-warns-scammers-are-impersonating-its-employees-to-steal-money/)
-* [Ukraine arrests hackers trying to sell 100 million stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-arrests-hackers-trying-to-sell-100-million-stolen-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
