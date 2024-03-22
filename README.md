@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 * [Darknet marketplace Nemesis Market seized by German police](https://www.bleepingcomputer.com/news/security/darknet-marketplace-nemesis-market-seized-by-german-police/)
+* [New GoFetch attack on Apple Silicon CPUs can steal crypto keys](https://www.bleepingcomputer.com/news/security/new-gofetch-attack-on-apple-silicon-cpus-can-steal-crypto-keys/)
+* [Hackers earn * [Darknet marketplace Nemesis Market seized by German police](https://www.bleepingcomputer.com/news/security/darknet-marketplace-nemesis-market-seized-by-german-police/)
 * [New GoFetch attack on Apple Silicon CPUs can steal crypto keys](https://www.bleepingcomputer.com/news/security/new-gofetch-attack-on-apple-silicon-cpus-can-steal-crypto-keys/)
 * [Hackers earn * [New GoFetch attack on Apple Silicon CPUs can steal crypto keys](https://www.bleepingcomputer.com/news/security/new-gofetch-attack-on-apple-silicon-cpus-can-steal-crypto-keys/)
 * [Hackers earn * [New GoFetch attack on Apple Silicon CPUs can steal crypto keys](https://www.bleepingcomputer.com/news/security/new-gofetch-attack-on-apple-silicon-cpus-can-steal-crypto-keys/)
@@ -53,7 +56,8 @@
 * [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/)
 * [Unsaflok flaw can let hackers unlock millions of hotel doors](https://www.bleepingcomputer.com/news/security/unsaflok-flaw-can-let-hackers-unlock-millions-of-hotel-doors/),132,500 for 29 zero-days at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-132-500-for-29-zero-days-at-pwn2own-vancouver/)
 * [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
-* [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/)
+* [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/),132,500 for 29 zero-days at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-132-500-for-29-zero-days-at-pwn2own-vancouver/)
+* [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
 <!--END_SECTION:feed-->
 
 <!--
