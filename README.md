@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Hackers earn * [Hackers earn * [Hackers earn * [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
+* [Hackers earn * [Hackers earn * [Hackers earn * [Hackers earn * [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
 * [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/)
 * [Unsaflok flaw can let hackers unlock millions of hotel doors](https://www.bleepingcomputer.com/news/security/unsaflok-flaw-can-let-hackers-unlock-millions-of-hotel-doors/)
 * [Evasive Sign1 malware campaign infects 39,000 WordPress sites](https://www.bleepingcomputer.com/news/security/evasive-sign1-malware-campaign-infects-39-000-wordpress-sites/)
 * [Exploit released for Fortinet RCE bug used in attacks, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-fortinet-rce-bug-used-in-attacks-patch-now/),132,500 for 29 zero-days at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-132-500-for-29-zero-days-at-pwn2own-vancouver/)
+* [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
+* [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/)
+* [Unsaflok flaw can let hackers unlock millions of hotel doors](https://www.bleepingcomputer.com/news/security/unsaflok-flaw-can-let-hackers-unlock-millions-of-hotel-doors/)
+* [Evasive Sign1 malware campaign infects 39,000 WordPress sites](https://www.bleepingcomputer.com/news/security/evasive-sign1-malware-campaign-infects-39-000-wordpress-sites/),132,500 for 29 zero-days at Pwn2Own Vancouver](https://www.bleepingcomputer.com/news/security/hackers-earn-1-132-500-for-29-zero-days-at-pwn2own-vancouver/)
 * [Windows 11 Notepad finally gets spellcheck and autocorrect](https://www.bleepingcomputer.com/news/microsoft/windows-11-notepad-finally-gets-spellcheck-and-autocorrect/)
 * [KDE advises extreme caution after theme wipes Linux user's files](https://www.bleepingcomputer.com/news/linux/kde-advises-extreme-caution-after-theme-wipes-linux-users-files/)
 * [Unsaflok flaw can let hackers unlock millions of hotel doors](https://www.bleepingcomputer.com/news/security/unsaflok-flaw-can-let-hackers-unlock-millions-of-hotel-doors/)
