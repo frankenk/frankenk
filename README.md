@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
+* [Microsoft to shut down 50 cloud services for Russian businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-50-cloud-services-for-russian-businesses/)
 * [Microsoft releases emergency fix for Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-fix-for-windows-server-crashes/)
 * [Russian hackers target German political parties with WineLoader malware](https://www.bleepingcomputer.com/news/security/russian-hackers-target-german-political-parties-with-wineloader-malware/)
 * [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
-* [Darknet marketplace Nemesis Market seized by German police](https://www.bleepingcomputer.com/news/security/darknet-marketplace-nemesis-market-seized-by-german-police/)
-* [New GoFetch attack on Apple Silicon CPUs can steal crypto keys](https://www.bleepingcomputer.com/news/security/new-gofetch-attack-on-apple-silicon-cpus-can-steal-crypto-keys/)
 <!--END_SECTION:feed-->
 
 <!--
