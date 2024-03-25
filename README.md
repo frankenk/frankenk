@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [It's not just you: ChatGPT is down for many worldwide](https://www.bleepingcomputer.com/news/technology/its-not-just-you-chatgpt-is-down-for-many-worldwide/)
 * [US sanctions crypto exchanges used by Russian darknet market, banks](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-darknet-market-banks/)
 * [CISA urges software devs to weed out SQL injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-sql-injection-vulnerabilities/)
 * [Hackers poison source code from largest Discord bot platform](https://www.bleepingcomputer.com/news/security/hackers-poison-source-code-from-largest-discord-bot-platform/)
 * [New MFA-bypassing phishing kit targets Microsoft 365, Gmail accounts](https://www.bleepingcomputer.com/news/security/new-mfa-bypassing-phishing-kit-targets-microsoft-365-gmail-accounts/)
-* [US sanctions APT31 hackers behind critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-apt31-hackers-behind-critical-infrastructure-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
