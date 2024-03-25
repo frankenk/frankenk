@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US sanctions APT31 hackers behind critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-apt31-hackers-behind-critical-infrastructure-attacks/)
+* [New ZenHammer memory attack impacts AMD Zen CPUs](https://www.bleepingcomputer.com/news/security/new-zenhammer-memory-attack-impacts-amd-zen-cpus/)
+* [Google's new AI search results promotes sites pushing malware, scams](https://www.bleepingcomputer.com/news/google/googles-new-ai-search-results-promotes-sites-pushing-malware-scams/)
+* [Over 100 US and EU orgs targeted in StrelaStealer malware attacks](https://www.bleepingcomputer.com/news/security/over-100-us-and-eu-orgs-targeted-in-strelastealer-malware-attacks/)
 * [Opera sees big jump in EU users on iOS, Android after DMA update](https://www.bleepingcomputer.com/news/technology/opera-sees-big-jump-in-eu-users-on-ios-android-after-dma-update/)
-* [Microsoft to shut down 50 cloud services for Russian businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-50-cloud-services-for-russian-businesses/)
-* [Microsoft releases emergency fix for Windows Server crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-fix-for-windows-server-crashes/)
-* [Russian hackers target German political parties with WineLoader malware](https://www.bleepingcomputer.com/news/security/russian-hackers-target-german-political-parties-with-wineloader-malware/)
-* [Mozilla fixes two Firefox zero-day bugs exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/mozilla-fixes-two-firefox-zero-day-bugs-exploited-at-pwn2own/)
 <!--END_SECTION:feed-->
 
 <!--
