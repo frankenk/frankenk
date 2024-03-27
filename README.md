@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA tags Microsoft SharePoint RCE bug as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-microsoft-sharepoint-rce-bug-as-actively-exploited/)
 * [KuCoin charged with AML violations that let cybercriminals launder billions](https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-charged-with-aml-violations-that-let-cybercriminals-launder-billions/)
 * [Ransomware as a Service and the Strange Economics of the Dark Web ](https://www.bleepingcomputer.com/news/security/ransomware-as-a-service-and-the-strange-economics-of-the-dark-web/)
 * [Google: Spyware vendors behind 50% of zero-days exploited in 2023](https://www.bleepingcomputer.com/news/security/google-spyware-vendors-behind-50-percent-of-zero-days-exploited-in-2023/)
 * [Windows 11 KB5035942 update enables Moment 5 features for everyone](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5035942-update-enables-moment-5-features-for-everyone/)
-* [Windows 10 KB5035941 update released with lock screen widgets](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5035941-update-released-with-lock-screen-widgets/)
 <!--END_SECTION:feed-->
 
 <!--
