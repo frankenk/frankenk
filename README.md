@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Retail chain Hot Topic hit by new credential stuffing attacks](https://www.bleepingcomputer.com/news/security/retail-chain-hot-topic-hit-by-new-credential-stuffing-attacks/)
 * [PyPI suspends new user registration to block malware campaign](https://www.bleepingcomputer.com/news/security/pypi-suspends-new-user-registration-to-block-malware-campaign/)
 * [Cisco warns of password-spraying attacks targeting VPN services](https://www.bleepingcomputer.com/news/security/cisco-warns-of-password-spraying-attacks-targeting-vpn-services/)
 * [How Pentesting-as-a-Service can Reduce Overall Security Costs](https://www.bleepingcomputer.com/news/security/how-pentesting-as-a-service-can-reduce-overall-security-costs/)
 * [New Darcula phishing service targets iPhone users via iMessage](https://www.bleepingcomputer.com/news/security/new-darcula-phishing-service-targets-iphone-users-via-imessage/)
-* [Windows 11 22H2 Home and Pro get preview updates until June 26](https://www.bleepingcomputer.com/news/microsoft/windows-11-22h2-home-and-pro-get-preview-updates-until-june-26/)
 <!--END_SECTION:feed-->
 
 <!--
