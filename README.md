@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russia charges suspects behind theft of 160,000 credit cards](https://www.bleepingcomputer.com/news/security/russia-charges-suspects-behind-theft-of-160-000-credit-cards/)
 * [New XZ backdoor scanner detects implant in any Linux binary](https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/)
 * [India rescues 250 citizens enslaved by Cambodian cybercrime gang](https://www.bleepingcomputer.com/news/security/india-rescues-250-citizens-enslaved-by-cambodian-cybercrime-gang/)
 * [Google now blocks spoofed emails for better phishing protection](https://www.bleepingcomputer.com/news/google/google-now-blocks-spoofed-emails-for-better-phishing-protection/)
 * [OWASP discloses data breach caused by wiki misconfiguration](https://www.bleepingcomputer.com/news/security/owasp-discloses-data-breach-caused-by-wiki-misconfiguration/)
-* [Yacht retailer MarineMax discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/yacht-retailer-marinemax-discloses-data-breach-after-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
