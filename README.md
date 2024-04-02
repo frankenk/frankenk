@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Winnti's new UNAPIMON tool hides malware from security software](https://www.bleepingcomputer.com/news/security/winntis-new-unapimon-tool-hides-malware-from-security-software/)
 * [Omni Hotels experiencing nationwide IT outage since Friday](https://www.bleepingcomputer.com/news/security/omni-hotels-experiencing-nationwide-it-outage-since-friday/)
 * [New Chrome feature aims to stop hackers from using stolen cookies](https://www.bleepingcomputer.com/news/security/new-chrome-feature-aims-to-stop-hackers-from-using-stolen-cookies/)
 * [Google agrees to delete Chrome browsing data of 136 million users](https://www.bleepingcomputer.com/news/legal/google-agrees-to-delete-chrome-browsing-data-of-136-million-users/)
 * [Russia charges suspects behind theft of 160,000 credit cards](https://www.bleepingcomputer.com/news/security/russia-charges-suspects-behind-theft-of-160-000-credit-cards/)
-* [New XZ backdoor scanner detects implant in any Linux binary](https://www.bleepingcomputer.com/news/security/new-xz-backdoor-scanner-detects-implant-in-any-linux-binary/)
 <!--END_SECTION:feed-->
 
 <!--
