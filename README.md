@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes one more Chrome zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/google-fixes-one-more-chrome-zero-day-exploited-at-pwn2own/)
+* [AT&T faces lawsuits over data breach affecting 73 million customers](https://www.bleepingcomputer.com/news/security/atandt-faces-lawsuits-over-data-breach-affecting-73-million-customers/)
 * [Google fixes two Pixel zero-day flaws exploited by forensics firms](https://www.bleepingcomputer.com/news/security/google-fixes-two-pixel-zero-day-flaws-exploited-by-forensics-firms/)
 * [6 Prompts You Don't Want Employees Putting in Microsoft Copilot](https://www.bleepingcomputer.com/news/security/6-prompts-you-dont-want-employees-putting-in-microsoft-copilot/)
 * [Microsoft warns Gmail blocks some Outlook email as spam, shares fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-gmail-blocks-some-outlook-email-as-spam-shares-fix/)
-* [Winnti's new UNAPIMON tool hides malware from security software](https://www.bleepingcomputer.com/news/security/winntis-new-unapimon-tool-hides-malware-from-security-software/)
-* [Omni Hotels experiencing nationwide IT outage since Friday](https://www.bleepingcomputer.com/news/security/omni-hotels-experiencing-nationwide-it-outage-since-friday/)
 <!--END_SECTION:feed-->
 
 <!--
