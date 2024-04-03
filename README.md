@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chilean hosting firm's VMware ESXi servers hit by new SEXi ransomware](https://www.bleepingcomputer.com/news/security/chilean-hosting-firms-vmware-esxi-servers-hit-by-new-sexi-ransomware/)
+* [Jackson County in state of emergency after ransomware attack](https://www.bleepingcomputer.com/news/security/jackson-county-in-state-of-emergency-after-ransomware-attack/)
 * [US State Department investigates alleged theft of government data](https://www.bleepingcomputer.com/news/security/us-state-department-investigates-alleged-theft-of-government-data/)
 * [Critical flaw in LayerSlider WordPress plugin impacts 1 million sites](https://www.bleepingcomputer.com/news/security/critical-flaw-in-layerslider-wordpress-plugin-impacts-1-million-sites/)
 * [Ivanti fixes VPN gateway vulnerability allowing RCE, DoS attacks](https://www.bleepingcomputer.com/news/security/ivanti-fixes-vpn-gateway-vulnerability-allowing-rce-dos-attacks/)
-* [Google fixes one more Chrome zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/google-fixes-one-more-chrome-zero-day-exploited-at-pwn2own/)
-* [AT&T faces lawsuits over data breach affecting 73 million customers](https://www.bleepingcomputer.com/news/security/atandt-faces-lawsuits-over-data-breach-affecting-73-million-customers/)
 <!--END_SECTION:feed-->
 
 <!--
