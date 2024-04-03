@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US State Department investigates alleged theft of government data](https://www.bleepingcomputer.com/news/security/us-state-department-investigates-alleged-theft-of-government-data/)
+* [Critical flaw in LayerSlider WordPress plugin impacts 1 million sites](https://www.bleepingcomputer.com/news/security/critical-flaw-in-layerslider-wordpress-plugin-impacts-1-million-sites/)
 * [Ivanti fixes VPN gateway vulnerability allowing RCE, DoS attacks](https://www.bleepingcomputer.com/news/security/ivanti-fixes-vpn-gateway-vulnerability-allowing-rce-dos-attacks/)
 * [Google fixes one more Chrome zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/google-fixes-one-more-chrome-zero-day-exploited-at-pwn2own/)
 * [AT&T faces lawsuits over data breach affecting 73 million customers](https://www.bleepingcomputer.com/news/security/atandt-faces-lawsuits-over-data-breach-affecting-73-million-customers/)
-* [Google fixes two Pixel zero-day flaws exploited by forensics firms](https://www.bleepingcomputer.com/news/security/google-fixes-two-pixel-zero-day-flaws-exploited-by-forensics-firms/)
-* [6 Prompts You Don't Want Employees Putting in Microsoft Copilot](https://www.bleepingcomputer.com/news/security/6-prompts-you-dont-want-employees-putting-in-microsoft-copilot/)
 <!--END_SECTION:feed-->
 
 <!--
