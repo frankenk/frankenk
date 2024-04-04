@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Outlook security alerts bug caused by December updates](https://www.bleepingcomputer.com/news/security/microsoft-fixes-outlook-security-alerts-bug-caused-by-december-updates/)
 * [Hoya’s optics production and orders disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/hoyas-optics-production-and-orders-disrupted-by-cyberattack/)
 * [US cancer center data breach exposes info of 827,000 patients](https://www.bleepingcomputer.com/news/security/us-cancer-center-data-breach-exposes-info-of-827-000-patients/)
 * [New HTTP/2 DoS attack can crash web servers with a single connection](https://www.bleepingcomputer.com/news/security/new-http-2-dos-attack-can-crash-web-servers-with-a-single-connection/)
 * [The Biggest Takeaways from Recent Malware Attacks](https://www.bleepingcomputer.com/news/security/the-biggest-takeaways-from-recent-malware-attacks/)
-* [Microsoft still unsure how hackers stole MSA key in 2023 Exchange attack](https://www.bleepingcomputer.com/news/security/microsoft-still-unsure-how-hackers-stole-msa-key-in-2023-exchange-attack/)
 <!--END_SECTION:feed-->
 
 <!--
