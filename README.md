@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Acuity confirms hackers stole non-sensitive govt data from GitHub repos](https://www.bleepingcomputer.com/news/security/acuity-confirms-hackers-stole-non-sensitive-govt-data-from-github-repos/)
 * [Panera Bread week-long IT outage caused by ransomware attack](https://www.bleepingcomputer.com/news/security/panera-bread-week-long-it-outage-caused-by-ransomware-attack/)
 * [New Latrodectus malware replaces IcedID in network breaches](https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-replaces-icedid-in-network-breaches/)
 * [Visa warns of new JSOutProx malware variant targeting financial orgs](https://www.bleepingcomputer.com/news/security/visa-warns-of-new-jsoutprox-malware-variant-targeting-financial-orgs/)
 * [Microsoft fixes Outlook security alerts bug caused by December updates](https://www.bleepingcomputer.com/news/security/microsoft-fixes-outlook-security-alerts-bug-caused-by-december-updates/)
-* [Hoya’s optics production and orders disrupted by cyberattack](https://www.bleepingcomputer.com/news/security/hoyas-optics-production-and-orders-disrupted-by-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
