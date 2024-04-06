@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US Health Dept warns hospitals of hackers targeting IT help desks](https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/)
+* [Over 92,000 exposed D-Link NAS devices have a backdoor account](https://www.bleepingcomputer.com/news/security/over-92-000-exposed-d-link-nas-devices-have-a-backdoor-account/)
 * [Recent Windows updates break Microsoft Connected Cache delivery](https://www.bleepingcomputer.com/news/microsoft/recent-windows-updates-break-microsoft-connected-cache-delivery/)
 * [The Week in Ransomware - April 5th 2024 - Virtual Machines under Attack](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-5th-2024-virtual-machines-under-attack/)
 * [New Ivanti RCE flaw may impact 16,000 exposed VPN gateways](https://www.bleepingcomputer.com/news/security/new-ivanti-rce-flaw-may-impact-16-000-exposed-vpn-gateways/)
-* [Microsoft fixes Windows Sysprep issue behind 0x80073cf2 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-sysprep-issue-behind-0x80073cf2-errors/)
-* [Fake Facebook MidJourney AI page promoted malware to 1.2 million people](https://www.bleepingcomputer.com/news/security/fake-facebook-midjourney-ai-page-promoted-malware-to-12-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
