@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Windows driver blocks software from changing default web browser](https://www.bleepingcomputer.com/news/microsoft/new-windows-driver-blocks-software-from-changing-default-web-browser/)
 * [US Health Dept warns hospitals of hackers targeting IT help desks](https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/)
 * [Over 92,000 exposed D-Link NAS devices have a backdoor account](https://www.bleepingcomputer.com/news/security/over-92-000-exposed-d-link-nas-devices-have-a-backdoor-account/)
 * [Recent Windows updates break Microsoft Connected Cache delivery](https://www.bleepingcomputer.com/news/microsoft/recent-windows-updates-break-microsoft-connected-cache-delivery/)
 * [The Week in Ransomware - April 5th 2024 - Virtual Machines under Attack](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-5th-2024-virtual-machines-under-attack/)
-* [New Ivanti RCE flaw may impact 16,000 exposed VPN gateways](https://www.bleepingcomputer.com/news/security/new-ivanti-rce-flaw-may-impact-16-000-exposed-vpn-gateways/)
 <!--END_SECTION:feed-->
 
 <!--
