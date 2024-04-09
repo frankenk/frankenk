@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Targus discloses cyberattack after hackers detected on file servers](https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/)
 * [Critical RCE bug in 92,000 D-Link NAS devices now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/)
 * [Google rolls out new Find My Device network to Android devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-new-find-my-device-network-to-android-devices/)
 * [Hackers deploy crypto drainers on thousands of WordPress sites](https://www.bleepingcomputer.com/news/security/hackers-deploy-crypto-drainers-on-thousands-of-wordpress-sites/)
 * [Cyberattack on UK’s CVS Group disrupts veterinary operations](https://www.bleepingcomputer.com/news/security/cyberattack-on-uks-cvs-group-disrupts-veterinary-operations/)
-* [Notepad++ wants your help in "parasite website" shutdown](https://www.bleepingcomputer.com/news/security/notepad-plus-plus-wants-your-help-in-parasite-website-shutdown/)
 <!--END_SECTION:feed-->
 
 <!--
