@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes two Windows zero-days exploited in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/)
 * [Critical Rust flaw enables Windows command injection attacks](https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/)
 * [Windows 10 KB5036892 update released with 23 new fixes, changes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5036892-update-released-with-23-new-fixes-changes/)
 * [GHC-SCW: Ransomware gang stole health data of 533,000 people](https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/)
 * [Windows 11 KB5036893 update released with 29 changes, Moment 5 features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/)
-* [Microsoft April 2024 Patch Tuesday fixes 150 security flaws, 67 RCEs](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/)
 <!--END_SECTION:feed-->
 
 <!--
