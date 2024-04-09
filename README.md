@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GHC-SCW: Ransomware gang stole health data of 533,000 people](https://www.bleepingcomputer.com/news/security/ghc-scw-ransomware-gang-stole-health-data-of-533-000-people/)
+* [Windows 11 KB5036893 update released with 29 changes, Moment 5 features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036893-update-released-with-29-changes-moment-5-features/)
+* [Microsoft April 2024 Patch Tuesday fixes 150 security flaws, 67 RCEs](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2024-patch-tuesday-fixes-150-security-flaws-67-rces/)
 * [RUBYCARP hackers linked to 10-year-old cryptomining botnet](https://www.bleepingcomputer.com/news/security/rubycarp-hackers-linked-to-10-year-old-cryptomining-botnet/)
 * [Implementing container security best practices using Wazuh](https://www.bleepingcomputer.com/news/security/implementing-container-security-best-practices-using-wazuh/)
-* [Over 90,000 LG Smart TVs may be exposed to remote attacks](https://www.bleepingcomputer.com/news/security/over-90-000-lg-smart-tvs-may-be-exposed-to-remote-attacks/)
-* [New SharePoint flaws help hackers evade detection when stealing files](https://www.bleepingcomputer.com/news/security/new-sharepoint-flaws-help-hackers-evade-detection-when-stealing-files/)
-* [Targus discloses cyberattack after hackers detected on file servers](https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/)
 <!--END_SECTION:feed-->
 
 <!--
