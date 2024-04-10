@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious PowerShell script pushing malware looks AI-written](https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/)
 * [AT&T now says data breach impacted 51 million customers](https://www.bleepingcomputer.com/news/security/att-now-says-data-breach-impacted-51-million-customers/)
 * [Reusing passwords: The hidden cost of convenience  ](https://www.bleepingcomputer.com/news/security/reusing-passwords-the-hidden-cost-of-convenience/)
 * [Malicious Visual Studio projects on GitHub push Keyzetsu malware](https://www.bleepingcomputer.com/news/security/malicious-visual-studio-projects-on-github-push-keyzetsu-malware/)
 * [Microsoft fixes two Windows zero-days exploited in malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-two-windows-zero-days-exploited-in-malware-attacks/)
-* [Critical Rust flaw enables Windows command injection attacks](https://www.bleepingcomputer.com/news/security/critical-rust-flaw-enables-windows-command-injection-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
