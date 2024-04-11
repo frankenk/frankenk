@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [CISA investigates critical infrastructure breach after Sisense hack](https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/)
+* [CISA says Sisense hack impacts critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-says-sisense-hack-impacts-critical-infrastructure-orgs/)
 * [Apple: Mercenary spyware attacks target iPhone users in 92 countries](https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/)
 * [How to automate up to 90% of IT offboarding tasks](https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/)
 * [DuckDuckGo launches a premium Privacy Pro VPN service](https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/)
