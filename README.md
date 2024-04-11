@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA investigates critical infrastructure breach after Sisense hack](https://www.bleepingcomputer.com/news/security/cisa-investigates-critical-infrastructure-breach-after-sisense-hack/)
+* [Apple: Mercenary spyware attacks target iPhone users in 92 countries](https://www.bleepingcomputer.com/news/security/apple-mercenary-spyware-attacks-target-iphone-users-in-92-countries/)
+* [How to automate up to 90% of IT offboarding tasks](https://www.bleepingcomputer.com/news/security/how-to-automate-up-to-90-percent-of-it-offboarding-tasks/)
 * [DuckDuckGo launches a premium Privacy Pro VPN service](https://www.bleepingcomputer.com/news/security/duckduckgo-launches-a-premium-privacy-pro-vpn-service/)
 * [Chrome Enterprise gets Premium security but you have to pay for it](https://www.bleepingcomputer.com/news/security/chrome-enterprise-gets-premium-security-but-you-have-to-pay-for-it/)
-* [Google Workspace rolls out multi-admin approval feature for risky changes](https://www.bleepingcomputer.com/news/security/google-workspace-rolls-out-multi-admin-approval-feature-for-risky-changes/)
-* [New Spectre v2 attack impacts Linux systems on Intel CPUs](https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-impacts-linux-systems-on-intel-cpus/)
-* [Malicious PowerShell script pushing malware looks AI-written](https://www.bleepingcomputer.com/news/security/malicious-powershell-script-pushing-malware-looks-ai-written/)
 <!--END_SECTION:feed-->
 
 <!--
