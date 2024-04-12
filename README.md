@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Palo Alto Networks warns of PAN-OS firewall zero-day used in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-firewall-zero-day-used-in-attacks/)
 * [CISA makes its "Malware Next-Gen" analysis system publicly available](https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/)
+* [OpenTable is adding your first name to previously anonymous reviews](https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/)
+* [LastPass: Hackers targeted employee in failed deepfake CEO call](https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/)
+* [Optics giant Hoya hit with * [CISA makes its "Malware Next-Gen" analysis system publicly available](https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/)
 * [OpenTable is adding your first name to previously anonymous reviews](https://www.bleepingcomputer.com/news/technology/opentable-is-adding-your-first-name-to-previously-anonymous-reviews/)
 * [LastPass: Hackers targeted employee in failed deepfake CEO call](https://www.bleepingcomputer.com/news/security/lastpass-hackers-targeted-employee-in-failed-deepfake-ceo-call/)
 * [Optics giant Hoya hit with * [CISA makes its "Malware Next-Gen" analysis system publicly available](https://www.bleepingcomputer.com/news/security/cisa-makes-its-malware-next-gen-analysis-system-publicly-available/)
@@ -81,7 +85,7 @@
 * [CISA orders agencies impacted by Microsoft hack to mitigate risks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/)0 million ransomware demand](https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/)
 * [CISA orders agencies impacted by Microsoft hack to mitigate risks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/)0 million ransomware demand](https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/)
 * [CISA orders agencies impacted by Microsoft hack to mitigate risks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/)0 million ransomware demand](https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/)
-* [CISA orders agencies impacted by Microsoft hack to mitigate risks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/)
+* [CISA orders agencies impacted by Microsoft hack to mitigate risks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-impacted-by-microsoft-hack-to-mitigate-risks/)0 million ransomware demand](https://www.bleepingcomputer.com/news/security/optics-giant-hoya-hit-with-10-million-ransomware-demand/)
 <!--END_SECTION:feed-->
 
 <!--
