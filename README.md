@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK flooded with forged stamps despite using barcodes — to prevent just that](https://www.bleepingcomputer.com/news/security/uk-flooded-with-forged-stamps-despite-using-barcodes-to-prevent-just-that/)
 * [Microsoft now testing app ads in Windows 11's Start menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-testing-app-ads-in-windows-11s-start-menu/)
 * [FBI warns of massive wave of road toll SMS phishing attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-of-massive-wave-of-road-toll-sms-phishing-attacks/)
 * [Telegram fixes Windows app zero-day used to launch Python scripts](https://www.bleepingcomputer.com/news/security/telegram-fixes-windows-app-zero-day-used-to-launch-python-scripts/)
 * [Ex-Amazon engineer gets 3 years for hacking crypto exchanges](https://www.bleepingcomputer.com/news/security/ex-amazon-engineer-gets-3-years-for-hacking-crypto-exchanges/)
-* [Former AT&T customers get $6.3 million in data throttling refunds](https://www.bleepingcomputer.com/news/mobile/former-atandt-customers-get-63-million-in-data-throttling-refunds/)
 <!--END_SECTION:feed-->
 
 <!--
