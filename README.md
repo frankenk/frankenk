@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft will limit Exchange Online bulk emails to fight spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/)
 * [Crypto miner arrested for skipping on $3.5 million in cloud server bills](https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/)
 * [Chipmaker Nexperia confirms breach after ransomware gang leaks data](https://www.bleepingcomputer.com/news/security/chipmaker-nexperia-confirms-breach-after-ransomware-gang-leaks-data/)
 * [Daixin ransomware gang claims attack on Omni Hotels](https://www.bleepingcomputer.com/news/security/daixin-ransomware-gang-claims-attack-on-omni-hotels/)
 * [Cisco Duo warns third-party data breach exposed SMS MFA logs](https://www.bleepingcomputer.com/news/security/cisco-duo-warns-third-party-data-breach-exposed-sms-mfa-logs/)
-* [Palo Alto Networks fixes zero-day exploited to backdoor firewalls](https://www.bleepingcomputer.com/news/security/palo-alto-networks-fixes-zero-day-exploited-to-backdoor-firewalls/)
 <!--END_SECTION:feed-->
 
 <!--
