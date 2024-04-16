@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PuTTY SSH client flaw allows recovery of cryptographic private keys](https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/)
+* [UnitedHealth: Change Healthcare cyberattack caused $872 million loss](https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/)
+* [How to make your web apps resistant to social engineering](https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/)
 * [Ransomware gang starts leaking alleged stolen Change Healthcare data](https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/)
 * [New SteganoAmor attacks use steganography to target 320 orgs globally](https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/)
-* [Microsoft will limit Exchange Online bulk emails to fight spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-limit-exchange-online-bulk-emails-to-fight-spam/)
-* [Crypto miner arrested for skipping on $3.5 million in cloud server bills](https://www.bleepingcomputer.com/news/security/crypto-miner-arrested-for-skipping-on-35-million-in-cloud-server-bills/)
-* [Chipmaker Nexperia confirms breach after ransomware gang leaks data](https://www.bleepingcomputer.com/news/security/chipmaker-nexperia-confirms-breach-after-ransomware-gang-leaks-data/)
 <!--END_SECTION:feed-->
 
 <!--
