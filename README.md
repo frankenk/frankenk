@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [T-Mobile, Verizon workers get texts offering $300 for SIM swaps](https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/)
 * [Cerebral to pay $7 million settlement in Facebook pixel data leak case](https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/)
 * [Ivanti warns of critical flaws in its Avalanche MDM solution](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/)
 * [Exploit released for Palo Alto PAN-OS bug used in attacks, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/)
 * [Google to crack down on third-party YouTube apps that block ads](https://www.bleepingcomputer.com/news/google/google-to-crack-down-on-third-party-youtube-apps-that-block-ads/)
-* [Cisco warns of large-scale brute-force attacks against VPN services](https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/)
 <!--END_SECTION:feed-->
 
 <!--
