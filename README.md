@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco warns of large-scale brute-force attacks against VPN services](https://www.bleepingcomputer.com/news/security/cisco-warns-of-large-scale-brute-force-attacks-against-vpn-services/)
 * [PuTTY SSH client flaw allows recovery of cryptographic private keys](https://www.bleepingcomputer.com/news/security/putty-ssh-client-flaw-allows-recovery-of-cryptographic-private-keys/)
 * [UnitedHealth: Change Healthcare cyberattack caused $872 million loss](https://www.bleepingcomputer.com/news/security/unitedhealth-change-healthcare-cyberattack-caused-872-million-loss/)
 * [How to make your web apps resistant to social engineering](https://www.bleepingcomputer.com/news/security/how-to-make-your-web-apps-resistant-to-social-engineering/)
 * [Ransomware gang starts leaking alleged stolen Change Healthcare data](https://www.bleepingcomputer.com/news/security/ransomware-gang-starts-leaking-alleged-stolen-change-healthcare-data/)
-* [New SteganoAmor attacks use steganography to target 320 orgs globally](https://www.bleepingcomputer.com/news/security/new-steganoamor-attacks-use-steganography-to-target-320-orgs-globally/)
 <!--END_SECTION:feed-->
 
 <!--
