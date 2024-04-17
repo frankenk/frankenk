@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [UK e-visa rollout begins today: no more immigration cards for millions](https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-begins-today-no-more-immigration-cards-for-millions/)
+* [UK e-visa rollout starts today for millions: no more physical immigration cards](https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-starts-today-for-millions-no-more-physical-immigration-cards/)
 * [T-Mobile, Verizon workers get texts offering $300 for SIM swaps](https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/)
 * [Cerebral to pay $7 million settlement in Facebook pixel data leak case](https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/)
 * [Ivanti warns of critical flaws in its Avalanche MDM solution](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/)
