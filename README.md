@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Multiple botnets exploiting one-year-old TP-Link flaw to hack routers](https://www.bleepingcomputer.com/news/security/multiple-botnets-exploiting-one-year-old-tp-link-flaw-to-hack-routers/)
+* [Microsoft: New Copilot app added by Edge doesn’t collect data](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-copilot-app-added-by-edge-doesnt-collect-data/)
 * [UK e-visa rollout starts today for millions: no more physical immigration cards](https://www.bleepingcomputer.com/news/security/uk-e-visa-rollout-starts-today-for-millions-no-more-physical-immigration-cards/)
 * [T-Mobile, Verizon workers get texts offering $300 for SIM swaps](https://www.bleepingcomputer.com/news/security/t-mobile-verizon-workers-get-texts-offering-300-for-sim-swaps/)
 * [Cerebral to pay $7 million settlement in Facebook pixel data leak case](https://www.bleepingcomputer.com/news/security/cerebral-to-pay-7-million-settlement-in-facebook-pixel-data-leak-case/)
-* [Ivanti warns of critical flaws in its Avalanche MDM solution](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-flaws-in-its-avalanche-mdm-solution/)
-* [Exploit released for Palo Alto PAN-OS bug used in attacks, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-palo-alto-pan-os-bug-used-in-attacks-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
