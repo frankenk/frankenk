@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [22,500 Palo Alto firewalls "possibly vulnerable" to ongoing attacks](https://www.bleepingcomputer.com/news/security/22-500-palo-alto-firewalls-possibly-vulnerable-to-ongoing-attacks/)
 * [Fake cheat lures gamers into spreading infostealer malware](https://www.bleepingcomputer.com/news/security/fake-cheat-lures-gamers-into-spreading-infostealer-malware/)
 * [Frontier Communications shuts down systems after cyberattack](https://www.bleepingcomputer.com/news/security/frontier-communications-shuts-down-systems-after-cyberattack/)
 * [840-bed hospital in France postpones procedures after cyberattack](https://www.bleepingcomputer.com/news/security/chc-sv-hospital-in-france-postpones-procedures-after-cyberattack/)
 * [FBI: Akira ransomware raked in $42 million from 250+ victims](https://www.bleepingcomputer.com/news/security/fbi-akira-ransomware-raked-in-42-million-from-250-plus-victims/)
-* [Google ad impersonates Whales Market to push wallet drainer malware](https://www.bleepingcomputer.com/news/security/google-ad-impersonates-whales-market-to-push-wallet-drainer-malware/)
 <!--END_SECTION:feed-->
 
 <!--
