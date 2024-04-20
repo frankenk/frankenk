@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Forminator plugin flaw impacts over 300k WordPress sites](https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/)
+* [GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
 * [The Week in Ransomware - April 19th 2024 -  Attacks Ramp Up](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/)
 * [CrushFTP warns users to patch exploited zero-day “immediately”](https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-exploited-zero-day-immediately/)
 * [HelloKitty ransomware rebrands, releases CD Projekt and Cisco data](https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/)
-* [MITRE says state hackers breached its network via Ivanti zero-days](https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/)
-* [United Nations agency investigates ransomware attack, data theft](https://www.bleepingcomputer.com/news/security/united-nations-agency-investigates-ransomware-attack-claimed-by-8Base-gang/)
 <!--END_SECTION:feed-->
 
 <!--
