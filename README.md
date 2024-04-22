@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-apt28-hackers-exploit-windows-flaw-reported-by-nsa/)
+* [Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/)
 * [Synlab Italia suspends operations following ransomware attack](https://www.bleepingcomputer.com/news/security/synlab-italia-suspends-operations-following-ransomware-attack/)
 * [GitLab affected by GitHub-style CDN flaw allowing malware hosting](https://www.bleepingcomputer.com/news/security/gitlab-affected-by-github-style-cdn-flaw-allowing-malware-hosting/)
 * [Russian Sandworm hackers targeted 20 critical orgs in Ukraine](https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/)
