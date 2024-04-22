@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian Sandworm hackers targeted 20 critical orgs in Ukraine](https://www.bleepingcomputer.com/news/security/russian-sandworm-hackers-targeted-20-critical-orgs-in-ukraine/)
 * [Malware dev lures child exploiters into honeytrap to extort them](https://www.bleepingcomputer.com/news/security/malware-dev-lures-child-exploiters-into-honeytrap-to-extort-them/)
 * [Ransomware payments drop to record low of 28% in Q1 2024](https://www.bleepingcomputer.com/news/security/ransomware-payments-drop-to-record-low-of-28-percent-in-q1-2024/)
 * [Critical Forminator plugin flaw impacts over 300k WordPress sites](https://www.bleepingcomputer.com/news/security/critical-forminator-plugin-flaw-impacts-over-300k-wordpress-sites/)
 * [GitHub comments abused to push malware via Microsoft repo URLs](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-malware-via-microsoft-repo-urls/)
-* [The Week in Ransomware - April 19th 2024 -  Attacks Ramp Up](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-april-19th-2024-attacks-ramp-up/)
 <!--END_SECTION:feed-->
 
 <!--
