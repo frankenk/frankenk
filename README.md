@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US govt sanctions Iranians linked to government cyberattacks](https://www.bleepingcomputer.com/news/security/us-govt-sanctions-iranians-linked-to-government-cyberattacks/)
 * [DPRK hacking groups breach South Korean defense contractors](https://www.bleepingcomputer.com/news/security/dprk-hacking-groups-breach-south-korean-defense-contractors/)
 * [US imposes visa bans on 13 spyware makers and their families](https://www.bleepingcomputer.com/news/security/us-imposes-visa-bans-on-13-spyware-makers-and-their-families/)
 * [Hackers hijack antivirus updates to drop GuptiMiner malware](https://www.bleepingcomputer.com/news/security/hackers-hijack-antivirus-updates-to-drop-guptiminer-malware/)
 * [UnitedHealth confirms it paid ransomware gang to stop data leak](https://www.bleepingcomputer.com/news/security/unitedhealth-confirms-it-paid-ransomware-gang-to-stop-data-leak/)
-* [Microsoft: APT28 hackers exploit Windows flaw reported by NSA](https://www.bleepingcomputer.com/news/security/microsoft-russian-apt28-hackers-exploit-windows-flaw-reported-by-nsa-using-gooseegg-tool/)
 <!--END_SECTION:feed-->
 
 <!--
