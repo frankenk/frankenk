@@ -5,6 +5,10 @@
 * [Over 1,400 CrushFTP servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-1-400-crushftp-servers-vulnerable-to-actively-exploited-bug/)
 * [WP Automatic WordPress plugin hit by millions of SQL injection attacks](https://www.bleepingcomputer.com/news/security/wp-automatic-wordpress-plugin-hit-by-millions-of-sql-injection-attacks/)
 * [New Brokewell malware takes over Android devices, steals data](https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/)
+* [US charges Samourai cryptomixer founders for laundering * [Reddit down in major outage blocking access to web, mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-down-in-major-outage-blocking-access-to-web-mobile-apps/)
+* [Over 1,400 CrushFTP servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-1-400-crushftp-servers-vulnerable-to-actively-exploited-bug/)
+* [WP Automatic WordPress plugin hit by millions of SQL injection attacks](https://www.bleepingcomputer.com/news/security/wp-automatic-wordpress-plugin-hit-by-millions-of-sql-injection-attacks/)
+* [New Brokewell malware takes over Android devices, steals data](https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/)
 * [US charges Samourai cryptomixer founders for laundering * [Over 1,400 CrushFTP servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-1-400-crushftp-servers-vulnerable-to-actively-exploited-bug/)
 * [WP Automatic WordPress plugin hit by millions of SQL injection attacks](https://www.bleepingcomputer.com/news/security/wp-automatic-wordpress-plugin-hit-by-millions-of-sql-injection-attacks/)
 * [New Brokewell malware takes over Android devices, steals data](https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/)
@@ -93,7 +97,7 @@
 * [ArcaneDoor hackers exploit Cisco zero-days to breach govt networks](https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
 * [Maximum severity Flowmon bug has a public exploit, patch now](https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/)
 * [ArcaneDoor hackers exploit Cisco zero-days to breach govt networks](https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
-* [Maximum severity Flowmon bug has a public exploit, patch now](https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
+* [Maximum severity Flowmon bug has a public exploit, patch now](https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
 <!--END_SECTION:feed-->
 
 <!--
