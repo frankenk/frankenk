@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WP Automatic WordPress plugin hit by millions of SQL injection attacks](https://www.bleepingcomputer.com/news/security/wp-automatic-wordpress-plugin-hit-by-millions-of-sql-injection-attacks/)
 * [New Brokewell malware takes over Android devices, steals data](https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/)
+* [US charges Samourai cryptomixer founders for laundering * [New Brokewell malware takes over Android devices, steals data](https://www.bleepingcomputer.com/news/security/new-brokewell-malware-takes-over-android-devices-steals-data/)
 * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [US charges Samourai cryptomixer founders for laundering * [ArcaneDoor hackers exploit Cisco zero-days to breach govt networks](https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/)
 * [Google Meet opens client-side encrypted calls to non Google users](https://www.bleepingcomputer.com/news/security/google-meet-opens-client-side-encrypted-calls-to-non-google-users/)
 * [Windows 11 KB5036980 update goes live with Start Menu ads](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036980-update-goes-live-with-start-menu-ads/)
@@ -77,7 +79,9 @@
 * [Windows 11 KB5036980 update goes live with Start Menu ads](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5036980-update-goes-live-with-start-menu-ads/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
 * [Maximum severity Flowmon bug has a public exploit, patch now](https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/)
 * [ArcaneDoor hackers exploit Cisco zero-days to breach govt networks](https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/)
-* [Google Meet opens client-side encrypted calls to non Google users](https://www.bleepingcomputer.com/news/security/google-meet-opens-client-side-encrypted-calls-to-non-google-users/)
+* [Google Meet opens client-side encrypted calls to non Google users](https://www.bleepingcomputer.com/news/security/google-meet-opens-client-side-encrypted-calls-to-non-google-users/)00 million](https://www.bleepingcomputer.com/news/security/us-charges-samourai-cryptomixer-founders-for-laundering-100-million/)
+* [Maximum severity Flowmon bug has a public exploit, patch now](https://www.bleepingcomputer.com/news/security/maximum-severity-flowmon-bug-has-a-public-exploit-patch-now/)
+* [ArcaneDoor hackers exploit Cisco zero-days to breach govt networks](https://www.bleepingcomputer.com/news/security/arcanedoor-hackers-exploit-cisco-zero-days-to-breach-govt-networks/)
 <!--END_SECTION:feed-->
 
 <!--
