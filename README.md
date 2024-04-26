@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kaiser Permanente: Data breach may impact 13.4 million patients](https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-may-impact-134-million-patients/)
 * [FBI warns against using unlicensed crypto transfer services](https://www.bleepingcomputer.com/news/security/fbi-warns-against-using-unlicensed-crypto-transfer-services/)
-* [LA County Health Services: Patients' data exposed in phishing attack](https://www.bleepingcomputer.com/news/security/la-county-health-services-patients-data-exposed-in-phishing-attack/)
+* [LA County Health Services: Patients' data exposed in phishing attack ](https://www.bleepingcomputer.com/news/security/la-county-health-services-thousands-of-patients-data-exposed-in-email-breach/)
 * [Researchers sinkhole PlugX malware server with 2.5 million unique IPs](https://www.bleepingcomputer.com/news/security/researchers-sinkhole-plugx-malware-server-with-25-million-unique-ips/)
 * [Reddit down in major outage blocking access to web, mobile apps](https://www.bleepingcomputer.com/news/technology/reddit-down-in-major-outage-blocking-access-to-web-mobile-apps/)
-* [Over 1,400 CrushFTP servers vulnerable to actively exploited bug](https://www.bleepingcomputer.com/news/security/over-1-400-crushftp-servers-vulnerable-to-actively-exploited-bug/)
 <!--END_SECTION:feed-->
 
 <!--
