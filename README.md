@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
+* [Google Chrome's new post-quantum cryptography may break TLS connections](https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/)
 * [Japanese police create fake support scam payment cards to warn victims](https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/)
 * [Okta warns of "unprecedented" credential stuffing attacks on customers](https://www.bleepingcomputer.com/news/security/okta-warns-of-unprecedented-credential-stuffing-attacks-on-customers/)
 * [Telegram is down with "Connecting" error](https://www.bleepingcomputer.com/news/technology/telegram-is-down-with-connecting-error/)
-* [Fake job interviews target developers with new Python backdoor](https://www.bleepingcomputer.com/news/security/fake-job-interviews-target-developers-with-new-python-backdoor/)
-* [Kaiser Permanente: Data breach may impact 13.4 million patients](https://www.bleepingcomputer.com/news/security/kaiser-permanente-data-breach-may-impact-134-million-patients/)
 <!--END_SECTION:feed-->
 
 <!--
