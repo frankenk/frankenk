@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes bug behind incorrect BitLocker encryption errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-bitlocker-encryption-errors/)
+* [Collection agency FBCS warns data breach impacts 1.9 million people](https://www.bleepingcomputer.com/news/security/collection-agency-fbcs-warns-data-breach-impacts-19-million-people/)
 * [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
 * [Google Chrome's new post-quantum cryptography may break TLS connections](https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/)
 * [Japanese police create fake support scam payment cards to warn victims](https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/)
-* [Okta warns of "unprecedented" credential stuffing attacks on customers](https://www.bleepingcomputer.com/news/security/okta-warns-of-unprecedented-credential-stuffing-attacks-on-customers/)
-* [Telegram is down with "Connecting" error](https://www.bleepingcomputer.com/news/technology/telegram-is-down-with-connecting-error/)
 <!--END_SECTION:feed-->
 
 <!--
