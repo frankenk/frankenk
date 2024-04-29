@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google rejected 2.28 million risky apps from Play Store in 2023](https://www.bleepingcomputer.com/news/security/google-rejected-228-million-risky-apps-from-play-store-in-2023/)
 * [Microsoft fixes bug behind incorrect BitLocker encryption errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-bitlocker-encryption-errors/)
 * [Collection agency FBCS warns data breach impacts 1.9 million people](https://www.bleepingcomputer.com/news/security/collection-agency-fbcs-warns-data-breach-impacts-19-million-people/)
 * [US Post Office phishing sites get as much traffic as the real one](https://www.bleepingcomputer.com/news/security/us-post-office-phishing-sites-get-as-much-traffic-as-the-real-one/)
 * [Google Chrome's new post-quantum cryptography may break TLS connections](https://www.bleepingcomputer.com/news/security/google-chromes-new-post-quantum-cryptography-may-break-tls-connections/)
-* [Japanese police create fake support scam payment cards to warn victims](https://www.bleepingcomputer.com/news/security/japanese-police-create-fake-support-scam-payment-cards-to-warn-victims/)
 <!--END_SECTION:feed-->
 
 <!--
