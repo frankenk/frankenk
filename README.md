@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
+* [Qantas app exposed sensitive traveler details to random users](https://www.bleepingcomputer.com/news/security/qantas-app-exposed-sensitive-traveler-details-to-random-users/)
+* [New Cuttlefish malware infects routers to monitor traffic for credentials](https://www.bleepingcomputer.com/news/security/new-cuttlefish-malware-infects-routers-to-monitor-traffic-for-credentials/)
 * [New Latrodectus malware attacks use Microsoft, Cloudflare themes](https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/)
 * [Philadelphia Inquirer: Data of over 25,000 people stolen in 2023 breach](https://www.bleepingcomputer.com/news/security/philadelphia-inquirer-data-of-over-25-000-people-stolen-in-2023-breach/)
-* [R language flaw allows code execution via RDS/RDX files](https://www.bleepingcomputer.com/news/security/r-language-flaw-allows-code-execution-via-rds-rdx-files/)
-* [Google now pays up to $450,000 for RCE bugs in some Android apps](https://www.bleepingcomputer.com/news/security/google-now-pays-up-to-450-000-for-rce-bugs-in-some-android-apps/)
-* [Millions of Docker repos found pushing malware, phishing sites](https://www.bleepingcomputer.com/news/security/millions-of-docker-repos-found-pushing-malware-phishing-sites/)
 <!--END_SECTION:feed-->
 
 <!--
