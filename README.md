@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Panda Restaurants discloses data breach after corporate systems hack](https://www.bleepingcomputer.com/news/security/panda-restaurants-discloses-a-data-breach-after-corporate-systems-hack/)
 * [French hospital CHC-SV refuses to pay LockBit extortion demand](https://www.bleepingcomputer.com/news/security/french-hospital-chc-sv-refuses-to-pay-lockbit-extortion-demand/)
 * [CISA says GitLab account takeover bug is actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-says-gitlab-account-takeover-bug-is-actively-exploited-in-attacks/)
 * [Microsoft: April Windows Server updates cause NTLM auth failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-cause-ntlm-auth-failures/)
 * [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
-* [Qantas app exposed sensitive traveler details to random users](https://www.bleepingcomputer.com/news/security/qantas-app-exposed-sensitive-traveler-details-to-random-users/)
 <!--END_SECTION:feed-->
 
 <!--
