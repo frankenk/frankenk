@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HPE Aruba Networking fixes four critical RCE flaws in ArubaOS](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-critical-rce-flaws-in-arubaos/)
+* [DropBox says hackers stole customer data, auth secrets from eSignature service](https://www.bleepingcomputer.com/news/security/dropbox-says-hackers-stole-customer-data-auth-secrets-from-esignature-service/)
 * [US govt warns of pro-Russian hacktivists targeting water facilities](https://www.bleepingcomputer.com/news/security/us-govt-warns-of-pro-russian-hacktivists-targeting-water-facilities/)
 * [Panda Restaurants discloses data breach after corporate systems hack](https://www.bleepingcomputer.com/news/security/panda-restaurants-discloses-a-data-breach-after-corporate-systems-hack/)
 * [French hospital CHC-SV refuses to pay LockBit extortion demand](https://www.bleepingcomputer.com/news/security/french-hospital-chc-sv-refuses-to-pay-lockbit-extortion-demand/)
-* [CISA says GitLab account takeover bug is actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-says-gitlab-account-takeover-bug-is-actively-exploited-in-attacks/)
-* [Microsoft: April Windows Server updates cause NTLM auth failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-cause-ntlm-auth-failures/)
 <!--END_SECTION:feed-->
 
 <!--
