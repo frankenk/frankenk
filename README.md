@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: April Windows Server updates cause NTLM auth failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-cause-ntlm-auth-failures/)
 * [Microsoft says April Windows updates break VPN connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-april-windows-updates-break-vpn-connections/)
 * [Qantas app exposed sensitive traveler details to random users](https://www.bleepingcomputer.com/news/security/qantas-app-exposed-sensitive-traveler-details-to-random-users/)
 * [New Cuttlefish malware infects routers to monitor traffic for credentials](https://www.bleepingcomputer.com/news/security/new-cuttlefish-malware-infects-routers-to-monitor-traffic-for-credentials/)
 * [New Latrodectus malware attacks use Microsoft, Cloudflare themes](https://www.bleepingcomputer.com/news/security/new-latrodectus-malware-attacks-use-microsoft-cloudflare-themes/)
-* [Philadelphia Inquirer: Data of over 25,000 people stolen in 2023 breach](https://www.bleepingcomputer.com/news/security/philadelphia-inquirer-data-of-over-25-000-people-stolen-in-2023-breach/)
 <!--END_SECTION:feed-->
 
 <!--
