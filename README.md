@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police shuts down 12 fraud call centres, arrests 21 suspects](https://www.bleepingcomputer.com/news/security/police-shuts-down-12-fraud-call-centres-arrests-21-suspects/)
 * [Microsoft warns of "Dirty Stream" attack impacting Android apps](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-dirty-stream-attack-impacting-android-apps/)
 * [REvil hacker behind Kaseya ransomware attack gets 13 years in prison](https://www.bleepingcomputer.com/news/security/revil-hacker-behind-kaseya-ransomware-attack-gets-13-years-in-prison/)
 * [Microsoft won't fix Windows 0x80070643 errors, manual fix required](https://www.bleepingcomputer.com/news/microsoft/microsoft-wont-fix-windows-0x80070643-errors-manual-fix-required/)
 * [Cybersecurity consultant arrested after allegedly extorting IT firm](https://www.bleepingcomputer.com/news/legal/cybersecurity-consultant-arrested-after-allegedly-extorting-it-firm/)
-* [HPE Aruba Networking fixes four critical RCE flaws in ArubaOS](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-four-critical-rce-flaws-in-arubaos/)
 <!--END_SECTION:feed-->
 
 <!--
