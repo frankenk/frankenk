@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NSA warns of North Korean hackers exploiting weak DMARC email policies](https://www.bleepingcomputer.com/news/security/nsa-warns-of-north-korean-hackers-exploiting-weak-dmarc-email-policies/)
 * [Google rolls back reCaptcha update to fix Firefox issues](https://www.bleepingcomputer.com/news/security/google-rolls-back-recaptcha-update-to-fix-firefox-issues/)
 * [NATO and EU condemn Russia's cyberattacks against Germany, Czechia](https://www.bleepingcomputer.com/news/security/nato-and-eu-condemn-russias-cyberattacks-against-germany-czechia/)
 * [Microsoft rolls out passkey auth for personal Microsoft accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-passkey-auth-for-personal-microsoft-accounts/)
 * [CEO who sold fake Cisco devices to US military gets 6 years in prison](https://www.bleepingcomputer.com/news/security/ceo-who-sold-fake-cisco-devices-to-us-military-gets-6-years-in-prison/)
-* [Bitwarden launches new MFA Authenticator app for iOS, Android](https://www.bleepingcomputer.com/news/software/bitwarden-launches-new-mfa-authenticator-app-for-ios-android/)
 <!--END_SECTION:feed-->
 
 <!--
