@@ -5,6 +5,10 @@
 * [Google Chrome is getting native support for YouTube-like video chapters](https://www.bleepingcomputer.com/news/google/google-chrome-is-getting-native-support-for-youtube-like-video-chapters/)
 * [Microsoft tests using MT/s for memory speed in Windows 11 Task Manager](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-using-mt-s-for-memory-speed-in-windows-11-task-manager/)
 * [City of Wichita shuts down IT network after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-wichita-shuts-down-it-network-after-ransomware-attack/)
+* [Get ahead in cybersecurity with * [LockBit ransomware admin identified, sanctioned in US, UK, Australia](https://www.bleepingcomputer.com/news/security/lockbit-ransomware-admin-identified-sanctioned-in-us-uk-australia/)
+* [Google Chrome is getting native support for YouTube-like video chapters](https://www.bleepingcomputer.com/news/google/google-chrome-is-getting-native-support-for-youtube-like-video-chapters/)
+* [Microsoft tests using MT/s for memory speed in Windows 11 Task Manager](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-using-mt-s-for-memory-speed-in-windows-11-task-manager/)
+* [City of Wichita shuts down IT network after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-wichita-shuts-down-it-network-after-ransomware-attack/)
 * [Get ahead in cybersecurity with * [Google Chrome is getting native support for YouTube-like video chapters](https://www.bleepingcomputer.com/news/google/google-chrome-is-getting-native-support-for-youtube-like-video-chapters/)
 * [Microsoft tests using MT/s for memory speed in Windows 11 Task Manager](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-using-mt-s-for-memory-speed-in-windows-11-task-manager/)
 * [City of Wichita shuts down IT network after ransomware attack](https://www.bleepingcomputer.com/news/security/city-of-wichita-shuts-down-it-network-after-ransomware-attack/)
@@ -101,7 +105,7 @@
 * [Lockbit's seized site comes alive to tease new police announcements](https://www.bleepingcomputer.com/news/security/lockbits-seized-site-comes-alive-to-tease-new-police-announcements/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)
 * [Lockbit's seized site comes alive to tease new police announcements](https://www.bleepingcomputer.com/news/security/lockbits-seized-site-comes-alive-to-tease-new-police-announcements/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)
 * [Lockbit's seized site comes alive to tease new police announcements](https://www.bleepingcomputer.com/news/security/lockbits-seized-site-comes-alive-to-tease-new-police-announcements/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)
-* [Lockbit's seized site comes alive to tease new police announcements](https://www.bleepingcomputer.com/news/security/lockbits-seized-site-comes-alive-to-tease-new-police-announcements/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)
+* [Lockbit's seized site comes alive to tease new police announcements](https://www.bleepingcomputer.com/news/security/lockbits-seized-site-comes-alive-to-tease-new-police-announcements/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)45 off a training course bundle](https://www.bleepingcomputer.com/news/security/get-ahead-in-cybersecurity-with-145-off-a-training-course-bundle/)
 <!--END_SECTION:feed-->
 
 <!--
