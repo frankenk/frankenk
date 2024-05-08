@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: April Windows Server updates also cause crashes, reboots](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-windows-server-updates-also-cause-crashes-reboots/)
 * [Massive webshop fraud ring steals credit cards from 850,000 people](https://www.bleepingcomputer.com/news/security/massive-webshop-fraud-ring-steals-credit-cards-from-850-000-people/)
 * [DocGo discloses cyberattack after hackers steal patient health data](https://www.bleepingcomputer.com/news/security/docgo-discloses-cyberattack-after-hackers-steal-patient-health-data/)
 * [Hackers exploit LiteSpeed Cache flaw to create WordPress admins](https://www.bleepingcomputer.com/news/security/hackers-exploit-litespeed-cache-flaw-to-create-wordpress-admins/)
 * [UK confirms Ministry of Defence payroll data exposed in data breach](https://www.bleepingcomputer.com/news/security/uk-confirms-ministry-of-defence-payroll-data-exposed-in-data-breach/)
-* [New attack leaks VPN traffic using rogue DHCP servers](https://www.bleepingcomputer.com/news/security/new-tunnelvision-attack-leaks-vpn-traffic-using-rogue-dhcp-servers/)
 <!--END_SECTION:feed-->
 
 <!--
