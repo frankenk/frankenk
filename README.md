@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Citrix warns admins to manually mitigate PuTTY SSH client bug](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-manually-mitigate-putty-ssh-client-bug/)
 * [AT&T delays Microsoft 365 email delivery due to spam wave](https://www.bleepingcomputer.com/news/technology/att-delays-microsoft-365-email-delivery-due-to-spam-wave/)
 * [British Columbia investigating cyberattacks on government networks](https://www.bleepingcomputer.com/news/security/british-columbia-investigating-cyberattacks-on-government-networks/)
 * [Dell warns of data breach, 49 million customers allegedly affected](https://www.bleepingcomputer.com/news/security/dell-warns-of-data-breach-49-million-customers-allegedly-affected/)
 * [Zscaler takes "test environment" offline after rumors of a breach](https://www.bleepingcomputer.com/news/security/zscaler-takes-test-environment-offline-after-rumors-of-a-breach/)
-* [University System of Georgia: 800K exposed in 2023 MOVEit attack](https://www.bleepingcomputer.com/news/security/university-system-of-georgia-800k-exposed-in-2023-moveit-attack/)
 <!--END_SECTION:feed-->
 
 <!--
