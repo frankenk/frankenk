@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ascension redirects ambulances after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-giant-ascension-redirects-ambulances-after-suspected-Black-Basta-ransomware-attack/)
 * [Ohio Lottery ransomware attack impacts over 538,000 individuals](https://www.bleepingcomputer.com/news/security/ohio-lottery-ransomware-attack-impacts-over-538-000-individuals/)
 * [Google fixes fifth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/)
 * [Widely used modems in industrial IoT devices open to SMS attack](https://www.bleepingcomputer.com/news/security/widely-used-modems-in-industrial-iot-devices-open-to-sms-attack/)
 * [Poland says Russian military hackers target its govt networks](https://www.bleepingcomputer.com/news/security/poland-says-russian-military-hackers-target-its-govt-networks/)
-* [Monday.com removes "Share Update" feature abused for phishing attacks](https://www.bleepingcomputer.com/news/security/mondaycom-removes-share-update-feature-abused-for-phishing-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
