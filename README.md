@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Week in Ransomware - May 10th 2024 - Chipping away at LockBit](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-10th-2024-chipping-away-at-lockbit/)
 * [Dell API abused to steal 49 million customer records in data breach](https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-million-customer-records-in-data-breach/)
 * [Ascension redirects ambulances after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-giant-ascension-redirects-ambulances-after-suspected-Black-Basta-ransomware-attack/)
 * [Ohio Lottery ransomware attack impacts over 538,000 individuals](https://www.bleepingcomputer.com/news/security/ohio-lottery-ransomware-attack-impacts-over-538-000-individuals/)
 * [Google fixes fifth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/)
-* [Widely used modems in industrial IoT devices open to SMS attack](https://www.bleepingcomputer.com/news/security/widely-used-modems-in-industrial-iot-devices-open-to-sms-attack/)
 <!--END_SECTION:feed-->
 
 <!--
