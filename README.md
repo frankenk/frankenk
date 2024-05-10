@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes fifth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-fixes-fifth-chrome-zero-day-vulnerability-exploited-in-attacks-in-2024/)
+* [Widely used Telit Cinterion modems open to SMS takeover attacks](https://www.bleepingcomputer.com/news/security/widely-used-telit-cinterion-modems-open-to-sms-takeover-attacks/)
 * [Poland says Russian military hackers target its govt networks](https://www.bleepingcomputer.com/news/security/poland-says-russian-military-hackers-target-its-govt-networks/)
 * [Monday.com removes "Share Update" feature abused for phishing attacks](https://www.bleepingcomputer.com/news/security/mondaycom-removes-share-update-feature-abused-for-phishing-attacks/)
 * [Citrix warns admins to manually mitigate PuTTY SSH client bug](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-manually-mitigate-putty-ssh-client-bug/)
-* [AT&T delays Microsoft 365 email delivery due to spam wave](https://www.bleepingcomputer.com/news/technology/att-delays-microsoft-365-email-delivery-due-to-spam-wave/)
-* [British Columbia investigating cyberattacks on government networks](https://www.bleepingcomputer.com/news/security/british-columbia-investigating-cyberattacks-on-government-networks/)
 <!--END_SECTION:feed-->
 
 <!--
