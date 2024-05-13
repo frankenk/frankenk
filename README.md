@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Helsinki suffers data breach after hackers exploit unpatched flaw](https://www.bleepingcomputer.com/news/security/helsinki-suffers-data-breach-after-hackers-exploit-unpatched-flaw/)
 * [Largest non-bank lender in Australia warns of a data breach](https://www.bleepingcomputer.com/news/security/largest-non-bank-lender-in-australia-warns-of-a-data-breach/)
 * [The Post Millennial hack leaked data impacting 26 million people](https://www.bleepingcomputer.com/news/security/the-post-millennial-hack-leaked-data-impacting-26-million-people/)
 * [CISA: Black Basta ransomware breached over 500 orgs worldwide](https://www.bleepingcomputer.com/news/security/cisa-black-basta-ransomware-breached-over-500-orgs-worldwide/)
 * [Europol confirms web portal breach, says no operational data stolen](https://www.bleepingcomputer.com/news/security/europol-confirms-web-portal-breach-says-no-operational-data-stolen/)
-* [The Week in Ransomware - May 10th 2024 - Chipping away at LockBit](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-10th-2024-chipping-away-at-lockbit/)
 <!--END_SECTION:feed-->
 
 <!--
