@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Largest non-bank lender in Australia warns of a data breach](https://www.bleepingcomputer.com/news/security/largest-non-bank-lender-in-australia-warns-of-a-data-breach/)
+* [The Post Millennial hack leaked data impacting 26 million people](https://www.bleepingcomputer.com/news/security/the-post-millennial-hack-leaked-data-impacting-26-million-people/)
+* [CISA: Black Basta ransomware breached over 500 orgs worldwide](https://www.bleepingcomputer.com/news/security/cisa-black-basta-ransomware-breached-over-500-orgs-worldwide/)
 * [Europol confirms web portal breach, says no operational data stolen](https://www.bleepingcomputer.com/news/security/europol-confirms-web-portal-breach-says-no-operational-data-stolen/)
 * [The Week in Ransomware - May 10th 2024 - Chipping away at LockBit](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-10th-2024-chipping-away-at-lockbit/)
-* [Dell API abused to steal 49 million customer records in data breach](https://www.bleepingcomputer.com/news/security/dell-api-abused-to-steal-49-million-customer-records-in-data-breach/)
-* [Ascension redirects ambulances after suspected ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-giant-ascension-redirects-ambulances-after-suspected-Black-Basta-ransomware-attack/)
-* [Ohio Lottery ransomware attack impacts over 538,000 individuals](https://www.bleepingcomputer.com/news/security/ohio-lottery-ransomware-attack-impacts-over-538-000-individuals/)
 <!--END_SECTION:feed-->
 
 <!--
