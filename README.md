@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes VPN failures caused by April Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-failures-caused-by-april-windows-updates/)
+* [Singing River Health System: Data of 895,000 stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/singing-river-health-system-data-of-895-000-stolen-in-ransomware-attack/)
 * [VMware makes Workstation Pro and Fusion Pro free for personal use](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-pro-and-fusion-pro-free-for-personal-use/)
 * [Microsoft fixes Windows Server bug causing crashes, NTLM auth failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-crashes-ntlm-auth-failures/)
 * [Microsoft fixes Windows zero-day exploited in QakBot malware attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-zero-day-exploited-in-qakbot-malware-attacks/)
-* [Windows 10 KB5037768 update released with new features and 20 fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5037768-update-released-with-new-features-and-20-fixes/)
-* [Microsoft May 2024 Patch Tuesday fixes 3 zero-days, 61 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2024-patch-tuesday-fixes-3-zero-days-61-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
