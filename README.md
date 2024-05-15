@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple blocked $7 billion in fraudulent App Store purchases in 4 years](https://www.bleepingcomputer.com/news/security/apple-blocked-7-billion-in-fraudulent-app-store-purchases-in-4-years/)
+* [Windows Quick Assist abused in Black Basta ransomware attacks](https://www.bleepingcomputer.com/news/security/windows-quick-assist-abused-in-black-basta-ransomware-attacks/)
 * [FBI seize BreachForums hacking forum used to leak stolen data](https://www.bleepingcomputer.com/news/security/fbi-seize-breachforums-hacking-forum-used-to-leak-stolen-data/)
 * [Banco Santander warns of a data breach exposing customer info](https://www.bleepingcomputer.com/news/security/banco-santander-warns-of-a-data-breach-exposing-customer-info/)
 * [Tornado Cash cryptomixer dev gets 64 months for laundering $2 billion](https://www.bleepingcomputer.com/news/legal/tornado-cash-cryptomixer-dev-gets-64-months-for-laundering-2-billion/)
-* [PoC exploit released for RCE zero-day in D-Link EXO AX4800 routers](https://www.bleepingcomputer.com/news/security/poc-exploit-released-for-rce-zero-day-in-d-link-exo-ax4800-routers/)
-* [Microsoft fixes VPN failures caused by April Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-failures-caused-by-april-windows-updates/)
 <!--END_SECTION:feed-->
 
 <!--
