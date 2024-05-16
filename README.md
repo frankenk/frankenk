@@ -3,7 +3,7 @@
 <!--START_SECTION:feed-->
 * [Google patches third exploited Chrome zero-day in a week](https://www.bleepingcomputer.com/news/google/google-patches-third-exploited-chrome-zero-day-in-a-week/)
 * [Android to add new anti-theft and data protection features](https://www.bleepingcomputer.com/news/google/android-to-add-new-anti-theft-and-data-protection-features/)
-* [Android 15, Google Play get new anti-malware and anti-fraud features](https://www.bleepingcomputer.com/news/google/android-15-google-play-get-new-anti-malware-and-anti-fraud-features/)
+* [Android 15, Google Play Protect get new anti-malware and anti-fraud features](https://www.bleepingcomputer.com/news/google/android-15-google-play-protect-get-new-anti-malware-and-anti-fraud-features/)
 * [Nissan North America data breach impacts over 53,000 employees](https://www.bleepingcomputer.com/news/security/nissan-north-america-data-breach-impacts-over-53-000-employees/)
 * [Brothers arrested for $25 million theft in Ethereum blockchain attack](https://www.bleepingcomputer.com/news/security/brothers-arrested-for-25-million-theft-in-ethereum-blockchain-attack/)
 <!--END_SECTION:feed-->
