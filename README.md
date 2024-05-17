@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WebTPA data breach impacts 2.4 million insurance policyholders](https://www.bleepingcomputer.com/news/security/webtpa-data-breach-impacts-24-million-insurance-policyholders/)
 * [Five charged for cyber schemes to benefit North Korea's weapons program](https://www.bleepingcomputer.com/news/security/five-Arizona-Ukrain-charged-for-cyber-schemes-infiltrating-over-300-companies-to-benefit-north-koreas-weapons-program-/)
 * [Norway recommends replacing SSL VPN to prevent breaches](https://www.bleepingcomputer.com/news/security/norway-recommends-replacing-ssl-vpn-to-prevent-breaches/)
 * [Microsoft shares temp fix for Outlook encrypted email reply issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-reply-issues/)
 * [MediSecure e-script firm hit by ‘large-scale’ ransomware data breach](https://www.bleepingcomputer.com/news/security/medisecure-e-script-firm-hit-by-large-scale-ransomware-data-breach/)
-* [Russian hackers use new Lunar malware to breach a European govt's agencies](https://www.bleepingcomputer.com/news/security/russian-hackers-use-new-lunar-malware-to-breach-a-european-govts-agencies/)
 <!--END_SECTION:feed-->
 
 <!--
