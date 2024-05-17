@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SEC: Financial orgs have 30 days to send data breach notifications](https://www.bleepingcomputer.com/news/security/sec-financial-orgs-have-30-days-to-send-data-breach-notifications/)
 * [US arrests suspects behind $73M ‘pig butchering’ laundering scheme](https://www.bleepingcomputer.com/news/security/us-arrests-suspects-behind-73m-pig-butchering-laundering-scheme/)
 * [WebTPA data breach impacts 2.4 million insurance policyholders](https://www.bleepingcomputer.com/news/security/webtpa-data-breach-impacts-24-million-insurance-policyholders/)
-* [US woman helped North Korean IT workers infiltrate 300 companies](https://www.bleepingcomputer.com/news/security/five-arizona-ukraine-charged-for-cyber-schemes-infiltrating-over-300-companies-to-benefit-north-koreas-weapons-program/)
+* [US woman allegedly aided North Korean IT workers infiltrate 300 firms](https://www.bleepingcomputer.com/news/security/five-arizona-ukraine-charged-for-cyber-schemes-infiltrating-over-300-companies-to-benefit-north-koreas-weapons-program/)
 * [Norway recommends replacing SSL VPN to prevent breaches](https://www.bleepingcomputer.com/news/security/norway-recommends-replacing-ssl-vpn-to-prevent-breaches/)
-* [Microsoft shares temp fix for Outlook encrypted email reply issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-reply-issues/)
 <!--END_SECTION:feed-->
 
 <!--
