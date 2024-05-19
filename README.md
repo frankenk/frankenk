@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Frustration grows over Google's AI Overviews feature, how to disable](https://www.bleepingcomputer.com/news/google/frustration-grows-over-googles-ai-overviews-feature-how-to-disable/)
+* [CISA warns of hackers exploiting Chrome, EoL D-Link bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-chrome-eol-d-link-bugs/)
 * [Ransomware gang targets Windows admins via PuTTy, WinSCP malvertising](https://www.bleepingcomputer.com/news/security/ransomware-gang-targets-windows-admins-via-putty-winscp-malvertising/)
 * [Banking malware Grandoreiro returns after police disruption](https://www.bleepingcomputer.com/news/security/banking-malware-grandoreiro-returns-after-police-disruption/)
 * [The Week in Ransomware - May 17th 2024 - Mailbombing is back](https://www.bleepingcomputer.com/news/security/the-week-in-ransomware-may-17th-2024-mailbombing-is-back/)
-* [Microsoft to start enforcing Azure multi-factor authentication in July](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-start-enforcing-azure-multi-factor-authentication-MFA-in-july-2024/)
-* [SEC: Financial orgs have 30 days to send data breach notifications](https://www.bleepingcomputer.com/news/security/sec-financial-orgs-have-30-days-to-send-data-breach-notifications/)
 <!--END_SECTION:feed-->
 
 <!--
