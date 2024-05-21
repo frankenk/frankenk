@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GitHub warns of SAML auth bypass flaw in Enterprise Server](https://www.bleepingcomputer.com/news/security/github-warns-of-saml-auth-bypass-flaw-in-enterprise-server/)
+* [Google rolls out Chrome fix for empty pages when switching tabs](https://www.bleepingcomputer.com/news/google/google-rolls-out-chrome-fix-for-empty-pages-when-switching-tabs/)
 * [Zoom adds post-quantum end-to-end encryption to video meetings](https://www.bleepingcomputer.com/news/security/zoom-adds-post-quantum-end-to-end-encryption-to-video-meetings/)
 * [Critical Fluent Bit flaw impacts all major cloud providers](https://www.bleepingcomputer.com/news/security/critical-fluent-bit-flaw-impacts-all-major-cloud-providers/)
 * [OmniVision discloses data breach after 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/omnivision-discloses-data-breach-after-2023-ransomware-attack/)
-* [Owner of Incognito dark web drugs market arrested in New York](https://www.bleepingcomputer.com/news/security/owner-of-incognito-dark-web-drugs-market-arrested-in-new-york/)
-* [Windows 11 Recall AI feature will record everything you do on your PC](https://www.bleepingcomputer.com/news/microsoft/windows-11-recall-ai-feature-will-record-everything-you-do-on-your-pc/)
 <!--END_SECTION:feed-->
 
 <!--
