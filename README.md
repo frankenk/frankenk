@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Atlassian Bitbucket artifacts can leak plaintext auth secrets](https://www.bleepingcomputer.com/news/security/atlassian-bitbucket-artifacts-can-leak-plaintext-auth-secrets/)
+* [Western Sydney University data breach exposed student data](https://www.bleepingcomputer.com/news/security/western-sydney-university-data-breach-exposed-student-data/)
+* [Bitbucket artifact files can leak plaintext authentication secrets](https://www.bleepingcomputer.com/news/security/bitbucket-artifact-files-can-leak-plaintext-authentication-secrets/)
 * [Rockwell Automation warns admins to take ICS devices offline](https://www.bleepingcomputer.com/news/security/rockwell-automation-warns-admins-to-take-ics-devices-offline/)
 * [GitHub warns of SAML auth bypass flaw in Enterprise Server](https://www.bleepingcomputer.com/news/security/github-warns-of-saml-auth-bypass-flaw-in-enterprise-server/)
 * [Google rolls out Chrome fix for empty pages when switching tabs](https://www.bleepingcomputer.com/news/google/google-rolls-out-chrome-fix-for-empty-pages-when-switching-tabs/)
-* [Zoom adds post-quantum end-to-end encryption to video meetings](https://www.bleepingcomputer.com/news/security/zoom-adds-post-quantum-end-to-end-encryption-to-video-meetings/)
 <!--END_SECTION:feed-->
 
 <!--
