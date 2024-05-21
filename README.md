@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GhostEngine mining attacks kill EDR security using vulnerable drivers](https://www.bleepingcomputer.com/news/security/ghostengine-mining-attacks-kill-edr-security-using-vulnerable-drivers/)
+* [Veeam warns of critical Backup Enterprise Manager auth bypass bug](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-backup-enterprise-manager-auth-bypass-bug/)
 * [LockBit says they stole data in London Drugs ransomware attack](https://www.bleepingcomputer.com/news/security/lockbit-says-they-stole-data-in-london-drugs-ransomware-attack/)
 * [Western Sydney University data breach exposed student data](https://www.bleepingcomputer.com/news/security/western-sydney-university-data-breach-exposed-student-data/)
 * [Bitbucket artifact files can leak plaintext authentication secrets](https://www.bleepingcomputer.com/news/security/bitbucket-artifact-files-can-leak-plaintext-authentication-secrets/)
-* [Rockwell Automation warns admins to take ICS devices offline](https://www.bleepingcomputer.com/news/security/rockwell-automation-warns-admins-to-take-ics-devices-offline/)
-* [GitHub warns of SAML auth bypass flaw in Enterprise Server](https://www.bleepingcomputer.com/news/security/github-warns-of-saml-auth-bypass-flaw-in-enterprise-server/)
 <!--END_SECTION:feed-->
 
 <!--
