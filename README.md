@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [JAVS courtroom recording software backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/javs-courtroom-recording-software-backdoored-in-supply-chain-attack/)
 * [Microsoft spots gift card thieves using cyber-espionage tactics](https://www.bleepingcomputer.com/news/security/microsoft-spots-gift-card-thieves-using-cyber-espionage-tactics/)
 * [High-severity GitLab flaw lets attackers take over accounts](https://www.bleepingcomputer.com/news/security/high-severity-gitlab-flaw-lets-attackers-take-over-accounts/)
 * [Apple wasn’t storing deleted iOS photos in iCloud after all](https://www.bleepingcomputer.com/news/security/apple-wasnt-storing-deleted-ios-photos-in-icloud-after-all/)
 * [Northern Ireland police faces £750k fine after exposing staff info](https://www.bleepingcomputer.com/news/security/northern-ireland-police-faces-750k-fine-after-exposing-staff-info/)
-* [Microsoft outage affects Bing, Copilot, DuckDuckGo and ChatGPT internet search](https://www.bleepingcomputer.com/news/microsoft/microsoft-outage-affects-bing-copilot-duckduckgo-and-chatgpt-internet-search/)
 <!--END_SECTION:feed-->
 
 <!--
