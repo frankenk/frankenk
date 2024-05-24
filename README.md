@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes eighth actively exploited Chrome zero-day this year](https://www.bleepingcomputer.com/news/security/google-fixes-eighth-actively-exploited-chrome-zero-day-this-year/)
 * [Microsoft pushes emergency fix for Windows Server 2019 update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-emergency-fix-for-windows-server-2019-0x800f0982-update-errors/)
 * [JAVS courtroom recording software backdoored in supply chain attack](https://www.bleepingcomputer.com/news/security/javs-courtroom-recording-software-backdoored-in-supply-chain-attack/)
 * [Microsoft spots gift card thieves using cyber-espionage tactics](https://www.bleepingcomputer.com/news/security/microsoft-spots-gift-card-thieves-using-cyber-espionage-tactics/)
 * [High-severity GitLab flaw lets attackers take over accounts](https://www.bleepingcomputer.com/news/security/high-severity-gitlab-flaw-lets-attackers-take-over-accounts/)
-* [Apple wasn’t storing deleted iOS photos in iCloud after all](https://www.bleepingcomputer.com/news/security/apple-wasnt-storing-deleted-ios-photos-in-icloud-after-all/)
 <!--END_SECTION:feed-->
 
 <!--
