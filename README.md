@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
+* [Hacker defaces spyware app’s site, dumps database and source code](https://www.bleepingcomputer.com/news/security/hacker-defaces-spyware-apps-site-dumps-database-and-source-code/)
 * [Microsoft: Windows 24H2 will remove Cortana and WordPad apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-24h2-will-remove-cortana-and-wordpad-apps/)
 * [Microsoft Copilot fixed worldwide after 24 hour outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-fixed-worldwide-after-24-hour-outage/)
 * [Cencora data breach exposes US patient info from 8 drug companies](https://www.bleepingcomputer.com/news/security/cencora-data-breach-exposes-us-patient-info-from-8-drug-companies/)
-* [New ShrinkLocker ransomware uses BitLocker to encrypt your files](https://www.bleepingcomputer.com/news/security/new-shrinklocker-ransomware-uses-bitlocker-to-encrypt-your-files/)
-* [Google fixes eighth actively exploited Chrome zero-day this year](https://www.bleepingcomputer.com/news/security/google-fixes-eighth-actively-exploited-chrome-zero-day-this-year/)
 <!--END_SECTION:feed-->
 
 <!--
