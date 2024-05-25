@@ -5,7 +5,7 @@
 * [Hacker defaces spyware app’s site, dumps database and source code](https://www.bleepingcomputer.com/news/security/hacker-defaces-spyware-apps-site-dumps-database-and-source-code/)
 * [Microsoft: Windows 24H2 will remove Cortana and WordPad apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-24h2-will-remove-cortana-and-wordpad-apps/)
 * [Microsoft Copilot fixed worldwide after 24 hour outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-fixed-worldwide-after-24-hour-outage/)
-* [Cencora data breach exposes US patient info from 8 drug companies](https://www.bleepingcomputer.com/news/security/cencora-data-breach-exposes-us-patient-info-from-8-drug-companies/)
+* [Cencora data breach exposes US patient info from 11 drug companies](https://www.bleepingcomputer.com/news/security/cencora-data-breach-exposes-us-patient-info-from-11-drug-companies/)
 <!--END_SECTION:feed-->
 
 <!--
