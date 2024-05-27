@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Sav-Rx discloses data breach impacting 2.8 million Americans](https://www.bleepingcomputer.com/news/security/sav-rx-discloses-data-breach-impacting-28-million-americans/)
 * [Hackers phish finance orgs using trojanized Minesweeper clone](https://www.bleepingcomputer.com/news/security/hackers-phish-finance-orgs-using-trojanized-minesweeper-clone/)
 * [Arc browser’s Windows launch targeted by Google ads malvertising](https://www.bleepingcomputer.com/news/security/arc-browsers-windows-launch-targeted-by-google-ads-malvertising/)
 * [Indian man stole $37 million in crypto using fake Coinbase Pro site](https://www.bleepingcomputer.com/news/security/indian-man-stole-37-million-in-crypto-using-fake-coinbase-pro-site/)
 * [ICQ messenger shuts down after almost 28 years](https://www.bleepingcomputer.com/news/software/icq-messenger-shuts-down-after-almost-28-years/)
-* [Hacker defaces spyware app’s site, dumps database and source code](https://www.bleepingcomputer.com/news/security/hacker-defaces-spyware-apps-site-dumps-database-and-source-code/)
 <!--END_SECTION:feed-->
 
 <!--
