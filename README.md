@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ad blocker users say YouTube videos are now skipping to the end](https://www.bleepingcomputer.com/news/google/ad-blocker-users-say-youtube-videos-are-now-skipping-to-the-end/)
 * [TP-Link fixes critical RCE bug in popular C5400X gaming router](https://www.bleepingcomputer.com/news/security/tp-link-fixes-critical-rce-bug-in-popular-c5400x-gaming-router/)
 * [Hackers target Check Point VPNs to breach enterprise networks](https://www.bleepingcomputer.com/news/security/hackers-target-check-point-vpns-to-breach-enterprise-networks/)
 * [Sav-Rx discloses data breach impacting 2.8 million Americans](https://www.bleepingcomputer.com/news/security/sav-rx-discloses-data-breach-impacting-28-million-americans/)
 * [Hackers phish finance orgs using trojanized Minesweeper clone](https://www.bleepingcomputer.com/news/security/hackers-phish-finance-orgs-using-trojanized-minesweeper-clone/)
-* [Arc browser’s Windows launch targeted by Google ads malvertising](https://www.bleepingcomputer.com/news/security/arc-browsers-windows-launch-targeted-by-google-ads-malvertising/)
 <!--END_SECTION:feed-->
 
 <!--
