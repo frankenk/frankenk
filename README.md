@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [First American December data breach impacts 44,000 people](https://www.bleepingcomputer.com/news/security/first-american-december-data-breach-impacts-44-000-people/)
 * [Over 90 malicious Android apps with 5.5M installs found on Google Play](https://www.bleepingcomputer.com/news/security/over-90-malicious-android-apps-with-55m-installs-found-on-google-play/)
 * [US govt sanctions cybercrime gang behind massive 911 S5 botnet](https://www.bleepingcomputer.com/news/security/us-govt-sanctions-cybercrime-gang-behind-massive-911-s5-proxy-botnet-linked-to-illegitimate-residential-proxy-service/)
 * [Russian indicted for selling access to US corporate networks](https://www.bleepingcomputer.com/news/security/russian-indicted-for-selling-access-to-us-corporate-networks/)
 * [Microsoft links North Korean hackers to new FakePenny ransomware](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-moonstone-sleet-north-korean-hackers-to-new-fakepenny-ransomware/)
-* [Exploit released for maximum severity Fortinet RCE bug, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-maximum-severity-fortinet-rce-bug-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
