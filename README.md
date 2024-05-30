@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Malware botnet bricked 600,000 routers in mysterious 2023 event](https://www.bleepingcomputer.com/news/security/malware-botnet-bricked-600-000-routers-in-mysterious-2023-event/)
+* [Pirated Microsoft Office delivers malware cocktail on systems](https://www.bleepingcomputer.com/news/security/pirated-microsoft-office-delivers-malware-cocktail-on-systems/)
+* [Data of 560 million Ticketmaster customers for sale after alleged breach](https://www.bleepingcomputer.com/news/security/data-of-560-million-ticketmaster-customers-for-sale-after-alleged-breach/)
+* [Malware botnet bricked 600,000 routers in mysterious 2023 attack](https://www.bleepingcomputer.com/news/security/malware-botnet-bricked-600-000-routers-in-mysterious-2023-attack/)
 * [Everbridge warns of corporate systems breach exposing business data](https://www.bleepingcomputer.com/news/security/everbridge-warns-of-corporate-systems-breach-exposing-business-data/)
 * [Cooler Master confirms customer info stolen in data breach](https://www.bleepingcomputer.com/news/security/cooler-master-confirms-customer-info-stolen-in-data-breach/)
-* [BBC suffers data breach impacting current, former employees](https://www.bleepingcomputer.com/news/security/bbc-suffers-data-breach-impacting-current-former-employees/)
-* [macOS version of elusive 'LightSpy' spyware tool discovered](https://www.bleepingcomputer.com/news/security/macos-version-of-elusive-lightspy-spyware-tool-discovered/)
 <!--END_SECTION:feed-->
 
 <!--
