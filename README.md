@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Everbridge warns of corporate systems breach exposing business data](https://www.bleepingcomputer.com/news/security/everbridge-warns-of-corporate-systems-breach-exposing-business-data/)
 * [Cooler Master confirms customer info stolen in data breach](https://www.bleepingcomputer.com/news/security/cooler-master-confirms-customer-info-stolen-in-data-breach/)
 * [BBC suffers data breach impacting current, former employees](https://www.bleepingcomputer.com/news/security/bbc-suffers-data-breach-impacting-current-former-employees/)
 * [macOS version of elusive 'LightSpy' spyware tool discovered](https://www.bleepingcomputer.com/news/security/macos-version-of-elusive-lightspy-spyware-tool-discovered/)
 * [Police seize over 100 malware loader servers, arrest four cybercriminals](https://www.bleepingcomputer.com/news/security/police-seize-over-100-malware-loader-servers-arrest-four-cybercriminals-operation-endgame/)
-* [Cybercriminals pose as "helpful" Stack Overflow users to push malware](https://www.bleepingcomputer.com/news/security/cybercriminals-pose-as-helpful-stack-overflow-users-to-push-malware/)
 <!--END_SECTION:feed-->
 
 <!--
