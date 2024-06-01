@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Live Nation finally confirms massive Ticketmaster data breach](https://www.bleepingcomputer.com/news/security/live-nation-finally-confirms-massive-ticketmaster-data-breach/)
+* [Ticketmaster confirms massive breach after stolen data for sale online](https://www.bleepingcomputer.com/news/security/ticketmaster-confirms-massive-breach-after-stolen-data-for-sale-online/)
 * [DMM Bitcoin warns that hackers stole $300 million in Bitcoin](https://www.bleepingcomputer.com/news/security/dmm-bitcoin-warns-that-hackers-stole-300-million-in-bitcoin/)
 * [CISA warns of actively exploited Linux privilege elevation flaw](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-linux-privilege-elevation-flaw/)
 * [Snowflake account hacks linked to Santander, Ticketmaster breaches](https://www.bleepingcomputer.com/news/security/snowflake-account-hacks-linked-to-santander-ticketmaster-breaches/)
