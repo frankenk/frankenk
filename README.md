@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft announces first Windows 10 Beta build since 2021](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-first-windows-10-beta-build-since-2021/)
 * [New V3B phishing kit targets customers of 54 European banks](https://www.bleepingcomputer.com/news/security/new-v3b-phishing-kit-targets-customers-of-54-european-banks/)
 * [Zyxel issues emergency RCE patch for end-of-life NAS devices](https://www.bleepingcomputer.com/news/security/zyxel-issues-emergency-rce-patch-for-end-of-life-nas-devices/)
 * [Major London hospitals disrupted by Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/)
 * [Microsoft deprecates Windows NTLM authentication protocol](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/)
-* [Collection agency FBCS ups data breach tally to 3.2 million people](https://www.bleepingcomputer.com/news/security/collection-agency-fbcs-ups-data-breach-tally-to-32-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
