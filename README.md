@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI warns of fake remote work ads used for cryptocurrency fraud](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-remote-work-ads-used-for-cryptocurrency-fraud/)
+* [ARRL says it was hacked by an "international cyber group"](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-says-it-was-hacked-by-an-international-cyber-group/)
 * [Microsoft announces first Windows 10 Beta build since 2021](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-first-windows-10-beta-build-since-2021/)
 * [New V3B phishing kit targets customers of 54 European banks](https://www.bleepingcomputer.com/news/security/new-v3b-phishing-kit-targets-customers-of-54-european-banks/)
 * [Zyxel issues emergency RCE patch for end-of-life NAS devices](https://www.bleepingcomputer.com/news/security/zyxel-issues-emergency-rce-patch-for-end-of-life-nas-devices/)
-* [Major London hospitals disrupted by Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/)
-* [Microsoft deprecates Windows NTLM authentication protocol](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/)
 <!--END_SECTION:feed-->
 
 <!--
