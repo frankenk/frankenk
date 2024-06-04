@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Major London hospitals disrupted by Synnovis cyberattack](https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-cyberattack/)
+* [Major London hospitals disrupted by Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/major-london-hospitals-disrupted-by-synnovis-ransomware-attack/)
 * [Microsoft deprecates Windows NTLM authentication protocol](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-ntlm-authentication-protocol/)
 * [Collection agency FBCS ups data breach tally to 3.2 million people](https://www.bleepingcomputer.com/news/security/collection-agency-fbcs-ups-data-breach-tally-to-32-million-people/)
 * [Data firm execs convicted for helping fraudsters target the elderly](https://www.bleepingcomputer.com/news/legal/data-firm-execs-convicted-for-helping-fraudsters-target-the-elderly/)
