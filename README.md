@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Qilin ransomware gang linked to attack on London hospitals](https://www.bleepingcomputer.com/news/security/qilin-ransomware-gang-linked-to-attack-on-london-hospitals/)
+* [Kali Linux 2024.2 released with 18 new tools, Y2038 changes](https://www.bleepingcomputer.com/news/linux/kali-linux-20242-released-with-18-new-tools-y2038-changes/)
 * [RansomHub extortion gang linked to now-defunct Knight ransomware](https://www.bleepingcomputer.com/news/security/ransomhub-extortion-gang-linked-to-now-defunct-knight-ransomware/)
 * [Australian mining company discloses breach after BianLian leaks data](https://www.bleepingcomputer.com/news/security/australian-mining-company-discloses-breach-after-bianlian-leaks-data/)
 * [TikTok fixes zero-day bug used to hijack high-profile accounts](https://www.bleepingcomputer.com/news/security/tiktok-fixes-zero-day-bug-used-to-hijack-high-profile-accounts/)
-* [FBI warns of fake remote work ads used for cryptocurrency fraud](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-remote-work-ads-used-for-cryptocurrency-fraud/)
-* [ARRL says it was hacked by an "international cyber group"](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-says-it-was-hacked-by-an-international-cyber-group/)
 <!--END_SECTION:feed-->
 
 <!--
