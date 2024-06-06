@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Fog ransomware targets US education sector via breached VPNs](https://www.bleepingcomputer.com/news/security/new-fog-ransomware-targets-us-education-sector-via-breached-vpns/)
 * [New Gitloker attacks wipe GitHub repos in extortion scheme](https://www.bleepingcomputer.com/news/security/new-gitloker-attacks-wipe-github-repos-in-extortion-scheme/)
 * [PandaBuy pays ransom to hacker only to get extorted again](https://www.bleepingcomputer.com/news/security/pandabuy-pays-ransom-to-hacker-only-to-get-extorted-again/)
 * [Linux version of TargetCompany ransomware focuses on VMware ESXi](https://www.bleepingcomputer.com/news/security/linux-version-of-targetcompany-ransomware-focuses-on-vmware-esxi/)
 * [FBI recovers 7,000 LockBit keys, urges ransomware victims to reach out](https://www.bleepingcomputer.com/news/security/fbi-recovers-7-000-lockbit-keys-urges-ransomware-victims-to-reach-out/)
-* [Google Chrome reduced cookie requests to improve performance](https://www.bleepingcomputer.com/news/google/google-chrome-reduced-cookie-requests-to-improve-performance/)
 <!--END_SECTION:feed-->
 
 <!--
