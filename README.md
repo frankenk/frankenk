@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple to unveil new 'Passwords' password manager app for iPhones, Macs](https://www.bleepingcomputer.com/news/security/apple-to-unveil-new-passwords-password-manager-app-for-iphones-macs/)
+* [Christie's starts notifying clients of RansomHub data breach](https://www.bleepingcomputer.com/news/security/christies-starts-notifying-clients-of-ransomhub-data-breach/)
 * [Frontier warns 750,000 of a data breach after extortion threats](https://www.bleepingcomputer.com/news/security/frontier-warns-750-000-of-a-data-breach-after-extorted-by-ransomhub/)
 * [Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
 * [PHP fixes critical RCE flaw impacting all versions for Windows](https://www.bleepingcomputer.com/news/security/php-fixes-critical-rce-flaw-impacting-all-versions-for-windows/)
-* [Los Angeles Unified School District investigates data theft claims](https://www.bleepingcomputer.com/news/security/los-angeles-unified-school-district-investigates-data-theft-claims/)
-* [Hackers exploit 2018 ThinkPHP flaws to install ‘Dama’ web shells](https://www.bleepingcomputer.com/news/security/hackers-exploit-2018-thinkphp-flaws-to-install-dama-web-shells/)
 <!--END_SECTION:feed-->
 
 <!--
