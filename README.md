@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LastPass says 12-hour outage caused by bad Chrome extension update](https://www.bleepingcomputer.com/news/security/lastpass-says-12-hour-outage-caused-by-bad-chrome-extension-update/)
 * [Apple to unveil new 'Passwords' password manager app for iPhones, Macs](https://www.bleepingcomputer.com/news/security/apple-to-unveil-new-passwords-password-manager-app-for-iphones-macs/)
 * [Christie's starts notifying clients of RansomHub data breach](https://www.bleepingcomputer.com/news/security/christies-starts-notifying-clients-of-ransomhub-data-breach/)
 * [Frontier warns 750,000 of a data breach after extortion threats](https://www.bleepingcomputer.com/news/security/frontier-warns-750-000-of-a-data-breach-after-extorted-by-ransomhub/)
 * [Microsoft makes Windows Recall opt-in, secures data with Windows Hello](https://www.bleepingcomputer.com/news/microsoft/microsoft-makes-windows-recall-opt-in-secures-data-with-windows-hello/)
-* [PHP fixes critical RCE flaw impacting all versions for Windows](https://www.bleepingcomputer.com/news/security/php-fixes-critical-rce-flaw-impacting-all-versions-for-windows/)
 <!--END_SECTION:feed-->
 
 <!--
