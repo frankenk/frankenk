@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [London hospitals face blood shortage after Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/london-hospitals-face-blood-shortage-after-synnovis-ransomware-attack/)
 * [Exploit for critical Veeam auth bypass available, patch now](https://www.bleepingcomputer.com/news/security/exploit-for-critical-veeam-auth-bypass-available-patch-now/)
 * [23andMe data breach under investigation in UK and Canada](https://www.bleepingcomputer.com/news/security/23andme-data-breach-under-investigation-in-uk-and-canada/)
 * [Brave says May 2024 was its biggest growth month ever](https://www.bleepingcomputer.com/news/technology/brave-says-may-2024-was-its-biggest-growth-month-ever/)
 * [Malicious VSCode extensions with millions of installs discovered](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-with-millions-of-installs-discovered/)
-* [New York Times source code stolen using exposed GitHub token](https://www.bleepingcomputer.com/news/security/new-york-times-source-code-stolen-using-exposed-github-token/)
 <!--END_SECTION:feed-->
 
 <!--
