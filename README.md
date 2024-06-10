@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Arm warns of actively exploited flaw in Mali GPU kernel drivers](https://www.bleepingcomputer.com/news/security/arm-warns-of-actively-exploited-flaw-in-mali-gpu-kernel-drivers/)
+* [Gitloker attacks abuse GitHub notifications to push malicious oAuth apps](https://www.bleepingcomputer.com/news/security/gitloker-attacks-abuse-github-notifications-to-push-malicious-oauth-apps/)
 * [Apple enters AI arms race with new Apple Intelligence feature](https://www.bleepingcomputer.com/news/apple/apple-enters-ai-arms-race-with-new-apple-intelligence-feature/)
 * [Netgear WNR614 flaws allow device takeover, no fix available](https://www.bleepingcomputer.com/news/security/netgear-wnr614-flaws-allow-device-takeover-no-fix-available/)
 * [Cylance confirms data breach linked to 'third-party' platform](https://www.bleepingcomputer.com/news/security/cylance-confirms-data-breach-linked-to-third-party-platform/)
-* [London hospitals face blood shortage after Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/london-hospitals-face-blood-shortage-after-synnovis-ransomware-attack/)
-* [Exploit for critical Veeam auth bypass available, patch now](https://www.bleepingcomputer.com/news/security/exploit-for-critical-veeam-auth-bypass-available-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
