@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple enters AI arms race with new Apple Intelligence feature](https://www.bleepingcomputer.com/news/apple/apple-enters-ai-arms-race-with-new-apple-intelligence-feature/)
+* [Netgear WNR614 flaws allow device takeover, no fix available](https://www.bleepingcomputer.com/news/security/netgear-wnr614-flaws-allow-device-takeover-no-fix-available/)
 * [Cylance confirms data breach linked to 'third-party' platform](https://www.bleepingcomputer.com/news/security/cylance-confirms-data-breach-linked-to-third-party-platform/)
 * [London hospitals face blood shortage after Synnovis ransomware attack](https://www.bleepingcomputer.com/news/security/london-hospitals-face-blood-shortage-after-synnovis-ransomware-attack/)
 * [Exploit for critical Veeam auth bypass available, patch now](https://www.bleepingcomputer.com/news/security/exploit-for-critical-veeam-auth-bypass-available-patch-now/)
-* [23andMe data breach under investigation in UK and Canada](https://www.bleepingcomputer.com/news/security/23andme-data-breach-under-investigation-in-uk-and-canada/)
-* [Brave says May 2024 was its biggest growth month ever](https://www.bleepingcomputer.com/news/technology/brave-says-may-2024-was-its-biggest-growth-month-ever/)
 <!--END_SECTION:feed-->
 
 <!--
