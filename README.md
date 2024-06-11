@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Warmcookie Windows backdoor pushed via fake job offers](https://www.bleepingcomputer.com/news/security/new-warmcookie-windows-backdoor-pushed-via-fake-job-offers/)
 * [TellYouThePass ransomware exploits recent PHP RCE flaw to breach servers](https://www.bleepingcomputer.com/news/security/tellyouthepass-ransomware-exploits-recent-php-rce-flaw-to-breach-servers/)
 * [Pure Storage confirms data breach after Snowflake account hack](https://www.bleepingcomputer.com/news/security/pure-storage-confirms-data-breach-after-snowflake-account-hack/)
 * [Arm warns of actively exploited flaw in Mali GPU kernel drivers](https://www.bleepingcomputer.com/news/security/arm-warns-of-actively-exploited-flaw-in-mali-gpu-kernel-drivers/)
 * [Gitloker attacks abuse GitHub notifications to push malicious OAuth apps](https://www.bleepingcomputer.com/news/security/gitloker-attacks-abuse-github-notifications-to-push-malicious-oauth-apps/)
-* [Apple enters AI arms race with new Apple Intelligence feature](https://www.bleepingcomputer.com/news/apple/apple-enters-ai-arms-race-with-new-apple-intelligence-feature/)
 <!--END_SECTION:feed-->
 
 <!--
