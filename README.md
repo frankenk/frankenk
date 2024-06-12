@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AWS adds passkeys support, warns root users must enable MFA](https://www.bleepingcomputer.com/news/security/aws-adds-passkeys-support-warns-root-users-must-enable-mfa/)
 * [Google warns of actively exploited Pixel firmware zero-day](https://www.bleepingcomputer.com/news/security/google-warns-of-actively-exploited-pixel-firmware-zero-day/)
 * [CISA warns of criminals impersonating its employees in phone calls](https://www.bleepingcomputer.com/news/security/cisa-warns-of-criminals-impersonating-its-employees-in-phone-calls/)
 * [New phishing toolkit uses PWAs to steal login credentials](https://www.bleepingcomputer.com/news/security/new-phishing-toolkit-uses-pwas-to-steal-login-credentials/)
 * [Life360 says hacker tried to extort them after Tile data breach](https://www.bleepingcomputer.com/news/security/life360-says-hacker-tried-to-extort-them-after-tile-data-breach/)
-* [Microsoft deprecates Windows DirectAccess, recommends Always On VPN](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-windows-directaccess-recommends-always-on-vpn/)
 <!--END_SECTION:feed-->
 
 <!--
