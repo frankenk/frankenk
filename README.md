@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Keytronic confirms data breach after ransomware gang leaks stolen files](https://www.bleepingcomputer.com/news/security/keytronic-confirms-data-breach-after-ransomware-gang-leaks-stolen-files/)
 * [Mozilla Firefox can now secure access to passwords with device credentials](https://www.bleepingcomputer.com/news/security/mozilla-firefox-can-now-secure-access-to-passwords-with-device-credentials/)
 * [London hospitals cancel over 800 operations after ransomware attack](https://www.bleepingcomputer.com/news/security/london-hospitals-cancel-over-800-operations-after-ransomware-attack/)
 * [CISA warns of Windows bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-bug-exploited-in-ransomware-attacks/)
 * [Former IT employee gets 2.5 years for wiping 180 virtual servers](https://www.bleepingcomputer.com/news/security/former-it-employee-gets-25-years-for-wiping-180-virtual-servers/)
-* [Microsoft removes Copilot app ‘incorrectly’ added on Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-copilot-app-incorrectly-added-on-windows-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
