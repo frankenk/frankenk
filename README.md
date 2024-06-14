@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Former IT staff gets 2.5 years for wiping 180 virtual servers](https://www.bleepingcomputer.com/news/security/former-it-staff-gets-25-years-for-wiping-180-virtual-servers/)
+* [CISA warns of Windows bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-windows-bug-exploited-in-ransomware-attacks/)
+* [Former IT employee gets 2.5 years for wiping 180 virtual servers](https://www.bleepingcomputer.com/news/security/former-it-employee-gets-25-years-for-wiping-180-virtual-servers/)
 * [Microsoft removes Copilot app ‘incorrectly’ added on Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-copilot-app-incorrectly-added-on-windows-pcs/)
 * [Scattered Spider hackers switch focus to cloud apps for data theft](https://www.bleepingcomputer.com/news/security/scattered-spider-hackers-switch-focus-to-cloud-apps-for-data-theft/)
 * [Insurance giant Globe Life investigating web portal breach](https://www.bleepingcomputer.com/news/security/insurance-giant-globe-life-investigating-web-portal-breach/)
-* [Microsoft delays Windows Recall amid privacy and security concerns](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-amid-privacy-and-security-concerns/)
 <!--END_SECTION:feed-->
 
 <!--
