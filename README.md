@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers use F5 BIG-IP malware to stealthily steal data for years](https://www.bleepingcomputer.com/news/security/hackers-use-f5-big-ip-malware-to-stealthily-steal-data-for-years/)
 * [Alleged Scattered Spider sim-swapper arrested in Spain](https://www.bleepingcomputer.com/news/legal/alleged-scattered-spider-sim-swapper-arrested-in-spain/)
 * [New ARM 'TIKTAG' attack impacts Google Chrome, Linux systems](https://www.bleepingcomputer.com/news/security/new-arm-tiktag-attack-impacts-google-chrome-linux-systems/)
 * [New Linux malware is controlled through emojis sent from Discord](https://www.bleepingcomputer.com/news/security/new-linux-malware-is-controlled-through-emojis-sent-from-discord/)
 * [ASUS warns of critical remote authentication bypass on 7 routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-remote-authentication-bypass-on-7-routers/)
-* [Microsoft: New Outlook security changes coming to personal accounts](https://www.bleepingcomputer.com/news/security/microsoft-new-outlook-security-changes-coming-to-personal-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
