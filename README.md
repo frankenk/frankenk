@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Advance Auto Parts confirms data breach exposed employee information](https://www.bleepingcomputer.com/news/security/advance-auto-parts-confirms-data-breach-exposed-employee-information/)
 * [CDK Global cyberattack impacts thousands of US car dealerships](https://www.bleepingcomputer.com/news/security/cdk-global-cyberattack-impacts-thousands-of-us-car-dealerships/)
 * ["Researchers" exploit Kraken exchange bug, steal $3 million in crypto](https://www.bleepingcomputer.com/news/security/researchers-exploit-kraken-exchange-bug-steal-3-million-in-crypto/)
 * [Microsoft says bug causes Windows 10 apps to display Open With dialogs](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-causes-windows-10-apps-to-display-open-with-dialogs/)
 * [AMD investigates breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/amd-investigates-breach-after-data-for-sale-on-hacking-forum/)
-* [ONNX phishing service targets Microsoft 365 accounts at financial firms](https://www.bleepingcomputer.com/news/security/onnx-phishing-service-targets-microsoft-365-accounts-at-financial-firms/)
 <!--END_SECTION:feed-->
 
 <!--
