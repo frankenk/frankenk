@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
+* [CosmicSting flaw impacts 75% of Adobe Commerce, Magento sites](https://www.bleepingcomputer.com/news/security/cosmicsting-flaw-impacts-75-percent-of-adobe-commerce-magento-sites/)
+* [Linux version of RansomHub ransomware targets VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/linux-version-of-ransomhub-ransomware-targets-vmware-esxi-vms/)
 * [UNC3886 hackers use Linux rootkits to hide on VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/unc3886-hackers-use-linux-rootkits-to-hide-on-vmware-esxi-vms/)
 * [SolarWinds Serv-U path traversal flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-serv-u-path-traversal-flaw-actively-exploited-in-attacks/)
-* [CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
-* [T-Mobile denies it was hacked, links leaked data to vendor breach](https://www.bleepingcomputer.com/news/security/t-mobile-denies-it-was-hacked-links-leaked-data-to-vendor-breach/)
-* [Crown Equipment confirms a cyberattack disrupted manufacturing](https://www.bleepingcomputer.com/news/security/crown-equipment-confirms-a-cyberattack-disrupted-manufacturing/)
 <!--END_SECTION:feed-->
 
 <!--
