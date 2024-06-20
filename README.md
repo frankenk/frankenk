@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [SolarWinds Serv-U path-traversal flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-serv-u-path-traversal-flaw-actively-exploited-in-attacks/)
+* [SolarWinds Serv-U path traversal flaw actively exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-serv-u-path-traversal-flaw-actively-exploited-in-attacks/)
 * [CDK Global hacked again while recovering from first cyberattack](https://www.bleepingcomputer.com/news/security/cdk-global-hacked-again-while-recovering-from-first-cyberattack/)
 * [T-Mobile denies it was hacked, links leaked data to vendor breach](https://www.bleepingcomputer.com/news/security/t-mobile-denies-it-was-hacked-links-leaked-data-to-vendor-breach/)
 * [Crown Equipment confirms a cyberattack disrupted manufacturing](https://www.bleepingcomputer.com/news/security/crown-equipment-confirms-a-cyberattack-disrupted-manufacturing/)
