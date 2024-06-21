@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tor Browser 13.5 brings Android enhancements, better bridge management](https://www.bleepingcomputer.com/news/security/tor-browser-135-brings-android-enhancements-better-bridge-management/)
 * [CDK warns: threat actors are calling customers, posing as support](https://www.bleepingcomputer.com/news/security/cdk-warns-threat-actors-are-calling-customers-posing-as-support/)
 * [Biden bans Kaspersky antivirus software in US over security concerns](https://www.bleepingcomputer.com/news/security/biden-bans-kaspersky-antivirus-software-in-us-over-security-concerns/)
 * [Phoenix UEFI vulnerability impacts hundreds of Intel PC models](https://www.bleepingcomputer.com/news/security/phoenix-uefi-vulnerability-impacts-hundreds-of-intel-pc-models/)
 * [CosmicSting flaw impacts 75% of Adobe Commerce, Magento sites](https://www.bleepingcomputer.com/news/security/cosmicsting-flaw-impacts-75-percent-of-adobe-commerce-magento-sites/)
-* [Linux version of RansomHub ransomware targets VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/linux-version-of-ransomhub-ransomware-targets-vmware-esxi-vms/)
 <!--END_SECTION:feed-->
 
 <!--
