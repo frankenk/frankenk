@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New attack uses MSC files and Windows XSS flaw to breach networks](https://www.bleepingcomputer.com/news/security/new-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/)
 * [Four FIN9 hackers indicted for cyberattacks causing $71M in losses](https://www.bleepingcomputer.com/news/security/four-fin9-hackers-indicted-for-cyberattacks-causing-71m-in-losses/)
 * [CoinStats says North Korean hackers breached 1,590 crypto wallets](https://www.bleepingcomputer.com/news/cryptocurrency/coinstats-says-north-korean-hackers-breached-1-590-crypto-wallets/)
 * [Microsoft Photos update brings requested features to Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-photos-update-brings-requested-features-to-windows-11/)
 * [Facebook PrestaShop module exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/facebook-prestashop-module-exploited-to-steal-credit-cards/)
-* [CDK Global outage caused by BlackSuit ransomware attack](https://www.bleepingcomputer.com/news/security/cdk-global-outage-caused-by-blacksuit-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
