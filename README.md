@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Medusa malware variants target Android users in seven countries](https://www.bleepingcomputer.com/news/security/new-medusa-malware-variants-target-android-users-in-seven-countries/)
 * [Neiman Marcus confirms data breach after Snowflake account hack](https://www.bleepingcomputer.com/news/security/neiman-marcus-confirms-data-breach-after-snowflake-account-hack/)
 * [FBI warns of fake law firms targeting crypto scam victims](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/)
 * [P2PInfect botnet targets REdis servers with new ransomware module](https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/)
 * [Chemical facilities warned of possible data theft in CISA CSAT breach](https://www.bleepingcomputer.com/news/security/chemical-facilities-warned-of-possible-data-theft-in-cisa-csat-breach/)
-* [Chrome for Android tests feature that securely verifies your ID with sites](https://www.bleepingcomputer.com/news/google/chrome-for-android-tests-feature-that-securely-verifies-your-id-with-sites/)
 <!--END_SECTION:feed-->
 
 <!--
