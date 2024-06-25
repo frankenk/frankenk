@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Neiman Marcus confirms data breach after Snowflake account hack](https://www.bleepingcomputer.com/news/security/neiman-marcus-confirms-data-breach-after-snowflake-account-hack/)
+* [FBI warns of fake law firms targeting crypto scam victims](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-law-firms-targeting-crypto-scam-victims/)
 * [P2PInfect botnet targets REdis servers with new ransomware module](https://www.bleepingcomputer.com/news/security/p2pinfect-botnet-targets-redis-servers-with-new-ransomware-module/)
 * [Chemical facilities warned of possible data theft in CISA CSAT breach](https://www.bleepingcomputer.com/news/security/chemical-facilities-warned-of-possible-data-theft-in-cisa-csat-breach/)
 * [Chrome for Android tests feature that securely verifies your ID with sites](https://www.bleepingcomputer.com/news/google/chrome-for-android-tests-feature-that-securely-verifies-your-id-with-sites/)
-* [New attack uses MSC files and Windows XSS flaw to breach networks](https://www.bleepingcomputer.com/news/security/new-grimresource-attack-uses-msc-files-and-windows-xss-flaw-to-breach-networks/)
-* [Four FIN9 hackers indicted for cyberattacks causing $71M in losses](https://www.bleepingcomputer.com/news/security/four-fin9-hackers-indicted-for-cyberattacks-causing-71m-in-losses/)
 <!--END_SECTION:feed-->
 
 <!--
