@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [LockBit lied: Stolen data is from a bank, not US Federal Reserve](https://www.bleepingcomputer.com/news/security/lockbit-lied-stolen-data-is-from-a-bank-not-us-federal-reserve/)
 * [CISA: Most critical open source projects not using memory safe code](https://www.bleepingcomputer.com/news/security/cisa-most-critical-open-source-projects-not-using-memory-safe-code/)
 * [Exploit for critical Fortra FileCatalyst Workflow SQLi flaw released](https://www.bleepingcomputer.com/news/security/exploit-for-critical-fortra-filecatalyst-workflow-sqli-flaw-released/)
 * [Hackers target new MOVEit Transfer critical auth bypass bug](https://www.bleepingcomputer.com/news/security/hackers-target-new-moveit-transfer-critical-auth-bypass-bug/)
 * [Windows 11 KB5039302 update released with 9 changes or fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5039302-update-released-with-9-changes-or-fixes/)
-* [Windows 10 KB5039299 update released with 10 changes or fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5039299-update-released-with-10-changes-or-fixes/)
 <!--END_SECTION:feed-->
 
 <!--
