@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare: We never authorized polyfill.io to use our name](https://www.bleepingcomputer.com/news/security/cloudflare-we-never-authorized-polyfillio-to-use-our-name/)
 * [Chinese Cyberspies Employ Ransomware in Attacks for Diversion](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-employ-ransomware-in-attacks-for-diversion/)
 * [LockBit lied: Stolen data is from a bank, not US Federal Reserve](https://www.bleepingcomputer.com/news/security/lockbit-lied-stolen-data-is-from-a-bank-not-us-federal-reserve/)
 * [CISA: Most critical open source projects not using memory safe code](https://www.bleepingcomputer.com/news/security/cisa-most-critical-open-source-projects-not-using-memory-safe-code/)
 * [Exploit for critical Fortra FileCatalyst Workflow SQLi flaw released](https://www.bleepingcomputer.com/news/security/exploit-for-critical-fortra-filecatalyst-workflow-sqli-flaw-released/)
-* [Hackers target new MOVEit Transfer critical auth bypass bug](https://www.bleepingcomputer.com/news/security/hackers-target-new-moveit-transfer-critical-auth-bypass-bug/)
 <!--END_SECTION:feed-->
 
 <!--
