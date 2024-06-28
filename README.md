@@ -5,6 +5,10 @@
 * [Former IT employee accessed data of over 1 million US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
 * [BlackSuit ransomware gang claims attack on KADOKAWA corporation](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/)
 * [New Unfurling Hemlock threat actor floods systems with malware](https://www.bleepingcomputer.com/news/security/new-unfurling-hemlock-threat-actor-floods-systems-with-malware/)
+* [U.S. indicts Russian GRU hacker, offers * [Polyfill.io, BootCDN, Bootcss, Staticfile attack traced to 1 operator](https://www.bleepingcomputer.com/news/security/polyfillio-bootcdn-bootcss-staticfile-attack-traced-to-1-operator/)
+* [Former IT employee accessed data of over 1 million US patients](https://www.bleepingcomputer.com/news/security/former-it-employee-accessed-data-of-over-1-million-us-patients/)
+* [BlackSuit ransomware gang claims attack on KADOKAWA corporation](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/)
+* [New Unfurling Hemlock threat actor floods systems with malware](https://www.bleepingcomputer.com/news/security/new-unfurling-hemlock-threat-actor-floods-systems-with-malware/)
 * [U.S. indicts Russian GRU hacker, offers * [BlackSuit ransomware gang claims attack on KADOKAWA corporation](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/)
 * [New Unfurling Hemlock threat actor floods systems with malware](https://www.bleepingcomputer.com/news/security/new-unfurling-hemlock-threat-actor-floods-systems-with-malware/)
 * [U.S. indicts Russian GRU hacker, offers * [BlackSuit ransomware gang claims attack on KADOKAWA corporation](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-gang-claims-attack-on-kadokawa-corporation/)
@@ -77,7 +81,7 @@
 * [TeamViewer's corporate network was breached in alleged APT hack](https://www.bleepingcomputer.com/news/security/teamviewers-corporate-network-was-breached-in-alleged-apt-hack/)
 * [Microsoft pulls Windows 11 KB5039302 update causing reboot loops](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/)0 million reward](https://www.bleepingcomputer.com/news/security/us-indicts-russian-gru-hacker-offers-10-million-reward/)
 * [TeamViewer's corporate network was breached in alleged APT hack](https://www.bleepingcomputer.com/news/security/teamviewers-corporate-network-was-breached-in-alleged-apt-hack/)
-* [Microsoft pulls Windows 11 KB5039302 update causing reboot loops](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/)0 million reward](https://www.bleepingcomputer.com/news/security/us-indicts-russian-gru-hacker-offers-10-million-reward/)
+* [Microsoft pulls Windows 11 KB5039302 update causing reboot loops](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-june-windows-11-kb5039302-update-causing-repeated-restarts/)0 million reward](https://www.bleepingcomputer.com/news/security/us-indicts-russian-gru-hacker-offers-10-million-reward/)0 million reward](https://www.bleepingcomputer.com/news/security/us-indicts-russian-gru-hacker-offers-10-million-reward/)
 <!--END_SECTION:feed-->
 
 <!--
