@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit critical D-Link DIR-859 router flaw to steal passwords](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-d-link-dir-859-router-flaw-to-steal-passwords/)
 * [Meet Brain Cipher — The new ransomware behind Indonesia's data center attack](https://www.bleepingcomputer.com/news/security/meet-brain-cipher-the-new-ransomware-behind-indonesia-data-center-attack/)
 * [Infosys McCamish says LockBit stole data of 6 million people](https://www.bleepingcomputer.com/news/security/infosys-mccamish-says-lockbit-stole-data-of-6-million-people/)
 * [Dairy giant Agropur says data breach exposed customer info](https://www.bleepingcomputer.com/news/security/dairy-giant-agropur-says-data-breach-exposed-customer-info/)
 * [Ticketmaster sends notifications about recent massive data breach](https://www.bleepingcomputer.com/news/security/ticketmaster-sends-notifications-about-recent-massive-data-breach/)
-* [TeamViewer links corporate cyberattack to Russian state hackers](https://www.bleepingcomputer.com/news/security/teamviewer-links-corporate-cyberattack-to-russian-state-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
