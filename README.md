@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Juniper releases out-of-cycle fix for max severity auth bypass flaw](https://www.bleepingcomputer.com/news/security/juniper-releases-out-of-cycle-fix-for-max-severity-auth-bypass-flaw/)
 * [Dev rejects CVE severity, makes his GitHub repo read-only](https://www.bleepingcomputer.com/news/security/dev-rejects-cve-severity-makes-his-github-repo-read-only/)
 * [Fake IT support sites push malicious PowerShell scripts as Windows fixes](https://www.bleepingcomputer.com/news/security/fake-it-support-sites-push-malicious-powershell-scripts-as-windows-fixes/)
 * [Microsoft resumes rollout of Windows 11 KB5039302 update for most users](https://www.bleepingcomputer.com/news/microsoft/microsoft-resumes-rollout-of-windows-11-kb5039302-update-for-most-users/)
 * [Hackers exploit critical D-Link DIR-859 router flaw to steal passwords](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-d-link-dir-859-router-flaw-to-steal-passwords/)
-* [Meet Brain Cipher — The new ransomware behind Indonesia's data center attack](https://www.bleepingcomputer.com/news/security/meet-brain-cipher-the-new-ransomware-behind-indonesia-data-center-attack/)
 <!--END_SECTION:feed-->
 
 <!--
