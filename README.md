@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers attack HFS servers to drop malware and Monero miners](https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/)
 * [HealthEquity data breach exposes protected health information](https://www.bleepingcomputer.com/news/security/healthequity-data-breach-exposes-protected-health-information/)
 * [OVHcloud blames record-breaking DDoS attack on MikroTik botnet](https://www.bleepingcomputer.com/news/security/ovhcloud-blames-record-breaking-ddos-attack-on-mikrotik-botnet/)
 * [Hackers abused API to verify millions of Authy MFA phone numbers](https://www.bleepingcomputer.com/news/security/hackers-abused-api-to-verify-millions-of-authy-mfa-phone-numbers/)
 * [Formula 1 governing body discloses data breach after email hacks](https://www.bleepingcomputer.com/news/security/formula-1-governing-body-discloses-data-breach-after-email-hacks/)
-* [Infostealer malware logs used to identify child abuse website members](https://www.bleepingcomputer.com/news/security/infostealer-malware-logs-used-to-identify-child-abuse-website-members/)
 <!--END_SECTION:feed-->
 
 <!--
