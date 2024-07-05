@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Eldorado ransomware targets Windows, VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/)
 * [Ethereum mailing list breach exposes 35,000 to crypto draining attack](https://www.bleepingcomputer.com/news/security/ethereum-mailing-list-breach-exposes-35-000-to-crypto-draining-attack/)
 * [Hackers attack HFS servers to drop malware and Monero miners](https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/)
 * [HealthEquity data breach exposes protected health information](https://www.bleepingcomputer.com/news/security/healthequity-data-breach-exposes-protected-health-information/)
 * [OVHcloud blames record-breaking DDoS attack on MikroTik botnet](https://www.bleepingcomputer.com/news/security/ovhcloud-blames-record-breaking-ddos-attack-on-mikrotik-botnet/)
-* [Hackers abused API to verify millions of Authy MFA phone numbers](https://www.bleepingcomputer.com/news/security/hackers-abused-api-to-verify-millions-of-authy-mfa-phone-numbers/)
 <!--END_SECTION:feed-->
 
 <!--
