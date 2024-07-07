@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Europol says Home Routing mobile encryption feature aids criminals](https://www.bleepingcomputer.com/news/security/europol-says-home-routing-mobile-encryption-feature-aids-criminals/)
+* [Shopify denies it was hacked, links stolen data to third-party app](https://www.bleepingcomputer.com/news/security/shopify-denies-it-was-hacked-links-stolen-data-to-third-party-app/)
 * [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 * [Hackers leak alleged Taylor Swift tickets, amp up Ticketmaster extortion](https://www.bleepingcomputer.com/news/security/hackers-leak-alleged-taylor-swift-tickets-amp-up-ticketmaster-extortion/)
 * [New Eldorado ransomware targets Windows, VMware ESXi VMs](https://www.bleepingcomputer.com/news/security/new-eldorado-ransomware-targets-windows-vmware-esxi-vms/)
-* [Ethereum mailing list breach exposes 35,000 to crypto draining attack](https://www.bleepingcomputer.com/news/security/ethereum-mailing-list-breach-exposes-35-000-to-crypto-draining-attack/)
-* [Hackers attack HFS servers to drop malware and Monero miners](https://www.bleepingcomputer.com/news/security/hackers-attack-hfs-servers-to-drop-malware-and-monero-miners/)
 <!--END_SECTION:feed-->
 
 <!--
