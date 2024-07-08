@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CloudSorcerer hackers abuse cloud services to steal Russian govt data](https://www.bleepingcomputer.com/news/security/cloudsorcerer-hackers-abuse-cloud-services-to-steal-russian-govt-data/)
 * [Roblox vendor data breach exposes dev conference attendee info](https://www.bleepingcomputer.com/news/security/roblox-vendor-data-breach-exposes-dev-conference-attendee-info/)
 * [Europol says Home Routing mobile encryption feature aids criminals](https://www.bleepingcomputer.com/news/security/europol-says-home-routing-mobile-encryption-feature-aids-criminals/)
 * [Shopify denies it was hacked, links stolen data to third-party app](https://www.bleepingcomputer.com/news/security/shopify-denies-it-was-hacked-links-stolen-data-to-third-party-app/)
 * [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
-* [Hackers leak alleged Taylor Swift tickets, amp up Ticketmaster extortion](https://www.bleepingcomputer.com/news/security/hackers-leak-alleged-taylor-swift-tickets-amp-up-ticketmaster-extortion/)
 <!--END_SECTION:feed-->
 
 <!--
