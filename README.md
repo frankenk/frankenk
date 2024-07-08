@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Computer maker Zotac exposed customers' RMA info on Google Search](https://www.bleepingcomputer.com/news/security/computer-maker-zotac-exposed-customers-rma-info-on-google-search/)
+* [Hackers leak 39,000 print-at-home Ticketmaster tickets for 154 events](https://www.bleepingcomputer.com/news/security/hackers-leak-39-000-print-at-home-ticketmaster-tickets-for-154-events/)
 * [Neiman Marcus data breach: 31 million email addresses found exposed](https://www.bleepingcomputer.com/news/security/neiman-marcus-data-breach-31-million-email-addresses-found-exposed/)
 * [Microsoft: Windows 11 22H2 reaches end of service in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-service-in-october/)
 * [Avast releases free decryptor for DoNex ransomware and past variants](https://www.bleepingcomputer.com/news/security/avast-releases-free-decryptor-for-donex-ransomware-and-past-variants/)
-* [Russia forces Apple to remove dozens of VPN apps from App Store](https://www.bleepingcomputer.com/news/technology/russia-forces-apple-to-remove-dozens-of-vpn-apps-from-app-store/)
-* [Notepad finally gets spellcheck, autocorrect for all Windows 11 users](https://www.bleepingcomputer.com/news/microsoft/notepad-finally-gets-spellcheck-autocorrect-for-all-windows-11-users/)
 <!--END_SECTION:feed-->
 
 <!--
