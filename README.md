@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [RCE bug in widely used Ghostscript library now exploited in attacks](https://www.bleepingcomputer.com/news/security/rce-bug-in-widely-used-ghostscript-library-now-exploited-in-attacks/)
 * [CloudSorcerer hackers abuse cloud services to steal Russian govt data](https://www.bleepingcomputer.com/news/security/cloudsorcerer-hackers-abuse-cloud-services-to-steal-russian-govt-data/)
 * [Roblox vendor data breach exposes dev conference attendee info](https://www.bleepingcomputer.com/news/security/roblox-vendor-data-breach-exposes-dev-conference-attendee-info/)
 * [Europol says Home Routing mobile encryption feature aids criminals](https://www.bleepingcomputer.com/news/security/europol-says-home-routing-mobile-encryption-feature-aids-criminals/)
 * [Shopify denies it was hacked, links stolen data to third-party app](https://www.bleepingcomputer.com/news/security/shopify-denies-it-was-hacked-links-stolen-data-to-third-party-app/)
-* [Cloudflare blames recent outage on BGP hijacking incident](https://www.bleepingcomputer.com/news/security/cloudflare-blames-recent-outage-on-bgp-hijacking-incident/)
 <!--END_SECTION:feed-->
 
 <!--
