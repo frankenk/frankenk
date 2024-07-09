@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [City of Philadelphia says over 35,000 hit in May 2023 breach](https://www.bleepingcomputer.com/news/security/city-of-philadelphia-says-over-35-000-hit-in-may-2023-breach/)
 * [Chinese APT40 hackers hijack SOHO routers to launch attacks](https://www.bleepingcomputer.com/news/security/chinese-apt40-hackers-hijack-soho-routers-to-launch-attacks/)
 * [Evolve Bank says data breach impacts 7.6 million Americans](https://www.bleepingcomputer.com/news/security/evolve-bank-says-data-breach-impacts-76-million-americans/)
 * [Computer maker Zotac exposed customers' RMA info on Google Search](https://www.bleepingcomputer.com/news/security/computer-maker-zotac-exposed-customers-rma-info-on-google-search/)
 * [Hackers leak 39,000 print-at-home Ticketmaster tickets for 154 events](https://www.bleepingcomputer.com/news/security/hackers-leak-39-000-print-at-home-ticketmaster-tickets-for-154-events/)
-* [Neiman Marcus data breach: 31 million email addresses found exposed](https://www.bleepingcomputer.com/news/security/neiman-marcus-data-breach-31-million-email-addresses-found-exposed/)
 <!--END_SECTION:feed-->
 
 <!--
