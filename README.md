@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows MSHTML zero-day used in malware attacks for over a year](https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/)
+* [Microsoft fixes Windows 11 bug causing reboot loops, taskbar freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-bug-causing-reboot-loops-taskbar-freezes/)
 * [Ticket Heist network of 700 domains sells fake Olympic Games tickets](https://www.bleepingcomputer.com/news/security/ticket-heist-network-of-700-domains-sells-fake-olympic-games-tickets/)
 * [Google Advanced Protection Program gets passkeys for high-risk users](https://www.bleepingcomputer.com/news/security/google-advanced-protection-program-gets-passkeys-for-high-risk-users/)
 * [US disrupts AI-powered bot farm pushing Russian propaganda on X](https://www.bleepingcomputer.com/news/security/us-disrupts-ai-powered-bot-farm-pushing-russian-propaganda-on-x/)
-* [New Blast-RADIUS attack bypasses widely-used RADIUS authentication](https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/)
-* [Fujitsu confirms customer data exposed in March cyberattack](https://www.bleepingcomputer.com/news/security/fujitsu-confirms-customer-data-exposed-in-march-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
