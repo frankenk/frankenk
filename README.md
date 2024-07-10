@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ticket Heist network of 700 domains sells fake Olympic Games tickets](https://www.bleepingcomputer.com/news/security/ticket-heist-network-of-700-domains-sells-fake-olympic-games-tickets/)
+* [Google Advanced Protection Program gets passkeys for high-risk users](https://www.bleepingcomputer.com/news/security/google-advanced-protection-program-gets-passkeys-for-high-risk-users/)
 * [US disrupts AI-powered bot farm pushing Russian propaganda on X](https://www.bleepingcomputer.com/news/security/us-disrupts-ai-powered-bot-farm-pushing-russian-propaganda-on-x/)
 * [New Blast-RADIUS attack bypasses widely-used RADIUS authentication](https://www.bleepingcomputer.com/news/security/new-blast-radius-attack-bypasses-widely-used-radius-authentication/)
 * [Fujitsu confirms customer data exposed in March cyberattack](https://www.bleepingcomputer.com/news/security/fujitsu-confirms-customer-data-exposed-in-march-cyberattack/)
-* [Windows 10 KB5040427 update released with Copilot changes, 12 other fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5040427-update-released-with-copilot-changes-12-other-fixes/)
-* [Microsoft July 2024 Patch Tuesday fixes 142 flaws, 4 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2024-patch-tuesday-fixes-142-flaws-4-zero-days/)
 <!--END_SECTION:feed-->
 
 <!--
