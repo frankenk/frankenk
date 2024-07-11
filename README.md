@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
+* [Google increases bug bounty rewards five times, up to * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
 * [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)
 * [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
 * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
@@ -93,7 +93,11 @@
 * [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
 * [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
 * [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
-* [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
+* [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
+* [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
+* [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)
+* [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
+* [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
 <!--END_SECTION:feed-->
 
 <!--
