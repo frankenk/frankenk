@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
 * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
+* [Huione Guarantee exposed as a * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
 * [Huione Guarantee exposed as a * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
 * [Huione Guarantee exposed as a * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
 * [Huione Guarantee exposed as a * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
@@ -77,7 +79,9 @@
 * [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
 * [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
 * [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
-* [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)
+* [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
+* [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
+* [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
 <!--END_SECTION:feed-->
 
 <!--
