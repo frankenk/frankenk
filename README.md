@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Google increases bug bounty rewards five times, up to * [Google increases bug bounty rewards five times, up to * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
+* [Signal downplays encryption key flaw, fixes it after X drama](https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/)
+* [Google increases bug bounty rewards five times, up to * [Google increases bug bounty rewards five times, up to * [Google increases bug bounty rewards five times, up to * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
 * [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)
 * [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
 * [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
@@ -101,7 +102,10 @@
 * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
 * [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)
 * [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
-* [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
+* [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
+* [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
+* [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)
+* [Advance Auto Parts data breach impacts 2.3 million people](https://www.bleepingcomputer.com/news/security/advance-auto-parts-data-breach-impacts-23-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
