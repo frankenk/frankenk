@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Huione Guarantee exposed as a * [Huione Guarantee exposed as a * [Huione Guarantee exposed as a * [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
+* [Microsoft 365, Office users hit by wave of ‘30088-27’ update errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-office-users-hit-by-wave-of-30088-27-update-errors/)
+* [Huione Guarantee exposed as a * [Huione Guarantee exposed as a * [Huione Guarantee exposed as a * [Huione Guarantee exposed as a * [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
 * [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)
 * [Japan warns of attacks linked to North Korean Kimsuky hackers](https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/)
 * [Windows MSHTML zero-day used in malware attacks for over a year](https://www.bleepingcomputer.com/news/security/windows-mshtml-zero-day-used-in-malware-attacks-for-over-a-year/)
@@ -17,7 +18,10 @@
 * [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
 * [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
 * [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)
-* [Japan warns of attacks linked to North Korean Kimsuky hackers](https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/)
+* [Japan warns of attacks linked to North Korean Kimsuky hackers](https://www.bleepingcomputer.com/news/security/japan-warns-of-attacks-linked-to-north-korean-kimsuky-hackers/)1 billion marketplace for cybercrime](https://www.bleepingcomputer.com/news/security/huione-guarantee-exposed-as-a-11-billion-marketplace-for-cybercrime/)
+* [GitLab: Critical bug lets attackers run pipelines as other users](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-bug-that-lets-attackers-run-pipelines-as-an-arbitrary-user/)
+* [ViperSoftX malware covertly runs PowerShell using AutoIT scripting](https://www.bleepingcomputer.com/news/security/vipersoftx-malware-covertly-runs-powershell-using-autoit-scripting/)
+* [CISA urges devs to weed out OS command injection vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-devs-to-weed-out-os-command-injection-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
