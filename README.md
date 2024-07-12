@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Exim bug bypasses security filters on 1.5 million mail servers](https://www.bleepingcomputer.com/news/security/critical-exim-bug-bypasses-security-filters-on-15-million-mail-servers/)
 * [Rite Aid confirms data breach after June ransomware attack](https://www.bleepingcomputer.com/news/security/rite-aid-confirms-data-breach-after-june-ransomware-attack/)
 * [DNS hijacks target crypto platforms registered with Squarespace](https://www.bleepingcomputer.com/news/security/dns-hijacks-target-crypto-platforms-registered-with-squarespace/)
 * [Netgear warns users to patch auth bypass, XSS router flaws](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-authentication-bypass-xss-router-flaws/)
 * [Massive AT&T data breach exposes call logs of 109 million customers](https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/)
-* [ARRL finally confirms ransomware gang stole data in cyberattack](https://www.bleepingcomputer.com/news/security/arrl-finally-confirms-ransomware-gang-stole-data-in-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
