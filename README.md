@@ -5,6 +5,10 @@
 * [Massive AT&T data breach exposes call logs of 109 million customers](https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/)
 * [ARRL finally confirms ransomware gang stole data in cyberattack](https://www.bleepingcomputer.com/news/security/arrl-finally-confirms-ransomware-gang-stole-data-in-cyberattack/)
 * [Signal downplays encryption key flaw, fixes it after X drama](https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/)
+* [Google increases bug bounty rewards five times, up to * [Netgear warns users to patch auth bypass, XSS router flaws](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-authentication-bypass-xss-router-flaws/)
+* [Massive AT&T data breach exposes call logs of 109 million customers](https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/)
+* [ARRL finally confirms ransomware gang stole data in cyberattack](https://www.bleepingcomputer.com/news/security/arrl-finally-confirms-ransomware-gang-stole-data-in-cyberattack/)
+* [Signal downplays encryption key flaw, fixes it after X drama](https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/)
 * [Google increases bug bounty rewards five times, up to * [Massive AT&T data breach exposes call logs of 109 million customers](https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/)
 * [ARRL finally confirms ransomware gang stole data in cyberattack](https://www.bleepingcomputer.com/news/security/arrl-finally-confirms-ransomware-gang-stole-data-in-cyberattack/)
 * [Signal downplays encryption key flaw, fixes it after X drama](https://www.bleepingcomputer.com/news/security/signal-downplays-encryption-key-flaw-fixes-it-after-x-drama/)
@@ -181,7 +185,7 @@
 * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)
 * [CRYSTALRAY hacker expands to 1,500 breached systems using SSH-Snake tool](https://www.bleepingcomputer.com/news/security/crystalray-hacker-expands-to-1-500-breached-systems-using-ssh-snake-tool/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
 * [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
-* [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
+* [Dallas County: Data of 200,000 exposed in 2023 ransomware attack](https://www.bleepingcomputer.com/news/security/dallas-county-data-of-200-000-exposed-in-2023-ransomware-attack/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)51K](https://www.bleepingcomputer.com/news/security/google-increases-bug-bounty-rewards-five-times-up-to-151k/)
 <!--END_SECTION:feed-->
 
 <!--
