@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Banks in Singapore to phase out one-time passwords in 3 months](https://www.bleepingcomputer.com/news/security/banks-in-singapore-to-phase-out-one-time-passwords-in-3-months/)
+* [Hackers use PoC exploits in attacks 22 minutes after release](https://www.bleepingcomputer.com/news/security/hackers-use-poc-exploits-in-attacks-22-minutes-after-release/)
+* [Microsoft fixes bug causing Windows Update automation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-update-automation-issues/)
 * [Critical Exim bug bypasses security filters on 1.5 million mail servers](https://www.bleepingcomputer.com/news/security/critical-exim-bug-bypasses-security-filters-on-15-million-mail-servers/)
 * [Rite Aid confirms data breach after June ransomware attack](https://www.bleepingcomputer.com/news/security/rite-aid-confirms-data-breach-after-june-ransomware-attack/)
-* [DNS hijacks target crypto platforms registered with Squarespace](https://www.bleepingcomputer.com/news/security/dns-hijacks-target-crypto-platforms-registered-with-squarespace/)
-* [Netgear warns users to patch auth bypass, XSS router flaws](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-authentication-bypass-xss-router-flaws/)
-* [Massive AT&T data breach exposes call logs of 109 million customers](https://www.bleepingcomputer.com/news/security/massive-atandt-data-breach-exposes-call-logs-of-109-million-customers/)
 <!--END_SECTION:feed-->
 
 <!--
