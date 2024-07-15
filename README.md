@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kaspersky is shutting down its business in the United States](https://www.bleepingcomputer.com/news/security/kaspersky-is-shutting-down-its-business-in-the-united-states/)
 * [New BugSleep malware implant deployed in MuddyWater attacks](https://www.bleepingcomputer.com/news/security/new-bugsleep-malware-implant-deployed-in-muddywater-attacks/)
 * [Microsoft shares temp fix for Windows 11 Photos not launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-windows-11-photos-not-launching/)
 * [SEXi ransomware rebrands to APT INC, continues VMware ESXi attacks](https://www.bleepingcomputer.com/news/security/sexi-ransomware-rebrands-to-apt-inc-continues-vmware-esxi-attacks/)
 * [June Windows Server updates break Microsoft 365 Defender features](https://www.bleepingcomputer.com/news/microsoft/june-windows-server-updates-break-microsoft-365-defender-features/)
-* [Facebook ads for Windows desktop themes push info-stealing malware](https://www.bleepingcomputer.com/news/security/facebook-ads-for-windows-themes-push-sys01-info-stealing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
