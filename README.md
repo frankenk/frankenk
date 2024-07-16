@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Email addresses of 15 million Trello users leaked on hacking forum](https://www.bleepingcomputer.com/news/security/email-addresses-of-15-million-trello-users-leaked-on-hacking-forum/)
 * [Microsoft announces new Windows 'checkpoint' cumulative updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-new-windows-checkpoint-cumulative-updates/)
 * [Rite Aid says June data breach impacts 2.2 million people](https://www.bleepingcomputer.com/news/security/rite-aid-says-june-data-breach-impacts-22-million-people/)
 * [Microsoft links Scattered Spider hackers to Qilin ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-links-scattered-spider-hackers-to-qilin-ransomware-attacks/)
 * [Microsoft finally fixes Outlook alerts bug caused by December updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-outlook-alerts-bug-caused-by-december-updates/)
-* [Kaspersky is shutting down its business in the United States](https://www.bleepingcomputer.com/news/security/kaspersky-is-shutting-down-its-business-in-the-united-states/)
 <!--END_SECTION:feed-->
 
 <!--
