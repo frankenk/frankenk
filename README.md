@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Telegram zero-day allowed sending malicious Android APKs as videos](https://www.bleepingcomputer.com/news/security/telegram-zero-day-allowed-sending-malicious-android-apks-as-videos/)
+* [Los Angeles Superior Court shuts down after ransomware attack](https://www.bleepingcomputer.com/news/security/los-angeles-superior-court-shuts-down-after-ransomware-attack/)
+* [End-user cybersecurity errors that can cost you millions ](https://www.bleepingcomputer.com/news/security/end-user-cybersecurity-errors-that-can-cost-you-millions/)
 * [Spain arrests three for using DDoSia hacktivist platform](https://www.bleepingcomputer.com/news/security/spain-arrests-three-for-using-ddosia-hacktivist-platform/)
 * [Microsoft releases Windows repair tool to remove CrowdStrike driver](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-repair-tool-to-remove-crowdstrike-driver/)
-* [Fake CrowdStrike fixes target companies with malware, data wipers](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-fixes-target-companies-with-malware-data-wipers/)
-* [UK arrests suspected Scattered Spider hacker linked to MGM attack](https://www.bleepingcomputer.com/news/security/uk-arrests-suspected-scattered-spider-hacker-linked-to-mgm-attack/)
-* [Microsoft confirms CrowdStrike update also hit Windows 365 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-365-cloud-pcs-stuck-restarting-after-crowdstrike-update/)
 <!--END_SECTION:feed-->
 
 <!--
