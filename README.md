@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Verizon to pay * [Fake CrowdStrike repair manual pushes new infostealer malware](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-repair-manual-pushes-new-daolpu-infostealer-malware/)
+* [FrostyGoop malware attack cut off heat in Ukraine during winter](https://www.bleepingcomputer.com/news/security/frostygoop-malware-attack-cut-off-heat-in-ukraine-during-winter/)
+* [Verizon to pay * [Verizon to pay * [Fake CrowdStrike repair manual pushes new infostealer malware](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-repair-manual-pushes-new-daolpu-infostealer-malware/)
 * [Greece’s Land Registry agency breached in wave of 400 cyberattacks](https://www.bleepingcomputer.com/news/security/greeces-land-registry-agency-breached-in-wave-of-400-cyberattacks/)
 * [Google rolls back decision to kill third-party cookies in Chrome](https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/)
 * [US sanctions Russian hacktivists who breached water facilities](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-hacktivists-who-breached-water-facilities/)
@@ -9,7 +10,10 @@
 * [Fake CrowdStrike repair manual pushes new infostealer malware](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-repair-manual-pushes-new-daolpu-infostealer-malware/)
 * [Greece’s Land Registry agency breached in wave of 400 cyberattacks](https://www.bleepingcomputer.com/news/security/greeces-land-registry-agency-breached-in-wave-of-400-cyberattacks/)
 * [Google rolls back decision to kill third-party cookies in Chrome](https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/)
-* [US sanctions Russian hacktivists who breached water facilities](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-hacktivists-who-breached-water-facilities/)
+* [US sanctions Russian hacktivists who breached water facilities](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-hacktivists-who-breached-water-facilities/)6 million in TracFone data breach settlement](https://www.bleepingcomputer.com/news/security/verizon-to-pay-16-million-in-tracfone-data-breach-settlement/)
+* [Fake CrowdStrike repair manual pushes new infostealer malware](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-repair-manual-pushes-new-daolpu-infostealer-malware/)
+* [Greece’s Land Registry agency breached in wave of 400 cyberattacks](https://www.bleepingcomputer.com/news/security/greeces-land-registry-agency-breached-in-wave-of-400-cyberattacks/)
+* [Google rolls back decision to kill third-party cookies in Chrome](https://www.bleepingcomputer.com/news/security/google-rolls-back-decision-to-kill-third-party-cookies-in-chrome/)
 <!--END_SECTION:feed-->
 
 <!--
