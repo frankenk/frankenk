@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes bug behind Windows 10 Connected Cache delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-10-connected-cache-delivery-issues/)
+* [KnowBe4 mistakenly hires North Korean hacker, faces infostealer attack](https://www.bleepingcomputer.com/news/security/knowbe4-mistakenly-hires-north-korean-hacker-faces-infostealer-attack/)
 * [Google Chrome now warns about risky password-protected archives](https://www.bleepingcomputer.com/news/google/google-chrome-now-warns-about-risky-password-protected-archives/)
 * [CrowdStrike: 'Content Validator' bug let faulty update pass checks](https://www.bleepingcomputer.com/news/security/crowdstrike-content-validator-bug-let-faulty-update-pass-checks/)
 * [Hot topics: Can’t-miss sessions at Mandiant’s 2024 mWISE event](https://www.bleepingcomputer.com/news/security/hot-topics-cant-miss-sessions-at-mandiants-2024-mwise-event/)
-* [Windows July security updates send PCs into BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/windows-july-security-updates-send-pcs-into-bitlocker-recovery/)
-* [BreachForums v1 database leak is an OPSEC test for hackers](https://www.bleepingcomputer.com/news/security/breachforums-v1-database-leak-is-an-opsec-test-for-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
