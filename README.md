@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
 * [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
+* [US offers * [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
 * [US offers * [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
 * [US offers * [US offers * [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)
 * [Progress warns of critical RCE bug in Telerik Report Server](https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/)
@@ -17,7 +19,9 @@
 * [French police push PlugX malware self-destruct payload to clean PCs](https://www.bleepingcomputer.com/news/security/french-police-push-plugx-malware-self-destruct-payload-to-clean-pcs/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
 * [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)
 * [Progress warns of critical RCE bug in Telerik Report Server](https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/)
-* [French police push PlugX malware self-destruct payload to clean PCs](https://www.bleepingcomputer.com/news/security/french-police-push-plugx-malware-self-destruct-payload-to-clean-pcs/)
+* [French police push PlugX malware self-destruct payload to clean PCs](https://www.bleepingcomputer.com/news/security/french-police-push-plugx-malware-self-destruct-payload-to-clean-pcs/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
+* [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)
+* [Progress warns of critical RCE bug in Telerik Report Server](https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/)
 <!--END_SECTION:feed-->
 
 <!--
