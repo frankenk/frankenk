@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)
 * [Progress warns of critical RCE bug in Telerik Report Server](https://www.bleepingcomputer.com/news/security/progress-warns-of-critical-rce-bug-in-telerik-report-server/)
 * [French police push PlugX malware self-destruct payload to clean PCs](https://www.bleepingcomputer.com/news/security/french-police-push-plugx-malware-self-destruct-payload-to-clean-pcs/)
 * [Why Multivendor Cybersecurity Stacks Are Increasingly Obsolete](https://www.bleepingcomputer.com/news/security/why-multivendor-cybersecurity-stacks-are-increasingly-obsolete/)
 * [Over 3,000 GitHub accounts used by malware distribution service](https://www.bleepingcomputer.com/news/security/over-3-000-github-accounts-used-by-malware-distribution-service/)
-* [Docker fixes critical 5-year old authentication bypass flaw](https://www.bleepingcomputer.com/news/security/docker-fixes-critical-5-year-old-authentication-bypass-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
