@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes Chrome Password Manager bug that hides credentials](https://www.bleepingcomputer.com/news/google/google-fixes-chrome-password-manager-bug-that-hides-credentials/)
+* [FBCS data breach impact now reaches 4.2 million people](https://www.bleepingcomputer.com/news/security/fbcs-data-breach-impact-now-reaches-42-million-people/)
 * [July Windows Server updates break Remote Desktop connections](https://www.bleepingcomputer.com/news/microsoft/july-windows-server-updates-break-remote-desktop-connections/)
 * [Acronis warns of Cyber Infrastructure default password abused in attacks](https://www.bleepingcomputer.com/news/security/acronis-warns-of-cyber-infrastructure-default-password-abused-in-attacks/)
 * [Russian ransomware gangs account for 69% of all ransom proceeds](https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/)
-* [PKfail Secure Boot bypass lets attackers install UEFI malware](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/)
-* [Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
 <!--END_SECTION:feed-->
 
 <!--
