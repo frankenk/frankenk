@@ -5,6 +5,10 @@
 * [PKfail Secure Boot bypass lets attackers install UEFI malware](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/)
 * [Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
 * [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
+* [US offers * [Russian ransomware gangs account for 69% of all ransom proceeds](https://www.bleepingcomputer.com/news/security/russian-ransomware-gangs-account-for-69-percent-of-all-ransom-proceeds/)
+* [PKfail Secure Boot bypass lets attackers install UEFI malware](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/)
+* [Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
+* [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
 * [US offers * [PKfail Secure Boot bypass lets attackers install UEFI malware](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-lets-attackers-install-uefi-malware/)
 * [Critical ServiceNow RCE flaws actively exploited to steal credentials](https://www.bleepingcomputer.com/news/security/critical-servicenow-rce-flaws-actively-exploited-to-steal-credentials/)
 * [Windows 11 KB5040527 update fixes Windows Backup failures](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5040527-update-fixes-windows-backup-failures/)
@@ -93,7 +97,7 @@
 * [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
 * [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
 * [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
-* [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
+* [Meta nukes massive Instagram sextortion network of 63,000 accounts](https://www.bleepingcomputer.com/news/security/meta-nukes-massive-instagram-sextortion-network-of-63-000-accounts/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)0M for tips on DPRK hacker linked to Maui ransomware attacks](https://www.bleepingcomputer.com/news/security/us-offers-10m-for-tips-on-dprk-hacker-linked-to-maui-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
