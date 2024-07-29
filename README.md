@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HealthEquity says data breach impacts 4.3 million people](https://www.bleepingcomputer.com/news/security/healthequity-says-data-breach-impacts-43-million-people/)
 * [Proofpoint settings exploited to send millions of phishing emails daily](https://www.bleepingcomputer.com/news/security/proofpoint-settings-exploited-to-send-millions-of-phishing-emails-daily/)
 * [Misconfigured Selenium Grid servers abused for Monero mining](https://www.bleepingcomputer.com/news/security/misconfigured-selenium-grid-servers-abused-for-monero-mining/)
 * [Windows 11 taskbar has a hidden "End Task" feature, how to turn it on](https://www.bleepingcomputer.com/news/microsoft/windows-11-taskbar-has-a-hidden-end-task-feature-how-to-turn-it-on/)
 * [X begins training Grok AI with your posts, here's how to disable](https://www.bleepingcomputer.com/news/security/x-begins-training-grok-ai-with-your-posts-heres-how-to-disable/)
-* [WhatsApp for Windows lets Python, PHP scripts execute with no warning](https://www.bleepingcomputer.com/news/security/whatsapp-for-windows-lets-python-php-scripts-execute-with-no-warning/)
 <!--END_SECTION:feed-->
 
 <!--
