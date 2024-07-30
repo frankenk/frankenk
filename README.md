@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK govt links 2021 Electoral Commission breach to Exchange server](https://www.bleepingcomputer.com/news/security/uk-govt-links-2021-electoral-commission-breach-to-exchange-server/)
 * [Android spyware 'Mandrake' hidden in apps on Google Play since 2022](https://www.bleepingcomputer.com/news/security/android-spyware-mandrake-hidden-in-apps-on-google-play-since-2022/)
 * [New Specula tool uses Outlook for remote code execution in Windows](https://www.bleepingcomputer.com/news/security/new-specula-tool-uses-outlook-for-remote-code-execution-in-windows/)
 * [Apple iOS 18.1 Beta previews Apple Intelligence for the first time](https://www.bleepingcomputer.com/news/apple/apple-ios-181-beta-previews-apple-intelligence-for-the-first-time/)
 * [Former Avaya employee gets 4 years for $88M license piracy scheme](https://www.bleepingcomputer.com/news/legal/former-avaya-employee-gets-4-years-for-88m-license-piracy-scheme/)
-* [Microsoft: Ransomware gangs exploit VMware ESXi auth bypass in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-ransomware-gangs-exploit-vmware-esxi-auth-bypass-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
