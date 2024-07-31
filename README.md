@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DigiCert to delay cert revocations for critical infrastructure](https://www.bleepingcomputer.com/news/security/digicert-to-delay-cert-revocations-for-critical-infrastructure/)
 * [OneBlood's virtual machines encrypted in ransomware attack](https://www.bleepingcomputer.com/news/security/onebloods-virtual-machines-encrypted-in-ransomware-attack/)
 * [CISA and FBI: DDoS attacks won’t impact US election integrity](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-ddos-attacks-wont-impact-us-election-integrity/)
 * [Google ads push fake Google Authenticator site installing malware](https://www.bleepingcomputer.com/news/security/google-ads-push-fake-google-authenticator-site-installing-malware/)
 * [World leading silver producer Fresnillo discloses cyberattack](https://www.bleepingcomputer.com/news/security/world-leading-silver-producer-fresnillo-discloses-cyberattack/)
-* [New Android malware wipes your device after draining bank accounts](https://www.bleepingcomputer.com/news/security/new-android-malware-wipes-your-device-after-draining-bank-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
