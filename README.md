@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [StackExchange abused to spread malicious PyPi packages as answers](https://www.bleepingcomputer.com/news/security/stackexchange-abused-to-spread-malicious-pypi-packages-as-answers/)
 * [Hackers abuse free TryCloudflare to deliver remote access malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-free-trycloudflare-to-deliver-remote-access-malware/)
 * [UK takes down major 'Russian Coms' caller ID spoofing platform](https://www.bleepingcomputer.com/news/security/uk-takes-down-russian-comms-caller-id-spoofing-platform-used-to-scam-170-000-people/)
 * [Sitting Ducks DNS attacks let hackers hijack over 35,000 domains](https://www.bleepingcomputer.com/news/security/sitting-ducks-dns-attacks-let-hackers-hijack-over-35-000-domains/)
 * [Cencora confirms patient health info stolen in February attack ](https://www.bleepingcomputer.com/news/security/cencora-confirms-patient-health-info-stolen-in-february-attack/)
-* [FBI warns of scammers posing as crypto exchange employees](https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-posing-as-crypto-exchange-employees/)
 <!--END_SECTION:feed-->
 
 <!--
