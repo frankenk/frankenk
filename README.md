@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI warns of scammers posing as crypto exchange employees](https://www.bleepingcomputer.com/news/security/fbi-warns-of-scammers-posing-as-crypto-exchange-employees/)
 * [Credit card users get mysterious shopify-charge.com charges](https://www.bleepingcomputer.com/news/security/credit-card-users-get-mysterious-shopify-chargecom-charges/)
 * [DigiCert to delay cert revocations for critical infrastructure](https://www.bleepingcomputer.com/news/security/digicert-to-delay-cert-revocations-for-critical-infrastructure/)
 * [OneBlood's virtual machines encrypted in ransomware attack](https://www.bleepingcomputer.com/news/security/onebloods-virtual-machines-encrypted-in-ransomware-attack/)
 * [CISA and FBI: DDoS attacks won’t impact US election integrity](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-ddos-attacks-wont-impact-us-election-integrity/)
-* [Google ads push fake Google Authenticator site installing malware](https://www.bleepingcomputer.com/news/security/google-ads-push-fake-google-authenticator-site-installing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
