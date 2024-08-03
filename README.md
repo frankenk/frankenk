@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Linux kernel impacted by new SLUBStick cross-cache attack](https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/)
+* [Hackers breach ISP to poison software updates with malware](https://www.bleepingcomputer.com/news/security/hackers-breach-isp-to-poison-software-updates-with-malware/)
 * [US sues TikTok for violating children privacy protection laws](https://www.bleepingcomputer.com/news/security/us-sues-tiktok-for-violating-children-privacy-protection-laws/)
 * [Google Chrome bug breaks drag and drop from Downloads bubble](https://www.bleepingcomputer.com/news/google/google-chrome-bug-breaks-drag-and-drop-from-downloads-bubble/)
 * [Google Chrome warns uBlock Origin may soon be disabled](https://www.bleepingcomputer.com/news/google/google-chrome-warns-ublock-origin-may-soon-be-disabled/)
-* [Fake AI editor ads on Facebook push password-stealing malware](https://www.bleepingcomputer.com/news/security/fake-ai-editor-ads-on-facebook-push-password-stealing-malware/)
-* [Cryptonator seized for laundering ransom payments, stolen crypto](https://www.bleepingcomputer.com/news/cryptocurrency/cryptonator-seized-for-laundering-ransom-payments-stolen-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
