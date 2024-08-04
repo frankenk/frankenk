@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Surge in Magniber ransomware attacks impact home users worldwide](https://www.bleepingcomputer.com/news/security/surge-in-magniber-ransomware-attacks-impact-home-users-worldwide/)
 * [Linux kernel impacted by new SLUBStick cross-cache attack](https://www.bleepingcomputer.com/news/security/linux-kernel-impacted-by-new-slubstick-cross-cache-attack/)
 * [Hackers breach ISP to poison software updates with malware](https://www.bleepingcomputer.com/news/security/hackers-breach-isp-to-poison-software-updates-with-malware/)
 * [US sues TikTok for violating children privacy protection laws](https://www.bleepingcomputer.com/news/security/us-sues-tiktok-for-violating-children-privacy-protection-laws/)
 * [Google Chrome bug breaks drag and drop from Downloads bubble](https://www.bleepingcomputer.com/news/google/google-chrome-bug-breaks-drag-and-drop-from-downloads-bubble/)
-* [Google Chrome warns uBlock Origin may soon be disabled](https://www.bleepingcomputer.com/news/google/google-chrome-warns-ublock-origin-may-soon-be-disabled/)
 <!--END_SECTION:feed-->
 
 <!--
