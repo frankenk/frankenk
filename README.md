@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [France's Grand Palais discloses cyberattack during Olympic games](https://www.bleepingcomputer.com/news/security/frances-grand-palais-discloses-cyberattack-during-olympic-games/)
 * [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/)
 * [Point of entry: Why hackers target stolen credentials for initial access](https://www.bleepingcomputer.com/news/security/point-of-entry-why-hackers-target-stolen-credentials-for-initial-access/)
 * [Proton VPN adds ‘Discreet Icons’ to hide app on Android devices](https://www.bleepingcomputer.com/news/security/proton-vpn-adds-discreet-icons-to-hide-app-on-android-devices/)
 * [Google fixes Android kernel zero-day exploited in targeted attacks](https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/)
-* [Ransomware gang targets IT workers with new SharpRhino malware](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/)
 <!--END_SECTION:feed-->
 
 <!--
