@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/)
+* [Point of entry: Why hackers target stolen credentials for initial access](https://www.bleepingcomputer.com/news/security/point-of-entry-why-hackers-target-stolen-credentials-for-initial-access/)
+* [Proton VPN adds ‘Discreet Icons’ to hide app on Android devices](https://www.bleepingcomputer.com/news/security/proton-vpn-adds-discreet-icons-to-hide-app-on-android-devices/)
 * [Google fixes Android kernel zero-day exploited in targeted attacks](https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-targeted-attacks/)
 * [Ransomware gang targets IT workers with new SharpRhino malware](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-gang-targets-it-workers-with-new-sharprhino-malware/)
-* [Microsoft Azure outage takes down services across North America](https://www.bleepingcomputer.com/news/microsoft/microsoft-azure-outage-takes-down-services-across-north-america/)
-* [Crowdstrike: Delta Air Lines refused free help to resolve IT outage](https://www.bleepingcomputer.com/news/security/crowdstrike-delta-air-lines-refused-free-help-to-resolve-it-outage/)
-* [Windows Smart App Control, SmartScreen bypass exploited since 2018](https://www.bleepingcomputer.com/news/microsoft/windows-smart-app-control-smartscreen-bypass-exploited-since-2018/)
 <!--END_SECTION:feed-->
 
 <!--
