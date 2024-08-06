@@ -3,6 +3,8 @@
 <!--START_SECTION:feed-->
 * [Google Chrome will let you send money to your favourite website](https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/)
 * [INTERPOL recovers over $40 million stolen in a BEC attack ](https://www.bleepingcomputer.com/news/security/interpol-recovers-over-40-million-stolen-in-a-bec-attack/)
+* [Samsung to pay * [Google Chrome will let you send money to your favourite website](https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/)
+* [INTERPOL recovers over $40 million stolen in a BEC attack ](https://www.bleepingcomputer.com/news/security/interpol-recovers-over-40-million-stolen-in-a-bec-attack/)
 * [Samsung to pay * [INTERPOL recovers over $40 million stolen in a BEC attack ](https://www.bleepingcomputer.com/news/security/interpol-recovers-over-40-million-stolen-in-a-bec-attack/)
 * [Samsung to pay * [Samsung to pay * [France's Grand Palais discloses cyberattack during Olympic games](https://www.bleepingcomputer.com/news/security/frances-grand-palais-discloses-cyberattack-during-olympic-games/)
 * [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/)
@@ -16,6 +18,8 @@
 * [France's Grand Palais discloses cyberattack during Olympic games](https://www.bleepingcomputer.com/news/security/frances-grand-palais-discloses-cyberattack-during-olympic-games/)
 * [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/)
 * [Point of entry: Why hackers target stolen credentials for initial access](https://www.bleepingcomputer.com/news/security/point-of-entry-why-hackers-target-stolen-credentials-for-initial-access/),000,000 for RCEs on Galaxy’s secure vault](https://www.bleepingcomputer.com/news/security/samsung-to-pay-1-000-000-for-rces-on-galaxys-secure-vault/)
+* [France's Grand Palais discloses cyberattack during Olympic games](https://www.bleepingcomputer.com/news/security/frances-grand-palais-discloses-cyberattack-during-olympic-games/)
+* [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/),000,000 for RCEs on Galaxy’s secure vault](https://www.bleepingcomputer.com/news/security/samsung-to-pay-1-000-000-for-rces-on-galaxys-secure-vault/)
 * [France's Grand Palais discloses cyberattack during Olympic games](https://www.bleepingcomputer.com/news/security/frances-grand-palais-discloses-cyberattack-during-olympic-games/)
 * [Hacker wipes 13,000 devices after breaching classroom management platform](https://www.bleepingcomputer.com/news/security/hacker-wipes-13-000-devices-after-breaching-classroom-management-platform/)
 <!--END_SECTION:feed-->
