@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SEC ends probe into MOVEit attacks impacting 95 million people](https://www.bleepingcomputer.com/news/security/sec-ends-probe-into-moveit-attacks-impacting-95-million-people/)
+* [FBI: BlackSuit ransomware made over $500 million in ransom demands](https://www.bleepingcomputer.com/news/security/fbi-blacksuit-ransomware-made-over-500-million-in-ransom-demands/)
 * [New CMoon USB worm targets Russians in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cmoon-usb-worm-targets-russians-in-data-theft-attacks/)
 * [Windows Update downgrade attack "unpatches" fully-updated systems](https://www.bleepingcomputer.com/news/microsoft/windows-update-downgrade-attack-unpatches-fully-updated-systems/)
 * [McLaren hospitals disruption linked to INC ransomware attack](https://www.bleepingcomputer.com/news/security/mclaren-hospitals-disruption-linked-to-inc-ransomware-attack/)
-* [UK IT provider faces $7.7 million fine for 2022 ransomware breach](https://www.bleepingcomputer.com/news/security/uk-it-provider-faces-77-million-fine-for-2022-ransomware-breach/)
-* [macOS Sequoia brings better Gatekeeper, stalkerware protections](https://www.bleepingcomputer.com/news/apple/macos-sequoia-brings-better-gatekeeper-stalkerware-protections/)
 <!--END_SECTION:feed-->
 
 <!--
