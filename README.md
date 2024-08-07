@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [McLaren hospitals disruption linked to INC ransomware attack](https://www.bleepingcomputer.com/news/security/mclaren-hospitals-disruption-linked-to-inc-ransomware-attack/)
+* [UK IT provider faces $7.7 million fine for 2022 ransomware breach](https://www.bleepingcomputer.com/news/security/uk-it-provider-faces-77-million-fine-for-2022-ransomware-breach/)
 * [macOS Sequoia brings better Gatekeeper, stalkerware protections](https://www.bleepingcomputer.com/news/apple/macos-sequoia-brings-better-gatekeeper-stalkerware-protections/)
 * [Critical Progress WhatsUp RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-progress-whatsup-rce-flaw-now-under-active-exploitation/)
 * [How MSPs and MSSPs offer vCISO services with skilled CISOs in short supply](https://www.bleepingcomputer.com/news/security/how-msps-and-mssps-offer-vciso-services-with-skilled-cisos-in-short-supply/)
-* [Microsoft 365 anti-phishing feature can be bypassed with CSS](https://www.bleepingcomputer.com/news/security/microsoft-365-anti-phishing-feature-can-be-bypassed-with-css/)
-* [Google Chrome will let you send money to your favourite website](https://www.bleepingcomputer.com/news/google/google-chrome-will-let-you-send-money-to-your-favourite-website/)
 <!--END_SECTION:feed-->
 
 <!--
