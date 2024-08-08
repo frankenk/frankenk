@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [18-year-old security flaw in Firefox and Chrome exploited in attacks](https://www.bleepingcomputer.com/news/security/18-year-old-security-flaw-in-firefox-and-chrome-exploited-in-attacks/)
 * [ADT confirms data breach after customer info leaked on hacking forum](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-customer-info-leaked-on-hacking-forum/)
+* [Ronin Network hacked, * [ADT confirms data breach after customer info leaked on hacking forum](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-customer-info-leaked-on-hacking-forum/)
 * [Ronin Network hacked, * [ADT confirms data breach after customer info leaked on hacking forum](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-customer-info-leaked-on-hacking-forum/)
 * [Ronin Network hacked, * [ADT confirms data breach after customer info leaked on hacking forum](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-customer-info-leaked-on-hacking-forum/)
 * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [Ronin Network hacked, * [SEC ends probe into MOVEit attacks impacting 95 million people](https://www.bleepingcomputer.com/news/security/sec-ends-probe-into-moveit-attacks-impacting-95-million-people/)
@@ -73,7 +75,9 @@
 * [New CMoon USB worm targets Russians in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cmoon-usb-worm-targets-russians-in-data-theft-attacks/)2 million returned by "white hat" hackers](https://www.bleepingcomputer.com/news/security/ronin-network-hacked-12-million-returned-by-white-hat-hackers/)
 * [SEC ends probe into MOVEit attacks impacting 95 million people](https://www.bleepingcomputer.com/news/security/sec-ends-probe-into-moveit-attacks-impacting-95-million-people/)
 * [FBI: BlackSuit ransomware behind over $500 million in ransom demands](https://www.bleepingcomputer.com/news/security/fbi-blacksuit-ransomware-behind-over-500-million-in-ransom-demands/)
-* [New CMoon USB worm targets Russians in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cmoon-usb-worm-targets-russians-in-data-theft-attacks/)
+* [New CMoon USB worm targets Russians in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cmoon-usb-worm-targets-russians-in-data-theft-attacks/)2 million returned by "white hat" hackers](https://www.bleepingcomputer.com/news/security/ronin-network-hacked-12-million-returned-by-white-hat-hackers/)
+* [SEC ends probe into MOVEit attacks impacting 95 million people](https://www.bleepingcomputer.com/news/security/sec-ends-probe-into-moveit-attacks-impacting-95-million-people/)
+* [FBI: BlackSuit ransomware behind over $500 million in ransom demands](https://www.bleepingcomputer.com/news/security/fbi-blacksuit-ransomware-behind-over-500-million-in-ransom-demands/)
 <!--END_SECTION:feed-->
 
 <!--
