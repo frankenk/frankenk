@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows 11 22H2 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-support-in-60-days/)
+* [WWH-Club credit card market admins arrested after cash spending spree](https://www.bleepingcomputer.com/news/legal/wwh-club-credit-card-market-admins-arrested-after-cash-spending-spree/)
 * [Russia blocks Signal for 'violating' anti-terrorism laws](https://www.bleepingcomputer.com/news/security/russia-blocks-signal-for-violating-anti-terrorism-laws/)
 * [CSC ServiceWorks discloses data breach after 2023 cyberattack](https://www.bleepingcomputer.com/news/security/csc-serviceworks-discloses-data-breach-after-2023-cyberattack/)
 * [New AMD SinkClose flaw helps install nearly undetectable malware](https://www.bleepingcomputer.com/news/security/new-amd-sinkclose-flaw-helps-install-nearly-undetectable-malware/)
-* [Microsoft discloses Office zero-day, still working on a patch](https://www.bleepingcomputer.com/news/security/microsoft-discloses-office-zero-day-still-working-on-a-patch/)
-* [Malware force-installs Chrome extensions on 300,000 browsers, patches DLLs](https://www.bleepingcomputer.com/news/security/malware-force-installs-chrome-extensions-on-300-000-browsers-patches-dlls/)
 <!--END_SECTION:feed-->
 
 <!--
