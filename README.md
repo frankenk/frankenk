@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hacking groups target Russian government, IT firms](https://www.bleepingcomputer.com/news/security/chinese-hacking-groups-target-russian-government-it-firms/)
+* [Fake X content warnings on Ukraine war, earthquakes used as clickbait](https://www.bleepingcomputer.com/news/security/fake-x-content-warnings-on-ukraine-war-earthquakes-used-as-clickbait/)
+* [Hackers leak 2.7 billion data records with Social Security numbers](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 * [Microsoft: Windows 11 22H2 reaches end of support in 60 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-reaches-end-of-support-in-60-days/)
 * [WWH-Club credit card market admins arrested after cash spending spree](https://www.bleepingcomputer.com/news/legal/wwh-club-credit-card-market-admins-arrested-after-cash-spending-spree/)
-* [Russia blocks Signal for 'violating' anti-terrorism laws](https://www.bleepingcomputer.com/news/security/russia-blocks-signal-for-violating-anti-terrorism-laws/)
-* [CSC ServiceWorks discloses data breach after 2023 cyberattack](https://www.bleepingcomputer.com/news/security/csc-serviceworks-discloses-data-breach-after-2023-cyberattack/)
-* [New AMD SinkClose flaw helps install nearly undetectable malware](https://www.bleepingcomputer.com/news/security/new-amd-sinkclose-flaw-helps-install-nearly-undetectable-malware/)
 <!--END_SECTION:feed-->
 
 <!--
