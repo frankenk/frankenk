@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://www.bleepingcomputer.com/news/security/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
 * [South Korea says DPRK hackers stole spy plane technical data](https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/)
 * [Microsoft is killing the Windows Paint 3D app after 8 years](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-the-windows-paint-3d-app-after-8-years/)
 * [Hackers posing as Ukraine’s Security Service infect 100 govt PCs](https://www.bleepingcomputer.com/news/security/hackers-posing-as-ukraines-security-service-infect-100-govt-pcs/)
 * [Australian gold producer Evolution Mining hit by ransomware](https://www.bleepingcomputer.com/news/security/australian-gold-producer-evolution-mining-hit-by-ransomware/)
-* [Microsoft shares Outlook workaround for Gmail sign-in issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-outlook-workaround-for-gmail-sign-in-issues/)
 <!--END_SECTION:feed-->
 
 <!--
