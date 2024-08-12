@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft shares Outlook workaround for Gmail sign-in issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-outlook-workaround-for-gmail-sign-in-issues/)
 * [Google deactivates Russian AdSense accounts, sends final payments](https://www.bleepingcomputer.com/news/google/google-deactivates-russian-adsense-accounts-sends-final-payments/)
 * [Criminal IP and Maltego Join Forces for Enhanced Cyber Threat Search](https://www.bleepingcomputer.com/news/security/criminal-ip-and-maltego-join-forces-for-enhanced-cyber-threat-search/)
 * [Chinese hacking groups target Russian government, IT firms](https://www.bleepingcomputer.com/news/security/chinese-hacking-groups-target-russian-government-it-firms/)
 * [Fake X content warnings on Ukraine war, earthquakes used as clickbait](https://www.bleepingcomputer.com/news/security/fake-x-content-warnings-on-ukraine-war-earthquakes-used-as-clickbait/)
-* [Hackers leak 2.7 billion data records with Social Security numbers](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 <!--END_SECTION:feed-->
 
 <!--
