@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical SAP flaw allows remote attackers to bypass authentication](https://www.bleepingcomputer.com/news/security/critical-sap-flaw-allows-remote-attackers-to-bypass-authentication/)
 * [Windows Server August updates fix Microsoft 365 Defender issue](https://www.bleepingcomputer.com/news/microsoft/windows-server-august-updates-fix-microsoft-365-defender-issue/)
 * [Google: Gemini AI for Android processes sensitive data locally](https://www.bleepingcomputer.com/news/google/google-gemini-ai-for-android-processes-sensitive-data-locally/)
 * [Microsoft August 2024 Patch Tuesday fixes 9 zero-days, 6 exploited](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2024-patch-tuesday-fixes-9-zero-days-6-exploited/)
 * [Microsoft fixes issue that sent PCs into BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-issue-that-sent-pcs-into-bitlocker-recovery/)
-* [Windows 11 KB5041585 cumulative update released with fixes, new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5041585-cumulative-update-released-with-fixes-new-features/)
 <!--END_SECTION:feed-->
 
 <!--
