@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [How to Prevent Your First AI Data Breach](https://www.bleepingcomputer.com/news/security/how-to-prevent-your-first-ai-data-breach/)
 * [Ransom Cartel, Reveton ransomware owner arrested, charged in US](https://www.bleepingcomputer.com/news/security/ransom-cartel-reveton-ransomware-owner-arrested-charged-in-us/)
 * [X faces GDPR complaints for unauthorized use of data for AI training](https://www.bleepingcomputer.com/news/artificial-intelligence/x-faces-gdpr-complaints-for-unauthorized-use-of-data-for-ai-training/)
 * [FBI disrupts the Dispossessor ransomware operation, seizes servers](https://www.bleepingcomputer.com/news/security/fbi-disrupts-the-dispossessor-ransomware-operation-seizes-servers/)
 * [South Korea says DPRK hackers stole spy plane technical data](https://www.bleepingcomputer.com/news/security/south-korea-says-dprk-hackers-stole-spy-plane-technical-data/)
-* [Microsoft is killing the Windows Paint 3D app after 8 years](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-the-windows-paint-3d-app-after-8-years/)
 <!--END_SECTION:feed-->
 
 <!--
