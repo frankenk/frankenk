@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NIST releases first encryption tools to resist quantum computing](https://www.bleepingcomputer.com/news/security/nist-releases-first-encryption-tools-to-resist-quantum-computing/)
 * [Microsoft retires Windows updates causing 0x80070643 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-retires-windows-updates-causing-0x80070643-errors/)
 * [AutoCanada discloses cyberattack impacting internal IT systems](https://www.bleepingcomputer.com/news/security/autocanada-discloses-cyberattack-impacting-internal-it-systems/)
 * [SolarWinds fixes critical RCE bug affecting all Web Help Desk versions](https://www.bleepingcomputer.com/news/security/solarwinds-fixes-critical-rce-bug-affecting-all-web-help-desk-versions/)
 * [New Windows SmartScreen bypass exploited as zero-day since March](https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/)
-* [Critical SAP flaw allows remote attackers to bypass authentication](https://www.bleepingcomputer.com/news/security/critical-sap-flaw-allows-remote-attackers-to-bypass-authentication/)
 <!--END_SECTION:feed-->
 
 <!--
