@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SolarWinds fixes critical RCE bug affecting all Web Help Desk versions](https://www.bleepingcomputer.com/news/security/solarwinds-fixes-critical-rce-bug-affecting-all-web-help-desk-versions/)
 * [New Windows SmartScreen bypass exploited as zero-day since March](https://www.bleepingcomputer.com/news/microsoft/new-windows-smartscreen-bypass-exploited-as-zero-day-since-march/)
 * [Critical SAP flaw allows remote attackers to bypass authentication](https://www.bleepingcomputer.com/news/security/critical-sap-flaw-allows-remote-attackers-to-bypass-authentication/)
 * [Windows Server August updates fix Microsoft 365 Defender issue](https://www.bleepingcomputer.com/news/microsoft/windows-server-august-updates-fix-microsoft-365-defender-issue/)
 * [Google says it's focusing on privacy with Gemini AI on Android](https://www.bleepingcomputer.com/news/google/google-says-its-focusing-on-privacy-with-gemini-ai-on-android/)
-* [Microsoft August 2024 Patch Tuesday fixes 9 zero-days, 6 exploited](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2024-patch-tuesday-fixes-9-zero-days-6-exploited/)
 <!--END_SECTION:feed-->
 
 <!--
