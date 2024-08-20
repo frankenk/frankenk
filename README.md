@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft launches unified Teams app for personal, work accounts](https://www.bleepingcomputer.com/news/microsoft/microsoft-launches-unified-teams-app-for-personal-work-accounts/)
 * [Hackers use PHP exploit to backdoor Windows systems with new malware](https://www.bleepingcomputer.com/news/security/hackers-use-php-exploit-to-backdoor-windows-systems-with-new-malware/)
 * [Oregon Zoo warns visitors their credit card details were stolen](https://www.bleepingcomputer.com/news/security/oregon-zoo-warns-visitors-their-credit-card-details-were-stolen/)
 * [August Windows updates break dual boot on some Linux systems](https://www.bleepingcomputer.com/news/microsoft/august-windows-updates-break-dual-boot-on-some-linux-systems/)
 * [Hacker locks Unicoin staff out of Google accounts for 4 days](https://www.bleepingcomputer.com/news/security/hacker-locks-unicoin-staff-out-of-google-accounts-for-4-days/)
-* [US warns of Iranian hackers escalating influence operations](https://www.bleepingcomputer.com/news/security/us-warns-of-iranian-hackers-escalating-influence-operations/)
 <!--END_SECTION:feed-->
 
 <!--
