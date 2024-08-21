@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Man sentenced for hacking state registry to fake his own death](https://www.bleepingcomputer.com/news/legal/man-sentenced-for-hacking-state-registry-to-fake-his-own-death/)
 * [Google fixes ninth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-fixes-tenth-actively-exploited-chrome-zero-day-in-2024/)
 * [Hackers steal banking creds from iOS, Android users via PWA apps](https://www.bleepingcomputer.com/news/security/hackers-steal-banking-creds-from-ios-android-users-via-pwa-apps/)
 * [Microsoft to roll out Windows Recall to Insiders in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/)
 * [QNAP adds NAS ransomware protection to latest QTS version](https://www.bleepingcomputer.com/news/security/qnap-adds-nas-ransomware-protection-to-latest-qts-version/)
-* [Litespeed Cache bug exposes millions of WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/litespeed-cache-bug-exposes-millions-of-wordpress-sites-to-takeover-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
