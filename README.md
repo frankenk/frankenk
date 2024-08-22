@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SolarWinds fixes hardcoded credentials flaw in Web Help Desk](https://www.bleepingcomputer.com/news/security/solarwinds-fixes-hardcoded-credentials-flaw-in-web-help-desk/)
 * [U.S. charges Karakurt extortion gang’s “cold case” negotiator](https://www.bleepingcomputer.com/news/legal/us-charges-karakurt-extortion-gangs-cold-case-negotiator/)
 * [Man sentenced for hacking state registry to fake his own death](https://www.bleepingcomputer.com/news/legal/man-sentenced-for-hacking-state-registry-to-fake-his-own-death/)
 * [Google fixes ninth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-fixes-tenth-actively-exploited-chrome-zero-day-in-2024/)
 * [Hackers steal banking creds from iOS, Android users via PWA apps](https://www.bleepingcomputer.com/news/security/hackers-steal-banking-creds-from-ios-android-users-via-pwa-apps/)
-* [Microsoft to roll out Windows Recall to Insiders in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-windows-recall-to-insiders-in-october/)
 <!--END_SECTION:feed-->
 
 <!--
