@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft shares temp fix for Linux boot issues on dual-boot systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/)
 * [New Windows 10 22H2 beta fixes memory leaks and crashes](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-22h2-beta-fixes-memory-leaks-and-crashes/)
 * [Hackers now use AppDomain Injection to drop CobaltStrike beacons](https://www.bleepingcomputer.com/news/security/hackers-now-use-appdomain-injection-to-drop-cobaltstrike-beacons/)
 * [US oil giant Halliburton confirms cyberattack behind systems shutdown](https://www.bleepingcomputer.com/news/security/us-oil-giant-halliburton-confirms-cyberattack-behind-systems-shutdown/)
 * [Russian laundering millions for Lazarus hackers arrested in Argentina](https://www.bleepingcomputer.com/news/legal/russian-laundering-millions-for-lazarus-hackers-arrested-in-argentina/)
-* [Greasy Opal's CAPTCHA solver still serving cybercrime after 16 years](https://www.bleepingcomputer.com/news/security/greasy-opals-captcha-solver-still-serving-cybercrime-after-16-years/)
 <!--END_SECTION:feed-->
 
 <!--
