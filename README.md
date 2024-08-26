@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Seattle-Tacoma Airport IT systems down due to a cyberattack](https://www.bleepingcomputer.com/news/security/seattle-tacoma-airport-it-systems-down-due-to-a-cyberattack/)
 * [Audit finds notable security gaps in FBI's storage media management](https://www.bleepingcomputer.com/news/security/audit-finds-notable-security-gaps-in-fbis-storage-media-management/)
+* [Stealthy 'sedexp' Linux malware evaded detection for two years](https://www.bleepingcomputer.com/news/security/stealthy-sedexp-linux-malware-evaded-detection-for-two-years/)
+* [American Radio Relay League confirms * [Audit finds notable security gaps in FBI's storage media management](https://www.bleepingcomputer.com/news/security/audit-finds-notable-security-gaps-in-fbis-storage-media-management/)
 * [Stealthy 'sedexp' Linux malware evaded detection for two years](https://www.bleepingcomputer.com/news/security/stealthy-sedexp-linux-malware-evaded-detection-for-two-years/)
 * [American Radio Relay League confirms * [Audit finds notable security gaps in FBI's storage media management](https://www.bleepingcomputer.com/news/security/audit-finds-notable-security-gaps-in-fbis-storage-media-management/)
 * [Stealthy 'sedexp' Linux malware evaded detection for two years](https://www.bleepingcomputer.com/news/security/stealthy-sedexp-linux-malware-evaded-detection-for-two-years/)
@@ -257,7 +260,8 @@
 * [Microsoft shares temp fix for Linux boot issues on dual-boot systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/)
 * [New Windows 10 22H2 beta fixes memory leaks and crashes](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-22h2-beta-fixes-memory-leaks-and-crashes/) million ransom payment](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-confirms-1-million-ransom-payment/)
 * [Microsoft shares temp fix for Linux boot issues on dual-boot systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/)
-* [New Windows 10 22H2 beta fixes memory leaks and crashes](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-22h2-beta-fixes-memory-leaks-and-crashes/)
+* [New Windows 10 22H2 beta fixes memory leaks and crashes](https://www.bleepingcomputer.com/news/microsoft/new-windows-10-22h2-beta-fixes-memory-leaks-and-crashes/) million ransom payment](https://www.bleepingcomputer.com/news/security/american-radio-relay-league-confirms-1-million-ransom-payment/)
+* [Microsoft shares temp fix for Linux boot issues on dual-boot systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-linux-boot-issues-on-dual-boot-systems/)
 <!--END_SECTION:feed-->
 
 <!--
