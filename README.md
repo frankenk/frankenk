@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Patelco notifies 726,000 customers of ransomware data breach](https://www.bleepingcomputer.com/news/security/patelco-notifies-726-000-customers-of-ransomware-data-breach/)
 * [Microsoft: Exchange Online mistakenly tags emails as malware](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-mistakenly-tags-emails-as-malware/)
 * [Uber fined $325 million for moving driver data from Europe to US](https://www.bleepingcomputer.com/news/legal/uber-fined-325-million-for-moving-driver-data-from-europe-to-us/)
 * [Versa fixes Director zero-day vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/versa-fixes-director-zero-day-vulnerability-exploited-in-attacks/)
 * [SonicWall warns of critical access control flaw in SonicOS](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-critical-access-control-flaw-in-sonicos/)
-* [Remote Work: A Ticking Time Bomb Waiting to be Exploited](https://www.bleepingcomputer.com/news/security/remote-work-a-ticking-time-bomb-waiting-to-be-exploited/)
 <!--END_SECTION:feed-->
 
 <!--
