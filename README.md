@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Park’N Fly notifies 1 million customers of data breach](https://www.bleepingcomputer.com/news/security/parkn-fly-notifies-1-million-customers-of-data-breach/)
 * [How to identify unknown assets while pen testing](https://www.bleepingcomputer.com/news/security/how-to-identify-unknown-assets-while-pen-testing/)
 * [Chinese Volt Typhoon hackers exploited Versa zero-day to breach ISPs, MSPs](https://www.bleepingcomputer.com/news/security/chinese-volt-typhoon-hackers-exploited-versa-zero-day-to-breach-isps-msps/)
 * [Microsoft Sway abused in massive QR code phishing campaign](https://www.bleepingcomputer.com/news/security/microsoft-sway-abused-in-massive-qr-code-phishing-campaign/)
 * [Google tags a tenth Chrome zero-day as exploited this year](https://www.bleepingcomputer.com/news/security/google-tags-a-tenth-chrome-zero-day-as-exploited-this-year/)
-* [Patelco notifies 726,000 customers of ransomware data breach](https://www.bleepingcomputer.com/news/security/patelco-notifies-726-000-customers-of-ransomware-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
