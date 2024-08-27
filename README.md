@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5041587 update adds sharing to Android devices](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5041587-update-adds-sharing-to-android-devices/)
+* [Notion exits Russia and will terminate accounts in September](https://www.bleepingcomputer.com/news/software/notion-exits-russia-and-will-terminate-accounts-in-september/)
 * [Malware infiltrates Pidgin messenger’s official plugin repository](https://www.bleepingcomputer.com/news/security/malware-infiltrates-pidgin-messengers-official-plugin-repository/)
 * [Windows Downdate tool lets you 'unpatch' Windows systems](https://www.bleepingcomputer.com/news/microsoft/windows-downdate-tool-lets-you-unpatch-windows-systems/)
 * [Park’N Fly notifies 1 million customers of data breach](https://www.bleepingcomputer.com/news/security/parkn-fly-notifies-1-million-customers-of-data-breach/)
-* [How to identify unknown assets while pen testing](https://www.bleepingcomputer.com/news/security/how-to-identify-unknown-assets-while-pen-testing/)
-* [Chinese Volt Typhoon hackers exploited Versa zero-day to breach ISPs, MSPs](https://www.bleepingcomputer.com/news/security/chinese-volt-typhoon-hackers-exploited-versa-zero-day-to-breach-isps-msps/)
 <!--END_SECTION:feed-->
 
 <!--
