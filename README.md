@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PoorTry Windows driver evolves into a full-featured EDR wiper](https://www.bleepingcomputer.com/news/security/poortry-windows-driver-evolves-into-a-full-featured-edr-wiper/)
+* [New Tickler malware used to backdoor US govt, defense orgs](https://www.bleepingcomputer.com/news/security/new-tickler-malware-used-to-backdoor-us-govt-defense-orgs/)
 * [Iranian hackers work with ransomware gangs to extort breached orgs](https://www.bleepingcomputer.com/news/security/iranian-hackers-work-with-ransomware-gangs-to-extort-breached-orgs/)
 * [Google increases Chrome bug bounty rewards up to $250,000](https://www.bleepingcomputer.com/news/google/google-increases-chrome-bug-bounty-rewards-up-to-250-000/)
 * [Fortra fixes critical FileCatalyst Workflow hardcoded password issue](https://www.bleepingcomputer.com/news/security/fortra-fixes-critical-filecatalyst-workflow-hardcoded-password-issue/)
-* [DICK’s shuts down email, locks employee accounts after cyberattack](https://www.bleepingcomputer.com/news/security/dicks-shuts-down-email-locks-employee-accounts-after-cyberattack/)
-* [It's down to the wire—but you don’t have to miss mWISE](https://www.bleepingcomputer.com/news/security/its-down-to-the-wire-but-you-dont-have-to-miss-mwise/)
 <!--END_SECTION:feed-->
 
 <!--
