@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Iranian hackers work with ransomware gangs to extort breached orgs](https://www.bleepingcomputer.com/news/security/iranian-hackers-work-with-ransomware-gangs-to-extort-breached-orgs/)
+* [Google increases Chrome bug bounty rewards up to $250,000](https://www.bleepingcomputer.com/news/google/google-increases-chrome-bug-bounty-rewards-up-to-250-000/)
 * [Fortra fixes critical FileCatalyst Workflow hardcoded password issue](https://www.bleepingcomputer.com/news/security/fortra-fixes-critical-filecatalyst-workflow-hardcoded-password-issue/)
-* [DICK’s Sporting Goods says confidential data exposed in cyberattack](https://www.bleepingcomputer.com/news/security/dicks-sporting-goods-says-confidential-data-exposed-in-cyberattack/)
+* [DICK’s shuts down email, locks employee accounts after cyberattack](https://www.bleepingcomputer.com/news/security/dicks-shuts-down-email-locks-employee-accounts-after-cyberattack/)
 * [It's down to the wire—but you don’t have to miss mWISE](https://www.bleepingcomputer.com/news/security/its-down-to-the-wire-but-you-dont-have-to-miss-mwise/)
-* [BlackSuit ransomware stole data of 950,000 from software vendor](https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-stole-data-of-950-000-from-software-vendor/)
-* [US Marshals Service disputes ransomware gang's breach claims](https://www.bleepingcomputer.com/news/security/us-marshals-service-disputes-ransomware-gangs-breach-claims/)
 <!--END_SECTION:feed-->
 
 <!--
