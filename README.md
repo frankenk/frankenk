@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Employee arrested for locking Windows admins out of 254 servers in extortion plot](https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/)
+* [US offers $2.5 million reward for hacker linked to Angler Exploit Kit](https://www.bleepingcomputer.com/news/legal/us-offers-25-million-reward-for-hacker-linked-to-angler-exploit-kit/)
 * [PoorTry Windows driver evolves into a full-featured EDR wiper](https://www.bleepingcomputer.com/news/security/poortry-windows-driver-evolves-into-a-full-featured-edr-wiper/)
-* [New Tickler malware used to backdoor US govt, defense orgs](https://www.bleepingcomputer.com/news/security/new-tickler-malware-used-to-backdoor-us-govt-defense-orgs/)
+* [New Tickler malware used to backdoor US govt, defense orgs](https://www.bleepingcomputer.com/news/security/APT33-Iranian-hacking-group-uses-new-tickler-malware-to-backdoor-us-govt-defense-orgs/)
 * [Iranian hackers work with ransomware gangs to extort breached orgs](https://www.bleepingcomputer.com/news/security/iranian-hackers-work-with-ransomware-gangs-to-extort-breached-orgs/)
-* [Google increases Chrome bug bounty rewards up to $250,000](https://www.bleepingcomputer.com/news/google/google-increases-chrome-bug-bounty-rewards-up-to-250-000/)
-* [Fortra fixes critical FileCatalyst Workflow hardcoded password issue](https://www.bleepingcomputer.com/news/security/fortra-fixes-critical-filecatalyst-workflow-hardcoded-password-issue/)
 <!--END_SECTION:feed-->
 
 <!--
