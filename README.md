@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: RansomHub ransomware breached 210 victims since February](https://www.bleepingcomputer.com/news/security/fbi-ransomhub-ransomware-breached-210-victims-since-february/)
+* [Fake Palo Alto GlobalProtect used as lure to backdoor enterprises](https://www.bleepingcomputer.com/news/security/fake-palo-alto-globalprotect-used-as-lure-to-backdoor-enterprises/)
 * [Windows 10 KB5041582 update released with 5 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5041582-update-released-with-5-changes-and-fixes/)
 * [Malware exploits 5-year-old zero-day to infect end-of-life IP cameras](https://www.bleepingcomputer.com/news/security/malware-exploits-5-year-old-zero-day-to-infect-end-of-life-ip-cameras/)
 * [Russian APT29 hackers use iOS, Chrome exploits created by spyware vendors](https://www.bleepingcomputer.com/news/security/russian-apt29-hackers-use-ios-chrome-exploits-created-by-spyware-vendors/)
-* [South Korean hackers exploited WPS Office zero-day to deploy malware](https://www.bleepingcomputer.com/news/security/apt-c-60-hackers-exploited-wps-office-zero-day-to-deploy-spyglace-malware/)
-* [Employee arrested for locking Windows admins out of 254 servers in extortion plot](https://www.bleepingcomputer.com/news/security/employee-arrested-for-locking-windows-admins-out-of-254-servers-in-extortion-plot/)
 <!--END_SECTION:feed-->
 
 <!--
