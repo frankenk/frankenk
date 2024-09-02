@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Cicada3301 ransomware’s Linux encryptor targets VMware ESXi systems](https://www.bleepingcomputer.com/news/security/cicada3301-ransomwares-linux-encryptor-targets-vmware-esxi-systems/)
+* [Verkada to pay $2.95M for security failures leading to breaches](https://www.bleepingcomputer.com/news/security/verkada-to-pay-295m-for-security-failures-leading-to-breaches/)
+* [Business services giant CBIZ discloses customer data breach](https://www.bleepingcomputer.com/news/security/business-services-giant-cbiz-discloses-customer-data-breach/)
+* [Linux version of new Cicada ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-new-cicada-ransomware-targets-vmware-esxi-servers/)
 * [GitHub comments abused to push password stealing malware masked as fixes](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-password-stealing-malware-masked-as-fixes/)
 * [Docker-OSX image used for security research hit by Apple DMCA takedown](https://www.bleepingcomputer.com/news/security/docker-osx-image-used-for-security-research-hit-by-apple-dmca-takedown/)
-* [Microsoft is trying to reduce Windows 11's desktop spotlight clutter](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-trying-to-reduce-windows-11s-desktop-spotlight-clutter/)
-* [Researchers find SQL injection to bypass airport TSA security checks](https://www.bleepingcomputer.com/news/security/researchers-find-sql-injection-to-bypass-airport-tsa-security-checks/)
 <!--END_SECTION:feed-->
 
 <!--
