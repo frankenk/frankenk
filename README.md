@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Admins of MFA bypass service plead guilty to fraud](https://www.bleepingcomputer.com/news/legal/admins-of-mfa-bypass-service-otp.agency-plead-guilty/)
 * [Verkada to pay $2.95M for security failures leading to breaches](https://www.bleepingcomputer.com/news/security/verkada-to-pay-295m-for-security-failures-leading-to-breaches/)
 * [Business services giant CBIZ discloses customer data breach](https://www.bleepingcomputer.com/news/security/business-services-giant-cbiz-discloses-customer-data-breach/)
 * [Linux version of new Cicada ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-new-cicada-ransomware-targets-vmware-esxi-servers/)
 * [GitHub comments abused to push password stealing malware masked as fixes](https://www.bleepingcomputer.com/news/security/github-comments-abused-to-push-password-stealing-malware-masked-as-fixes/)
-* [Docker-OSX image used for security research hit by Apple DMCA takedown](https://www.bleepingcomputer.com/news/security/docker-osx-image-used-for-security-research-hit-by-apple-dmca-takedown/)
 <!--END_SECTION:feed-->
 
 <!--
