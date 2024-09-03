@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Halliburton confirms data stolen in recent cyberattack](https://www.bleepingcomputer.com/news/security/halliburton-confirms-data-stolen-in-recent-cyberattack/)
 * [Transport for London discloses ongoing “cyber security incident”](https://www.bleepingcomputer.com/news/security/transport-for-london-discloses-ongoing-cyber-security-incident/)
 * [Admins of MFA bypass service plead guilty to fraud](https://www.bleepingcomputer.com/news/legal/admins-of-mfa-bypass-service-plead-guilty-to-fraud/)
 * [Verkada to pay $2.95M for security failures leading to breaches](https://www.bleepingcomputer.com/news/security/verkada-to-pay-295m-for-security-failures-leading-to-breaches/)
 * [Business services giant CBIZ discloses customer data breach](https://www.bleepingcomputer.com/news/security/business-services-giant-cbiz-discloses-customer-data-breach/)
-* [Linux version of new Cicada ransomware targets VMware ESXi servers](https://www.bleepingcomputer.com/news/security/linux-version-of-new-cicada-ransomware-targets-vmware-esxi-servers/)
 <!--END_SECTION:feed-->
 
 <!--
