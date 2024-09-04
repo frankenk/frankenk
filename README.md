@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers inject malicious JS in Cisco store to steal credit cards, credentials](https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/)
+* [Google backports fix for Pixel EoP flaw to other Android devices](https://www.bleepingcomputer.com/news/security/google-backports-fix-for-pixel-eop-flaw-to-other-android-devices/)
 * [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
+* [Revival Hijack supply-chain attack threatens 22,000 PyPI packages](https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/)
+* [FTC: Over * [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
 * [Revival Hijack supply-chain attack threatens 22,000 PyPI packages](https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/)
 * [FTC: Over * [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
 * [Revival Hijack supply-chain attack threatens 22,000 PyPI packages](https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/)
@@ -77,7 +81,7 @@
 * [Zyxel warns of critical OS command injection flaw in routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/)
 * [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)10 million lost to Bitcoin ATM scams in 2023](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-110-million-to-bitcoin-atm-scams-in-2023/)
 * [Zyxel warns of critical OS command injection flaw in routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/)
-* [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)
+* [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)10 million lost to Bitcoin ATM scams in 2023](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-110-million-to-bitcoin-atm-scams-in-2023/)
 <!--END_SECTION:feed-->
 
 <!--
