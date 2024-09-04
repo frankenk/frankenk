@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cisco fixes root escalation vulnerability with public exploit code](https://www.bleepingcomputer.com/news/security/cisco-fixes-root-escalation-vulnerability-with-public-exploit-code/)
 * [New Eucleak attack lets threat actors clone YubiKey FIDO keys](https://www.bleepingcomputer.com/news/security/new-eucleak-attack-lets-threat-actors-clone-yubikey-fido-keys/)
 * [Cisco warns of backdoor admin account in Smart Licensing Utility](https://www.bleepingcomputer.com/news/security/cisco-warns-of-backdoor-admin-account-in-smart-licensing-utility/)
 * [Hackers inject malicious JS in Cisco store to steal credit cards, credentials](https://www.bleepingcomputer.com/news/security/hackers-inject-malicious-js-in-cisco-store-to-steal-credit-cards-credentials/)
 * [Google backports fix for Pixel EoP flaw to other Android devices](https://www.bleepingcomputer.com/news/security/google-backports-fix-for-pixel-eop-flaw-to-other-android-devices/)
-* [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
 <!--END_SECTION:feed-->
 
 <!--
