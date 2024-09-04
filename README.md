@@ -3,6 +3,8 @@
 <!--START_SECTION:feed-->
 * [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
 * [Revival Hijack supply-chain attack threatens 22,000 PyPI packages](https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/)
+* [FTC: Over * [Criminal IP Earns PCI DSS v4.0 Certification for Top-Level Security](https://www.bleepingcomputer.com/news/security/criminal-ip-earns-pci-dss-v40-certification-for-top-level-security/)
+* [Revival Hijack supply-chain attack threatens 22,000 PyPI packages](https://www.bleepingcomputer.com/news/security/revival-hijack-supply-chain-attack-threatens-22-000-pypi-packages/)
 * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [FTC: Over * [Zyxel warns of critical OS command injection flaw in routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/)
 * [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)
 * [FBI warns crypto firms of aggressive social engineering attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/)
@@ -72,6 +74,8 @@
 * [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)
 * [FBI warns crypto firms of aggressive social engineering attacks](https://www.bleepingcomputer.com/news/security/fbi-warns-crypto-firms-of-aggressive-social-engineering-attacks/)
 * [Clearview AI fined €30.5 million for unlawful data collection](https://www.bleepingcomputer.com/news/legal/clearview-ai-fined-305-million-by-dutch-dpa-for-unlawful-data-collection/)10 million lost to Bitcoin ATM scams in 2023](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-110-million-to-bitcoin-atm-scams-in-2023/)
+* [Zyxel warns of critical OS command injection flaw in routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/)
+* [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)10 million lost to Bitcoin ATM scams in 2023](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-110-million-to-bitcoin-atm-scams-in-2023/)
 * [Zyxel warns of critical OS command injection flaw in routers](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-critical-os-command-injection-flaw-in-routers/)
 * [New Windows PowerToy launches, repositions apps to saved layouts](https://www.bleepingcomputer.com/news/microsoft/new-windows-powertoy-launches-repositions-apps-to-saved-layouts/)
 <!--END_SECTION:feed-->
