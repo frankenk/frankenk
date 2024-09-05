@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Musician charged with * [Veeam warns of critical RCE flaw in Backup & Replication software](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-flaw-in-backup-and-replication-software/)
+* [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
+* [Planned Parenthood confirms cyberattack as RansomHub claims breach](https://www.bleepingcomputer.com/news/security/planned-parenthood-confirms-cyberattack-as-ransomhub-claims-breach/)
+* [Microchip Technology confirms data was stolen in cyberattack](https://www.bleepingcomputer.com/news/security/microchip-technology-confirms-data-was-stolen-in-cyberattack/)
+* [Red team tool ‘MacroPack’ abused in attacks to deploy Brute Ratel](https://www.bleepingcomputer.com/news/security/red-team-tool-macropack-abused-in-attacks-to-deploy-brute-ratel/)0M streaming royalties fraud using AI and bots](https://www.bleepingcomputer.com/news/security/musician-charged-with-10m-streaming-royalties-fraud-using-ai-and-bots/)
 * [Veeam warns of critical RCE flaw in Backup & Replication software](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-flaw-in-backup-and-replication-software/)
 * [Hacker trap: Fake OnlyFans tool backstabs cybercriminals, steals passwords](https://www.bleepingcomputer.com/news/security/hacker-trap-fake-onlyfans-tool-backstabs-cybercriminals-steals-passwords/)
 * [Planned Parenthood confirms cyberattack as RansomHub claims breach](https://www.bleepingcomputer.com/news/security/planned-parenthood-confirms-cyberattack-as-ransomhub-claims-breach/)
 * [Microchip Technology confirms data was stolen in cyberattack](https://www.bleepingcomputer.com/news/security/microchip-technology-confirms-data-was-stolen-in-cyberattack/)
-* [Red team tool ‘MacroPack’ abused in attacks to deploy Brute Ratel](https://www.bleepingcomputer.com/news/security/red-team-tool-macropack-abused-in-attacks-to-deploy-brute-ratel/)
 <!--END_SECTION:feed-->
 
 <!--
