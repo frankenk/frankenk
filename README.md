@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Veeam warns of critical RCE flaw in Backup & Replication software](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-flaw-in-backup-and-replication-software/)
 * [Fake OnlyFans cybercrime tool infects hackers with malware](https://www.bleepingcomputer.com/news/security/fake-onlyfans-cybercrime-tool-infects-hackers-with-malware/)
 * [Planned Parenthood confirms cyberattack as RansomHub claims breach](https://www.bleepingcomputer.com/news/security/planned-parenthood-confirms-cyberattack-as-ransomhub-claims-breach/)
 * [Microchip Technology confirms data was stolen in cyberattack](https://www.bleepingcomputer.com/news/security/microchip-technology-confirms-data-was-stolen-in-cyberattack/)
 * [Red team tool ‘MacroPack’ abused in attacks to deploy Brute Ratel](https://www.bleepingcomputer.com/news/security/red-team-tool-macropack-abused-in-attacks-to-deploy-brute-ratel/)
-* [US cracks down on Russian disinformation before 2024 election](https://www.bleepingcomputer.com/news/security/us-cracks-down-on-russian-disinformation-before-2024-election/)
 <!--END_SECTION:feed-->
 
 <!--
