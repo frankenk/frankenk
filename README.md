@@ -5,7 +5,7 @@
 * [Sextortion scam now use your "cheating" spouse’s name as a lure](https://www.bleepingcomputer.com/news/security/sextortion-scam-now-use-your-cheating-spouses-name-as-a-lure/)
 * [New RAMBO attack steals data using RAM in air-gapped computers](https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/)
 * [Transport for London staff faces systems disruptions after cyberattack](https://www.bleepingcomputer.com/news/security/transport-for-london-staff-faces-systems-disruptions-after-cyberattack/)
-* [Car rental giant Avis discloses data breach impacting customers](https://www.bleepingcomputer.com/news/security/car-rental-giant-avis-discloses-data-breach-impacting-customers/)
+* [Car rental giant Avis data breach impacts over 299,000 customers](https://www.bleepingcomputer.com/news/security/car-rental-giant-avis-data-breach-impacts-over-299-000-customers/)
 <!--END_SECTION:feed-->
 
 <!--
