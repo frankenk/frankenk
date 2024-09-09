@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Payment gateway data breach affects 1.7 million credit card owners](https://www.bleepingcomputer.com/news/security/payment-gateway-data-breach-affects-17-million-credit-card-owners/)
+* [How to defend against brute force and password spray attacks](https://www.bleepingcomputer.com/news/security/how-to-defend-against-brute-force-and-password-spray-attacks/)
 * [Progress LoadMaster vulnerable to 10/10 severity RCE flaw](https://www.bleepingcomputer.com/news/security/progress-loadmaster-vulnerable-to-10-10-severity-rce-flaw/)
-* [Sextortion scam now use your "cheating" spouse’s name as a lure](https://www.bleepingcomputer.com/news/security/sextortion-scam-now-use-your-cheating-spouses-name-as-a-lure/)
+* [Sextortion scams now use your "cheating" spouse’s name as a lure](https://www.bleepingcomputer.com/news/security/sextortion-scams-now-use-your-cheating-spouses-name-as-a-lure/)
 * [New RAMBO attack steals data using RAM in air-gapped computers](https://www.bleepingcomputer.com/news/security/new-rambo-attack-steals-data-using-ram-in-air-gapped-computers/)
-* [Transport for London staff faces systems disruptions after cyberattack](https://www.bleepingcomputer.com/news/security/transport-for-london-staff-faces-systems-disruptions-after-cyberattack/)
-* [Car rental giant Avis data breach impacts over 299,000 customers](https://www.bleepingcomputer.com/news/security/car-rental-giant-avis-data-breach-impacts-over-299-000-customers/)
 <!--END_SECTION:feed-->
 
 <!--
