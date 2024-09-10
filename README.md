@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5043076 cumulative update released with 19 changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043076-cumulative-update-released-with-19-changes/)
+* [Microsoft September 2024 Patch Tuesday fixes 4 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2024-patch-tuesday-fixes-4-zero-days-79-flaws/)
 * [Wix to block Russian users starting September 12](https://www.bleepingcomputer.com/news/legal/wix-to-block-russian-users-starting-september-12/)
 * [Microsoft to start force-upgrading Windows 22H2 systems next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/)
 * [Navigating Endpoint Privilege Management: Insights for CISOs and Admins   ](https://www.bleepingcomputer.com/news/security/navigating-endpoint-privilege-management-insights-for-cisos-and-admins/)
-* [Flipper Zero releases Firmware 1.0 after three years of development](https://www.bleepingcomputer.com/news/hardware/flipper-zero-releases-firmware-10-after-three-years-of-development/)
-* [NoName ransomware gang deploying RansomHub malware in recent attacks](https://www.bleepingcomputer.com/news/security/noname-ransomware-gang-deploying-ransomhub-malware-in-recent-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
