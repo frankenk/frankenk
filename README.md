@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to start force-upgrading Windows 22H2 systems next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/)
+* [Navigating Endpoint Privilege Management: Insights for CISOs and Admins   ](https://www.bleepingcomputer.com/news/security/navigating-endpoint-privilege-management-insights-for-cisos-and-admins/)
+* [Flipper Zero releases Firmware 1.0 after three years of development](https://www.bleepingcomputer.com/news/hardware/flipper-zero-releases-firmware-10-after-three-years-of-development/)
 * [NoName ransomware gang deploying RansomHub malware in recent attacks](https://www.bleepingcomputer.com/news/security/noname-ransomware-gang-deploying-ransomhub-malware-in-recent-attacks/)
 * [Critical SonicWall SSLVPN bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-sonicwall-sslvpn-bug-exploited-in-ransomware-attacks/)
-* [Quad7 botnet targets more SOHO and VPN routers, media servers](https://www.bleepingcomputer.com/news/security/quad7-botnet-targets-more-soho-and-vpn-routers-media-servers/)
-* [Chinese hackers use new data theft malware in govt attacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-data-theft-malware-in-govt-attacks/)
-* [Highline Public Schools closes schools following cyberattack](https://www.bleepingcomputer.com/news/security/highline-public-schools-closes-schools-following-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
