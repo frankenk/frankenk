@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [RansomHub ransomware abuses Kaspersky TDSSKiller to disable EDR software](https://www.bleepingcomputer.com/news/security/ransomhub-ransomware-abuses-kaspersky-tdsskiller-to-disable-edr-software/)
+* [Windows 10 KB5043064 update released with 6 fixes, security updates](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5043064-update-released-with-6-fixes-security-updates/)
+* [Microsoft fixes Windows Smart App Control zero-day exploited since 2018](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-smart-app-control-zero-day-exploited-since-2018/)
 * [Windows 11 KB5043076 cumulative update released with 19 changes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043076-cumulative-update-released-with-19-changes/)
 * [Microsoft September 2024 Patch Tuesday fixes 4 zero-days, 79 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2024-patch-tuesday-fixes-4-zero-days-79-flaws/)
-* [Wix to block Russian users starting September 12](https://www.bleepingcomputer.com/news/legal/wix-to-block-russian-users-starting-september-12/)
-* [Microsoft to start force-upgrading Windows 22H2 systems next month](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-start-force-upgrading-windows-22h2-systems-next-month/)
-* [Navigating Endpoint Privilege Management: Insights for CISOs and Admins   ](https://www.bleepingcomputer.com/news/security/navigating-endpoint-privilege-management-insights-for-cisos-and-admins/)
 <!--END_SECTION:feed-->
 
 <!--
