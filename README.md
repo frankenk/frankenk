@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Adobe fixes Acrobat Reader zero-day with public PoC exploit](https://www.bleepingcomputer.com/news/security/adobe-fixes-acrobat-reader-zero-day-with-public-poc-exploit/)
+* [WordPress.org to require 2FA for plugin developers by October](https://www.bleepingcomputer.com/news/security/wordpressorg-to-require-2fa-for-plugin-developers-by-october/)
 * [Criminal IP and IPLocation.io Join Forces for Enhanced IP Analysis](https://www.bleepingcomputer.com/news/security/criminal-ip-and-iplocationio-join-forces-for-enhanced-ip-analysis/)
 * [Chinese hackers linked to cybercrime syndicate arrested in Singapore](https://www.bleepingcomputer.com/news/legal/chinese-hackers-linked-to-PlugX-malware-arrested-in-singapore/)
 * [Microsoft fixes Windows Server performance issues from August updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-performance-issues-from-august-updates/)
-* [Ivanti fixes maximum severity RCE bug in Endpoint Management software](https://www.bleepingcomputer.com/news/security/ivanti-fixes-maximum-severity-rce-bug-in-endpoint-management-software/)
-* [New PIXHELL acoustic attack leaks secrets from LCD screen noise](https://www.bleepingcomputer.com/news/security/new-pixhell-acoustic-attack-leaks-secrets-from-lcd-screen-noise/)
 <!--END_SECTION:feed-->
 
 <!--
