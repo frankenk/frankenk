@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [TfL requires in-person password resets for 30,000 employees after hack](https://www.bleepingcomputer.com/news/security/tfl-requires-in-person-password-resets-for-30-000-employees-after-hack/)
 * [23andMe to pay $30 million in genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/)
 * [Ivanti warns high severity CSA flaw is now exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-high-severity-csa-flaw-is-now-exploited-in-attacks/)
 * [New Linux malware Hadooken targets Oracle WebLogic servers](https://www.bleepingcomputer.com/news/security/new-linux-malware-hadooken-targets-oracle-weblogic-servers/)
 * [RansomHub claims Kawasaki cyberattack, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/ransomhub-claims-kawasaki-cyberattack-threatens-to-leak-stolen-data/)
-* [New Vo1d malware infects 1.3 million Android streaming boxes](https://www.bleepingcomputer.com/news/security/new-vo1d-malware-infects-13-million-android-streaming-boxes/)
 <!--END_SECTION:feed-->
 
 <!--
