@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows vulnerability abused braille “spaces” in zero-day attacks](https://www.bleepingcomputer.com/news/security/windows-vulnerability-abused-braille-spaces-in-zero-day-attacks/)
+* [FBI tells public to ignore false claims of hacked voter data](https://www.bleepingcomputer.com/news/security/fbi-tells-public-to-ignore-false-claims-of-hacked-voter-data/)
+* [Malware locks browser in kiosk mode to steal Google credentials](https://www.bleepingcomputer.com/news/security/malware-locks-browser-in-kiosk-mode-to-steal-google-credentials/)
 * [Port of Seattle hit by Rhysida ransomware in August attack](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-rhysida-ransomware-was-behind-august-attack/)
 * [TfL requires in-person password resets for 30,000 employees after hack](https://www.bleepingcomputer.com/news/security/tfl-requires-in-person-password-resets-for-30-000-employees-after-hack/)
-* [23andMe to pay $30 million in genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-30-million-in-genetics-data-breach-settlement/)
-* [Ivanti warns high severity CSA flaw is now exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-high-severity-csa-flaw-is-now-exploited-in-attacks/)
-* [New Linux malware Hadooken targets Oracle WebLogic servers](https://www.bleepingcomputer.com/news/security/new-linux-malware-hadooken-targets-oracle-weblogic-servers/)
 <!--END_SECTION:feed-->
 
 <!--
