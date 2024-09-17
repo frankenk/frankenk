@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AT&T pays * [CISA urges software devs to weed out XSS vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-xss-vulnerabilities/)
+* [Ransomware gangs now abuse Microsoft Azure tool for data theft](https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-abuse-microsoft-azure-tool-for-data-theft/)
+* [PKfail Secure Boot bypass remains a significant risk two months later](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-remains-a-significant-risk-two-months-later/)
+* [Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
+* [Microsoft fixes bug crashing Microsoft 365 apps when typing](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-crashing-microsoft-365-apps-when-typing/)3 million FCC settlement over 2023 data breach](https://www.bleepingcomputer.com/news/security/atandt-pays-13-million-fcc-settlement-over-2023-data-breach/)
 * [CISA urges software devs to weed out XSS vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-urges-software-devs-to-weed-out-xss-vulnerabilities/)
 * [Ransomware gangs now abuse Microsoft Azure tool for data theft](https://www.bleepingcomputer.com/news/security/ransomware-gangs-now-abuse-microsoft-azure-tool-for-data-theft/)
 * [PKfail Secure Boot bypass remains a significant risk two months later](https://www.bleepingcomputer.com/news/security/pkfail-secure-boot-bypass-remains-a-significant-risk-two-months-later/)
 * [Over 1,000 ServiceNow instances found leaking corporate KB data](https://www.bleepingcomputer.com/news/security/over-1-000-servicenow-instances-found-leaking-corporate-kb-data/)
-* [Microsoft fixes bug crashing Microsoft 365 apps when typing](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-crashing-microsoft-365-apps-when-typing/)
 <!--END_SECTION:feed-->
 
 <!--
