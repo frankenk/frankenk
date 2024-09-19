@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC exposes massive surveillance of kids, teens by social media giants](https://www.bleepingcomputer.com/news/technology/ftc-exposes-massive-surveillance-of-kids-teens-by-social-media-giants/)
+* [Google Password Manager now automatically syncs your passkeys](https://www.bleepingcomputer.com/news/google/google-password-manager-now-automatically-syncs-your-passkeys/)
 * [Police dismantles phone unlocking ring linked to 483,000 victims](https://www.bleepingcomputer.com/news/security/police-dismantles-iserver-phone-unlocking-network-linked-to-483-000-victims/)
 * [Germany seizes 47 crypto exchanges used by ransomware gangs](https://www.bleepingcomputer.com/news/security/germany-seizes-47-crypto-exchanges-used-by-ransomware-gangs/)
 * [How to reduce cyber risk during employee onboarding](https://www.bleepingcomputer.com/news/security/how-to-reduce-cyber-risk-during-employee-onboarding/)
-* [Mysterious "LOVE" packet storms flood the internet since 2020](https://www.bleepingcomputer.com/news/security/mysterious-love-packet-storms-flood-the-internet-since-2020/)
-* [Clever 'GitHub Scanner' campaign abusing repos to push malware](https://www.bleepingcomputer.com/news/security/clever-github-scanner-campaign-abusing-repos-to-push-malware/)
 <!--END_SECTION:feed-->
 
 <!--
