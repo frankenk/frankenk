@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Global infostealer malware operation targets crypto users, gamers](https://www.bleepingcomputer.com/news/security/global-infostealer-malware-operation-targets-crypto-users-gamers/)
 * [Microsoft ends development of Windows Server Update Services (WSUS)](https://www.bleepingcomputer.com/news/microsoft/microsoft-officially-deprecates-windows-server-update-services-wsus/)
 * [Windows Server 2025 previews security updates without restarts](https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-hotpatching-in-public-preview-installs-security-updates-without-restarts/)
 * [Disney ditching Slack after massive July data breach](https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/)
 * [Ukraine bans Telegram on military, govt devices over security risks](https://www.bleepingcomputer.com/news/security/ukraine-bans-telegram-on-military-govt-devices-over-security-risks/)
-* [Dell investigates data breach claims after hacker leaks employee info](https://www.bleepingcomputer.com/news/security/dell-investigates-data-breach-claims-after-hacker-leaks-employee-info/)
 <!--END_SECTION:feed-->
 
 <!--
