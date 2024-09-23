@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Telegram now shares users’ IP and phone number on legal requests](https://www.bleepingcomputer.com/news/security/telegram-now-shares-users-ip-and-phone-number-on-legal-requests/)
 * [New Mallox ransomware Linux variant based on leaked Kryptina code](https://www.bleepingcomputer.com/news/security/new-mallox-ransomware-linux-variant-based-on-leaked-kryptina-code/)
 * [Kaspersky deletes itself, installs UltraAV antivirus without warning](https://www.bleepingcomputer.com/news/security/kaspersky-deletes-itself-installs-ultraav-antivirus-without-warning/)
 * [Android malware 'Necro' infects 11 million devices via Google Play](https://www.bleepingcomputer.com/news/security/android-malware-necro-infects-11-million-devices-via-google-play/)
 * [How to manage shadow IT and reduce your attack surface](https://www.bleepingcomputer.com/news/security/how-to-manage-shadow-it-and-reduce-your-attack-surface/)
-* [New Google Chrome feature will translate complex pages in real time](https://www.bleepingcomputer.com/news/google/new-google-chrome-feature-will-translate-complex-pages-in-real-time/)
 <!--END_SECTION:feed-->
 
 <!--
