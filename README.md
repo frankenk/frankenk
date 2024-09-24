@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Infostealer malware bypasses Chrome’s new cookie-theft defenses](https://www.bleepingcomputer.com/news/security/infostealer-malware-bypasses-chromes-new-cookie-theft-defenses/)
 * [Critical Ivanti vTM auth bypass bug now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-vtm-auth-bypass-bug-now-exploited-in-attacks/)
 * [Hackers deploy AI-written malware in targeted attacks](https://www.bleepingcomputer.com/news/security/hackers-deploy-ai-written-malware-in-targeted-attacks/)
 * [Generative AI Security: Getting ready for Salesforce Einstein Copilot](https://www.bleepingcomputer.com/news/security/generative-ai-security-getting-ready-for-salesforce-einstein-copilot/)
 * [MoneyGram confirms a cyberattack is behind dayslong outage](https://www.bleepingcomputer.com/news/security/moneygram-confirms-a-cyberattack-is-behind-dayslong-outage/)
-* [New Octo Android malware version impersonates NordVPN, Google Chrome](https://www.bleepingcomputer.com/news/security/new-octo-android-malware-version-impersonates-nordvpn-google-chrome/)
 <!--END_SECTION:feed-->
 
 <!--
