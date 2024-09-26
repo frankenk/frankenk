@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tails OS merges with Tor Project for better privacy, security](https://www.bleepingcomputer.com/news/software/tails-os-merges-with-tor-project-for-better-privacy-security/)
 * [US sanctions crypto exchanges used by Russian ransomware gangs](https://www.bleepingcomputer.com/news/security/us-sanctions-crypto-exchanges-used-by-russian-ransomware-gangs/)
 * [Automattic blocks WP Engine’s access to WordPress resources](https://www.bleepingcomputer.com/news/security/automattic-blocks-wp-engines-access-to-wordpress-resources/)
 * [Fake WalletConnect app on Google Play steals Android users’ crypto](https://www.bleepingcomputer.com/news/security/fake-walletconnect-app-on-google-play-steals-android-users-crypto/)
 * [HPE Aruba Networking fixes critical flaws impacting Access Points](https://www.bleepingcomputer.com/news/security/hpe-aruba-networking-fixes-three-critical-rce-flaws-impacting-its-access-points/)
-* [Mozilla accused of tracking users in Firefox without consent](https://www.bleepingcomputer.com/news/technology/mozilla-accused-of-tracking-users-in-firefox-without-consent/)
 <!--END_SECTION:feed-->
 
 <!--
