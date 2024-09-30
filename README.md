@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Verizon outage: iPhones, Android devices stuck in SOS mode](https://www.bleepingcomputer.com/news/technology/iphones-android-devices-stuck-in-sos-mode-after-verizon-outage/)
 * [Media giant AFP hit by cyberattack impacting news delivery services](https://www.bleepingcomputer.com/news/security/media-giant-afp-hit-by-cyberattack-impacting-news-delivery-services/)
 * [Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
 * [Critical flaw in NVIDIA Container Toolkit allows full host takeover](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/)
 * [Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
-* [Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
 <!--END_SECTION:feed-->
 
 <!--
