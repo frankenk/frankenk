@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5043145 update causes reboot loops, blue screens](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5043145-update-causes-reboot-loops-blue-screens/)
+* [Critical flaw in NVIDIA Container Toolkit allows full host takeover](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nvidia-container-toolkit-allows-full-host-takeover/)
+* [Ireland fines Meta €91 million for storing passwords in plaintext](https://www.bleepingcomputer.com/news/legal/ireland-fines-meta-91-million-for-storing-passwords-in-plaintext/)
 * [Iranian hackers charged for ‘hack-and-leak’ plot to influence election](https://www.bleepingcomputer.com/news/security/iranian-hackers-charged-for-hack-and-leak-plot-to-influence-election/)
 * [U.S. charges Joker's Stash and Rescator money launderers](https://www.bleepingcomputer.com/news/legal/us-charges-jokers-stash-and-rescator-money-launderers/)
-* [Microsoft: Windows Recall now can be removed, is more secure](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-recall-now-can-be-removed-is-more-secure/)
-* [Embargo ransomware escalates attacks to cloud environments](https://www.bleepingcomputer.com/news/security/embargo-ransomware-escalates-attacks-to-cloud-environments/)
-* [Progress urges admins to patch critical WhatsUp Gold bugs ASAP](https://www.bleepingcomputer.com/news/security/progress-urges-admins-to-patch-critical-whatsup-gold-bugs-asap/)
 <!--END_SECTION:feed-->
 
 <!--
