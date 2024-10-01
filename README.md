@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police arrest four suspects linked to LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang/)
 * [Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
 * [Windows 11 24H2 now rolling out, here are the new features](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-now-rolling-out-here-are-the-new-features/)
 * [The Playstation Network is down in a global outage](https://www.bleepingcomputer.com/news/gaming/the-playstation-network-is-down-in-a-global-outage/)
 * [Hacker charged for breaching 5 companies for insider trading](https://www.bleepingcomputer.com/news/security/hacker-charged-for-breaching-5-companies-for-insider-trading/)
-* [Microsoft overhauls security for publishing Edge extensions](https://www.bleepingcomputer.com/news/microsoft/microsoft-overhauls-security-for-publishing-edge-extensions/)
 <!--END_SECTION:feed-->
 
 <!--
