@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Outlook email sending issue for users with many folders](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-email-sending-issue-for-users-with-many-folders/)
 * [Rackspace monitoring data stolen in ScienceLogic zero-day attack](https://www.bleepingcomputer.com/news/security/rackspace-monitoring-data-stolen-in-sciencelogic-zero-day-attack/)
 * [Ransomware attack forces UMC Health System to divert some patients](https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-umc-health-system-to-divert-some-patients/)
 * [Evil Corp hit with new sanctions, BitPaymer ransomware charges](https://www.bleepingcomputer.com/news/security/evil-corp-hit-with-new-sanctions-bitpaymer-ransomware-charges/)
 * [Police arrest four suspects linked to LockBit ransomware gang](https://www.bleepingcomputer.com/news/security/police-arrest-four-suspects-linked-to-lockbit-ransomware-gang/)
-* [Microsoft fixes Windows KB5043145 reboot loops, USB and Bluetooth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-kb5043145-reboot-loops-usb-and-bluetooth-issues/)
 <!--END_SECTION:feed-->
 
 <!--
