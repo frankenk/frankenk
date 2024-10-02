@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Ivanti RCE flaw with public exploit now used in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
+* [Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
 * [Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
 * [CISA: Network switch RCE flaw impacts critical infrastructure](https://www.bleepingcomputer.com/news/security/cisa-network-switch-rce-flaw-impacts-critical-infrastructure/)
 * [Critical Zimbra RCE flaw exploited to backdoor servers using emails](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-exploited-to-backdoor-servers-using-emails/)
-* [DrayTek fixed critical flaws in over 700,000 exposed routers](https://www.bleepingcomputer.com/news/security/draytek-fixed-critical-flaws-in-over-700-000-exposed-routers/)
-* [Microsoft blocks Windows 11 24H2 on some Intel PCs over BSOD issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-windows-11-24h2-on-some-intel-pcs-over-bsod-issues/)
 <!--END_SECTION:feed-->
 
 <!--
