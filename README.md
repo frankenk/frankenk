@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Recently patched CUPS flaw can be used to amplify DDoS attacks](https://www.bleepingcomputer.com/news/security/recently-patched-cups-flaw-can-be-used-to-amplify-ddos-attacks/)
 * [‘Pig butchering’ trading apps found on Google Play, App Store](https://www.bleepingcomputer.com/news/security/pig-butchering-trading-apps-found-on-google-play-app-store/)
 * [Dutch Police: ‘State actor’ likely behind recent data breach](https://www.bleepingcomputer.com/news/security/dutch-police-state-actor-likely-behind-recent-data-breach/)
 * [Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-and-doj-seize-spear-phishing-domains-used-by-star-blizzard-russian-hackers/)
 * [Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](https://www.bleepingcomputer.com/news/security/over-4-000-adobe-commerce-magento-shops-hacked-in-cosmicsting-attacks/)
-* [Fraudsters imprisoned for scamming Apple out of 6,000 iPhones](https://www.bleepingcomputer.com/news/security/fraudsters-imprisoned-for-scamming-apple-out-of-6-000-iphones/)
 <!--END_SECTION:feed-->
 
 <!--
