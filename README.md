@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fraudsters imprisoned for scamming Apple out of 6,000 iPhones](https://www.bleepingcomputer.com/news/security/fraudsters-imprisoned-for-scamming-apple-out-of-6-000-iphones/)
+* [Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
 * [Linux malware “perfctl” behind years-long cryptomining campaign](https://www.bleepingcomputer.com/news/security/linux-malware-perfctl-behind-years-long-cryptomining-campaign/)
 * [Why your password policy should include a custom dictionary](https://www.bleepingcomputer.com/news/security/why-your-password-policy-should-include-a-custom-dictionary/)
 * [FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
-* [Critical Ivanti RCE flaw with public exploit now used in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
-* [Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
 <!--END_SECTION:feed-->
 
 <!--
