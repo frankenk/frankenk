@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Linux malware “perfctl” behind years-long cryptomining campaign](https://www.bleepingcomputer.com/news/security/linux-malware-perfctl-behind-years-long-cryptomining-campaign/)
+* [Why your password policy should include a custom dictionary](https://www.bleepingcomputer.com/news/security/why-your-password-policy-should-include-a-custom-dictionary/)
 * [FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
 * [Critical Ivanti RCE flaw with public exploit now used in attacks](https://www.bleepingcomputer.com/news/security/critical-ivanti-rce-flaw-with-public-exploit-now-used-in-attacks/)
 * [Fake browser updates spread updated WarmCookie malware](https://www.bleepingcomputer.com/news/security/fake-browser-updates-spread-updated-warmcookie-malware/)
-* [Microsoft Office 2024 now available for Windows and macOS users](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2024-now-available-for-windows-and-macos-no-subscription-required/)
-* [CISA: Network switch RCE flaw impacts critical infrastructure](https://www.bleepingcomputer.com/news/security/cisa-network-switch-rce-flaw-impacts-critical-infrastructure/)
 <!--END_SECTION:feed-->
 
 <!--
