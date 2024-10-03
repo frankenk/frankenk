@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft and DOJ disrupt Russian FSB hackers' attack infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-and-doj-seize-spear-phishing-domains-used-by-star-blizzard-russian-hackers/)
+* [Over 4,000 Adobe Commerce, Magento shops hacked in CosmicSting attacks](https://www.bleepingcomputer.com/news/security/over-4-000-adobe-commerce-magento-shops-hacked-in-cosmicsting-attacks/)
 * [Fraudsters imprisoned for scamming Apple out of 6,000 iPhones](https://www.bleepingcomputer.com/news/security/fraudsters-imprisoned-for-scamming-apple-out-of-6-000-iphones/)
 * [Cloudflare blocks largest recorded DDoS attack peaking at 3.8Tbps](https://www.bleepingcomputer.com/news/security/cloudflare-blocks-largest-recorded-ddos-attack-peaking-at-38tbps/)
 * [Linux malware “perfctl” behind years-long cryptomining campaign](https://www.bleepingcomputer.com/news/security/linux-malware-perfctl-behind-years-long-cryptomining-campaign/)
-* [Why your password policy should include a custom dictionary](https://www.bleepingcomputer.com/news/security/why-your-password-policy-should-include-a-custom-dictionary/)
-* [FIN7 hackers launch deepfake nude “generator” sites to spread malware](https://www.bleepingcomputer.com/news/security/fin7-hackers-launch-deepfake-nude-generator-sites-to-spread-malware/)
 <!--END_SECTION:feed-->
 
 <!--
