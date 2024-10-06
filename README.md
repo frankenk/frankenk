@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Comcast and Truist Bank customers caught up in FBCS data breach](https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
+* [Man pleads guilty to stealing $37 million in crypto from 571 victims](https://www.bleepingcomputer.com/news/legal/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
+* [Google Pay alarms users with accidental ‘new card’ added emails](https://www.bleepingcomputer.com/news/security/google-pay-alarms-users-with-accidental-new-card-added-emails/)
+* [MoneyGram: No evidence ransomware is behind recent cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-no-evidence-ransomware-is-behind-recent-cyberattack/)
 * [Highline Public Schools confirms ransomware behind shutdown](https://www.bleepingcomputer.com/news/security/highline-public-schools-confirms-ransomware-attack-was-behind-september-shut-down/)
-* [Russia arrests US-sanctioned Cryptex founder, 95 other linked suspects](https://www.bleepingcomputer.com/news/security/russia-arrests-us-sanctioned-cryptex-founder-95-other-linked-suspects/)
-* [Google removes Kaspersky's antivirus software from Play Store](https://www.bleepingcomputer.com/news/security/google-removes-kasperskys-antivirus-software-from-play-store-disables-developer-accounts/)
-* [Outlast game development delayed after Red Barrels cyberattack](https://www.bleepingcomputer.com/news/security/outlast-game-development-delayed-after-red-barrels-cyberattack/)
-* [UK nuclear site Sellafield fined $440,000 for cybersecurity shortfalls](https://www.bleepingcomputer.com/news/security/uk-nuclear-site-sellafield-fined-440-000-for-cybersecurity-shortfalls/)
 <!--END_SECTION:feed-->
 
 <!--
