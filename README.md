@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
+* [ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
 * [LEGO's website hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/legos-website-hacked-to-push-cryptocurrency-scam/)
 * [Ukrainian pleads guilty to operating Raccoon Stealer malware](https://www.bleepingcomputer.com/news/security/ukrainian-pleads-guilty-to-operating-raccoon-stealer-malware/)
 * [Microsoft: Word deletes some documents instead of saving them](https://www.bleepingcomputer.com/news/microsoft/microsoft-word-for-microsoft-365-deletes-some-documents-instead-of-saving-them/)
-* [Qualcomm patches high-severity zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-patches-high-severity-zero-day-exploited-in-attacks/)
-* [American Water shuts down online services after cyberattack](https://www.bleepingcomputer.com/news/security/american-water-shuts-down-online-services-after-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
