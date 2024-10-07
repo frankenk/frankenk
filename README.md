@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [American Water shuts down online services after cyberattack](https://www.bleepingcomputer.com/news/security/american-water-shuts-down-online-services-after-cyberattack/)
 * [AT&T, Verizon reportedly hacked to target US govt wiretapping platform](https://www.bleepingcomputer.com/news/security/atandt-verizon-reportedly-hacked-to-target-us-govt-wiretapping-platform/)
 * [Hybrid Analysis Bolstered by Criminal IP’s Comprehensive Domain Intelligence](https://www.bleepingcomputer.com/news/security/hybrid-analysis-bolstered-by-criminal-ips-comprehensive-domain-intelligence/)
 * [Comcast and Truist Bank customers caught up in FBCS data breach](https://www.bleepingcomputer.com/news/security/comcast-and-truist-bank-customers-caught-up-in-fbcs-data-breach/)
 * [Man pleads guilty to stealing $37 million in crypto from 571 victims](https://www.bleepingcomputer.com/news/legal/man-pleads-guilty-to-stealing-37-million-in-crypto-from-571-victims/)
-* [Google Pay alarms users with accidental ‘new card’ added emails](https://www.bleepingcomputer.com/news/security/google-pay-alarms-users-with-accidental-new-card-added-emails/)
 <!--END_SECTION:feed-->
 
 <!--
