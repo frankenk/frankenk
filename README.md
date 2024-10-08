@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Casio reports IT systems failure after weekend network breach](https://www.bleepingcomputer.com/news/security/casio-reports-it-systems-failure-after-weekend-network-breach/)
 * [Microsoft Edge begins testing Copilot Vision](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-begins-testing-copilot-vision/)
 * [MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
 * [ADT discloses second breach in 2 months, hacked via stolen credentials](https://www.bleepingcomputer.com/news/security/adt-discloses-second-breach-in-2-months-hacked-via-stolen-credentials/)
 * [LEGO's website hacked to push cryptocurrency scam](https://www.bleepingcomputer.com/news/security/legos-website-hacked-to-push-cryptocurrency-scam/)
-* [Ukrainian pleads guilty to operating Raccoon Stealer malware](https://www.bleepingcomputer.com/news/security/ukrainian-pleads-guilty-to-operating-raccoon-stealer-malware/)
 <!--END_SECTION:feed-->
 
 <!--
