@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 KB5044284 and KB5044285 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044284-and-kb5044285-cumulative-updates-released/)
+* [Windows 10 KB5044273 update released with 9 fixes, security updates](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5044273-update-released-with-9-fixes-security-updates/)
 * [Ivanti warns of three more CSA zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-three-more-csa-zero-days-exploited-in-attacks/)
 * [European govt air-gapped systems breached using custom malware](https://www.bleepingcomputer.com/news/security/european-govt-air-gapped-systems-breached-using-custom-malware/)
 * [Casio reports IT systems failure after weekend network breach](https://www.bleepingcomputer.com/news/security/casio-reports-it-systems-failure-after-weekend-network-breach/)
-* [Microsoft Edge begins testing Copilot Vision](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-begins-testing-copilot-vision/)
-* [MoneyGram confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/moneygram-confirms-hackers-stole-customer-data-in-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
