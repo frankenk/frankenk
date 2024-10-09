@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Discord blocked in Russia and Turkey for spreading illegal content](https://www.bleepingcomputer.com/news/government/discord-blocked-in-russia-and-turkey-for-spreading-illegal-content/)
 * [New scanner finds Linux, UNIX servers exposed to CUPS RCE attacks](https://www.bleepingcomputer.com/news/software/new-scanner-finds-linux-unix-servers-exposed-to-cups-rce-attacks/)
 * [Microsoft: Windows 11 22H2 Home and Pro reached end of servicing](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-22h2-home-and-pro-reached-end-of-servicing/)
 * [New Mamba 2FA bypass service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-mamba-2fa-bypass-service-targets-microsoft-365-accounts/)
 * [Microsoft fixes Remote Desktop issues caused by Windows Server update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-issues-caused-by-windows-server-update/)
-* [Microsoft October 2024 Patch Tuesday fixes 5 zero-days, 118 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2024-patch-tuesday-fixes-5-zero-days-118-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
