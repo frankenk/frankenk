@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
+* [US, UK warn of Russian APT29 hackers targeting Zimbra, TeamCity servers](https://www.bleepingcomputer.com/news/security/us-uk-warn-of-russian-apt29-hackers-targeting-zimbra-teamcity-servers/)
 * [Fidelity Investments says data breach affects over 77,000 people](https://www.bleepingcomputer.com/news/security/fidelity-investments-says-data-breach-affects-over-77-000-people/)
 * [Underground ransomware claims attack on Casio, leaks stolen data](https://www.bleepingcomputer.com/news/security/underground-ransomware-claims-attack-on-casio-leaks-stolen-data/)
 * [Microsoft Outlook bug blocks email logins, causes app crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-bug-blocks-email-logins-causes-app-crashes/)
-* [GitLab warns of critical arbitrary branch pipeline execution flaw](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-critical-arbitrary-branch-pipeline-execution-flaw/)
-* [Internet Archive hacked, data breach impacts 31 million users](https://www.bleepingcomputer.com/news/security/internet-archive-hacked-data-breach-impacts-31-million-users/)
 <!--END_SECTION:feed-->
 
 <!--
