@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft deprecates PPTP and L2TP VPN protocols in Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-deprecates-pptp-and-l2tp-vpn-protocols-in-windows-server/)
+* [OpenAI confirms threat actors use ChatGPT to write malware](https://www.bleepingcomputer.com/news/security/openai-confirms-threat-actors-use-chatgpt-to-write-malware/)
 * [CISA: Hackers abuse F5 BIG-IP cookies to map internal servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-abuse-f5-big-ip-cookies-to-map-internal-servers/)
 * [Casio confirms customer data stolen in a ransomware attack](https://www.bleepingcomputer.com/news/security/casio-confirms-customer-data-stolen-in-a-ransomware-attack/)
 * [Ukraine arrests rogue VPN operator providing access to Runet](https://www.bleepingcomputer.com/news/legal/ukraine-arrests-rogue-vpn-operator-providing-access-to-runet/)
-* [Akira and Fog ransomware now exploit critical Veeam RCE flaw](https://www.bleepingcomputer.com/news/security/akira-and-fog-ransomware-now-exploiting-critical-veeam-rce-flaw/)
-* [Marriott settles with FTC, to pay $52 million over data breaches](https://www.bleepingcomputer.com/news/legal/marriott-settles-with-ftc-to-pay-52-million-over-data-breaches/)
 <!--END_SECTION:feed-->
 
 <!--
