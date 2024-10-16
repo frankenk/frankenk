@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Kubernetes Image Builder flaw gives SSH root access to VMs](https://www.bleepingcomputer.com/news/security/critical-kubernetes-image-builder-flaw-gives-ssh-root-access-to-vms/)
+* [Understand these seven password attacks and how to stop them](https://www.bleepingcomputer.com/news/security/understand-these-seven-password-attacks-and-how-to-stop-them/)
 * [Malicious ads exploited Internet Explorer zero day to drop malware](https://www.bleepingcomputer.com/news/security/malicious-ads-exploited-internet-explorer-zero-day-to-drop-malware/)
 * [Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 * [Finland seizes servers of 'Sipultie' dark web drugs market](https://www.bleepingcomputer.com/news/legal/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
-* [EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
-* [New FIDO proposal lets you securely move passkeys across platforms](https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
 <!--END_SECTION:feed-->
 
 <!--
