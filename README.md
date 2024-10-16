@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Amazon says 175 million customer now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customer-now-use-passkeys-to-log-in/)
+* [Amazon says 175 million customers now use passkeys to log in](https://www.bleepingcomputer.com/news/security/amazon-says-175-million-customers-now-use-passkeys-to-log-in/)
 * [Finland seizes servers of 'Sipultie' dark web drugs market](https://www.bleepingcomputer.com/news/legal/finland-seizes-servers-of-sipultie-dark-web-drugs-market/)
 * [EDRSilencer red team tool used in attacks to bypass security](https://www.bleepingcomputer.com/news/security/edrsilencer-red-team-tool-used-in-attacks-to-bypass-security/)
 * [New FIDO proposal lets you securely move passkeys across platforms](https://www.bleepingcomputer.com/news/security/new-fido-proposal-lets-you-securely-move-passkeys-across-platforms/)
