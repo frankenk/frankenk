@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
 * [FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
 * [Undercover North Korean IT workers now steal data, extort employers](https://www.bleepingcomputer.com/news/security/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
 * [BianLian ransomware claims attack on Boston Children's Health Physicians](https://www.bleepingcomputer.com/news/security/bianlian-ransomware-claims-attack-on-boston-childrens-health-physicians/)
 * [Hackers blackmail Globe Life after stealing customer data](https://www.bleepingcomputer.com/news/security/hackers-blackmail-globe-life-after-stealing-customer-data/)
-* [Top 5 Cloud Security Automations for SecOps Teams](https://www.bleepingcomputer.com/news/security/top-5-cloud-security-automations-for-secops-teams/)
 <!--END_SECTION:feed-->
 
 <!--
