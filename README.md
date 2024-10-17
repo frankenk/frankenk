@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers blackmail Globe Life after stealing customer data](https://www.bleepingcomputer.com/news/security/hackers-blackmail-globe-life-after-stealing-customer-data/)
+* [Top 5 Cloud Security Automations for SecOps Teams](https://www.bleepingcomputer.com/news/security/top-5-cloud-security-automations-for-secops-teams/)
 * [Iranian hackers act as brokers selling critical infrastructure access](https://www.bleepingcomputer.com/news/security/iranian-hackers-act-as-brokers-selling-critical-infrastructure-access/)
 * [Google: 70% of exploited flaws disclosed in 2023 were zero-days](https://www.bleepingcomputer.com/news/security/google-70-percent-of-exploited-flaws-disclosed-in-2023-were-zero-days/)
 * [USDoD hacker behind National Public Data breach arrested in Brazil](https://www.bleepingcomputer.com/news/security/usdod-hacker-behind-national-public-data-breach-arrested-in-brazil/)
-* [SolarWinds Web Help Desk flaw is now exploited in attacks](https://www.bleepingcomputer.com/news/security/solarwinds-web-help-desk-flaw-is-now-exploited-in-attacks/)
-* [US disrupts Anonymous Sudan DDoS operation, indicts 2 Sudanese brothers](https://www.bleepingcomputer.com/news/security/us-disrupts-anonymous-sudan-ddos-operation-indicts-2-sudanese-brothers/)
 <!--END_SECTION:feed-->
 
 <!--
