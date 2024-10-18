@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
+* [How to leverage $200 million FCC program boosting K-12 cybersecurity](https://www.bleepingcomputer.com/news/security/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
 * [Microsoft warns it lost some customer's security logs for a month](https://www.bleepingcomputer.com/news/security/microsoft-warns-it-lost-some-customers-security-logs-for-a-month/)
 * [Fake Google Meet conference errors push infostealing malware](https://www.bleepingcomputer.com/news/security/fake-google-meet-conference-errors-push-infostealing-malware/)
 * [FBI arrest Alabama man suspected of hacking SEC's X account](https://www.bleepingcomputer.com/news/security/fbi-arrest-alabama-man-suspected-of-hacking-secs-x-account/)
-* [Undercover North Korean IT workers now steal data, extort employers](https://www.bleepingcomputer.com/news/security/undercover-north-korean-it-workers-now-steal-data-extort-employers/)
-* [BianLian ransomware claims attack on Boston Children's Health Physicians](https://www.bleepingcomputer.com/news/security/bianlian-ransomware-claims-attack-on-boston-childrens-health-physicians/)
 <!--END_SECTION:feed-->
 
 <!--
