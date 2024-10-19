@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
+* [Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
 * [Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
 * [ESET partner breached to send data wipers to Israeli orgs](https://www.bleepingcomputer.com/news/security/eset-partner-breached-to-send-data-wipers-to-israeli-orgs/)
 * [Tech giant Nidec confirms data breach following ransomware attack](https://www.bleepingcomputer.com/news/security/tech-giant-nidec-confirms-data-breach-following-ransomware-attack/)
-* [Intel, AMD CPUs on Linux impacted by newly disclosed Spectre bypass](https://www.bleepingcomputer.com/news/security/intel-amd-cpus-on-linux-impacted-by-newly-disclosed-spectre-bypass/)
-* [How to leverage $200 million FCC program boosting K-12 cybersecurity](https://www.bleepingcomputer.com/news/security/how-to-leverage-200-million-fcc-program-boosting-k-12-cybersecurity/)
 <!--END_SECTION:feed-->
 
 <!--
