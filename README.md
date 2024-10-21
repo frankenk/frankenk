@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bumblebee malware returns after recent law enforcement disruption](https://www.bleepingcomputer.com/news/security/bumblebee-malware-returns-after-recent-law-enforcement-disruption/)
 * [Severe flaws in E2EE cloud storage platforms used by millions](https://www.bleepingcomputer.com/news/security/severe-flaws-in-e2ee-cloud-storage-platforms-used-by-millions/)
 * [Internet Archive breached again through stolen access tokens](https://www.bleepingcomputer.com/news/security/internet-archive-breached-again-through-stolen-access-tokens/)
 * [Microsoft creates fake Azure tenants to pull phishers into honeypots](https://www.bleepingcomputer.com/news/security/microsoft-creates-fake-azure-tenants-to-pull-phishers-into-honeypots/)
 * [Google Scholar has a 'verified email' for Sir Isaac Newton](https://www.bleepingcomputer.com/news/security/google-scholar-has-a-verified-email-for-sir-isaac-newton/)
-* [Cisco takes DevHub portal offline after hacker publishes stolen data](https://www.bleepingcomputer.com/news/security/cisco-takes-devhub-portal-offline-after-hacker-publishes-stolen-data/)
 <!--END_SECTION:feed-->
 
 <!--
