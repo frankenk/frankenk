@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA proposes new security requirements to protect govt, personal data](https://www.bleepingcomputer.com/news/security/cisa-proposes-new-security-requirements-to-protect-govt-personal-data/)
 * [Windows 10 KB5045594 update fixes multi-function printer bugs](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5045594-update-fixes-multi-function-printer-bugs/)
 * [AWS, Azure auth keys found in Android and iOS apps used by millions](https://www.bleepingcomputer.com/news/security/aws-azure-auth-keys-found-in-android-and-ios-apps-used-by-millions/)
 * [SEC charges tech companies for downplaying SolarWinds breaches](https://www.bleepingcomputer.com/news/security/sec-charges-tech-companies-for-downplaying-solarwinds-breaches/)
 * [Exploit released for new Windows Server "WinReg" NTLM Relay attack](https://www.bleepingcomputer.com/news/security/exploit-released-for-new-windows-server-winreg-ntlm-relay-attack/)
-* [VMware fixes bad patch for critical vCenter Server RCE flaw](https://www.bleepingcomputer.com/news/security/vmware-fixes-bad-patch-for-critical-vcenter-server-rce-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
