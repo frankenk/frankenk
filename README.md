@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ireland fines LinkedIn €310 million over targeted advertising](https://www.bleepingcomputer.com/news/legal/ireland-fines-linkedin-310-million-over-targeted-advertising/)
 * [Cisco fixes VPN DoS flaw discovered in password spray attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-vpn-dos-flaw-discovered-in-password-spray-attacks/)
 * [New Qilin ransomware encryptor features stronger encryption, evasion](https://www.bleepingcomputer.com/news/security/new-qilin-ransomware-encryptor-features-stronger-encryption-evasion/)
 * [Samsung Galaxy S24 and Sonos Era hacked on Pwn2Own Ireland Day 2](https://www.bleepingcomputer.com/news/security/samsung-galaxy-s24-and-sonos-era-hacked-on-pwn2own-ireland-day-2/)
 * [Mandiant says new Fortinet flaw has been exploited since June](https://www.bleepingcomputer.com/news/security/mandiant-says-new-fortinet-fortimanager-flaw-has-been-exploited-since-june/)
-* [Windows 11 KB5044380 preview update lets you remap the Copilot key](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5044380-preview-update-lets-you-remap-the-copilot-key/)
 <!--END_SECTION:feed-->
 
 <!--
