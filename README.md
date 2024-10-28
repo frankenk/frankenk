@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Exchange Online adds Inbound DANE with DNSSEC for everyone](https://www.bleepingcomputer.com/news/microsoft/exchange-online-adds-inbound-dane-with-dnssec-for-everyone/)
 * [Russia targets Ukrainian conscripts with Windows, Android malware](https://www.bleepingcomputer.com/news/security/russia-targets-ukrainian-conscripts-with-windows-android-malware/)
 * [Free, France’s second largest ISP, confirms data breach after leak](https://www.bleepingcomputer.com/news/security/free-frances-second-largest-isp-confirms-data-breach-after-leak/)
 * [US says Chinese hackers breached multiple telecom providers](https://www.bleepingcomputer.com/news/security/us-says-chinese-hackers-breached-multiple-telecom-providers/)
 * [Redline, Meta infostealer malware operations seized by police](https://www.bleepingcomputer.com/news/legal/redline-meta-infostealer-malware-operations-seized-by-police/)
-* [Windows 11 24H2: The hardware and software blocking the new update](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-the-hardware-and-software-blocking-the-new-update/)
 <!--END_SECTION:feed-->
 
 <!--
