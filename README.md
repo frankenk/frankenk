@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Interbank confirms data breach following failed extortion, data leak](https://www.bleepingcomputer.com/news/security/interbank-confirms-data-breach-following-failed-extortion-data-leak/)
 * [Microsoft Entra "security defaults" to make MFA setup mandatory](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-security-defaults-to-make-mfa-setup-mandatory/)
 * [QNAP patches second zero-day exploited at Pwn2Own to get root](https://www.bleepingcomputer.com/news/security/qnap-patches-second-zero-day-exploited-at-pwn2own-to-get-root/)
 * [North Korean govt hackers linked to Play ransomware attack](https://www.bleepingcomputer.com/news/security/north-korean-govt-hackers-linked-to-play-ransomware-attack/)
 * [Android malware "FakeCall" now reroutes bank calls to attackers](https://www.bleepingcomputer.com/news/security/android-malware-fakecall-now-reroutes-bank-calls-to-attackers/)
-* [Hackers steal 15,000 cloud credentials from exposed Git config files](https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/)
 <!--END_SECTION:feed-->
 
 <!--
