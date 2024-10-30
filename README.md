@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers steal 15,000 cloud credentials from exposed Git config files](https://www.bleepingcomputer.com/news/security/hackers-steal-15-000-cloud-credentials-from-exposed-git-config-files/)
+* [FBI: Upcoming U.S. general election fuel multiple fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-upcoming-us-general-election-fuel-multiple-fraud-schemes/)
 * [New Windows Themes zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-themes-zero-day-gets-free-unofficial-patches/)
 * [Massive PSAUX ransomware attack targets 22,000 CyberPanel instances](https://www.bleepingcomputer.com/news/security/massive-psaux-ransomware-attack-targets-22-000-cyberpanel-instances/)
 * [QNAP fixes NAS backup software zero-day exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/qnap-fixes-nas-backup-software-zero-day-exploited-at-pwn2own/)
-* [Russian charged by U.S. for creating RedLine infostealer malware](https://www.bleepingcomputer.com/news/security/russian-charged-by-us-for-creating-redline-infostealer-malware/)
-* [New tool bypasses Google Chrome’s new cookie encryption system](https://www.bleepingcomputer.com/news/security/new-tool-bypasses-google-chromes-new-cookie-encryption-system/)
 <!--END_SECTION:feed-->
 
 <!--
