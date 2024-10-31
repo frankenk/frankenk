@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Chinese hackers use Quad7 botnet to steal credentials](https://www.bleepingcomputer.com/news/security/microsoft-chinese-hackers-use-quad7-botnet-to-steal-credentials/)
+* [Microsoft delays Windows Recall again, now by December](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-windows-recall-again-now-by-december/)
 * [Hackers target critical zero-day vulnerability in PTZ cameras](https://www.bleepingcomputer.com/news/security/hackers-target-critical-zero-day-vulnerability-in-ptz-cameras/)
 * [Microsoft wants $30 if you want to delay Windows 11 switch](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-30-if-you-want-to-delay-windows-11-switch/)
 * [Windows 11 Task Manager bug shows wrong number of running processes](https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-bug-shows-wrong-number-of-running-processes/)
-* [LiteSpeed Cache WordPress plugin bug lets hackers get admin access](https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/)
-* [qBittorrent fixes flaw exposing users to MitM attacks for 14 years](https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/)
 <!--END_SECTION:feed-->
 
 <!--
