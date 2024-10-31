@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 Task Manager says no apps are active after preview update](https://www.bleepingcomputer.com/news/microsoft/windows-11-task-manager-says-no-apps-are-active-after-preview-update/)
+* [LiteSpeed Cache WordPress plugin bug lets hackers get admin access](https://www.bleepingcomputer.com/news/security/litespeed-cache-wordpress-plugin-bug-lets-hackers-get-admin-access/)
 * [qBittorrent fixes flaw exposing users to MitM attacks for 14 years](https://www.bleepingcomputer.com/news/security/qbittorrent-fixes-flaw-exposing-users-to-mitm-attacks-for-14-years/)
 * [Microsoft fixes Windows 10 bug causing apps to stop working](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-10-bug-causing-apps-to-stop-working/)
 * [Over a thousand online shops hacked to show fake product listings](https://www.bleepingcomputer.com/news/security/over-a-thousand-online-shops-hacked-to-show-fake-product-listings/)
-* [Cynet delivers 426% ROI in Forrester Total Economic Impact Study](https://www.bleepingcomputer.com/news/security/cynet-delivers-426-percent-roi-in-forrester-total-economic-impact-study/)
-* [LottieFiles hacked in supply chain attack to steal users’ crypto](https://www.bleepingcomputer.com/news/security/lottiefiles-hacked-in-supply-chain-attack-to-steal-users-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
