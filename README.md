@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft warns Azure Virtual Desktop users of black screen issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-azure-virtual-desktop-users-of-black-screen-issues/)
+* [LA housing authority confirms breach claimed by Cactus ransomware](https://www.bleepingcomputer.com/news/security/la-housing-authority-confirms-breach-claimed-by-cactus-ransomware/)
 * [OpenAI's new ChatGPT Search Chrome extension feels like a search hijacker](https://www.bleepingcomputer.com/news/security/openais-new-chatgpt-search-chrome-extension-feels-like-a-search-hijacker/)
 * [LastPass warns of fake support centers trying to steal customer data](https://www.bleepingcomputer.com/news/security/lastpass-warns-of-fake-support-centers-trying-to-steal-customer-data/)
 * [Synology hurries out patches for zero-days exploited at Pwn2Own](https://www.bleepingcomputer.com/news/security/synology-fixed-two-critical-zero-days-exploited-at-pwn2own-within-days/)
-* [DDoS site Dstat.cc seized and two suspects arrested in Germany](https://www.bleepingcomputer.com/news/security/ddos-site-dstatcc-seized-and-two-suspects-arrested-in-germany/)
-* [Sophos reveals 5-year battle with Chinese hackers attacking network devices](https://www.bleepingcomputer.com/news/security/sophos-reveals-5-year-battle-with-chinese-hackers-attacking-network-devices/)
 <!--END_SECTION:feed-->
 
 <!--
