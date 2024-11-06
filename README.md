@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New SteelFox malware hijacks Windows PCs using vulnerable driver](https://www.bleepingcomputer.com/news/security/new-steelfox-malware-hijacks-windows-pcs-using-vulnerable-driver/)
+* [Washington courts' systems offline following weekend cyberattack](https://www.bleepingcomputer.com/news/security/washington-courts-systems-offline-following-weekend-cyberattack/)
 * [Germany drafts law to protect researchers who find security flaws](https://www.bleepingcomputer.com/news/security/germany-drafts-law-to-protect-researchers-who-find-security-flaws/)
 * [Google Cloud to make MFA mandatory by the end of 2025](https://www.bleepingcomputer.com/news/security/google-cloud-to-make-mfa-mandatory-by-the-end-of-2025/)
 * [Interpol disrupts cybercrime activity on 22,000 IP addresses, arrests 41](https://www.bleepingcomputer.com/news/security/interpol-disrupts-cybercrime-activity-on-22-000-ip-addresses-arrests-41/)
-* [US warns of last-minute Iranian and Russian election influence ops](https://www.bleepingcomputer.com/news/security/us-warns-of-last-minute-iranian-and-russian-election-influence-ops/)
-* [Suspect behind Snowflake data-theft attacks arrested in Canada](https://www.bleepingcomputer.com/news/security/suspect-behind-snowflake-data-theft-attacks-arrested-in-canada/)
 <!--END_SECTION:feed-->
 
 <!--
