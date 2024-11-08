@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Unpatched Mazda Connect bugs let hackers install persistent malware](https://www.bleepingcomputer.com/news/security/unpatched-mazda-connect-bugs-let-hackers-install-persistent-malware/)
+* [Palo Alto Networks warns of potential PAN-OS RCE vulnerability](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-potential-pan-os-rce-vulnerability/)
 * [Google's mysterious 'search.app' links leave Android users concerned](https://www.bleepingcomputer.com/news/security/googles-mysterious-searchapp-links-leave-android-users-concerned/)
 * [North Korean hackers use new macOS malware against crypto firms](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-new-macos-malware-against-crypto-firms/)
 * [CISA warns of critical Palo Alto Networks bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-palo-alto-networks-bug-exploited-in-attacks/)
-* [Nokia says hackers leaked third-party app source code](https://www.bleepingcomputer.com/news/security/nokia-says-hackers-leaked-third-party-app-source-code/)
-* [Canada orders TikTok to shut down over national risk concerns](https://www.bleepingcomputer.com/news/security/canada-orders-tiktok-to-shut-down-over-national-risk-concerns/)
 <!--END_SECTION:feed-->
 
 <!--
