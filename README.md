@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
+* [New Ymir ransomware partners with RustyStealer in attacks](https://www.bleepingcomputer.com/news/security/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
 * [HIBP notifies 57 million people of Hot Topic data breach](https://www.bleepingcomputer.com/news/security/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
 * [Amazon confirms employee data breach after vendor hack](https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/)
 * [Microsoft blames Windows Server 2025 automatic upgrades on 3rd-party tools](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-server-2025-automatic-upgrades-on-third-party-tools/)
-* [Halliburton reports $35 million loss after ransomware attack](https://www.bleepingcomputer.com/news/security/halliburton-reports-35-million-loss-after-ransomware-attack/)
-* [Windows 11 is adding a 'Share' button to the Start menu and Taskbar](https://www.bleepingcomputer.com/news/microsoft/windows-11-is-adding-a-share-button-to-the-start-menu-and-taskbar/)
 <!--END_SECTION:feed-->
 
 <!--
