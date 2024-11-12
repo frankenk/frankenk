@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft November 2024 Patch Tuesday fixes 4 zero-days, 91 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2024-patch-tuesday-fixes-4-zero-days-91-flaws/)
+* [Windows 11 KB5046617 and KB5046633 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046617-and-kb5046633-cumulative-updates-released/)
 * [Signal introduces convenient "call links" for private group chats](https://www.bleepingcomputer.com/news/software/signal-introduces-convenient-call-links-for-private-group-chats/)
 * [FBI, CISA, and NSA reveal most exploited vulnerabilities of 2023](https://www.bleepingcomputer.com/news/security/fbi-cisa-and-nsa-reveal-most-exploited-vulnerabilities-of-2023/)
 * [Volt Typhoon rebuilds malware botnet following FBI disruption](https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/)
-* [North Korean hackers create Flutter apps to bypass macOS security](https://www.bleepingcomputer.com/news/security/north-korean-hackers-create-flutter-apps-to-bypass-macos-security/)
-* [iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
 <!--END_SECTION:feed-->
 
 <!--
