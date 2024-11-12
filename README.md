@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Volt Typhoon rebuilds malware botnet following FBI disruption](https://www.bleepingcomputer.com/news/security/volt-typhoon-rebuilds-malware-botnet-following-fbi-disruption/)
+* [North Korean hackers create Flutter apps to bypass macOS security](https://www.bleepingcomputer.com/news/security/north-korean-hackers-create-flutter-apps-to-bypass-macos-security/)
 * [iPhones now auto-restart to block access to encrypted data after long idle times](https://www.bleepingcomputer.com/news/security/iphones-now-auto-restart-to-block-access-to-encrypted-data-after-long-idle-times/)
 * [VMware makes Workstation and Fusion free for everyone](https://www.bleepingcomputer.com/news/software/vmware-makes-workstation-and-fusion-free-for-everyone/)
 * [New Ymir ransomware partners with RustyStealer in attacks](https://www.bleepingcomputer.com/news/security/new-ymir-ransomware-partners-with-rustystealer-in-attacks/)
-* [HIBP notifies 57 million people of Hot Topic data breach](https://www.bleepingcomputer.com/news/security/hibp-notifies-57-million-people-of-hot-topic-data-breach/)
-* [Amazon confirms employee data breach after vendor hack](https://www.bleepingcomputer.com/news/security/amazon-confirms-employee-data-breach-after-vendor-hack/)
 <!--END_SECTION:feed-->
 
 <!--
