@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
 * [New Glove infostealer malware bypasses Chrome’s cookie encryption](https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/)
 * [Hacker gets 10 years in prison for extorting US healthcare provider](https://www.bleepingcomputer.com/news/legal/hacker-gets-10-years-in-prison-for-extorting-us-healthcare-provider/)
 * [ChatGPT allows access to underlying sandbox OS, “playbook” data](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-allows-access-to-underlying-sandbox-os-playbook-data/)
 * [The true (and surprising) cost of forgotten passwords](https://www.bleepingcomputer.com/news/security/the-true-and-surprising-cost-of-forgotten-passwords/)
-* [Hackers use macOS extended file attributes to hide malicious code](https://www.bleepingcomputer.com/news/security/hackers-use-macos-extended-file-attributes-to-hide-malicious-code/)
 <!--END_SECTION:feed-->
 
 <!--
