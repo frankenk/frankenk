@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft just killed the Windows 10 Beta Channel again](https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-again/)
 * [Fraud network uses 4,700 fake shopping sites to steal credit cards](https://www.bleepingcomputer.com/news/security/fraud-network-uses-4-700-fake-shopping-sites-to-steal-credit-cards/)
 * [CISA warns of more Palo Alto Networks bugs exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-more-palo-alto-networks-bugs-exploited-in-attacks/)
 * [New Glove infostealer malware bypasses Chrome’s cookie encryption](https://www.bleepingcomputer.com/news/security/new-glove-infostealer-malware-bypasses-google-chromes-cookie-encryption/)
 * [Hacker gets 10 years in prison for extorting US healthcare provider](https://www.bleepingcomputer.com/news/legal/hacker-gets-10-years-in-prison-for-extorting-us-healthcare-provider/)
-* [ChatGPT allows access to underlying sandbox OS, “playbook” data](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-allows-access-to-underlying-sandbox-os-playbook-data/)
 <!--END_SECTION:feed-->
 
 <!--
