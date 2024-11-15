@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Botnet exploits GeoVision zero-day to install Mirai malware](https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/)
 * [FTC reports 50% drop in unwanted call complaints since 2021](https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/)
 * [Bitfinex hacker gets 5 years in prison for 120,000 bitcoin heist](https://www.bleepingcomputer.com/news/security/bitfinex-hacker-gets-5-years-in-prison-for-120-000-bitcoin-heist/)
 * [Microsoft pulls Exchange security updates over mail delivery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-exchange-security-updates-over-mail-delivery-issues/)
 * [Palo Alto Networks warns of critical RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-critical-rce-zero-day-exploited-in-attacks/)
-* [Microsoft just killed the Windows 10 Beta Channel for good](https://www.bleepingcomputer.com/news/microsoft/microsoft-just-killed-the-windows-10-beta-channel-for-good/)
 <!--END_SECTION:feed-->
 
 <!--
