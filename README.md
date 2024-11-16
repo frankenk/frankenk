@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
 * [T-Mobile confirms it was hacked in recent wave of telecom breaches](https://www.bleepingcomputer.com/news/security/t-mobile-confirms-it-was-hacked-in-recent-wave-of-telecom-breaches/)
 * [GitHub projects targeted with malicious commits to frame researcher](https://www.bleepingcomputer.com/news/security/github-projects-targeted-with-malicious-commits-to-frame-researcher/)
 * [NSO Group used another WhatsApp zero-day after being sued, court docs say](https://www.bleepingcomputer.com/news/security/nso-group-used-another-whatsapp-zero-day-after-being-sued-court-docs-say/)
 * [Botnet exploits GeoVision zero-day to install Mirai malware](https://www.bleepingcomputer.com/news/security/botnet-exploits-geovision-zero-day-to-install-mirai-malware/)
-* [FTC reports 50% drop in unwanted call complaints since 2021](https://www.bleepingcomputer.com/news/security/ftc-reports-50-percent-drop-in-unwanted-call-complaints-since-2021/)
 <!--END_SECTION:feed-->
 
 <!--
