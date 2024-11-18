@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical RCE bug in VMware vCenter Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-vmware-vcenter-server-now-exploited-in-attacks/)
 * [Fake Bitwarden ads on Facebook push info-stealing Chrome extension](https://www.bleepingcomputer.com/news/security/fake-bitwarden-ads-on-facebook-push-info-stealing-chrome-extension/)
 * [Microsoft 365 Admin portal abused to send sextortion emails](https://www.bleepingcomputer.com/news/security/microsoft-365-admin-portal-abused-to-send-sextortion-emails/)
 * [Phishing emails increasingly use SVG attachments to evade detection](https://www.bleepingcomputer.com/news/security/phishing-emails-increasingly-use-svg-attachments-to-evade-detection/)
 * [Security plugin flaw in millions of WordPress sites gives admin access](https://www.bleepingcomputer.com/news/security/security-plugin-flaw-in-millions-of-wordpress-sites-gives-admin-access/)
-* [Fake AI video generators infect Windows, macOS with infostealers](https://www.bleepingcomputer.com/news/security/fake-ai-video-generators-infect-windows-macos-with-infostealers/)
 <!--END_SECTION:feed-->
 
 <!--
