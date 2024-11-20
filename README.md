@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
 * [Apple fixes two zero-days used in attacks on Intel-based Macs](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
 * [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
 * [Ford investigates alleged breach following customer data leak](https://www.bleepingcomputer.com/news/security/ford-investigates-alleged-breach-following-customer-data-leak/)
 * [Oracle warns of Agile PLM file disclosure flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/oracle-warns-of-agile-plm-file-disclosure-flaw-exploited-in-attacks/)
-* [D-Link urges users to retire VPN routers impacted by unfixed RCE flaw](https://www.bleepingcomputer.com/news/security/d-link-urges-users-to-retire-vpn-routers-impacted-by-unfixed-rce-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
