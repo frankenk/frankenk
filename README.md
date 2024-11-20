@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ubuntu Linux impacted by decade-old 'needrestart' flaw that gives root](https://www.bleepingcomputer.com/news/security/ubuntu-linux-impacted-by-decade-old-needrestart-flaw-that-gives-root/)
 * [Microsoft confirms game audio issues on Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-game-audio-issues-on-windows-11-24h2-pcs/)
 * [New Ghost Tap attack abuses NFC mobile payments to steal money](https://www.bleepingcomputer.com/news/security/new-ghost-tap-attack-abuses-nfc-mobile-payments-to-steal-money/)
 * [Amazon and Audible flooded with 'forex trading' and warez listings](https://www.bleepingcomputer.com/news/security/amazon-and-audible-flooded-with-forex-trading-and-warez-listings/)
 * [Apple fixes two zero-days used in attacks on Intel-based Macs](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-used-in-attacks-on-intel-based-macs/)
-* [CISA tags Progress Kemp LoadMaster flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-progress-kemp-loadmaster-flaw-as-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
