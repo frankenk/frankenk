@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
+* [Over 2,000 Palo Alto firewalls hacked using recently patched bugs](https://www.bleepingcomputer.com/news/security/over-2-000-palo-alto-firewalls-hacked-using-recently-patched-bugs/)
 * [Microsoft pulls WinAppSDK update breaking Windows 10 app uninstalls](https://www.bleepingcomputer.com/news/microsoft/microsoft-pulls-winappsdk-update-breaking-windows-10-app-uninstalls/)
 * [CISA says BianLian ransomware now focuses only on data theft](https://www.bleepingcomputer.com/news/security/cisa-says-bianlian-ransomware-now-focuses-only-on-data-theft/)
 * [Microsoft disrupts ONNX phishing-as-a-service infrastructure](https://www.bleepingcomputer.com/news/security/microsoft-disrupts-onnx-phishing-as-a-service-infrastructure/)
-* [US seizes PopeyeTools cybercrime marketplace, charges administrators](https://www.bleepingcomputer.com/news/legal/us-seizes-popeyetools-cybercrime-marketplace-charges-administrators/)
-* [Fortinet VPN design flaw hides successful brute-force attacks](https://www.bleepingcomputer.com/news/security/fortinet-vpn-design-flaw-hides-successful-brute-force-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
