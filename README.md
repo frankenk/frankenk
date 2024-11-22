@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5046714 update fixes bug preventing app uninstalls](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5046714-update-fixes-bug-preventing-app-uninstalls/)
 * [QNAP pulls buggy QTS firmware causing widespread NAS issues](https://www.bleepingcomputer.com/news/technology/qnap-pulls-buggy-qts-firmware-causing-widespread-nas-issues/)
 * [Hackers breach US firm over Wi-Fi from Russia in 'Nearest Neighbor Attack'](https://www.bleepingcomputer.com/news/security/hackers-breach-us-firm-over-wi-fi-from-russia-in-nearest-neighbor-attack/)
 * [Microsoft rolls out Recall to Windows Insiders with Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-recall-to-windows-insiders-with-copilot-plus-pcs/)
 * [Windows 11 KB5046740 update released with 14 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5046740-update-released-with-14-changes-and-fixes/)
-* [Chinese hackers target Linux with new WolfsBane malware](https://www.bleepingcomputer.com/news/security/chinese-gelsemium-hackers-use-new-wolfsbane-linux-malware/)
 <!--END_SECTION:feed-->
 
 <!--
