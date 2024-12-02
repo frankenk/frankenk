@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome’s AI feature lets you quickly check website trustworthiness](https://www.bleepingcomputer.com/news/google/google-chromes-ai-feature-lets-you-quickly-check-website-trustworthiness/)
+* [Novel phising campaign uses corrupted Word documents to evade security](https://www.bleepingcomputer.com/news/security/novel-phising-campaign-uses-corrupted-word-documents-to-evade-security/)
 * [SpyLoan Android malware on Google play installed 8 million times](https://www.bleepingcomputer.com/news/security/spyloan-android-malware-on-google-play-installed-8-million-times/)
 * [New Rockstar 2FA phishing service targets Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-rockstar-2fa-phishing-service-targets-microsoft-365-accounts/)
 * [Russia arrests cybercriminal Wazawaka for ties with ransomware gangs](https://www.bleepingcomputer.com/news/security/russia-arrests-cybercriminal-wazawaka-for-ties-with-ransomware-gangs/)
-* [Bologna FC confirms data breach after RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/bologna-fc-confirms-data-breach-after-ransomhub-ransomware-attack/)
-* [New Windows Server 2012 zero-day gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/new-windows-server-2012-zero-day-gets-free-unofficial-patches/)
 <!--END_SECTION:feed-->
 
 <!--
