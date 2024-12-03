@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare’s developer domains increasingly abused by threat actors](https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
 * [US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
 * [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
 * [Veeam warns of critical RCE bug in Service Provider Console](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-bug-in-service-provider-console/)
 * [Police seizes largest German online crime marketplace, arrests admin](https://www.bleepingcomputer.com/news/security/police-seizes-largest-german-online-crime-marketplace-arrests-admin/)
-* [FTC bans data brokers from selling Americans’ sensitive location data](https://www.bleepingcomputer.com/news/security/ftc-bans-data-brokers-from-selling-americans-sensitive-location-data/)
 <!--END_SECTION:feed-->
 
 <!--
