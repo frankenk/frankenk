@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Japan warns of IO-Data zero-day router flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/japan-warns-of-io-data-zero-day-router-flaws-exploited-in-attacks/)
+* [Six password takeaways from the updated NIST cybersecurity framework](https://www.bleepingcomputer.com/news/security/six-password-takeaways-from-the-updated-nist-cybersecurity-framework/)
 * [Vodka maker Stoli files for bankruptcy in US after ransomware attack](https://www.bleepingcomputer.com/news/security/vodka-maker-stoli-files-for-bankruptcy-in-us-after-ransomware-attack/)
 * [Cloudflare’s developer domains increasingly abused by threat actors](https://www.bleepingcomputer.com/news/security/cloudflares-developer-domains-increasingly-abused-by-threat-actors/)
 * [US shares tips to block hackers behind recent telecom breaches](https://www.bleepingcomputer.com/news/security/us-shares-tips-to-block-hackers-behind-recent-telecom-breaches/)
-* [Exploit released for critical WhatsUp Gold RCE flaw, patch now](https://www.bleepingcomputer.com/news/security/exploit-released-for-critical-whatsup-gold-rce-flaw-patch-now/)
-* [Veeam warns of critical RCE bug in Service Provider Console](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-rce-bug-in-service-provider-console/)
 <!--END_SECTION:feed-->
 
 <!--
