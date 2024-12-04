@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI shares tips on how to tackle AI-powered fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
+* [UK disrupts Russian money laundering networks used by ransomware](https://www.bleepingcomputer.com/news/security/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
 * [BT unit took servers offline after Black Basta ransomware breach](https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/)
 * [New DroidBot Android banking malware spreads across Europe](https://www.bleepingcomputer.com/news/security/new-droidbot-android-banking-malware-spreads-across-europe/)
 * [Solana Web3.js library backdoored to steal secret, private keys](https://www.bleepingcomputer.com/news/security/solana-web3js-library-backdoored-to-steal-secret-private-keys/)
-* [Russian hackers hijack Pakistani hackers' servers for their own attacks](https://www.bleepingcomputer.com/news/security/russian-turla-hackers-hijack-pakistani-apt-servers-for-cyber-espionage-attacks/)
-* [Japan warns of IO-Data zero-day router flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/japan-warns-of-io-data-zero-day-router-flaws-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
