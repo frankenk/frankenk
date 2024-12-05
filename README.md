@@ -5,7 +5,7 @@
 * [FBI shares tips on how to tackle AI-powered fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-shares-tips-on-how-to-tackle-ai-powered-fraud-schemes/)
 * [UK disrupts Russian money laundering networks used by ransomware](https://www.bleepingcomputer.com/news/security/uk-disrupts-russian-money-laundering-networks-used-by-ransomware/)
 * [BT unit took servers offline after Black Basta ransomware breach](https://www.bleepingcomputer.com/news/security/bt-conferencing-division-took-servers-offline-after-black-basta-ransomware-attack/)
-* [New DroidBot Android banking malware spreads across Europe](https://www.bleepingcomputer.com/news/security/new-droidbot-android-banking-malware-spreads-across-europe/)
+* [New DroidBot Android malware targets 77 banking, crypto apps](https://www.bleepingcomputer.com/news/security/new-droidbot-android-malware-targets-77-banking-crypto-apps/)
 <!--END_SECTION:feed-->
 
 <!--
