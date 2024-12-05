@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US arrests Scattered Spider suspect linked to telecom hacks](https://www.bleepingcomputer.com/news/security/us-arrests-scattered-spider-suspect-linked-to-telecom-hacks/)
 * [Police shuts down Manson cybercrime market, arrests key suspects](https://www.bleepingcomputer.com/news/security/police-shuts-down-manson-cybercrime-market-fake-shops-arrests-key-suspects/)
 * [New Android spyware found on phone seized by Russian FSB](https://www.bleepingcomputer.com/news/security/new-android-spyware-found-on-phone-seized-by-russian-fsb/)
 * [Latrodectus malware and how to defend against it with Wazuh](https://www.bleepingcomputer.com/news/security/latrodectus-malware-and-how-to-defend-against-it-with-wazuh/)
 * [Mitel MiCollab zero-day flaw gets proof-of-concept exploit](https://www.bleepingcomputer.com/news/security/mitel-micollab-zero-day-flaw-gets-proof-of-concept-exploit/)
-* [Microsoft says having a TPM is "non-negotiable" for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-having-a-tpm-is-non-negotiable-for-windows-11/)
 <!--END_SECTION:feed-->
 
 <!--
