@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Crypto-stealing malware posing as a meeting app targets Web3 pros](https://www.bleepingcomputer.com/news/security/crypto-stealing-malware-posing-as-a-meeting-app-targets-web3-pros/)
 * [Nebraska Man pleads guilty to $3.5 million cryptojacking scheme](https://www.bleepingcomputer.com/news/security/nebraska-man-pleads-guilty-to-35-million-cryptojacking-scheme/)
 * [Romania's election systems targeted in over 85,000 cyberattacks](https://www.bleepingcomputer.com/news/security/romanias-election-systems-targeted-in-over-85-000-cyberattacks/)
 * [U.S. org suffered four month intrusion by Chinese hackers](https://www.bleepingcomputer.com/news/security/us-org-suffered-four-month-intrusion-by-chinese-hackers/)
 * [US arrests Scattered Spider suspect linked to telecom hacks](https://www.bleepingcomputer.com/news/security/us-arrests-scattered-spider-suspect-linked-to-telecom-hacks/)
-* [Police shuts down Manson cybercrime market, arrests key suspects](https://www.bleepingcomputer.com/news/security/police-shuts-down-manson-cybercrime-market-fake-shops-arrests-key-suspects/)
 <!--END_SECTION:feed-->
 
 <!--
