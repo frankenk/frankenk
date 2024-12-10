@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Cleo zero-day RCE flaw exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cleo-zero-day-rce-flaw-exploited-in-data-theft-attacks/)
+* [Inside the incident: Uncovering an advanced phishing attack](https://www.bleepingcomputer.com/news/security/inside-the-incident-uncovering-an-advanced-phishing-attack/)
 * [Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
 * [Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
 * [Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
-* [OpenWrt Sysupgrade flaw let hackers push malicious firmware images](https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/)
-* [Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
 <!--END_SECTION:feed-->
 
 <!--
