@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [FTC distributes $72 million in Fortnite refunds from Epic Games](https://www.bleepingcomputer.com/news/legal/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
+* [FTC distributes $72 million in Fortnite refunds from Epic Games](https://www.bleepingcomputer.com/news/gaming/ftc-distributes-72-million-in-fortnite-refunds-from-epic-games/)
 * [US sanctions Chinese firm for hacking firewalls in ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-firm-for-hacking-firewalls-in-ragnarok-ransomware-attacks/)
 * [New Cleo zero-day RCE flaw exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/new-cleo-zero-day-rce-flaw-exploited-in-data-theft-attacks/)
 * [Inside the incident: Uncovering an advanced phishing attack](https://www.bleepingcomputer.com/news/security/inside-the-incident-uncovering-an-advanced-phishing-attack/)
