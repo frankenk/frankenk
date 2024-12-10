@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft 365 outage takes down Office web apps, admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-takes-down-office-web-apps-admin-center/)
+* [Chinese hackers use Visual Studio Code tunnels for remote access](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-visual-studio-code-tunnels-for-remote-access/)
 * [Ransomware attack hits leading heart surgery device maker](https://www.bleepingcomputer.com/news/security/ransomware-attack-hits-leading-heart-surgery-device-maker/)
 * [OpenWrt Sysupgrade flaw let hackers push malicious firmware images](https://www.bleepingcomputer.com/news/security/openwrt-sysupgrade-flaw-let-hackers-push-malicious-firmware-images/)
 * [Ubisoft fixes Windows 11 24H2 conflicts causing game crashes](https://www.bleepingcomputer.com/news/microsoft/ubisoft-fixes-windows-11-24h2-conflicts-causing-game-crashes/)
-* [Radiant links $50 million crypto heist to North Korean hackers](https://www.bleepingcomputer.com/news/security/radiant-links-50-million-crypto-heist-to-north-korean-hackers/)
-* [Outdated Google Workspace Sync blocks Windows 11 24H2 upgrades](https://www.bleepingcomputer.com/news/microsoft/outdated-google-workspace-sync-blocks-windows-11-24h2-upgrades/)
 <!--END_SECTION:feed-->
 
 <!--
