@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft lifts Windows 11 24H2 block on PCs with USB scanners](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-24h2-block-on-pcs-with-usb-scanners/)
+* [Facebook, Instagram, WhatsApp hit by massive worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-instagram-whatsapp-hit-by-massive-worldwide-outage/)
+* [Russian Turla hackers hit Starlink-connected devices in Ukraine](https://www.bleepingcomputer.com/news/security/russian-turla-hackers-hit-starlink-connected-devices-in-ukraine/)
 * [Operation PowerOFF shuts down 27 DDoS-for-hire platforms](https://www.bleepingcomputer.com/news/security/operation-poweroff-shuts-down-27-ddos-for-hire-platforms/)
 * [Lynx ransomware behind Electrica energy supplier cyberattack](https://www.bleepingcomputer.com/news/security/lynx-ransomware-behind-electrica-energy-supplier-cyberattack/)
-* [Krispy Kreme cyberattack impacts online orders and operations](https://www.bleepingcomputer.com/news/security/krispy-kreme-cyberattack-impacts-online-orders-and-operations/)
-* [Wyden proposes bill to secure US telecoms after Salt Typhoon hacks](https://www.bleepingcomputer.com/news/security/wyden-proposes-bill-to-secure-us-telecoms-after-salt-typhoon-hacks/)
-* [WPForms bug allows Stripe refunds on millions of WordPress sites](https://www.bleepingcomputer.com/news/security/wpforms-bug-allows-stripe-refunds-on-millions-of-wordpress-sites/)
 <!--END_SECTION:feed-->
 
 <!--
