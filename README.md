@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russia blocks Viber in latest attempt to censor communications](https://www.bleepingcomputer.com/news/security/russia-blocks-viber-in-latest-attempt-to-censor-communications/)
+* [Russian cyberspies target Android users with new spyware](https://www.bleepingcomputer.com/news/security/russian-gamaredon-cyberspies-target-android-users-with-new-spyware/)
 * [Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
 * [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
 * [Police shuts down Rydox cybercrime market, arrests 3 admins](https://www.bleepingcomputer.com/news/security/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
-* [New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
-* [US offers $5 million for info on North Korean IT worker farms](https://www.bleepingcomputer.com/news/security/us-offers-5-million-for-info-on-north-korean-it-worker-farms/)
 <!--END_SECTION:feed-->
 
 <!--
