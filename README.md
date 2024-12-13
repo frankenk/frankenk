@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Germany sinkholes BadBox malware pre-loaded on Android devices](https://www.bleepingcomputer.com/news/security/germany-sinkholes-badbox-malware-pre-loaded-on-android-devices/)
+* [Germany blocks BadBox malware loaded on 30,000 Android devices](https://www.bleepingcomputer.com/news/security/germany-blocks-badbox-malware-loaded-on-30-000-android-devices/)
 * [New stealthy Pumakit Linux rootkit malware spotted in the wild](https://www.bleepingcomputer.com/news/security/new-stealthy-pumakit-linux-rootkit-malware-spotted-in-the-wild/)
 * [Police shuts down Rydox cybercrime market, arrests 3 admins](https://www.bleepingcomputer.com/news/security/police-shuts-down-rydox-cybercrime-market-arrests-3-admins/)
 * [New IOCONTROL malware used in critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/new-iocontrol-malware-used-in-critical-infrastructure-attacks/)
