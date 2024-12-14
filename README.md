@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [390,000 WordPress accounts stolen from hackers in supply chain attack](https://www.bleepingcomputer.com/news/security/390-000-wordpress-accounts-stolen-from-hackers-in-supply-chain-attack/)
 * [Auto parts giant LKQ says cyberattack disrupted Canadian business unit](https://www.bleepingcomputer.com/news/security/auto-parts-giant-lkq-says-cyberattack-disrupted-canadian-business-unit/)
 * [Citrix shares mitigations for ongoing Netscaler password spray attacks](https://www.bleepingcomputer.com/news/security/citrix-shares-mitigations-for-ongoing-netscaler-password-spray-attacks/)
 * [CISA confirms critical Cleo bug exploitation in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-critical-cleo-bug-exploitation-in-ransomware-attacks/)
 * [FTC warns of online task job scams hooking victims like gambling](https://www.bleepingcomputer.com/news/security/ftc-warns-of-online-task-job-scams-hooking-victims-like-gambling/)
-* [CISA warns water facilities to secure HMI systems exposed online](https://www.bleepingcomputer.com/news/security/cisa-warns-water-facilities-to-secure-hmi-systems-exposed-online/)
 <!--END_SECTION:feed-->
 
 <!--
