@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
+* [Malicious ads push Lumma infostealer via fake CAPTCHA pages](https://www.bleepingcomputer.com/news/security/malicious-ads-push-lumma-infostealer-via-fake-captcha-pages/)
 * [ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
 * [Rhode Island confirms data breach after Brain Cipher ransomware attack](https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/)
 * [New Android NoviSpy spyware linked to Qualcomm zero-day bugs](https://www.bleepingcomputer.com/news/security/new-android-novispy-spyware-linked-to-qualcomm-zero-day-bugs/)
-* [Clop ransomware claims responsibility for Cleo data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-claims-responsibility-for-cleo-data-theft-attacks/)
-* [Winnti hackers target other threat actors with new Glutton PHP backdoor](https://www.bleepingcomputer.com/news/security/winnti-hackers-target-other-threat-actors-with-new-glutton-php-backdoor/)
 <!--END_SECTION:feed-->
 
 <!--
