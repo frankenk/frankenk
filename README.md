@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
+* [Texas Tech University System data breach impacts 1.4 million patients](https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/)
 * [Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
 * [Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
 * [Malicious ads push Lumma infostealer via fake CAPTCHA pages](https://www.bleepingcomputer.com/news/security/malicious-ads-push-lumma-infostealer-via-fake-captcha-pages/)
-* [ConnectOnCall breach exposes health data of over 910,000 patients](https://www.bleepingcomputer.com/news/security/connectoncall-breach-exposes-health-data-of-over-910-000-patients/)
-* [Rhode Island confirms data breach after Brain Cipher ransomware attack](https://www.bleepingcomputer.com/news/security/rhode-island-confirms-data-breach-after-brain-cipher-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
