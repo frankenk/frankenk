@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New critical Apache Struts flaw exploited to find vulnerable servers](https://www.bleepingcomputer.com/news/security/new-critical-apache-struts-flaw-exploited-to-find-vulnerable-servers/)
 * [Ireland fines Meta $264 million over 2018 Facebook data breach](https://www.bleepingcomputer.com/news/security/ireland-fines-meta-264-million-over-2018-facebook-data-breach/)
 * [Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
 * [Might need a mass password reset one day? Read this first.](https://www.bleepingcomputer.com/news/security/might-need-a-mass-password-reset-one-day-read-this-first/)
 * [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
-* [Texas Tech University System data breach impacts 1.4 million patients](https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/)
 <!--END_SECTION:feed-->
 
 <!--
