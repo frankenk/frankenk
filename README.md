@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ireland fines Meta $264 million over 2018 Facebook data breach](https://www.bleepingcomputer.com/news/security/ireland-fines-meta-264-million-over-2018-facebook-data-breach/)
+* [Over 25,000 SonicWall VPN Firewalls exposed to critical flaws](https://www.bleepingcomputer.com/news/security/over-25-000-sonicwall-vpn-firewalls-exposed-to-critical-flaws/)
+* [Might need a mass password reset one day? Read this first.](https://www.bleepingcomputer.com/news/security/might-need-a-mass-password-reset-one-day-read-this-first/)
 * [FBI spots HiatusRAT malware attacks targeting web cameras, DVRs](https://www.bleepingcomputer.com/news/security/fbi-spots-hiatusrat-malware-attacks-targeting-web-cameras-dvrs/)
 * [Texas Tech University System data breach impacts 1.4 million patients](https://www.bleepingcomputer.com/news/security/texas-tech-university-system-data-breach-impacts-14-million-patients/)
-* [Kali Linux 2024.4 released with 14 new tools, deprecates some features](https://www.bleepingcomputer.com/news/security/kali-linux-20244-released-with-14-new-tools-deprecates-some-features/)
-* [Windows kernel bug now exploited in attacks to gain SYSTEM privileges](https://www.bleepingcomputer.com/news/security/windows-kernel-bug-now-exploited-in-attacks-to-gain-system-privileges/)
-* [Malicious ads push Lumma infostealer via fake CAPTCHA pages](https://www.bleepingcomputer.com/news/security/malicious-ads-push-lumma-infostealer-via-fake-captcha-pages/)
 <!--END_SECTION:feed-->
 
 <!--
