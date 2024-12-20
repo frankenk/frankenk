@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious Rspack, Vant packages published using stolen NPM tokens](https://www.bleepingcomputer.com/news/security/malicious-rspack-vant-packages-published-using-stolen-npm-tokens/)
 * [US charges Russian-Israeli as suspected LockBit ransomware coder](https://www.bleepingcomputer.com/news/security/us-charges-russian-israeli-as-suspected-lockbit-ransomware-coder/)
 * [Sophos Firewall vulnerable to critical remote code execution flaw](https://www.bleepingcomputer.com/news/security/sophos-firewall-vulnerable-to-critical-remote-code-execution-flaw/)
 * [Krispy Kreme breach, data theft claimed by Play ransomware gang](https://www.bleepingcomputer.com/news/security/krispy-kreme-breach-data-theft-claimed-by-play-ransomware-gang/)
 * [Ascension: Health data of 5.6 million stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/)
-* [Massive live sports piracy ring with 812 million yearly visits taken offline](https://www.bleepingcomputer.com/news/security/massive-live-sports-piracy-ring-with-812-million-yearly-visits-taken-offline/)
 <!--END_SECTION:feed-->
 
 <!--
