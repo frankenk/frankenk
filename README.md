@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Sophos Firewall vulnerable to critical remote code execution flaw](https://www.bleepingcomputer.com/news/security/sophos-firewall-vulnerable-to-critical-remote-code-execution-flaw/)
 * [Krispy Kreme breach, data theft claimed by Play ransomware gang](https://www.bleepingcomputer.com/news/security/krispy-kreme-breach-data-theft-claimed-by-play-ransomware-gang/)
 * [Ascension: Health data of 5.6 million stolen in ransomware attack](https://www.bleepingcomputer.com/news/security/ascension-health-data-of-56-million-stolen-in-ransomware-attack/)
 * [Massive live sports piracy ring with 812 million yearly visits taken offline](https://www.bleepingcomputer.com/news/security/massive-live-sports-piracy-ring-with-812-million-yearly-visits-taken-offline/)
 * [Romanian Netwalker ransomware affiliate sentenced to 20 years in prison](https://www.bleepingcomputer.com/news/security/romanian-netwalker-ransomware-affiliate-sentenced-to-20-years-in-prison/)
-* [BadBox malware botnet infects 192,000 Android devices despite disruption](https://www.bleepingcomputer.com/news/security/badbox-malware-botnet-infects-192-000-android-devices-despite-disruption/)
 <!--END_SECTION:feed-->
 
 <!--
