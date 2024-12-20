@@ -5,7 +5,7 @@
 * [BadBox malware botnet infects 192,000 Android devices despite disruption](https://www.bleepingcomputer.com/news/security/badbox-malware-botnet-infects-192-000-android-devices-despite-disruption/)
 * [Microsoft 365 users hit by random product deactivation errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-users-hit-by-random-product-deactivation-errors/)
 * [Android malware found on Amazon Appstore disguised as health app](https://www.bleepingcomputer.com/news/security/android-spyware-found-on-amazon-appstore-disguised-as-health-app/)
-* [Juniper warns of Mirai botnet targeting Session Smart routers](https://www.bleepingcomputer.com/news/security/juniper-warns-of-mirai-botnet-targeting-session-smart-routers/)
+* [Juniper warns of Mirai botnet scanning for Session Smart routers](https://www.bleepingcomputer.com/news/security/juniper-warns-of-mirai-botnet-scanning-for-session-smart-routers/)
 <!--END_SECTION:feed-->
 
 <!--
