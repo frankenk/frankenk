@@ -5,6 +5,10 @@
 * [US court finds spyware maker NSO liable for WhatsApp hacks](https://www.bleepingcomputer.com/news/security/us-court-finds-spyware-maker-nso-liable-for-whatsapp-hacks/)
 * [Apache fixes remote code execution bypass in Tomcat web server](https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/)
 * [Microsoft fixes bug behind random Office 365 deactivation errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-random-office-365-deactivation-errors/)
+* [North Korean hackers stole * [Premium WPLMS WordPress plugins address seven critical flaws](https://www.bleepingcomputer.com/news/security/premium-wplms-wordpress-plugins-address-seven-critical-flaws/)
+* [US court finds spyware maker NSO liable for WhatsApp hacks](https://www.bleepingcomputer.com/news/security/us-court-finds-spyware-maker-nso-liable-for-whatsapp-hacks/)
+* [Apache fixes remote code execution bypass in Tomcat web server](https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/)
+* [Microsoft fixes bug behind random Office 365 deactivation errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-random-office-365-deactivation-errors/)
 * [North Korean hackers stole * [Apache fixes remote code execution bypass in Tomcat web server](https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/)
 * [Microsoft fixes bug behind random Office 365 deactivation errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-random-office-365-deactivation-errors/)
 * [North Korean hackers stole * [Apache fixes remote code execution bypass in Tomcat web server](https://www.bleepingcomputer.com/news/security/apache-fixes-remote-code-execution-bypass-in-tomcat-web-server/)
@@ -25,7 +29,7 @@
 * [New FlowerStorm Microsoft phishing service fills void left by Rockstar2FA](https://www.bleepingcomputer.com/news/security/new-flowerstorm-microsoft-phishing-service-fills-void-left-by-rockstar2fa/)
 * [Google Chrome uses AI to analyze pages in new scam detection feature](https://www.bleepingcomputer.com/news/google/google-chrome-uses-ai-to-analyze-pages-in-new-scam-detection-feature/).3 billion worth of crypto this year](https://www.bleepingcomputer.com/news/security/north-korean-hackers-stole-13-billion-worth-of-crypto-this-year/)
 * [New FlowerStorm Microsoft phishing service fills void left by Rockstar2FA](https://www.bleepingcomputer.com/news/security/new-flowerstorm-microsoft-phishing-service-fills-void-left-by-rockstar2fa/)
-* [Google Chrome uses AI to analyze pages in new scam detection feature](https://www.bleepingcomputer.com/news/google/google-chrome-uses-ai-to-analyze-pages-in-new-scam-detection-feature/).3 billion worth of crypto this year](https://www.bleepingcomputer.com/news/security/north-korean-hackers-stole-13-billion-worth-of-crypto-this-year/)
+* [Google Chrome uses AI to analyze pages in new scam detection feature](https://www.bleepingcomputer.com/news/google/google-chrome-uses-ai-to-analyze-pages-in-new-scam-detection-feature/).3 billion worth of crypto this year](https://www.bleepingcomputer.com/news/security/north-korean-hackers-stole-13-billion-worth-of-crypto-this-year/).3 billion worth of crypto this year](https://www.bleepingcomputer.com/news/security/north-korean-hackers-stole-13-billion-worth-of-crypto-this-year/)
 <!--END_SECTION:feed-->
 
 <!--
