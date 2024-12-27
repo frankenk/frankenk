@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cybersecurity firm's Chrome extension hijacked to steal users' data](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extension-hijacked-to-steal-users-data/)
 * [Apache warns of critical flaws in MINA, HugeGraph, Traffic Control](https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/)
 * [New 'OtterCookie' malware used to backdoor devs in fake job offers](https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/)
 * [Windows 11 installation media bug causes security update failures](https://www.bleepingcomputer.com/news/security/windows-11-installation-media-bug-causes-security-update-failures/)
 * [Five lesser known Task Manager features in Windows 11](https://www.bleepingcomputer.com/news/microsoft/five-lesser-known-task-manager-features-in-windows-11/)
-* [New botnet exploits vulnerabilities in NVRs, TP-Link routers](https://www.bleepingcomputer.com/news/security/new-botnet-exploits-vulnerabilities-in-nvrs-tp-link-routers/)
 <!--END_SECTION:feed-->
 
 <!--
