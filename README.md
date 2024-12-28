@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Customer data from 800,000 electric cars and owners exposed online](https://www.bleepingcomputer.com/news/security/customer-data-from-800-000-electric-cars-and-owners-exposed-online/)
 * [White House links ninth telecom breach to Chinese hackers](https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/)
 * [Hackers exploit DoS flaw to disable Palo Alto Networks firewalls](https://www.bleepingcomputer.com/news/security/hackers-exploit-dos-flaw-to-disable-palo-alto-networks-firewalls/)
 * [Cybersecurity firm's Chrome extension hijacked to steal users' data](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extension-hijacked-to-steal-users-data/)
 * [Apache warns of critical flaws in MINA, HugeGraph, Traffic Control](https://www.bleepingcomputer.com/news/security/apache-warns-of-critical-flaws-in-mina-hugegraph-traffic-control/)
-* [New 'OtterCookie' malware used to backdoor devs in fake job offers](https://www.bleepingcomputer.com/news/security/new-ottercookie-malware-used-to-backdoor-devs-in-fake-job-offers/)
 <!--END_SECTION:feed-->
 
 <!--
