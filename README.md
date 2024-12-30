@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malware botnets exploit outdated D-Link routers in recent attacks](https://www.bleepingcomputer.com/news/security/malware-botnets-exploit-outdated-d-link-routers-in-recent-attacks/)
 * [Hackers steal ZAGG customers' credit cards in third-party breach](https://www.bleepingcomputer.com/news/security/hackers-steal-zagg-customers-credit-cards-in-third-party-breach/)
 * [Customer data from 800,000 electric cars and owners exposed online](https://www.bleepingcomputer.com/news/security/customer-data-from-800-000-electric-cars-and-owners-exposed-online/)
 * [White House links ninth telecom breach to Chinese hackers](https://www.bleepingcomputer.com/news/security/white-house-links-ninth-telecom-breach-to-chinese-hackers/)
 * [Hackers exploit DoS flaw to disable Palo Alto Networks firewalls](https://www.bleepingcomputer.com/news/security/hackers-exploit-dos-flaw-to-disable-palo-alto-networks-firewalls/)
-* [Cybersecurity firm's Chrome extension hijacked to steal users' data](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-chrome-extension-hijacked-to-steal-users-data/)
 <!--END_SECTION:feed-->
 
 <!--
