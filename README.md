@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach](https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/)
 * [New DoubleClickjacking attack exploits double-clicks to hijack accounts](https://www.bleepingcomputer.com/news/security/new-doubleclickjacking-attack-exploits-double-clicks-to-hijack-accounts/)
 * [Chinese hackers targeted sanctions office in Treasury attack](https://www.bleepingcomputer.com/news/security/chinese-hackers-targeted-sanctions-office-in-treasury-attack/)
 * [Over 3 million mail servers without encryption exposed to sniffing attacks](https://www.bleepingcomputer.com/news/security/over-3-million-mail-servers-without-encryption-exposed-to-sniffing-attacks/)
 * [The biggest cybersecurity and cyberattack stories of 2024](https://www.bleepingcomputer.com/news/security/the-biggest-cybersecurity-and-cyberattack-stories-of-2024/)
-* [New details reveal how hackers hijacked 35 Google Chrome extensions](https://www.bleepingcomputer.com/news/security/new-details-reveal-how-hackers-hijacked-35-google-chrome-extensions/)
 <!--END_SECTION:feed-->
 
 <!--
