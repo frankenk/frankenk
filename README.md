@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Bad Tenable plugin updates take down Nessus agents worldwide](https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/)
 * [US sanctions Chinese company linked to Flax Typhoon hackers](https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/)
 * [Malicious npm packages target Ethereum developers' private keys](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/)
 * [Apple offers $95 million in Siri privacy violation settlement](https://www.bleepingcomputer.com/news/security/apple-offers-95-million-in-siri-privacy-violation-settlement/)
 * [French govt contractor Atos denies Space Bears ransomware attack claims](https://www.bleepingcomputer.com/news/security/french-govt-contractor-atos-denies-space-bears-ransomware-attack-claims/)
-* [Ransomware gang leaks data stolen in Rhode Island's RIBridges Breach](https://www.bleepingcomputer.com/news/security/ransomware-gang-leaks-data-stolen-in-rhode-islands-ribridges-breach/)
 <!--END_SECTION:feed-->
 
 <!--
