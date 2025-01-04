@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Nuclei flaw bypasses template signature checks to execute commands](https://www.bleepingcomputer.com/news/security/nuclei-flaw-bypasses-template-signature-checks-to-execute-commands/)
 * [Google Chrome is making it easier to share specific parts of long PDFs](https://www.bleepingcomputer.com/news/google/google-chrome-is-making-it-easier-to-share-specific-parts-of-long-pdfs/)
 * [New FireScam Android malware poses as RuStore app to steal data](https://www.bleepingcomputer.com/news/security/new-firescam-android-malware-poses-as-rustore-app-to-steal-data/)
 * [Bad Tenable plugin updates take down Nessus agents worldwide](https://www.bleepingcomputer.com/news/security/bad-tenable-plugin-updates-take-down-nessus-agents-worldwide/)
 * [US sanctions Chinese company linked to Flax Typhoon hackers](https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-company-linked-to-flax-typhoon-hackers/)
-* [Malicious npm packages target Ethereum developers' private keys](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-target-ethereum-developers-private-keys/)
 <!--END_SECTION:feed-->
 
 <!--
