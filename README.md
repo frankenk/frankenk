@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft may have scrapped Windows 11's dynamic wallpapers feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-scrapped-windows-11s-dynamic-wallpapers-feature/)
 * [Windows 10 users urged to upgrade to avoid "security fiasco"](https://www.bleepingcomputer.com/news/microsoft/windows-10-users-urged-to-upgrade-to-avoid-security-fiasco/)
 * [Cryptocurrency wallet drainers stole $494 million in 2024](https://www.bleepingcomputer.com/news/security/cryptocurrency-wallet-drainers-stole-494-million-in-2024/)
 * [Nuclei flaw lets malicious templates bypass signature verification](https://www.bleepingcomputer.com/news/security/nuclei-flaw-lets-malicious-templates-bypass-signature-verification/)
 * [Google Chrome is making it easier to share specific parts of long PDFs](https://www.bleepingcomputer.com/news/google/google-chrome-is-making-it-easier-to-share-specific-parts-of-long-pdfs/)
-* [New FireScam Android data-theft malware poses as Telegram Premium app](https://www.bleepingcomputer.com/news/security/new-firescam-android-data-theft-malware-poses-as-telegram-premium-app/)
 <!--END_SECTION:feed-->
 
 <!--
