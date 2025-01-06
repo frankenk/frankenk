@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Vulnerable Moxa devices expose industrial networks to attacks](https://www.bleepingcomputer.com/news/security/vulnerable-moxa-devices-expose-industrial-networks-to-attacks/)
 * [Chinese hackers also breached Charter and Windstream networks](https://www.bleepingcomputer.com/news/security/charter-and-windstream-among-nine-us-telecoms-hacked-by-china/)
 * [Eagerbee backdoor deployed against Middle Eastern govt orgs, ISPs](https://www.bleepingcomputer.com/news/security/eagerbee-backdoor-deployed-against-middle-eastern-govt-orgs-isps/)
 * [Microsoft Bing shows misleading Google-like page for 'Google' searches](https://www.bleepingcomputer.com/news/microsoft/microsoft-bing-shows-misleading-google-like-page-for-google-searches/)
 * [Microsoft may have scrapped Windows 11's dynamic wallpapers feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-have-scrapped-windows-11s-dynamic-wallpapers-feature/)
-* [Windows 10 users urged to upgrade to avoid "security fiasco"](https://www.bleepingcomputer.com/news/microsoft/windows-10-users-urged-to-upgrade-to-avoid-security-fiasco/)
 <!--END_SECTION:feed-->
 
 <!--
