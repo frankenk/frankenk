@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Casio says data of 8,500 people exposed in October ransomware attack](https://www.bleepingcomputer.com/news/security/casio-says-data-of-8-500-people-exposed-in-october-ransomware-attack/)
 * [New Mirai botnet targets industrial routers with zero-day exploits](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-targets-industrial-routers-with-zero-day-exploits/)
 * [US govt launches cybersecurity safety label for smart devices](https://www.bleepingcomputer.com/news/security/us-govt-launches-cybersecurity-safety-label-for-smart-devices/)
 * [BIOS flaws expose iSeq DNA sequencers to bootkit attacks](https://www.bleepingcomputer.com/news/security/bios-flaws-expose-iseq-dna-sequencers-to-bootkit-attacks/)
 * [CISA warns of critical Oracle, Mitel flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-oracle-mitel-flaws-exploited-in-attacks/)
-* [Washington state sues T-Mobile over 2021 data breach security failures](https://www.bleepingcomputer.com/news/legal/washington-state-sues-t-mobile-over-2021-data-breach-security-failures/)
 <!--END_SECTION:feed-->
 
 <!--
