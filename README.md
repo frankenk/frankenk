@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UN aviation agency investigating 'potential' security breach](https://www.bleepingcomputer.com/news/security/un-aviation-agency-investigating-potential-security-breach/)
+* [Telegram hands over data on thousands of users to US law enforcement](https://www.bleepingcomputer.com/news/legal/telegram-hands-over-data-on-thousands-of-users-to-us-law-enforcement/)
 * [Malicious Browser Extensions are the Next Frontier for Identity Attacks](https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-are-the-next-frontier-for-identity-attacks/)
 * [Green Bay Packers' online store hacked to steal credit cards](https://www.bleepingcomputer.com/news/security/green-bay-packers-online-store-hacked-to-steal-credit-cards/)
 * [CISA says recent government hack limited to US Treasury](https://www.bleepingcomputer.com/news/security/cisa-says-recent-government-hack-limited-to-us-treasury/)
-* [Vulnerable Moxa devices expose industrial networks to attacks](https://www.bleepingcomputer.com/news/security/vulnerable-moxa-devices-expose-industrial-networks-to-attacks/)
-* [Chinese hackers also breached Charter and Windstream networks](https://www.bleepingcomputer.com/news/security/charter-and-windstream-among-nine-us-telecoms-hacked-by-china/)
 <!--END_SECTION:feed-->
 
 <!--
