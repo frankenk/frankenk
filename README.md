@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA warns of critical Oracle, Mitel flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-oracle-mitel-flaws-exploited-in-attacks/)
 * [Washington state sues T-Mobile over 2021 data breach security failures](https://www.bleepingcomputer.com/news/legal/washington-state-sues-t-mobile-over-2021-data-breach-security-failures/)
 * [UN aviation agency investigating 'potential' security breach](https://www.bleepingcomputer.com/news/security/un-aviation-agency-investigating-potential-security-breach/)
 * [Telegram hands over data on thousands of users to US law enforcement](https://www.bleepingcomputer.com/news/legal/telegram-hands-over-data-on-thousands-of-users-to-us-law-enforcement/)
 * [Malicious Browser Extensions are the Next Frontier for Identity Attacks](https://www.bleepingcomputer.com/news/security/malicious-browser-extensions-are-the-next-frontier-for-identity-attacks/)
-* [Green Bay Packers' online store hacked to steal credit cards](https://www.bleepingcomputer.com/news/security/green-bay-packers-online-store-hacked-to-steal-credit-cards/)
 <!--END_SECTION:feed-->
 
 <!--
