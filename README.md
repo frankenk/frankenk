@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Thousands of credit cards stolen in Green Bay Packers store breach](https://www.bleepingcomputer.com/news/security/thousands-of-credit-cards-stolen-in-green-bay-packers-store-breach/)
 * [UN aviation agency confirms recruitment database security breach](https://www.bleepingcomputer.com/news/security/un-aviation-agency-confirms-recruitment-database-security-breach/)
 * [PowerSchool hack exposes student, teacher data from K-12 districts](https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/)
 * [Casio says data of 8,500 people exposed in October ransomware attack](https://www.bleepingcomputer.com/news/security/casio-says-data-of-8-500-people-exposed-in-october-ransomware-attack/)
 * [New Mirai botnet targets industrial routers with zero-day exploits](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-targets-industrial-routers-with-zero-day-exploits/)
-* [US govt launches cybersecurity safety label for smart devices](https://www.bleepingcomputer.com/news/security/us-govt-launches-cybersecurity-safety-label-for-smart-devices/)
 <!--END_SECTION:feed-->
 
 <!--
