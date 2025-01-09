@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Banshee stealer evades detection using Apple XProtect encryption algo](https://www.bleepingcomputer.com/news/security/banshee-stealer-evades-detection-using-apple-xprotect-encryption-algo/)
+* [Microsoft fixes OneDrive bug causing macOS app freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-onedrive-bug-causing-macos-app-freezes/)
 * [Proton Mail still down as Proton recovers from worldwide outage](https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/)
 * [MirrorFace hackers targeting Japanese govt, politicians since 2019](https://www.bleepingcomputer.com/news/security/mirrorface-hackers-targeting-japanese-govt-politicians-since-2019/)
 * [US Treasury hack linked to Silk Typhoon Chinese state hackers](https://www.bleepingcomputer.com/news/security/us-treasury-hack-linked-to-silk-typhoon-chinese-state-hackers/)
-* [Google: Chinese hackers likely behind Ivanti VPN zero-day attacks](https://www.bleepingcomputer.com/news/security/google-chinese-hackers-likely-behind-ivanti-vpn-zero-day-attacks/)
-* [Criminal IP: Bringing Real-Time Phishing Detection to Microsoft Outlook](https://www.bleepingcomputer.com/news/security/criminal-ip-bringing-real-time-phishing-detection-to-microsoft-outlook/)
 <!--END_SECTION:feed-->
 
 <!--
