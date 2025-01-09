@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fake CrowdStrike job offer emails target devs with crypto miners](https://www.bleepingcomputer.com/news/security/fake-crowdstrike-job-offer-emails-target-devs-with-crypto-miners/)
+* [Largest US addiction treatment provider notifies patients of data breach](https://www.bleepingcomputer.com/news/security/largest-us-addiction-treatment-provider-notifies-patients-of-data-breach/)
 * [Banshee stealer evades detection using Apple XProtect encryption algo](https://www.bleepingcomputer.com/news/security/banshee-stealer-evades-detection-using-apple-xprotect-encryption-algo/)
 * [Microsoft fixes OneDrive bug causing macOS app freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-onedrive-bug-causing-macos-app-freezes/)
 * [Proton Mail still down as Proton recovers from worldwide outage](https://www.bleepingcomputer.com/news/technology/proton-mail-still-down-as-proton-recovers-from-worldwide-outage/)
-* [MirrorFace hackers targeting Japanese govt, politicians since 2019](https://www.bleepingcomputer.com/news/security/mirrorface-hackers-targeting-japanese-govt-politicians-since-2019/)
-* [US Treasury hack linked to Silk Typhoon Chinese state hackers](https://www.bleepingcomputer.com/news/security/us-treasury-hack-linked-to-silk-typhoon-chinese-state-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
