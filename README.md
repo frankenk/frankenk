@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US Treasury hack linked to Silk Typhoon Chinese state hackers](https://www.bleepingcomputer.com/news/security/us-treasury-hack-linked-to-silk-typhoon-chinese-state-hackers/)
+* [Google: Chinese hackers likely behind Ivanti VPN zero-day attacks](https://www.bleepingcomputer.com/news/security/google-chinese-hackers-likely-behind-ivanti-vpn-zero-day-attacks/)
 * [Criminal IP: Bringing Real-Time Phishing Detection to Microsoft Outlook](https://www.bleepingcomputer.com/news/security/criminal-ip-bringing-real-time-phishing-detection-to-microsoft-outlook/)
-* [Microsoft fixes bug causing Outlook freezes when copying text](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-freezes-when-copying-text/)
+* [Microsoft fixes bug causing Outlook to freeze when copying text](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-outlook-to-freeze-when-copying-text/)
 * [Unpatched critical flaws impact Fancy Product Designer WordPress plugin](https://www.bleepingcomputer.com/news/security/unpatched-critical-flaws-impact-fancy-product-designer-wordpress-plugin/)
-* [Ivanti warns of new Connect Secure flaw used in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-connect-secure-flaw-used-in-zero-day-attacks/)
-* [Russian ISP confirms Ukrainian hackers "destroyed" its network](https://www.bleepingcomputer.com/news/security/russian-isp-confirms-ukrainian-hackers-destroyed-its-network/)
 <!--END_SECTION:feed-->
 
 <!--
