@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Web3 attack exploits transaction simulations to steal crypto](https://www.bleepingcomputer.com/news/security/new-web3-attack-exploits-transaction-simulations-to-steal-crypto/)
 * [US charges operators of cryptomixers linked to ransomware gangs](https://www.bleepingcomputer.com/news/security/us-charges-operators-of-cryptomixers-linked-to-ransomware-gangs/)
 * [Treasury hackers also breached US foreign investments review office](https://www.bleepingcomputer.com/news/security/treasury-hackers-also-breached-us-foreign-investments-review-office/)
 * [Docker Desktop blocked on Macs due to false malware alert](https://www.bleepingcomputer.com/news/security/docker-desktop-blocked-on-macs-due-to-false-malware-alert/)
 * [Proton worldwide outage caused by Kubernetes migration, software change](https://www.bleepingcomputer.com/news/technology/proton-worldwide-outage-caused-by-kubernetes-migration-software-change/)
-* [STIIIZY data breach exposes cannabis buyers’ IDs and purchases](https://www.bleepingcomputer.com/news/security/stiiizy-data-breach-exposes-cannabis-buyers-ids-and-purchases/)
 <!--END_SECTION:feed-->
 
 <!--
