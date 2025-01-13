@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit critical Aviatrix Controller RCE flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-aviatrix-controller-rce-flaw-in-attacks/)
 * [UK domain registry Nominet confirms breach via Ivanti zero-day](https://www.bleepingcomputer.com/news/security/uk-domain-registry-nominet-confirms-breach-via-ivanti-zero-day-vulnerability/)
 * [Ransomware abuses Amazon AWS feature to encrypt S3 buckets](https://www.bleepingcomputer.com/news/security/ransomware-abuses-amazon-aws-feature-to-encrypt-s3-buckets/)
 * [Microsoft MFA outage blocking access to Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-mfa-outage-blocking-access-to-microsoft-365-apps/)
 * [Phishing texts trick Apple iMessage users into disabling protection](https://www.bleepingcomputer.com/news/security/phishing-texts-trick-apple-imessage-users-into-disabling-protection/)
-* [Pastor who saw crypto project in his "dream" indicted for fraud](https://www.bleepingcomputer.com/news/legal/pastor-who-saw-crypto-project-in-his-dream-indicted-for-fraud/)
 <!--END_SECTION:feed-->
 
 <!--
