@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OneBlood confirms personal data stolen in July ransomware attack](https://www.bleepingcomputer.com/news/security/oneblood-confirms-personal-data-stolen-in-july-ransomware-attack/)
 * [CISA orders agencies to patch BeyondTrust bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-beyondtrust-bug-exploited-in-attacks/)
 * [Stolen Path of Exile 2 admin account used to hack player accounts](https://www.bleepingcomputer.com/news/security/stolen-path-of-exile-2-admin-account-used-to-hack-player-accounts/)
 * [Microsoft: macOS bug lets hackers install malicious kernel drivers](https://www.bleepingcomputer.com/news/security/microsoft-macos-bug-lets-hackers-install-malicious-kernel-drivers/)
 * [Hackers exploit critical Aviatrix Controller RCE flaw in attacks](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-aviatrix-controller-rce-flaw-in-attacks/)
-* [UK domain registry Nominet confirms breach via Ivanti zero-day](https://www.bleepingcomputer.com/news/security/uk-domain-registry-nominet-confirms-breach-via-ivanti-zero-day-vulnerability/)
 <!--END_SECTION:feed-->
 
 <!--
