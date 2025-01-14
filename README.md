@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US govt says North Korea stole over $659 million in crypto last year](https://www.bleepingcomputer.com/news/security/us-govt-says-north-korea-stole-over-659-million-in-crypto-last-year/)
+* [Windows 10 KB5049981 update released with new BYOVD blocklist](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5049981-update-released-with-new-byovd-blocklist/)
 * [Microsoft January 2025 Patch Tuesday fixes 8 zero-days, 159 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2025-patch-tuesday-fixes-8-zero-days-159-flaws/)
 * [Windows 11 KB5050009 & KB5050021  cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5050009-and-kb5050021-cumulative-updates-released/)
 * [Google OAuth flaw lets attackers gain access to abandoned accounts](https://www.bleepingcomputer.com/news/security/google-oauth-flaw-lets-attackers-gain-access-to-abandoned-accounts/)
-* [FBI wipes Chinese PlugX malware from over 4,000 US computers](https://www.bleepingcomputer.com/news/security/fbi-wipes-chinese-plugx-malware-from-over-4-000-us-computers/)
-* [Hackers use FastHTTP in new high-speed Microsoft 365 password attacks](https://www.bleepingcomputer.com/news/security/hackers-use-fasthttp-in-new-high-speed-microsoft-365-password-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
