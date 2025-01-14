@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google OAuth flaw lets attackers gain access to abandoned accounts](https://www.bleepingcomputer.com/news/security/google-oauth-flaw-lets-attackers-gain-access-to-abandoned-accounts/)
 * [FBI wipes Chinese PlugX malware from over 4,000 US computers](https://www.bleepingcomputer.com/news/security/fbi-wipes-chinese-plugx-malware-from-over-4-000-us-computers/)
 * [Hackers use FastHTTP in new high-speed Microsoft 365 password attacks](https://www.bleepingcomputer.com/news/security/hackers-use-fasthttp-in-new-high-speed-microsoft-365-password-attacks/)
 * [Fortinet warns of auth bypass zero-day exploited to hijack firewalls](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-auth-bypass-zero-day-exploited-to-hijack-firewalls/)
 * [Microsoft 365 apps crash on Windows Server after Office update](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-crash-on-windows-server-after-office-update/)
-* [OneBlood confirms personal data stolen in July ransomware attack](https://www.bleepingcomputer.com/news/security/oneblood-confirms-personal-data-stolen-in-july-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
