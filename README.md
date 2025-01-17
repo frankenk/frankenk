@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Office 365 apps crashing on Windows Server systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-office-365-apps-crashing-on-windows-server-systems/)
+* [US sanctions Chinese firm, hacker behind telecom and Treasury hacks](https://www.bleepingcomputer.com/news/security/us-sanctions-chinese-firm-hacker-behind-telecom-and-treasury-hacks/)
 * [FCC orders telecoms to secure their networks after Salt Tyhpoon hacks](https://www.bleepingcomputer.com/news/security/fcc-orders-telecoms-to-secure-their-networks-after-salt-tyhpoon-hacks/)
 * [Microsoft starts force upgrading Windows 11 22H2, 23H3 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-force-upgrading-windows-11-22h2-23h3-devices/)
 * [GDPR complaints filed against TikTok, Temu for sending user data to China](https://www.bleepingcomputer.com/news/security/gdpr-complaints-filed-against-tiktok-temu-for-sending-user-data-to-china/)
-* [W3 Total Cache plugin flaw exposes 1 million WordPress sites to attacks](https://www.bleepingcomputer.com/news/security/w3-total-cache-plugin-flaw-exposes-1-million-wordpress-sites-to-attacks/)
-* [Microsoft expands testing of Windows 11 admin protection feature](https://www.bleepingcomputer.com/news/security/microsoft-expands-testing-of-windows-11-admin-protection-feature/)
 <!--END_SECTION:feed-->
 
 <!--
