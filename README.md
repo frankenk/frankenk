@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [TikTok shuts down in the US as Trump throws the company a lifeline](https://www.bleepingcomputer.com/news/software/tiktok-shuts-down-in-the-us-as-trump-throws-the-company-a-lifeline/)
+* [Star Blizzard hackers abuse WhatsApp to target high-value diplomats](https://www.bleepingcomputer.com/news/security/star-blizzard-hackers-abuse-whatsapp-to-target-high-value-diplomats/)
 * [FTC orders GM to stop collecting and selling driver’s data](https://www.bleepingcomputer.com/news/legal/ftc-orders-gm-to-stop-collecting-and-selling-drivers-data/)
 * [Microsoft removes Assassin’s Creed Windows 11 upgrade blocks](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-assassins-creed-windows-11-upgrade-blocks/)
 * [FTC cracks down on Genshin Impact gacha loot box practices](https://www.bleepingcomputer.com/news/gaming/ftc-cracks-down-on-genshin-impact-gacha-loot-box-practices/)
-* [Otelier data breach exposes info, hotel reservations of millions](https://www.bleepingcomputer.com/news/security/otelier-data-breach-exposes-info-hotel-reservations-of-millions/)
-* [Malicious PyPi package steals Discord auth tokens from devs](https://www.bleepingcomputer.com/news/security/malicious-pypi-package-steals-discord-auth-tokens-from-devs/)
 <!--END_SECTION:feed-->
 
 <!--
