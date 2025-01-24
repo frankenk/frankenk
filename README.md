@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Subaru Starlink flaw let hackers hijack cars in US and Canada](https://www.bleepingcomputer.com/news/security/subaru-starlink-flaw-let-hackers-hijack-cars-in-us-and-canada/)
+* [Hackers use Windows RID hijacking to create hidden admin account](https://www.bleepingcomputer.com/news/security/hackers-use-windows-rid-hijacking-to-create-hidden-admin-account/)
 * [Hacker infects 18,000 "script kiddies" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
 * [Microsoft: Outdated Exchange servers fail to auto-mitigate security bugs](https://www.bleepingcomputer.com/news/security/microsoft-outdated-exchange-servers-fail-to-auto-mitigate-security-bugs/)
 * [Managed Detection and Response – How are you monitoring?](https://www.bleepingcomputer.com/news/security/managed-detection-and-response-how-are-you-monitoring/)
-* [Hackers get $886,250 for 49 zero-days at Pwn2Own Automotive 2025](https://www.bleepingcomputer.com/news/security/hackers-get-886-250-for-49-zero-days-at-pwn2own-automotive-2025/)
-* [FBI: North Korean IT workers steal source code to extort employers](https://www.bleepingcomputer.com/news/security/fbi-north-korean-it-workers-steal-source-code-to-extort-employers/)
 <!--END_SECTION:feed-->
 
 <!--
