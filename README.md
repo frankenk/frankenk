@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Zyxel warns of bad signature update causing firewall boot loops](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/)
+* [Microsoft to deprecate WSUS driver synchronization in 90 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-wsus-driver-synchronization-in-90-days/)
 * [Subaru Starlink flaw let hackers hijack cars in US and Canada](https://www.bleepingcomputer.com/news/security/subaru-starlink-flaw-let-hackers-hijack-cars-in-us-and-canada/)
 * [Hackers use Windows RID hijacking to create hidden admin account](https://www.bleepingcomputer.com/news/security/hackers-use-windows-rid-hijacking-to-create-hidden-admin-account/)
 * [Hacker infects 18,000 "script kiddies" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
-* [Microsoft: Outdated Exchange servers fail to auto-mitigate security bugs](https://www.bleepingcomputer.com/news/security/microsoft-outdated-exchange-servers-fail-to-auto-mitigate-security-bugs/)
-* [Managed Detection and Response – How are you monitoring?](https://www.bleepingcomputer.com/news/security/managed-detection-and-response-how-are-you-monitoring/)
 <!--END_SECTION:feed-->
 
 <!--
