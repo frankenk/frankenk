@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PayPal to pay $2 million settlement over 2022 data breach](https://www.bleepingcomputer.com/news/security/paypal-to-pay-2-million-settlement-over-2022-data-breach/)
 * [Zyxel warns of bad signature update causing firewall boot loops](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/)
 * [Microsoft to deprecate WSUS driver synchronization in 90 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-wsus-driver-synchronization-in-90-days/)
 * [Subaru Starlink flaw let hackers hijack cars in US and Canada](https://www.bleepingcomputer.com/news/security/subaru-starlink-flaw-let-hackers-hijack-cars-in-us-and-canada/)
 * [Hackers use Windows RID hijacking to create hidden admin account](https://www.bleepingcomputer.com/news/security/hackers-use-windows-rid-hijacking-to-create-hidden-admin-account/)
-* [Hacker infects 18,000 "script kiddies" with fake malware builder](https://www.bleepingcomputer.com/news/security/hacker-infects-18-000-script-kiddies-with-fake-malware-builder/)
 <!--END_SECTION:feed-->
 
 <!--
