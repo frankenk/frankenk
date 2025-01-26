@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UnitedHealth now says 190 million impacted by 2024 data breach](https://www.bleepingcomputer.com/news/security/unitedhealth-now-says-190-million-impacted-by-2024-data-breach/)
+* [Ransomware gang uses SSH tunnels for stealthy VMware ESXi access](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ssh-tunnels-for-stealthy-vmware-esxi-access/)
 * [TalkTalk investigates breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/talktalk-investigates-breach-after-data-for-sale-on-hacking-forum/)
 * [PayPal to pay $2 million settlement over 2022 data breach](https://www.bleepingcomputer.com/news/security/paypal-to-pay-2-million-settlement-over-2022-data-breach/)
 * [Zyxel warns of bad signature update causing firewall boot loops](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/)
-* [Microsoft to deprecate WSUS driver synchronization in 90 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-wsus-driver-synchronization-in-90-days/)
-* [Subaru Starlink flaw let hackers hijack cars in US and Canada](https://www.bleepingcomputer.com/news/security/subaru-starlink-flaw-let-hackers-hijack-cars-in-us-and-canada/)
 <!--END_SECTION:feed-->
 
 <!--
