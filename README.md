@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DeepSeek halts new signups amid "large-scale" cyberattack](https://www.bleepingcomputer.com/news/security/deepseek-halts-new-signups-amid-large-scale-cyberattack/)
 * [Bitwarden makes it harder to hack password vaults without MFA](https://www.bleepingcomputer.com/news/security/bitwarden-makes-it-harder-to-hack-password-vaults-without-mfa/)
 * [Microsoft: January Windows security updates break audio playback](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-windows-security-updates-break-audio-playback/)
 * [Apple fixes this year’s first actively exploited zero-day bug](https://www.bleepingcomputer.com/news/security/apple-fixes-this-years-first-actively-exploited-zero-day-bug/)
 * [EU sanctions Russian GRU hackers for cyberattacks against Estonia](https://www.bleepingcomputer.com/news/security/eu-sanctions-russian-gru-hackers-for-cyberattacks-against-estonia/)
-* [Windows 11 24H2 preview brings new taskbar features](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-preview-brings-new-taskbar-features/)
 <!--END_SECTION:feed-->
 
 <!--
