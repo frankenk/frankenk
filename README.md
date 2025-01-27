@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Clone2Leak attacks exploit Git flaws to steal credentials](https://www.bleepingcomputer.com/news/security/clone2leak-attacks-exploit-git-flaws-to-steal-credentials/)
 * [UnitedHealth now says 190 million impacted by 2024 data breach](https://www.bleepingcomputer.com/news/security/unitedhealth-now-says-190-million-impacted-by-2024-data-breach/)
 * [Ransomware gang uses SSH tunnels for stealthy VMware ESXi access](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ssh-tunnels-for-stealthy-vmware-esxi-access/)
 * [TalkTalk investigates breach after data for sale on hacking forum](https://www.bleepingcomputer.com/news/security/talktalk-investigates-breach-after-data-for-sale-on-hacking-forum/)
 * [PayPal to pay $2 million settlement over 2022 data breach](https://www.bleepingcomputer.com/news/security/paypal-to-pay-2-million-settlement-over-2022-data-breach/)
-* [Zyxel warns of bad signature update causing firewall boot loops](https://www.bleepingcomputer.com/news/security/zyxel-warns-of-bad-signature-update-causing-firewall-boot-loops/)
 <!--END_SECTION:feed-->
 
 <!--
