@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft tests Edge Scareware Blocker to block tech support scams](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-edge-scareware-blocker-to-block-tech-support-scams/)
 * [DeepSeek halts new signups amid "large-scale" cyberattack](https://www.bleepingcomputer.com/news/security/deepseek-halts-new-signups-amid-large-scale-cyberattack/)
 * [Bitwarden makes it harder to hack password vaults without MFA](https://www.bleepingcomputer.com/news/security/bitwarden-makes-it-harder-to-hack-password-vaults-without-mfa/)
 * [Microsoft: January Windows security updates break audio playback](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-windows-security-updates-break-audio-playback/)
 * [Apple fixes this year’s first actively exploited zero-day bug](https://www.bleepingcomputer.com/news/security/apple-fixes-this-years-first-actively-exploited-zero-day-bug/)
-* [EU sanctions Russian GRU hackers for cyberattacks against Estonia](https://www.bleepingcomputer.com/news/security/eu-sanctions-russian-gru-hackers-for-cyberattacks-against-estonia/)
 <!--END_SECTION:feed-->
 
 <!--
