@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google to kill Chrome Sync on older Chrome browser versions](https://www.bleepingcomputer.com/news/google/google-to-kill-chrome-sync-on-older-chrome-browser-versions/)
 * [Garmin GPS watches crashing, stuck in triangle 'reboot loop'](https://www.bleepingcomputer.com/news/technology/garmin-gps-watches-crashing-stuck-in-triangle-reboot-loop/)
 * [New Apple CPU side-channel attacks steal data from browsers](https://www.bleepingcomputer.com/news/security/new-apple-cpu-side-channel-attack-steals-data-from-browsers/)
 * [Engineering giant Smiths Group discloses security breach](https://www.bleepingcomputer.com/news/security/engineering-giant-smiths-group-discloses-security-breach/)
 * [Signal will let you sync old messages when linking new devices](https://www.bleepingcomputer.com/news/security/signal-will-let-you-sync-old-messages-when-linking-new-devices/)
-* [PowerSchool starts notifying victims of massive data breach](https://www.bleepingcomputer.com/news/security/powerschool-starts-notifying-victims-of-massive-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
