@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Signal will let you sync old messages when linking new devices](https://www.bleepingcomputer.com/news/security/signal-will-let-you-sync-old-messages-when-linking-new-devices/)
 * [PowerSchool starts notifying victims of massive data breach](https://www.bleepingcomputer.com/news/security/powerschool-starts-notifying-victims-of-massive-data-breach/)
 * [What's Yours is Mine: Is Your Business Ready for Cryptojacking Attacks?](https://www.bleepingcomputer.com/news/security/whats-yours-is-mine-is-your-business-ready-for-cryptojacking-attacks/)
 * [Microsoft tests Edge Scareware Blocker to block tech support scams](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-edge-scareware-blocker-to-block-tech-support-scams/)
 * [DeepSeek halts new signups amid "large-scale" cyberattack](https://www.bleepingcomputer.com/news/security/deepseek-halts-new-signups-amid-large-scale-cyberattack/)
-* [Bitwarden makes it harder to hack password vaults without MFA](https://www.bleepingcomputer.com/news/security/bitwarden-makes-it-harder-to-hack-password-vaults-without-mfa/)
 <!--END_SECTION:feed-->
 
 <!--
