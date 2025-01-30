@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The Advantages of Cloud-Based Remote Desktop versus RDP over VPN](https://www.bleepingcomputer.com/news/security/the-advantages-of-cloud-based-remote-desktop-versus-rdp-over-vpn/)
 * [Major GitHub outage affects pull requests and other services](https://www.bleepingcomputer.com/news/technology/major-github-outage-affects-pull-requests-and-other-services/)
 * [New Syncjacking attack hijacks devices using Chrome extensions](https://www.bleepingcomputer.com/news/security/new-syncjacking-attack-hijacks-devices-using-chrome-extensions/)
 * [Microsoft lifts Windows 11 update block for PCs with gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-update-block-for-pcs-with-gaming-issues/)
 * [Police seizes Cracked and Nulled hacking forum servers, arrests suspects](https://www.bleepingcomputer.com/news/security/police-seizes-cracked-and-nulled-hacking-forum-servers-arrests-suspects/)
-* [Time Bandit ChatGPT jailbreak bypasses safeguards on sensitive topics](https://www.bleepingcomputer.com/news/security/time-bandit-chatgpt-jailbreak-bypasses-safeguards-on-sensitive-topics/)
 <!--END_SECTION:feed-->
 
 <!--
