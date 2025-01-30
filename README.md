@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google blocked 2.36 million risky Android apps from Play Store in 2024](https://www.bleepingcomputer.com/news/security/google-blocked-236-million-risky-android-apps-from-play-store-in-2024/)
 * [Ransomware attack disrupts New York blood donation giant](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-new-york-blood-donation-giant/)
 * [DeepSeek exposes database with over 1 million chat records](https://www.bleepingcomputer.com/news/security/deepseek-exposes-database-with-over-1-million-chat-records/)
 * [The Advantages of Cloud-Based Remote Desktop versus RDP over VPN](https://www.bleepingcomputer.com/news/security/the-advantages-of-cloud-based-remote-desktop-versus-rdp-over-vpn/)
 * [Major GitHub outage affects pull requests and other services](https://www.bleepingcomputer.com/news/technology/major-github-outage-affects-pull-requests-and-other-services/)
-* [New Syncjacking attack hijacks devices using Chrome extensions](https://www.bleepingcomputer.com/news/security/new-syncjacking-attack-hijacks-devices-using-chrome-extensions/)
 <!--END_SECTION:feed-->
 
 <!--
