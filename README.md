@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [US healthcare provider data breach impacts 1 million patients](https://www.bleepingcomputer.com/news/security/us-healthcare-provider-data-breach-impacts-1-million-patients/)
+* [Indian tech giant Tata Technologies hit by ransomware attack](https://www.bleepingcomputer.com/news/security/indian-tech-giant-tata-technologies-hit-by-ransomware-attack/)
+* [Globe Life data breach may impact an additional 850,000 clients](https://www.bleepingcomputer.com/news/security/globe-life-data-breach-may-impact-an-additional-850-000-clients/)
+* [Mizuno USA says hackers stayed in its network for two months](https://www.bleepingcomputer.com/news/security/mizuno-usa-says-hackers-stayed-in-its-network-for-two-months/)
+* [US healthcare provider data breach impacts 1 million patients](https://www.bleepingcomputer.com/news/security/data-breach-at-us-healthcare-provider-chc-impacts-1-million-patients/)
 * [Police dismantles HeartSender cybercrime marketplace network](https://www.bleepingcomputer.com/news/security/police-dismantles-heartsender-cybercrime-marketplace-network/)
-* [KuCoin to pay nearly $300 million in penalties after guilty plea](https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-to-pay-nearly-300-million-in-penalties-after-guilty-plea/)
-* [Backdoor found in two healthcare patient monitors, linked to IP in China](https://www.bleepingcomputer.com/news/security/backdoor-found-in-two-healthcare-patient-monitors-linked-to-ip-in-china/)
-* [Google blocked 2.36 million risky Android apps from Play Store in 2024](https://www.bleepingcomputer.com/news/security/google-blocked-236-million-risky-android-apps-from-play-store-in-2024/)
 <!--END_SECTION:feed-->
 
 <!--
