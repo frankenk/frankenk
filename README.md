@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police dismantles HeartSender cybercrime marketplace network](https://www.bleepingcomputer.com/news/security/police-dismantles-heartsender-cybercrime-marketplace-network/)
 * [KuCoin to pay nearly $300 million in penalties after guilty plea](https://www.bleepingcomputer.com/news/cryptocurrency/kucoin-to-pay-nearly-300-million-in-penalties-after-guilty-plea/)
 * [Backdoor found in two healthcare patient monitors, linked to IP in China](https://www.bleepingcomputer.com/news/security/backdoor-found-in-two-healthcare-patient-monitors-linked-to-ip-in-china/)
 * [Google blocked 2.36 million risky Android apps from Play Store in 2024](https://www.bleepingcomputer.com/news/security/google-blocked-236-million-risky-android-apps-from-play-store-in-2024/)
 * [Ransomware attack disrupts New York blood donation giant](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-new-york-blood-donation-giant/)
-* [DeepSeek exposes database with over 1 million chat records](https://www.bleepingcomputer.com/news/security/deepseek-exposes-database-with-over-1-million-chat-records/)
 <!--END_SECTION:feed-->
 
 <!--
