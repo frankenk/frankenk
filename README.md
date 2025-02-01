@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google says hackers abuse Gemini AI to empower their attacks](https://www.bleepingcomputer.com/news/security/google-says-hackers-abuse-gemini-ai-to-empower-their-attacks/)
 * [Microsoft improves text contrast for all Windows Chromium browsers](https://www.bleepingcomputer.com/news/microsoft/microsoft-improves-text-contrast-for-all-windows-chromium-browsers/)
 * [Indian tech giant Tata Technologies hit by ransomware attack](https://www.bleepingcomputer.com/news/security/indian-tech-giant-tata-technologies-hit-by-ransomware-attack/)
 * [Globe Life data breach may impact an additional 850,000 clients](https://www.bleepingcomputer.com/news/security/globe-life-data-breach-may-impact-an-additional-850-000-clients/)
 * [Mizuno USA says hackers stayed in its network for two months](https://www.bleepingcomputer.com/news/security/mizuno-usa-says-hackers-stayed-in-its-network-for-two-months/)
-* [US healthcare provider data breach impacts 1 million patients](https://www.bleepingcomputer.com/news/security/data-breach-at-us-healthcare-provider-chc-impacts-1-million-patients/)
 <!--END_SECTION:feed-->
 
 <!--
