@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes Android kernel zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/)
 * [Canadian charged with stealing $65 million using DeFI crypto exploits](https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/)
 * [Casio UK online store hacked to steal customer credit cards](https://www.bleepingcomputer.com/news/security/casio-uk-online-store-hacked-to-steal-customer-credit-cards/)
 * [Microsoft kills off Defender 'Privacy Protection' VPN feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-off-defender-privacy-protection-vpn-feature/)
 * [DeepSeek AI tools impersonated by infostealer malware on PyPI](https://www.bleepingcomputer.com/news/security/deepseek-ai-tools-impersonated-by-infostealer-malware-on-pypi/)
-* [PyPI adds project archiving system to stop malicious updates](https://www.bleepingcomputer.com/news/security/pypi-adds-project-archiving-system-to-stop-malicious-updates/)
 <!--END_SECTION:feed-->
 
 <!--
