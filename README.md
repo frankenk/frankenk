@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [First Apple-notarized porn app available to iPhone users in Europe](https://www.bleepingcomputer.com/news/apple/first-apple-notarized-porn-app-available-to-iphone-users-in-europe/)
 * [Amazon Redshift gets new default settings to prevent data breaches](https://www.bleepingcomputer.com/news/security/amazon-redshift-gets-new-default-settings-to-prevent-data-breaches/)
 * [Google fixes Android kernel zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/)
 * [Canadian charged with stealing $65 million using DeFI crypto exploits](https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/)
 * [Casio UK online store hacked to steal customer credit cards](https://www.bleepingcomputer.com/news/security/casio-uk-online-store-hacked-to-steal-customer-credit-cards/)
-* [Microsoft kills off Defender 'Privacy Protection' VPN feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-kills-off-defender-privacy-protection-vpn-feature/)
 <!--END_SECTION:feed-->
 
 <!--
