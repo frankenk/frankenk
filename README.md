@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [California man steals $50 million using fake investment sites, gets 7 years](https://www.bleepingcomputer.com/news/security/california-man-steals-50-million-using-fake-investment-sites-gets-7-years/)
+* [How hackers target your Active Directory with breached VPN passwords](https://www.bleepingcomputer.com/news/security/how-hackers-target-your-active-directory-with-breached-vpn-passwords/)
+* [7-Zip MotW bypass exploited in zero-day attacks against Ukraine](https://www.bleepingcomputer.com/news/security/7-zip-motw-bypass-exploited-in-zero-day-attacks-against-ukraine/)
 * [GrubHub data breach impacts customers, drivers, and merchants](https://www.bleepingcomputer.com/news/security/grubhub-data-breach-impacts-customers-drivers-and-merchants/)
 * [First Apple-notarized porn app available to iPhone users in Europe](https://www.bleepingcomputer.com/news/apple/first-apple-notarized-porn-app-available-to-iphone-users-in-europe/)
-* [Amazon Redshift gets new default settings to prevent data breaches](https://www.bleepingcomputer.com/news/security/amazon-redshift-gets-new-default-settings-to-prevent-data-breaches/)
-* [Google fixes Android kernel zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-android-kernel-zero-day-exploited-in-attacks/)
-* [Canadian charged with stealing $65 million using DeFI crypto exploits](https://www.bleepingcomputer.com/news/security/canadian-charged-with-stealing-65-million-using-defi-crypto-exploits/)
 <!--END_SECTION:feed-->
 
 <!--
