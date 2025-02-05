@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Zyxel won’t patch newly exploited flaws in end-of-life routers](https://www.bleepingcomputer.com/news/security/zyxel-wont-patch-newly-exploited-flaws-in-end-of-life-routers/)
-* [Google Play, Apple App Store apps caught stealing crypto wallets](https://www.bleepingcomputer.com/news/mobile/google-play-apple-app-store-apps-caught-stealing-crypto-wallets/)
+* [Crypto-stealing apps found in Apple App Store for the first time](https://www.bleepingcomputer.com/news/mobile/crypto-stealing-apps-found-in-apple-app-store-for-the-first-time/)
 * [Cyber agencies share security guidance for network edge devices](https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/)
 * [Chinese cyberspies use new SSH backdoor in network device hacks](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-use-new-ssh-backdoor-in-network-device-hacks/)
 * [Netgear warns users to patch critical WiFi router vulnerabilities](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/)
