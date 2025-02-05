@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spain arrests suspected hacker of US and Spanish military agencies](https://www.bleepingcomputer.com/news/legal/spain-arrests-suspected-hacker-of-us-and-spanish-military-agencies/)
+* [How attackers abuse S3 Bucket Namesquatting — And How to Stop Them](https://www.bleepingcomputer.com/news/security/how-attackers-abuse-s3-bucket-namesquatting-and-how-to-stop-them/)
 * [Zyxel won’t patch newly exploited flaws in end-of-life routers](https://www.bleepingcomputer.com/news/security/zyxel-wont-patch-newly-exploited-flaws-in-end-of-life-routers/)
 * [Crypto-stealing apps found in Apple App Store for the first time](https://www.bleepingcomputer.com/news/mobile/crypto-stealing-apps-found-in-apple-app-store-for-the-first-time/)
 * [Cyber agencies share security guidance for network edge devices](https://www.bleepingcomputer.com/news/security/cyber-agencies-share-security-guidance-for-network-edge-devices/)
-* [Chinese cyberspies use new SSH backdoor in network device hacks](https://www.bleepingcomputer.com/news/security/chinese-cyberspies-use-new-ssh-backdoor-in-network-device-hacks/)
-* [Netgear warns users to patch critical WiFi router vulnerabilities](https://www.bleepingcomputer.com/news/security/netgear-warns-users-to-patch-critical-wifi-router-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
