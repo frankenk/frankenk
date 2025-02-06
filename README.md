@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft script updates bootable media for BlackLotus bootkit fixes](https://www.bleepingcomputer.com/news/microsoft/microsoft-script-updates-bootable-media-for-blacklotus-bootkit-fixes/)
 * [Robocallers posing as FCC fraud prevention team call FCC staff](https://www.bleepingcomputer.com/news/security/robocallers-posing-as-fcc-fraud-prevention-team-call-fcc-staff/)
 * [Ransomware payments fell by 35% in 2024, totalling $813,550,000](https://www.bleepingcomputer.com/news/security/ransomware-payments-fell-by-35-percent-in-2024-totalling-813-550-000/)
 * [CISA orders agencies to patch Linux kernel bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-linux-kernel-bug-exploited-in-attacks/)
 * [Hackers spoof Microsoft ADFS login pages to steal credentials](https://www.bleepingcomputer.com/news/security/hackers-spoof-microsoft-adfs-login-pages-to-steal-credentials/)
-* [AMD fixes bug that lets hackers load malicious microcode patches](https://www.bleepingcomputer.com/news/security/amd-fixes-bug-that-lets-hackers-load-malicious-microcode-patches/)
 <!--END_SECTION:feed-->
 
 <!--
