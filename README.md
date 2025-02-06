@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kimsuky hackers use new custom RDP Wrapper for remote access](https://www.bleepingcomputer.com/news/security/kimsuky-hackers-use-new-custom-rdp-wrapper-for-remote-access/)
+* [Critical RCE bug in Microsoft Outlook now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-microsoft-outlook-now-exploited-in-attacks/)
 * [Hackers exploit SimpleHelp RMM flaws to deploy Sliver malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-simplehelp-rmm-flaws-to-deploy-sliver-malware/)
 * [Critical Cisco ISE bug can let attackers run commands as root](https://www.bleepingcomputer.com/news/security/critical-cisco-ise-bug-can-let-attackers-run-commands-as-root/)
 * [DDoS attacks reportedly behind DayZ and Arma network outages](https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/)
-* [British engineering firm IMI discloses breach, shares no details](https://www.bleepingcomputer.com/news/security/british-engineering-firm-imi-discloses-breach-shares-no-details/)
-* [New Microsoft script updates Windows media with bootkit malware fixes](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-script-updates-windows-media-with-bootkit-malware-fixes/)
 <!--END_SECTION:feed-->
 
 <!--
