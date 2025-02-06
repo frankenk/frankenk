@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit SimpleHelp RMM flaws to deploy Sliver malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-simplehelp-rmm-flaws-to-deploy-sliver-malware/)
 * [Critical Cisco ISE bug can let attackers run commands as root](https://www.bleepingcomputer.com/news/security/critical-cisco-ise-bug-can-let-attackers-run-commands-as-root/)
 * [DDoS attacks reportedly behind DayZ and Arma network outages](https://www.bleepingcomputer.com/news/security/ddos-attacks-reportedly-behind-dayz-and-arma-network-outages/)
 * [British engineering firm IMI discloses breach, shares no details](https://www.bleepingcomputer.com/news/security/british-engineering-firm-imi-discloses-breach-shares-no-details/)
 * [New Microsoft script updates Windows media with bootkit malware fixes](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-script-updates-windows-media-with-bootkit-malware-fixes/)
-* [Robocallers posing as FCC fraud prevention team call FCC staff](https://www.bleepingcomputer.com/news/security/robocallers-posing-as-fcc-fraud-prevention-team-call-fcc-staff/)
 <!--END_SECTION:feed-->
 
 <!--
