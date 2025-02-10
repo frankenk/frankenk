@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hacker pleads guilty to SIM swap attack on US SEC X account](https://www.bleepingcomputer.com/news/security/hacker-pleads-guilty-to-sim-swap-attack-on-us-sec-x-account/)
 * [Police arrests 4 Phobos ransomware suspects, seizes 8Base sites](https://www.bleepingcomputer.com/news/legal/police-arrests-4-phobos-ransomware-suspects-seizes-8base-sites/)
 * [Cyberattack disrupts Lee newspapers' operations across the US](https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-lee-newspapers-operations-across-the-us/)
 * [Microsoft raises rewards for Copilot AI bug bounty program](https://www.bleepingcomputer.com/news/microsoft/microsoft-raises-rewards-for-copilot-ai-bug-bounty-program/)
 * [Brave now lets you inject custom JavaScript to tweak websites](https://www.bleepingcomputer.com/news/software/brave-now-lets-you-inject-custom-javascript-to-tweak-websites/)
-* [A Cybersecurity Leader’s Guide to SecVal in 2025](https://www.bleepingcomputer.com/news/security/a-cybersecurity-leaders-guide-to-secval-in-2025/)
 <!--END_SECTION:feed-->
 
 <!--
