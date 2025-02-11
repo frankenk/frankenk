@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5051974 update force installs new Microsoft Outlook app](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5051974-update-force-installs-new-microsoft-outlook-app/)
 * [Microsoft February 2025 Patch Tuesday fixes 4 zero-days, 55 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-february-2025-patch-tuesday-fixes-4-zero-days-55-flaws/)
 * [Fortinet warns of new zero-day exploited to hijack firewalls](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-zero-day-exploited-to-hijack-firewalls/)
 * [Windows 11 KB5051987 & KB5051989 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5051987-and-kb5051989-cumulative-updates-released/)
 * [Russian military hackers deploy malicious Windows activators in Ukraine](https://www.bleepingcomputer.com/news/security/russian-military-hackers-deploy-malicious-windows-activators-in-ukraine/)
-* [SonicWall firewall exploit lets hackers hijack VPN sessions, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-exploit-lets-hackers-hijack-vpn-sessions-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
