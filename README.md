@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DPRK hackers dupe targets into typing PowerShell commands as admin](https://www.bleepingcomputer.com/news/security/dprk-hackers-dupe-targets-into-typing-powershell-commands-as-admin/)
 * [Ivanti fixes three critical flaws in Connect Secure & Policy Secure](https://www.bleepingcomputer.com/news/security/ivanti-fixes-three-critical-flaws-in-connect-secure-and-policy-secure/)
 * [BadPilot network hacking campaign fuels Russian SandWorm attacks](https://www.bleepingcomputer.com/news/security/badpilot-network-hacking-campaign-fuels-russian-sandworm-attacks/)
 * [Beyond VPN: How TruGrid Simplifies RDP Deployment, Security, and Compliance](https://www.bleepingcomputer.com/news/security/beyond-vpn-how-trugrid-simplifies-rdp-deployment-security-and-compliance/)
 * [Google fixes flaw that could unmask YouTube users' email addresses](https://www.bleepingcomputer.com/news/security/google-fixes-flaw-that-could-unmask-youtube-users-email-addresses/)
-* [Windows 10 KB5051974 update force installs new Microsoft Outlook app](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5051974-update-force-installs-new-microsoft-outlook-app/)
 <!--END_SECTION:feed-->
 
 <!--
