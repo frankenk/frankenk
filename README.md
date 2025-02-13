@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese espionage tools deployed in RA World ransomware attack](https://www.bleepingcomputer.com/news/security/chinese-espionage-tools-deployed-in-ra-world-ransomware-attack/)
 * [zkLend loses $9.5M in crypto heist, asks hacker to return 90%](https://www.bleepingcomputer.com/news/cryptocurrency/zklend-loses-95m-in-crypto-heist-asks-hacker-to-return-90-percent/)
 * [Surge in attacks exploiting old ThinkPHP and ownCloud flaws](https://www.bleepingcomputer.com/news/security/surge-in-attacks-exploiting-old-thinkphp-and-owncloud-flaws/)
 * [Sarcoma ransomware claims breach at giant PCB maker Unimicron](https://www.bleepingcomputer.com/news/security/sarcoma-ransomware-claims-breach-at-giant-pcb-maker-unimicron/)
 * [DPRK hackers dupe targets into typing PowerShell commands as admin](https://www.bleepingcomputer.com/news/security/dprk-hackers-dupe-targets-into-typing-powershell-commands-as-admin/)
-* [Ivanti fixes three critical flaws in Connect Secure & Policy Secure](https://www.bleepingcomputer.com/news/security/ivanti-fixes-three-critical-flaws-in-connect-secure-and-policy-secure/)
 <!--END_SECTION:feed-->
 
 <!--
