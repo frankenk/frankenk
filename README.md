@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit authentication bypass in Palo Alto Networks PAN-OS](https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/)
 * [SonicWall firewall bug leveraged in attacks after PoC exploit release](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-bug-leveraged-in-attacks-after-poc-exploit-release/)
 * [Malicious PirateFi game infects Steam users with Vidar malware](https://www.bleepingcomputer.com/news/security/malicious-piratefi-game-infects-steam-users-with-vidar-malware/)
 * [PostgreSQL flaw exploited as zero-day in BeyondTrust breach](https://www.bleepingcomputer.com/news/security/postgresql-flaw-exploited-as-zero-day-in-beyondtrust-breach/)
 * [Chinese hackers breach more US telecoms via unpatched Cisco routers](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-more-us-telecoms-via-unpatched-cisco-routers/)
-* [Microsoft fixes bug causing Windows Server 2025 boot errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-server-2025-boot-errors/)
 <!--END_SECTION:feed-->
 
 <!--
