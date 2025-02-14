@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PostgreSQL flaw exploited as zero-day in BeyondTrust breach](https://www.bleepingcomputer.com/news/security/postgresql-flaw-exploited-as-zero-day-in-beyondtrust-breach/)
 * [Chinese hackers breach more US telecoms via unpatched Cisco routers](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-more-us-telecoms-via-unpatched-cisco-routers/)
 * [Microsoft fixes bug causing Windows Server 2025 boot errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-server-2025-boot-errors/)
 * [whoAMI attacks give hackers code execution on Amazon EC2 instances](https://www.bleepingcomputer.com/news/security/whoami-attacks-give-hackers-code-execution-on-amazon-ec2-instances/)
 * [Dutch Police seizes 127 XHost servers, dismantles bulletproof hoster](https://www.bleepingcomputer.com/news/legal/dutch-police-seizes-127-xhost-servers-dismantles-bulletproof-hoster/)
-* [Hacker leaks account data of 12 million Zacks Investment users](https://www.bleepingcomputer.com/news/security/hacker-leaks-account-data-of-12-million-zacks-investment-users/)
 <!--END_SECTION:feed-->
 
 <!--
