@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Hackers steal emails in device code phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-steal-emails-in-device-code-phishing-attacks/)
 * [Hackers exploit authentication bypass in Palo Alto Networks PAN-OS](https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/)
 * [SonicWall firewall bug leveraged in attacks after PoC exploit release](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-bug-leveraged-in-attacks-after-poc-exploit-release/)
 * [Malicious PirateFi game infects Steam users with Vidar malware](https://www.bleepingcomputer.com/news/security/malicious-piratefi-game-infects-steam-users-with-vidar-malware/)
 * [PostgreSQL flaw exploited as zero-day in BeyondTrust breach](https://www.bleepingcomputer.com/news/security/postgresql-flaw-exploited-as-zero-day-in-beyondtrust-breach/)
-* [Chinese hackers breach more US telecoms via unpatched Cisco routers](https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-more-us-telecoms-via-unpatched-cisco-routers/)
 <!--END_SECTION:feed-->
 
 <!--
