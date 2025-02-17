@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome's AI-powered security feature rolls out to everyone](https://www.bleepingcomputer.com/news/google/google-chromes-ai-powered-security-feature-rolls-out-to-everyone/)
+* [New FinalDraft malware abuses Outlook mail service for stealthy comms](https://www.bleepingcomputer.com/news/security/new-finaldraft-malware-abuses-outlook-mail-service-for-stealthy-comms/)
 * [Microsoft: Hackers steal emails in device code phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-hackers-steal-emails-in-device-code-phishing-attacks/)
 * [Hackers exploit authentication bypass in Palo Alto Networks PAN-OS](https://www.bleepingcomputer.com/news/security/hackers-exploit-authentication-bypass-in-palo-alto-networks-pan-os/)
 * [SonicWall firewall bug leveraged in attacks after PoC exploit release](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-bug-leveraged-in-attacks-after-poc-exploit-release/)
-* [PirateFi game on Steam caught installing password-stealing malware](https://www.bleepingcomputer.com/news/security/piratefi-game-on-steam-caught-installing-password-stealing-malware/)
-* [PostgreSQL flaw exploited as zero-day in BeyondTrust breach](https://www.bleepingcomputer.com/news/security/postgresql-flaw-exploited-as-zero-day-in-beyondtrust-breach/)
 <!--END_SECTION:feed-->
 
 <!--
