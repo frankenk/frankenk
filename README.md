@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Fintech giant Finastra notifies victims of October data breach](https://www.bleepingcomputer.com/news/security/fintech-giant-finastra-notifies-victims-of-october-data-breach/)
 * [Lee Enterprises newspaper disruptions caused by ransomware attack](https://www.bleepingcomputer.com/news/security/lee-enterprises-newspaper-disruptions-caused-by-ransomware-attack/)
 * [Chase will soon block Zelle payments to sellers on social media](https://www.bleepingcomputer.com/news/security/chase-will-soon-block-zelle-payments-to-sellers-on-social-media/)
 * [Microsoft to remove the Location History feature in Windows](https://www.bleepingcomputer.com/news/security/microsoft-to-remove-the-location-history-feature-in-windows/)
 * [X now blocks Signal contact links, flags them as malicious](https://www.bleepingcomputer.com/news/security/x-now-blocks-signal-contact-links-flags-them-as-malicious/)
+* [Microsoft spots XCSSET macOS malware variant used for crypto theft](https://www.bleepingcomputer.com/news/security/microsoft-spots-xcsset-macos-malware-variant-used-for-crypto-theft/)
 <!--END_SECTION:feed-->
 
 <!--
