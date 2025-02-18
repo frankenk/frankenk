@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers abuse Microsoft APP-v tool to evade antivirus](https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-microsoft-app-v-tool-to-evade-antivirus/)
+* [New OpenSSH flaws expose SSH servers to MiTM and DoS attacks](https://www.bleepingcomputer.com/news/security/new-openssh-flaws-expose-ssh-servers-to-mitm-and-dos-attacks/)
+* [Juniper patches critical auth bypass in Session Smart routers](https://www.bleepingcomputer.com/news/security/juniper-patches-critical-auth-bypass-in-session-smart-routers/)
 * [Compliance Isn’t Security: Why a Checklist Won’t Stop Cyberattacks](https://www.bleepingcomputer.com/news/security/compliance-isnt-security-why-a-checklist-wont-stop-cyberattacks/)
 * [Lee Enterprises newspaper disruptions caused by ransomware attack](https://www.bleepingcomputer.com/news/security/lee-enterprises-newspaper-disruptions-caused-by-ransomware-attack/)
-* [Chase will soon block Zelle payments to sellers on social media](https://www.bleepingcomputer.com/news/security/chase-will-soon-block-zelle-payments-to-sellers-on-social-media/)
-* [Microsoft to remove the Location History feature in Windows](https://www.bleepingcomputer.com/news/security/microsoft-to-remove-the-location-history-feature-in-windows/)
-* [X now blocks Signal contact links, flags them as malicious](https://www.bleepingcomputer.com/news/security/x-now-blocks-signal-contact-links-flags-them-as-malicious/)
 <!--END_SECTION:feed-->
 
 <!--
