@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Russian phishing campaigns exploit Signal's device-linking feature](https://www.bleepingcomputer.com/news/security/russian-phishing-campaigns-exploit-signals-device-linking-feature/)
-* [WinRAR 7.10 boosts Windows privacy by stripping MoTW data](https://www.bleepingcomputer.com/news/security/winrar-710-boosts-windows-privacy-by-stripping-motw-data/)
+* [New WinRAR version strips Windows metadata to increase privacy](https://www.bleepingcomputer.com/news/security/new-winrar-version-strips-windows-metadata-to-increase-privacy/)
 * [Cracked Garry’s Mod, BeamNG.drive games infect gamers with miners](https://www.bleepingcomputer.com/news/security/cracked-garrys-mod-beamngdrive-games-infect-gamers-with-miners/)
 * [Venture capital giant Insight Partners hit by cyberattack](https://www.bleepingcomputer.com/news/security/venture-capital-giant-insight-partners-hit-by-cyberattack/)
 * [Microsoft reminds admins to prepare for WSUS driver sync deprecation](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-admins-to-prepare-for-wsus-driver-sync-deprecation/)
