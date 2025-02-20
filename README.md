@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft testing fix for Windows 11 bug breaking SSH connections](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bug-breaking-ssh-connections/)
+* [Darcula PhaaS can now auto-generate phishing kits for any brand](https://www.bleepingcomputer.com/news/security/darcula-phaas-can-now-auto-generate-phishing-kits-for-any-brand/)
 * [New NailaoLocker ransomware used against EU healthcare orgs](https://www.bleepingcomputer.com/news/security/new-nailaolocker-ransomware-used-against-eu-healthcare-orgs/)
 * [CISA and FBI: Ghost ransomware breached orgs in 70 countries](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-ghost-ransomware-breached-orgs-in-70-countries/)
 * [Phishing attack hides JavaScript using invisible Unicode trick](https://www.bleepingcomputer.com/news/security/phishing-attack-hides-javascript-using-invisible-unicode-trick/)
-* [New FrigidStealer infostealer infects Macs via fake browser updates](https://www.bleepingcomputer.com/news/security/new-frigidstealer-infostealer-infects-macs-via-fake-browser-updates/)
-* [Australian fertility services giant Genea hit by security breach](https://www.bleepingcomputer.com/news/security/australian-fertility-services-giant-genea-hit-by-security-breach/)
 <!--END_SECTION:feed-->
 
 <!--
