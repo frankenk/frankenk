@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA flags Craft CMS code injection flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-craft-cms-code-injection-flaw-as-exploited-in-attacks/)
+* [Apple pulls iCloud end-to-end encryption feature in the UK](https://www.bleepingcomputer.com/news/security/apple-pulls-icloud-end-to-end-encryption-feature-in-the-uk/)
 * [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
+* [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/)
+* [US healthcare org pays * [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
 * [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/)
 * [US healthcare org pays * [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
 * [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/)
@@ -85,7 +89,7 @@
 * [Chinese hackers use custom malware to spy on US telecom networks](https://www.bleepingcomputer.com/news/security/salt-typhoon-uses-jumbledpath-malware-to-spy-on-us-telecom-networks/)
 * [Integrating LLMs into security operations using Wazuh](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/)1M settlement over alleged cybersecurity lapses](https://www.bleepingcomputer.com/news/security/us-healthcare-org-pays-11m-settlement-over-alleged-cybersecurity-lapses/)
 * [Chinese hackers use custom malware to spy on US telecom networks](https://www.bleepingcomputer.com/news/security/salt-typhoon-uses-jumbledpath-malware-to-spy-on-us-telecom-networks/)
-* [Integrating LLMs into security operations using Wazuh](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/)
+* [Integrating LLMs into security operations using Wazuh](https://www.bleepingcomputer.com/news/security/integrating-llms-into-security-operations-using-wazuh/)1M settlement over alleged cybersecurity lapses](https://www.bleepingcomputer.com/news/security/us-healthcare-org-pays-11m-settlement-over-alleged-cybersecurity-lapses/)
 <!--END_SECTION:feed-->
 
 <!--
