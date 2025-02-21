@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Hacker steals record * [Hacker steals record * [CISA flags Craft CMS code injection flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-craft-cms-code-injection-flaw-as-exploited-in-attacks/)
+* [SpyLend Android malware downloaded 100,000 times from Google Play](https://www.bleepingcomputer.com/news/security/spylend-android-malware-downloaded-100-000-times-from-google-play/)
+* [Hacker steals record * [Hacker steals record * [Hacker steals record * [CISA flags Craft CMS code injection flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-craft-cms-code-injection-flaw-as-exploited-in-attacks/)
 * [Apple pulls iCloud end-to-end encryption feature in the UK](https://www.bleepingcomputer.com/news/security/apple-pulls-icloud-end-to-end-encryption-feature-in-the-uk/)
 * [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
 * [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/)
@@ -97,7 +98,10 @@
 * [CISA flags Craft CMS code injection flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-craft-cms-code-injection-flaw-as-exploited-in-attacks/)
 * [Apple pulls iCloud end-to-end encryption feature in the UK](https://www.bleepingcomputer.com/news/security/apple-pulls-icloud-end-to-end-encryption-feature-in-the-uk/)
 * [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
-* [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/)
+* [Black Basta ransomware gang's internal chat logs leak online](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-gang-s-internal-chat-logs-leak-online/).46 billion from Bybit ETH cold wallet](https://www.bleepingcomputer.com/news/security/hacker-steals-record-146-billion-from-bybit-eth-cold-wallet/)
+* [CISA flags Craft CMS code injection flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-craft-cms-code-injection-flaw-as-exploited-in-attacks/)
+* [Apple pulls iCloud end-to-end encryption feature in the UK](https://www.bleepingcomputer.com/news/security/apple-pulls-icloud-end-to-end-encryption-feature-in-the-uk/)
+* [Apiiro unveils free scanner to detect malicious code merges](https://www.bleepingcomputer.com/news/security/apiiro-unveils-free-scanner-to-detect-malicious-code-merges/)
 <!--END_SECTION:feed-->
 
 <!--
