@@ -1,31 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI bans ChatGPT accounts used by North Korean hackers](https://www.bleepingcomputer.com/news/security/openai-bans-chatgpt-accounts-used-by-north-korean-hackers/)
 * [Russia warns financial sector of major IT service provider hack](https://www.bleepingcomputer.com/news/security/russia-warns-financial-sector-of-major-it-service-provider-hack/)
 * [Microsoft tests ad-supported Office apps for Windows users](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-ad-supported-office-apps-for-windows-users/)
 * [Australia bans all Kaspersky products on government systems](https://www.bleepingcomputer.com/news/security/australia-bans-all-kaspersky-products-on-government-systems/)
 * [Botnet targets Basic Auth in Microsoft 365 password spray attacks](https://www.bleepingcomputer.com/news/security/botnet-targets-basic-auth-in-microsoft-365-password-spray-attacks/)
-* [North Korean hackers linked to * [Microsoft launches ad-supported Office apps for Windows users](https://www.bleepingcomputer.com/news/microsoft/microsoft-sneaks-out-ad-supported-office-apps-for-windows-users/)
-* [Australia bans all Kaspersky products on government systems](https://www.bleepingcomputer.com/news/security/australia-bans-all-kaspersky-products-on-government-systems/)
-* [Botnet targets Basic Auth in Microsoft 365 password spray attacks](https://www.bleepingcomputer.com/news/security/botnet-targets-basic-auth-in-microsoft-365-password-spray-attacks/)
-* [North Korean hackers linked to * [Australia bans all Kaspersky products on government systems](https://www.bleepingcomputer.com/news/security/australia-bans-all-kaspersky-products-on-government-systems/)
-* [Botnet targets Basic Auth in Microsoft 365 password spray attacks](https://www.bleepingcomputer.com/news/security/botnet-targets-basic-auth-in-microsoft-365-password-spray-attacks/)
-* [North Korean hackers linked to * [Botnet targets Basic Auth in Microsoft 365 password spray attacks](https://www.bleepingcomputer.com/news/security/botnet-targets-basic-auth-in-microsoft-365-password-spray-attacks/)
-* [North Korean hackers linked to * [North Korean hackers linked to * [Exploits for unpatched Parallels Desktop flaw give root on Macs](https://www.bleepingcomputer.com/news/security/exploits-for-unpatched-parallels-desktop-flaw-give-root-on-macs/)
-* [Google Cloud introduces quantum-safe digital signatures in KMS](https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/)
-* [Beware: PayPal "New Address" feature abused to send phishing emails](https://www.bleepingcomputer.com/news/security/beware-paypal-new-address-feature-abused-to-send-phishing-emails/)
-* [Fake CS2 tournament streams used to steal crypto, Steam accounts](https://www.bleepingcomputer.com/news/security/fake-cs2-tournament-streams-used-to-steal-crypto-steam-accounts/)
-* [Google Chrome disables uBlock Origin for some in Manifest v3 rollout](https://www.bleepingcomputer.com/news/google/google-chrome-disables-ublock-origin-for-some-in-manifest-v3-rollout/).5 billion ByBit crypto heist](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/)
-* [Exploits for unpatched Parallels Desktop flaw give root on Macs](https://www.bleepingcomputer.com/news/security/exploits-for-unpatched-parallels-desktop-flaw-give-root-on-macs/)
-* [Google Cloud introduces quantum-safe digital signatures in KMS](https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/)
-* [Beware: PayPal "New Address" feature abused to send phishing emails](https://www.bleepingcomputer.com/news/security/beware-paypal-new-address-feature-abused-to-send-phishing-emails/)
-* [Fake CS2 tournament streams used to steal crypto, Steam accounts](https://www.bleepingcomputer.com/news/security/fake-cs2-tournament-streams-used-to-steal-crypto-steam-accounts/).5 billion ByBit crypto heist](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/)
-* [Exploits for unpatched Parallels Desktop flaw give root on Macs](https://www.bleepingcomputer.com/news/security/exploits-for-unpatched-parallels-desktop-flaw-give-root-on-macs/)
-* [Google Cloud introduces quantum-safe digital signatures in KMS](https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/)
-* [Beware: PayPal "New Address" feature abused to send phishing emails](https://www.bleepingcomputer.com/news/security/beware-paypal-new-address-feature-abused-to-send-phishing-emails/).5 billion ByBit crypto heist](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/)
-* [Exploits for unpatched Parallels Desktop flaw give root on Macs](https://www.bleepingcomputer.com/news/security/exploits-for-unpatched-parallels-desktop-flaw-give-root-on-macs/)
-* [Google Cloud introduces quantum-safe digital signatures in KMS](https://www.bleepingcomputer.com/news/security/google-cloud-introduces-quantum-safe-digital-signatures-in-kms/).5 billion ByBit crypto heist](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/)
-* [Exploits for unpatched Parallels Desktop flaw give root on Macs](https://www.bleepingcomputer.com/news/security/exploits-for-unpatched-parallels-desktop-flaw-give-root-on-macs/).5 billion ByBit crypto heist](https://www.bleepingcomputer.com/news/security/north-korean-hackers-linked-to-15-billion-bybit-crypto-heist/)
 <!--END_SECTION:feed-->
 
 <!--
