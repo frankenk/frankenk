@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [PyPi package with 100K installs pirated music from Deezer for years](https://www.bleepingcomputer.com/news/security/pypi-package-with-100k-installs-pirated-music-from-deezer-for-years/)
+* [Lazarus hacked Bybit via breached Safe{Wallet} developer machine](https://www.bleepingcomputer.com/news/security/lazarus-hacked-bybit-via-breached-safe-wallet-developer-machine/)
 * [Pump.fun X account hacked to promote scam governance token](https://www.bleepingcomputer.com/news/security/pumpfun-x-account-hacked-to-promote-scam-governance-token/)
 * [EncryptHub breaches 618 orgs to deploy infostealers, ransomware](https://www.bleepingcomputer.com/news/security/encrypthub-breaches-618-orgs-to-deploy-infostealers-ransomware/)
 * [Five best practices for securing Active Directory service accounts](https://www.bleepingcomputer.com/news/security/five-best-practices-for-securing-active-directory-service-accounts/)
-* [Australian IVF giant Genea breached by Termite ransomware gang](https://www.bleepingcomputer.com/news/security/australian-ivf-giant-genea-breached-by-termite-ransomware-gang/)
-* [OpenAI's GPT 4.5 spotted in Android beta, launch imminent](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-45-spotted-in-android-beta-launch-imminent/)
 <!--END_SECTION:feed-->
 
 <!--
