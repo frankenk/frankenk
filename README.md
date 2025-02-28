@@ -5,7 +5,7 @@
 * [Privacy tech firms warn France’s encryption and VPN laws threaten privacy](https://www.bleepingcomputer.com/news/security/privacy-tech-firms-warn-frances-encryption-and-vpn-laws-threaten-privacy/)
 * [Microsoft names cybercriminals behind AI deepfake network](https://www.bleepingcomputer.com/news/microsoft/microsoft-names-cybercriminals-behind-ai-deepfake-network/)
 * [Over 49,000 misconfigured building access systems exposed online](https://www.bleepingcomputer.com/news/security/over-49-000-misconfigured-building-access-systems-exposed-online/)
-* [Belgium probes if Chinese hackers breached its intelligence service](https://www.bleepingcomputer.com/news/security/belgium-probes-if-chinese-hackers-breached-its-intelligence-service/)
+* [Belgium probes if Chinese hackers breached its intelligence service](https://www.bleepingcomputer.com/news/security/belgium-probes-chinese-hack-behind-intelligence-service-breach/)
 <!--END_SECTION:feed-->
 
 <!--
