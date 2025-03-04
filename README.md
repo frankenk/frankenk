@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Eleven11bot botnet infects 86,000 devices for DDoS attacks](https://www.bleepingcomputer.com/news/security/new-eleven11bot-botnet-infects-86-000-devices-for-ddos-attacks/)
 * [Cisco warns of Webex for BroadWorks flaw exposing credentials](https://www.bleepingcomputer.com/news/security/cisco-warns-of-webex-for-broadworks-flaw-exposing-credentials/)
 * [Google expands Android AI scam detection to more Pixel devices](https://www.bleepingcomputer.com/news/security/google-expands-android-ai-scam-detection-to-more-pixel-devices/)
 * [New polyglot malware hits aviation, satellite communication firms](https://www.bleepingcomputer.com/news/security/new-polyglot-malware-hits-aviation-satellite-communication-firms/)
 * [Polish Space Agency offline as it recovers from cyberattack](https://www.bleepingcomputer.com/news/security/polish-space-agency-offline-as-it-recovers-from-cyberattack/)
-* [Hunters International ransomware claims attack on Tata Technologies](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-claims-attack-on-tata-technologies/)
 <!--END_SECTION:feed-->
 
 <!--
