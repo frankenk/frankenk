@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New polyglot malware hits aviation, satellite communication firms](https://www.bleepingcomputer.com/news/security/new-polyglot-malware-hits-aviation-satellite-communication-firms/)
 * [Polish Space Agency offline as it recovers from cyberattack](https://www.bleepingcomputer.com/news/security/polish-space-agency-offline-as-it-recovers-from-cyberattack/)
 * [Hunters International ransomware claims attack on Tata Technologies](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-claims-attack-on-tata-technologies/)
 * [Broadcom fixes three VMware zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/)
 * [Google fixes Android zero-day exploited by Serbian authorities ](https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-targeted-attacks/)
-* [Rubrik rotates authentication keys after log server breach](https://www.bleepingcomputer.com/news/security/rubrik-rotates-authentication-keys-after-log-server-breach/)
 <!--END_SECTION:feed-->
 
 <!--
