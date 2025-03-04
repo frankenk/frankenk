@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Broadcom fixes three VMware zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/broadcom-fixes-three-vmware-zero-days-exploited-in-attacks/)
 * [Google fixes Android zero-day exploited by Serbian authorities ](https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-targeted-attacks/)
 * [Rubrik rotates authentication keys after log server breach](https://www.bleepingcomputer.com/news/security/rubrik-rotates-authentication-keys-after-log-server-breach/)
 * [DHS says CISA will not stop monitoring Russian cyber threats](https://www.bleepingcomputer.com/news/security/dhs-says-cisa-will-not-stop-monitoring-russian-cyber-threats/)
 * [New Microsoft 365 outage impacts Teams, causes call failures](https://www.bleepingcomputer.com/news/microsoft/new-microsoft-365-outage-impacts-teams-causes-call-failures/)
-* [CISA tags Windows, Cisco vulnerabilities as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-windows-and-cisco-vulnerabilities-as-actively-exploited/)
 <!--END_SECTION:feed-->
 
 <!--
