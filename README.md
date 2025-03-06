@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft 365 apps will prompt users to back up files in OneDrive](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-will-prompt-users-to-back-up-files-in-onedrive/)
+* [Over 37,000 VMware ESXi servers vulnerable to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-37-000-vmware-esxi-servers-vulnerable-to-ongoing-attacks/)
+* [Free vCISO Course: Turning MSPs and MSSPs into Cybersecurity Powerhouses](https://www.bleepingcomputer.com/news/security/free-vciso-course-turning-msps-and-mssps-into-cybersecurity-powerhouses/)
 * [Malicious Chrome extensions can spoof password managers in new attack](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-can-spoof-password-managers-in-new-attack/)
 * [Open-source tool 'Rayhunter' helps users detect Stingray attacks](https://www.bleepingcomputer.com/news/security/open-source-tool-rayhunter-helps-users-detect-stingray-attacks/)
-* [Silk Typhoon hackers now target IT supply chains to breach networks](https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-now-target-it-supply-chains-to-breach-networks/)
-* [US charges Chinese hackers linked to critical infrastructure breaches](https://www.bleepingcomputer.com/news/security/us-charges-chinese-hackers-linked-to-critical-infrastructure-breaches/)
-* [BadBox malware disrupted on 500K infected Android devices](https://www.bleepingcomputer.com/news/security/badbox-malware-disrupted-on-500k-infected-android-devices/)
 <!--END_SECTION:feed-->
 
 <!--
