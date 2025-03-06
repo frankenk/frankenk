@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cybercrime 'crew' stole $635,000 in Taylor Swift concert tickets](https://www.bleepingcomputer.com/news/security/cybercrime-crew-stole-635-000-in-taylor-swift-concert-tickets/)
+* [Ethereum private key stealer on PyPI downloaded over 1,000 times](https://www.bleepingcomputer.com/news/security/ethereum-private-key-stealer-on-pypi-downloaded-over-1-000-times/)
 * [Microsoft 365 apps will prompt users to back up files in OneDrive](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-will-prompt-users-to-back-up-files-in-onedrive/)
 * [Over 37,000 VMware ESXi servers vulnerable to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-37-000-vmware-esxi-servers-vulnerable-to-ongoing-attacks/)
 * [Free vCISO Course: Turning MSPs and MSSPs into Cybersecurity Powerhouses](https://www.bleepingcomputer.com/news/security/free-vciso-course-turning-msps-and-mssps-into-cybersecurity-powerhouses/)
-* [Malicious Chrome extensions can spoof password managers in new attack](https://www.bleepingcomputer.com/news/security/malicious-chrome-extensions-can-spoof-password-managers-in-new-attack/)
-* [Open-source tool 'Rayhunter' helps users detect Stingray attacks](https://www.bleepingcomputer.com/news/security/open-source-tool-rayhunter-helps-users-detect-stingray-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
