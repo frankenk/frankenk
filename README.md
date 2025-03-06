@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft says malvertising campaign impacted 1 million PCs](https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/)
+* [Ransomware gang encrypted network from a webcam to bypass EDR](https://www.bleepingcomputer.com/news/security/akira-ransomware-encrypted-network-from-a-webcam-to-bypass-edr/)
 * [US seizes domain of Garantex crypto exchange used by ransomware gangs](https://www.bleepingcomputer.com/news/security/us-seizes-domain-of-garantex-crypto-exchange-used-by-ransomware-gangs/)
 * [Cybercrime 'crew' stole $635,000 in Taylor Swift concert tickets](https://www.bleepingcomputer.com/news/security/cybercrime-crew-stole-635-000-in-taylor-swift-concert-tickets/)
 * [Ethereum private key stealer on PyPI downloaded over 1,000 times](https://www.bleepingcomputer.com/news/security/ethereum-private-key-stealer-on-pypi-downloaded-over-1-000-times/)
-* [Microsoft 365 apps will prompt users to back up files in OneDrive](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-apps-will-prompt-users-to-back-up-files-in-onedrive/)
-* [Over 37,000 VMware ESXi servers vulnerable to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-37-000-vmware-esxi-servers-vulnerable-to-ongoing-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
