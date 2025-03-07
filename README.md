@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Unpatched Edimax IP camera flaw actively exploited in botnet attacks](https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/)
 * [Employee charged with stealing unreleased movies, sharing them online](https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/)
 * [US charges Garantex admins with money laundering, sanctions violations](https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/)
 * [Data breach at Japanese telecom giant NTT hits 18,000 companies](https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/)
 * [Microsoft: North Korean hackers join Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/microsoft-north-korean-hackers-now-deploying-qilin-ransomware/)
-* [Microsoft says malvertising campaign impacted 1 million PCs](https://www.bleepingcomputer.com/news/security/microsoft-says-malvertising-campaign-impacted-1-million-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
