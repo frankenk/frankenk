@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [YouTubers extorted via copyright strikes to spread malware](https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/)
 * [US seizes $23 million in crypto stolen via password manager breach](https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/)
 * [Unpatched Edimax IP camera flaw actively exploited in botnet attacks](https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/)
 * [Employee charged with stealing unreleased movies, sharing them online](https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/)
 * [US charges Garantex admins with money laundering, sanctions violations](https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/)
-* [Data breach at Japanese telecom giant NTT hits 18,000 companies](https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/)
 <!--END_SECTION:feed-->
 
 <!--
