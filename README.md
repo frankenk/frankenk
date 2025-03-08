@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Undocumented backdoor found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [YouTubers extorted via copyright strikes to spread malware](https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/)
-* [US seizes $23 million in crypto stolen via password manager breach](https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/)
+* [US seizes $23 million in crypto linked to LastPass breaches](https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/)
 * [Unpatched Edimax IP camera flaw actively exploited in botnet attacks](https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/)
 * [Employee charged with stealing unreleased movies, sharing them online](https://www.bleepingcomputer.com/news/security/employee-charged-with-stealing-unreleased-movies-sharing-them-online/)
-* [US charges Garantex admins with money laundering, sanctions violations](https://www.bleepingcomputer.com/news/security/us-charges-garantex-admins-with-money-laundering-sanctions-violations/)
 <!--END_SECTION:feed-->
 
 <!--
