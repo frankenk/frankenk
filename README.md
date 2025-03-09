@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Developer guilty of using kill switch to sabotage employer's systems](https://www.bleepingcomputer.com/news/security/developer-guilty-of-using-kill-switch-to-sabotage-employers-systems/)
-* [Undocumented "backdoor" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
+* [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [YouTubers extorted via copyright strikes to spread malware](https://www.bleepingcomputer.com/news/security/youtubers-extorted-via-copyright-strikes-to-spread-malware/)
 * [US seizes $23 million in crypto linked to LastPass breaches](https://www.bleepingcomputer.com/news/security/us-seizes-23-million-in-crypto-stolen-via-password-manager-breach/)
 * [Unpatched Edimax IP camera flaw actively exploited in botnet attacks](https://www.bleepingcomputer.com/news/security/unpatched-edimax-ip-camera-flaw-actively-exploited-in-botnet-attacks/)
