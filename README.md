@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Quantum leap: Passwords in the new era of computing security](https://www.bleepingcomputer.com/news/security/quantum-leap-passwords-in-the-new-era-of-computing-security/)
 * [Microsoft lifts Windows 11 update block for some AutoCAD users](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-update-block-for-some-autocad-users/)
 * [US cities warn of wave of unpaid parking phishing texts](https://www.bleepingcomputer.com/news/security/us-cities-warn-of-wave-of-unpaid-parking-phishing-texts/)
 * [New Chirp tool uses audio tones to transfer data between devices](https://www.bleepingcomputer.com/news/software/new-chirp-tool-uses-audio-tones-to-transfer-data-between-devices/)
 * [Developer guilty of using kill switch to sabotage employer's systems](https://www.bleepingcomputer.com/news/security/developer-guilty-of-using-kill-switch-to-sabotage-employers-systems/)
-* [Undocumented commands found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-commands-found-in-bluetooth-chip-used-by-a-billion-devices/)
 <!--END_SECTION:feed-->
 
 <!--
