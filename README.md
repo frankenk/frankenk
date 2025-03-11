@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA tags critical Ivanti EPM flaws as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-critical-ivanti-epm-flaws-as-actively-exploited-in-attacks/)
 * [X hit by ‘massive cyberattack’ amid Dark Storm’s DDoS claims](https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/)
+* [US govt says Americans lost record * [X hit by ‘massive cyberattack’ amid Dark Storm’s DDoS claims](https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/)
 * [US govt says Americans lost record * [X hit by ‘massive cyberattack’ amid Dark Storm’s DDoS claims](https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/)
 * [US govt says Americans lost record * [X hit by ‘massive cyberattack’ amid Dark Storm’s DDoS claims](https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/)
 * [US govt says Americans lost record * [X hit by ‘massive cyberattack’ amid Dark Storm’s DDoS claims](https://www.bleepingcomputer.com/news/security/x-hit-by-massive-cyberattack-amid-dark-storms-ddos-claims/)
@@ -101,7 +103,9 @@
 * [Swiss critical sector faces new 24-hour cyberattack reporting rule](https://www.bleepingcomputer.com/news/security/swiss-critical-sector-faces-new-24-hour-cyberattack-reporting-rule/)2.5 billion to fraud in 2024](https://www.bleepingcomputer.com/news/security/us-govt-says-americans-lost-record-125-billion-to-fraud-in-2024/)
 * [Microsoft shares guidance on upcoming Publisher deprecation](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-upcoming-publisher-deprecation/)
 * [FTC will send $25.5 million to victims of tech support scams](https://www.bleepingcomputer.com/news/security/ftc-will-send-255-million-to-victims-of-tech-support-scams/)
-* [Swiss critical sector faces new 24-hour cyberattack reporting rule](https://www.bleepingcomputer.com/news/security/swiss-critical-sector-faces-new-24-hour-cyberattack-reporting-rule/)
+* [Swiss critical sector faces new 24-hour cyberattack reporting rule](https://www.bleepingcomputer.com/news/security/swiss-critical-sector-faces-new-24-hour-cyberattack-reporting-rule/)2.5 billion to fraud in 2024](https://www.bleepingcomputer.com/news/security/us-govt-says-americans-lost-record-125-billion-to-fraud-in-2024/)
+* [Microsoft shares guidance on upcoming Publisher deprecation](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-guidance-on-upcoming-publisher-deprecation/)
+* [FTC will send $25.5 million to victims of tech support scams](https://www.bleepingcomputer.com/news/security/ftc-will-send-255-million-to-victims-of-tech-support-scams/)
 <!--END_SECTION:feed-->
 
 <!--
