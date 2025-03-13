@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ClickFix attack delivers infostealers, RATs in fake Booking.com emails](https://www.bleepingcomputer.com/news/security/clickfix-attack-delivers-infostealers-rats-in-fake-bookingcom-emails/)
 * [Red Report 2025: Unmasking a 3X Spike in Credential Theft and Debunking the AI Hype](https://www.bleepingcomputer.com/news/security/red-report-2025-unmasking-a-3x-spike-in-credential-theft-and-debunking-the-ai-hype/)
 * [Facebook discloses FreeType 2 flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/facebook-discloses-freetype-2-flaw-exploited-in-attacks/)
 * [CISA: Medusa ransomware hit over 300 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-300-critical-infrastructure-orgs/)
 * [New North Korean Android spyware slips onto Google Play](https://www.bleepingcomputer.com/news/security/new-north-korean-android-spyware-slips-onto-google-play/)
-* [Garantex crypto exchange admin arrested while on vacation](https://www.bleepingcomputer.com/news/security/garantex-crypto-exchange-admin-arrested-while-on-vacation/)
 <!--END_SECTION:feed-->
 
 <!--
