@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New SuperBlack ransomware exploits Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/new-superblack-ransomware-exploits-fortinet-auth-bypass-flaws/)
+* [Windows Notepad to get AI text summarization in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-notepad-to-get-ai-text-summarization-in-windows-11/)
 * [Microsoft says button to restore classic Outlook is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-button-to-restore-classic-outlook-is-broken/)
 * [Juniper patches bug that let Chinese cyberspies backdoor routers](https://www.bleepingcomputer.com/news/security/juniper-patches-bug-that-let-chinese-cyberspies-backdoor-routers-since-mid-2024/)
 * [GitLab patches critical authentication bypass vulnerabilities](https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/)
-* [ClickFix attack delivers infostealers, RATs in fake Booking.com emails](https://www.bleepingcomputer.com/news/security/clickfix-attack-delivers-infostealers-rats-in-fake-bookingcom-emails/)
-* [Red Report 2025: Unmasking a 3X Spike in Credential Theft and Debunking the AI Hype](https://www.bleepingcomputer.com/news/security/red-report-2025-unmasking-a-3x-spike-in-credential-theft-and-debunking-the-ai-hype/)
 <!--END_SECTION:feed-->
 
 <!--
