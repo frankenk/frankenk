@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft apologizes for removing VSCode extensions used by millions](https://www.bleepingcomputer.com/news/microsoft/microsoft-apologizes-for-removing-vscode-extensions-used-by-millions/)
 * [New SuperBlack ransomware exploits Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/new-superblack-ransomware-exploits-fortinet-auth-bypass-flaws/)
 * [Windows Notepad to get AI text summarization in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-notepad-to-get-ai-text-summarization-in-windows-11/)
 * [Microsoft says button to restore classic Outlook is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-button-to-restore-classic-outlook-is-broken/)
 * [Juniper patches bug that let Chinese cyberspies backdoor routers](https://www.bleepingcomputer.com/news/security/juniper-patches-bug-that-let-chinese-cyberspies-backdoor-routers-since-mid-2024/)
-* [GitLab patches critical authentication bypass vulnerabilities](https://www.bleepingcomputer.com/news/security/gitlab-patches-critical-authentication-bypass-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
