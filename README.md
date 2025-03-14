@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gang creates tool to automate VPN brute-force attacks](https://www.bleepingcomputer.com/news/security/black-basta-ransomware-creates-automated-tool-to-brute-force-vpns/)
+* [Cisco IOS XR vulnerability lets attackers crash BGP on routers](https://www.bleepingcomputer.com/news/security/cisco-vulnerability-lets-attackers-crash-bgp-on-ios-xr-routers/)
 * [Suspected LockBit ransomware dev extradited to United States](https://www.bleepingcomputer.com/news/security/suspected-lockbit-ransomware-dev-extradited-to-united-states/)
 * [Microsoft apologizes for removing VSCode extensions used by millions](https://www.bleepingcomputer.com/news/microsoft/microsoft-apologizes-for-removing-vscode-extensions-used-by-millions/)
 * [New SuperBlack ransomware exploits Fortinet auth bypass flaws](https://www.bleepingcomputer.com/news/security/new-superblack-ransomware-exploits-fortinet-auth-bypass-flaws/)
-* [Windows Notepad to get AI text summarization in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-notepad-to-get-ai-text-summarization-in-windows-11/)
-* [Microsoft says button to restore classic Outlook is broken](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-button-to-restore-classic-outlook-is-broken/)
 <!--END_SECTION:feed-->
 
 <!--
