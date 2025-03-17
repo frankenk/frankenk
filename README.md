@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [BlackLock ransomware claims nearly 50 attacks in two months](https://www.bleepingcomputer.com/news/security/blacklock-ransomware-claims-nearly-50-attacks-in-two-months/)
+* [Telegram CEO leaves France temporarily as criminal probe continues](https://www.bleepingcomputer.com/news/security/telegram-ceo-leaves-france-temporarily-as-criminal-probe-continues/)
 * [Microsoft: New RAT malware used for crypto theft, reconnaissance](https://www.bleepingcomputer.com/news/security/microsoft-new-rat-malware-used-for-crypto-theft-reconnaissance/)
 * [OKX suspends DEX aggregator after Lazarus hackers try to launder funds](https://www.bleepingcomputer.com/news/security/okx-suspends-dex-aggregator-after-lazarus-hackers-try-to-launder-funds/)
 * [Supply chain attack on popular GitHub Action exposes CI/CD secrets](https://www.bleepingcomputer.com/news/security/supply-chain-attack-on-popular-github-action-exposes-ci-cd-secrets/)
-* [Microsoft: March Windows updates mistakenly uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-windows-updates-mistakenly-uninstall-copilot/)
-* [Critical RCE flaw in Apache Tomcat actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-flaw-in-apache-tomcat-actively-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
