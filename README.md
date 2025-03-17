@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Supply chain attack on popular GitHub Action exposes CI/CD secrets](https://www.bleepingcomputer.com/news/security/supply-chain-attack-on-popular-github-action-exposes-ci-cd-secrets/)
 * [Microsoft: March Windows updates mistakenly uninstall Copilot](https://www.bleepingcomputer.com/news/microsoft/microsoft-march-windows-updates-mistakenly-uninstall-copilot/)
 * [Critical RCE flaw in Apache Tomcat actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-rce-flaw-in-apache-tomcat-actively-exploited-in-attacks/)
 * [Fake "Security Alert" issues on GitHub use OAuth app to hijack accounts](https://www.bleepingcomputer.com/news/security/fake-security-alert-issues-on-github-use-oauth-app-to-hijack-accounts/)
 * [Malicious Adobe, DocuSign OAuth apps target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/malicious-adobe-docusign-oauth-apps-target-microsoft-365-accounts/)
-* [New Akira ransomware decryptor cracks encryptions keys using GPUs](https://www.bleepingcomputer.com/news/security/gpu-powered-akira-ransomware-decryptor-released-on-github/)
 <!--END_SECTION:feed-->
 
 <!--
