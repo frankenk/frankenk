@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious Android 'Vapor' apps on Google Play installed 60 million times](https://www.bleepingcomputer.com/news/security/malicious-android-vapor-apps-on-google-play-installed-60-million-times/)
+* [New Windows zero-day exploited by 11 state hacking groups since 2017](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-exploited-by-11-state-hacking-groups-since-2017/)
 * [Google to purchase Wiz for $32 billion in cloud security play](https://www.bleepingcomputer.com/news/security/google-to-purchase-wiz-for-32-billion-in-cloud-security-play/)
 * [Critical AMI MegaRAC bug can let attackers hijack, brick servers](https://www.bleepingcomputer.com/news/security/critical-ami-megarac-bug-can-let-attackers-hijack-brick-servers/)
 * [Blockchain gaming platform WEMIX hacked to steal $6.1 million](https://www.bleepingcomputer.com/news/security/blockchain-gaming-platform-wemix-hacked-to-steal-61-million/)
-* [Telegram CEO leaves France temporarily as criminal probe continues](https://www.bleepingcomputer.com/news/security/telegram-ceo-leaves-france-temporarily-as-criminal-probe-continues/)
-* [Microsoft: New RAT malware used for crypto theft, reconnaissance](https://www.bleepingcomputer.com/news/security/microsoft-new-rat-malware-used-for-crypto-theft-reconnaissance/)
 <!--END_SECTION:feed-->
 
 <!--
