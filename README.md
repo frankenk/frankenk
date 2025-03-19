@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WhatsApp patched zero-click flaw exploited in Paragon spyware attacks](https://www.bleepingcomputer.com/news/security/whatsapp-patched-zero-day-flaw-used-in-paragon-spyware-attacks/)
 * [Why it's time for phishing prevention to move beyond email](https://www.bleepingcomputer.com/news/security/why-its-time-for-phishing-prevention-to-move-beyond-email/)
 * [Sperm donation giant California Cryobank warns of a data breach](https://www.bleepingcomputer.com/news/security/sperm-donation-giant-california-cryobank-warns-of-a-data-breach/)
 * [GitHub Action hack likely led to another in cascading supply chain attack](https://www.bleepingcomputer.com/news/security/github-action-hack-likely-led-to-another-in-cascading-supply-chain-attack/)
 * [Western Alliance Bank notifies 21,899 customers of data breach](https://www.bleepingcomputer.com/news/security/western-alliance-bank-notifies-21-899-customers-of-data-breach/)
-* [Malicious Android 'Vapor' apps on Google Play installed 60 million times](https://www.bleepingcomputer.com/news/security/malicious-android-vapor-apps-on-google-play-installed-60-million-times/)
 <!--END_SECTION:feed-->
 
 <!--
