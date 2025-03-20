@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress security plugin WP Ghost vulnerable to remote code execution bug](https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-wp-ghost-vulnerable-to-remote-code-execution-bug/)
+* [GitHub Action supply chain attack exposed secrets in 218 repos](https://www.bleepingcomputer.com/news/security/github-action-supply-chain-attack-exposed-secrets-in-218-repos/)
+* [Microsoft lifts Windows 11 upgrade block after Asphalt 8 crash fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-windows-11-upgrade-block-after-asphalt-8-crash-fix/)
+* [Is it time to retire 'one-off' pen tests for continuous testing?](https://www.bleepingcomputer.com/news/security/is-it-time-to-retire-one-off-pen-tests-for-continuous-testing/)
 * [HellCat hackers go on a worldwide Jira hacking spree](https://www.bleepingcomputer.com/news/security/hellcat-hackers-go-on-a-worldwide-jira-hacking-spree/)
-* [Malware campaign 'DollyWay' breached 20,000 WordPress sites](https://www.bleepingcomputer.com/news/security/malware-campaign-dollyway-breached-20-000-wordpress-sites/)
-* [Kali Linux 2025.1a released with 1 new tool, annual theme refresh](https://www.bleepingcomputer.com/news/security/kali-linux-20251a-released-with-1-new-tool-annual-theme-refresh/)
-* [Pennsylvania education union data breach hit 500,000 people](https://www.bleepingcomputer.com/news/security/pennsylvania-education-union-data-breach-hit-500-000-people/)
-* [Ukrainian military targeted in new Signal spear-phishing attacks](https://www.bleepingcomputer.com/news/security/ukrainian-military-targeted-in-new-signal-spear-phishing-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
