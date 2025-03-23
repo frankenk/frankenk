@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft Trust Signing service abused to code-sign malware](https://www.bleepingcomputer.com/news/security/microsoft-trust-signing-service-abused-to-code-sign-malware/)
+* [FBI warnings are true—fake file converters do push malware](https://www.bleepingcomputer.com/news/security/fbi-warnings-are-true-fake-file-converters-do-push-malware/)
+* [Cloudflare now blocks all unencrypted traffic to its API endpoints](https://www.bleepingcomputer.com/news/security/cloudflare-now-blocks-all-unencrypted-traffic-to-its-api-endpoints/)
+* [Microsoft Trusted Signing service abused to code-sign malware](https://www.bleepingcomputer.com/news/security/microsoft-trusted-signing-service-abused-to-code-sign-malware/)
 * [Coinbase was primary target of recent GitHub Actions breaches](https://www.bleepingcomputer.com/news/security/coinbase-was-primary-target-of-recent-github-actions-breaches/)
 * [Oracle denies breach after hacker claims theft of 6 million data records](https://www.bleepingcomputer.com/news/security/oracle-denies-data-breach-after-hacker-claims-theft-of-6-million-data-records/)
-* [Fake Semrush ads used to steal SEO professionals’ Google accounts](https://www.bleepingcomputer.com/news/security/fake-semrush-ads-used-to-steal-seo-professionals-google-accounts/)
-* [Microsoft: Exchange Online bug mistakenly quarantines user emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-bug-mistakenly-quarantines-user-emails/)
 <!--END_SECTION:feed-->
 
 <!--
