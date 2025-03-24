@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police arrests 300 suspects linked to African cybercrime rings](https://www.bleepingcomputer.com/news/security/police-arrests-300-suspects-linked-to-african-cybercrime-rings/)
+* [Critical flaw in Next.js lets hackers bypass authorization](https://www.bleepingcomputer.com/news/security/critical-flaw-in-nextjs-lets-hackers-bypass-authorization/)
+* [Hidden Threats: How Microsoft 365 Backups Store Risks for Future Attacks](https://www.bleepingcomputer.com/news/security/hidden-threats-how-microsoft-365-backups-store-risks-for-future-attacks/)
 * [Google Gemini's Astra (screen sharing) rolls out on Android for some users](https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-astra-screen-sharing-rolls-out-on-android-for-some-users/)
 * [FBI warnings are true—fake file converters do push malware](https://www.bleepingcomputer.com/news/security/fbi-warnings-are-true-fake-file-converters-do-push-malware/)
-* [Cloudflare now blocks all unencrypted traffic to its API endpoints](https://www.bleepingcomputer.com/news/security/cloudflare-now-blocks-all-unencrypted-traffic-to-its-api-endpoints/)
-* [Microsoft Trusted Signing service abused to code-sign malware](https://www.bleepingcomputer.com/news/security/microsoft-trusted-signing-service-abused-to-code-sign-malware/)
-* [Coinbase was primary target of recent GitHub Actions breaches](https://www.bleepingcomputer.com/news/security/coinbase-was-primary-target-of-recent-github-actions-breaches/)
 <!--END_SECTION:feed-->
 
 <!--
