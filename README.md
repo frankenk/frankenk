@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare R2 service outage caused by password rotation error](https://www.bleepingcomputer.com/news/security/cloudflare-r2-service-outage-caused-by-password-rotation-error/)
+* [Broadcom warns of authentication bypass in VMware Windows Tools](https://www.bleepingcomputer.com/news/security/broadcom-warns-of-authentication-bypass-in-vmware-windows-tools/)
 * [New Windows zero-day leaks NTLM hashes, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-leaks-ntlm-hashes-gets-unofficial-patch/)
 * [EncryptHub linked to MMC zero-day attacks on Windows systems](https://www.bleepingcomputer.com/news/security/encrypthub-linked-to-zero-day-attacks-targeting-windows-systems/)
 * [Browser-in-the-Browser attacks target CS2 players' Steam accounts](https://www.bleepingcomputer.com/news/security/browser-in-the-browser-attacks-target-cs2-players-steam-accounts/)
-* [New Android malware uses Microsoft’s .NET MAUI to evade detection](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-microsofts-net-maui-to-evade-detection/)
-* [23andMe files for bankruptcy, customers advised to delete DNA data](https://www.bleepingcomputer.com/news/security/23andme-files-for-bankruptcy-customers-advised-to-delete-dna-data/)
 <!--END_SECTION:feed-->
 
 <!--
