@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Android malware uses Microsoft’s .NET MAUI to evade detection](https://www.bleepingcomputer.com/news/security/new-android-malware-uses-microsofts-net-maui-to-evade-detection/)
 * [23andMe files for bankruptcy, customers advised to delete DNA data](https://www.bleepingcomputer.com/news/security/23andme-files-for-bankruptcy-customers-advised-to-delete-dna-data/)
 * [New VanHelsing ransomware targets Windows, ARM, ESXi systems](https://www.bleepingcomputer.com/news/security/new-vanhelsing-ransomware-targets-windows-arm-esxi-systems/)
 * [Cyberattack takes down Ukrainian state railway’s online services](https://www.bleepingcomputer.com/news/security/cyberattack-takes-down-ukrainian-state-railways-online-services/)
 * [DrayTek routers worldwide go into reboot loops over weekend](https://www.bleepingcomputer.com/news/security/draytek-routers-worldwide-go-into-reboot-loops-over-weekend/)
-* [Chinese Weaver Ant hackers spied on telco network for 4 years](https://www.bleepingcomputer.com/news/security/chinese-weaver-ant-hackers-spied-on-telco-network-for-4-years/)
 <!--END_SECTION:feed-->
 
 <!--
