@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes Chrome zero-day exploited in espionage campaign](https://www.bleepingcomputer.com/news/security/google-fixes-chrome-zero-day-exploited-in-espionage-campaign/)
 * [CrushFTP warns users to patch unauthenticated access flaw immediately](https://www.bleepingcomputer.com/news/security/crushftp-warns-users-to-patch-unauthenticated-access-flaw-immediately/)
 * [Cloudflare R2 service outage caused by password rotation error](https://www.bleepingcomputer.com/news/security/cloudflare-r2-service-outage-caused-by-password-rotation-error/)
 * [Broadcom warns of authentication bypass in VMware Windows Tools](https://www.bleepingcomputer.com/news/security/broadcom-warns-of-authentication-bypass-in-vmware-windows-tools/)
 * [New Windows zero-day leaks NTLM hashes, gets unofficial patch](https://www.bleepingcomputer.com/news/security/new-windows-zero-day-leaks-ntlm-hashes-gets-unofficial-patch/)
-* [EncryptHub linked to MMC zero-day attacks on Windows systems](https://www.bleepingcomputer.com/news/security/encrypthub-linked-to-zero-day-attacks-targeting-windows-systems/)
 <!--END_SECTION:feed-->
 
 <!--
