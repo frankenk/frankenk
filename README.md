@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes printing issues caused by January Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-printing-issues-caused-by-january-windows-updates/)
 * [RedCurl cyberspies create ransomware to encrypt Hyper-V servers](https://www.bleepingcomputer.com/news/security/redcurl-cyberspies-create-ransomware-to-encrypt-hyper-v-servers/)
 * [Microsoft: Recent Windows updates cause Remote Desktop issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-remote-desktop-issues/)
 * [New npm attack poisons local packages with backdoors](https://www.bleepingcomputer.com/news/security/new-npm-attack-poisons-local-packages-with-backdoors/)
 * [Windows 11 update breaks Veeam recovery, causes connection errors](https://www.bleepingcomputer.com/news/microsoft/windows-11-update-breaks-veeam-recovery-causes-connection-errors/)
-* [Google fixes Chrome zero-day exploited in espionage campaign](https://www.bleepingcomputer.com/news/security/google-fixes-chrome-zero-day-exploited-in-espionage-campaign/)
 <!--END_SECTION:feed-->
 
 <!--
