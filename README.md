@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [StreamElements discloses third-party data breach after hacker leaks data](https://www.bleepingcomputer.com/news/security/streamelements-discloses-third-party-data-breach-after-hacker-leaks-data/)
 * [New Atlantis AIO platform automates credential stuffing on 140 services](https://www.bleepingcomputer.com/news/security/new-atlantis-aio-automates-credential-stuffing-on-140-services/)
 * [Claude is testing ChatGPT-like Deep Research feature Compass](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-is-testing-chatgpt-like-deep-research-feature-compass/)
 * [The 7 technology trends that could replace passwords](https://www.bleepingcomputer.com/news/security/the-7-technology-trends-that-could-replace-passwords/)
-* [Microsoft fixes printing issues caused by January Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-printing-issues-caused-by-january-windows-updates/)
 <!--END_SECTION:feed-->
 
 <!--
