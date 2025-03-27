@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Dozens of solar inverter flaws could be exploited to attack power grids](https://www.bleepingcomputer.com/news/security/dozens-of-solar-inverter-flaws-could-be-exploited-to-attack-power-grids/)
 * [UK fines software provider £3.07 million for 2022 ransomware breach](https://www.bleepingcomputer.com/news/security/uk-fines-software-provider-307-million-for-2022-ransomware-breach/)
 * [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [StreamElements discloses third-party data breach after hacker leaks data](https://www.bleepingcomputer.com/news/security/streamelements-discloses-third-party-data-breach-after-hacker-leaks-data/)
 * [New Atlantis AIO platform automates credential stuffing on 140 services](https://www.bleepingcomputer.com/news/security/new-atlantis-aio-automates-credential-stuffing-on-140-services/)
-* [Claude is testing ChatGPT-like Deep Research feature Compass](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-is-testing-chatgpt-like-deep-research-feature-compass/)
 <!--END_SECTION:feed-->
 
 <!--
