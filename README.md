@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Infostealer campaign compromises 10 npm packages, targets devs](https://www.bleepingcomputer.com/news/security/infostealer-campaign-compromises-10-npm-packages-targets-devs/)
 * [Chinese FamousSparrow hackers deploy upgraded malware in attacks](https://www.bleepingcomputer.com/news/security/chinese-famoussparrow-hackers-deploy-upgraded-malware-in-attacks/)
 * [Windows 11 KB5053656 update released with 38 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5053656-update-released-with-38-changes-and-fixes/)
 * [Microsoft: New Windows scheduled task will launch Office apps faster](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-scheduled-task-will-launch-office-apps-faster/)
 * [The 4 WordPress flaws hackers targeted the most in Q1 2025](https://www.bleepingcomputer.com/news/security/the-four-wordpress-flaws-hackers-targeted-the-most-in-q1-2025/)
-* [Mozilla warns Windows users of critical Firefox sandbox escape flaw](https://www.bleepingcomputer.com/news/security/mozilla-warns-windows-users-of-critical-firefox-sandbox-escape-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
