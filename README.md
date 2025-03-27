@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Recent Windows Server 2025 updates cause Remote Desktop freezes](https://www.bleepingcomputer.com/news/microsoft/recent-windows-server-2025-updates-cause-remote-desktop-freezes/)
+* [Vivaldi integrates Proton VPN into the browser to fight web tracking](https://www.bleepingcomputer.com/news/software/vivaldi-integrates-proton-vpn-into-the-browser-to-fight-web-tracking/)
 * [Dozens of solar inverter flaws could be exploited to attack power grids](https://www.bleepingcomputer.com/news/security/dozens-of-solar-inverter-flaws-could-be-exploited-to-attack-power-grids/)
 * [UK fines software provider £3.07 million for 2022 ransomware breach](https://www.bleepingcomputer.com/news/security/uk-fines-software-provider-307-million-for-2022-ransomware-breach/)
 * [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
-* [StreamElements discloses third-party data breach after hacker leaks data](https://www.bleepingcomputer.com/news/security/streamelements-discloses-third-party-data-breach-after-hacker-leaks-data/)
-* [New Atlantis AIO platform automates credential stuffing on 140 services](https://www.bleepingcomputer.com/news/security/new-atlantis-aio-automates-credential-stuffing-on-140-services/)
 <!--END_SECTION:feed-->
 
 <!--
