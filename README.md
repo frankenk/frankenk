@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK fines software provider £3.07 million for 2022 ransomware breach](https://www.bleepingcomputer.com/news/security/uk-fines-software-provider-307-million-for-2022-ransomware-breach/)
 * [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [StreamElements discloses third-party data breach after hacker leaks data](https://www.bleepingcomputer.com/news/security/streamelements-discloses-third-party-data-breach-after-hacker-leaks-data/)
 * [New Atlantis AIO platform automates credential stuffing on 140 services](https://www.bleepingcomputer.com/news/security/new-atlantis-aio-automates-credential-stuffing-on-140-services/)
 * [Claude is testing ChatGPT-like Deep Research feature Compass](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-is-testing-chatgpt-like-deep-research-feature-compass/)
-* [The 7 technology trends that could replace passwords](https://www.bleepingcomputer.com/news/security/the-7-technology-trends-that-could-replace-passwords/)
 <!--END_SECTION:feed-->
 
 <!--
