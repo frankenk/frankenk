@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [U.S. seized $8.2 million in crypto linked to 'Romance Baiting' scams](https://www.bleepingcomputer.com/news/cryptocurrency/us-seized-82-million-in-crypto-linked-to-romance-baiting-scams/)
 * [Retail giant Sam’s Club investigates Clop ransomware breach claims](https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/)
+* [OpenAI now pays researchers * [Retail giant Sam’s Club investigates Clop ransomware breach claims](https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/)
 * [OpenAI now pays researchers * [Retail giant Sam’s Club investigates Clop ransomware breach claims](https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/)
 * [OpenAI now pays researchers * [Retail giant Sam’s Club investigates Clop ransomware breach claims](https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/)
 * [OpenAI now pays researchers * [Retail giant Sam’s Club investigates Clop ransomware breach claims](https://www.bleepingcomputer.com/news/security/retail-giant-sams-club-investigates-clop-ransomware-breach-claims/)
@@ -97,7 +99,9 @@
 * [New Ubuntu Linux security bypasses require manual mitigations](https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/)00,000 for critical vulnerabilities](https://www.bleepingcomputer.com/news/security/openai-now-pays-researchers-100-000-for-critical-vulnerabilities/)
 * [Phishing-as-a-service operation uses DNS-over-HTTPS for evasion](https://www.bleepingcomputer.com/news/security/phishing-as-a-service-operation-uses-dns-over-https-for-evasion/)
 * [Microsoft fixes button that restores classic Outlook client](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-button-that-restores-classic-outlook-client/)
-* [New Ubuntu Linux security bypasses require manual mitigations](https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/)
+* [New Ubuntu Linux security bypasses require manual mitigations](https://www.bleepingcomputer.com/news/security/new-ubuntu-linux-security-bypasses-require-manual-mitigations/)00,000 for critical vulnerabilities](https://www.bleepingcomputer.com/news/security/openai-now-pays-researchers-100-000-for-critical-vulnerabilities/)
+* [Phishing-as-a-service operation uses DNS-over-HTTPS for evasion](https://www.bleepingcomputer.com/news/security/phishing-as-a-service-operation-uses-dns-over-https-for-evasion/)
+* [Microsoft fixes button that restores classic Outlook client](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-button-that-restores-classic-outlook-client/)
 <!--END_SECTION:feed-->
 
 <!--
