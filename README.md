@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google rolls out easy end-to-end encryption for Gmail business users](https://www.bleepingcomputer.com/news/security/google-rolls-out-easy-end-to-end-encryption-for-gmail-business-users/)
+* [Nearly 24,000 IPs behind wave of Palo Alto Global Protect scans](https://www.bleepingcomputer.com/news/security/nearly-24-000-ips-behind-wave-of-palo-alto-global-protect-scans/)
 * [Apple backports zero-day patches to older iPhones and Macs](https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-macs/)
 * [Critical auth bypass bug in CrushFTP now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-auth-bypass-bug-in-crushftp-now-exploited-in-attacks/)
 * [VMware Workstation auto-updates broken after Broadcom URL redirect](https://www.bleepingcomputer.com/news/software/vmware-workstation-auto-updates-broken-after-broadcom-url-redirect/)
-* [OpenAI says Deep Research is coming to ChatGPT free "very soon"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-deep-research-is-coming-to-chatgpt-free-very-soon/)
-* [Microsoft uses AI to find flaws in GRUB2, U-Boot, Barebox bootloaders](https://www.bleepingcomputer.com/news/security/microsoft-uses-ai-to-find-flaws-in-grub2-u-boot-barebox-bootloaders/)
 <!--END_SECTION:feed-->
 
 <!--
