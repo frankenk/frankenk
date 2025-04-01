@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple fined €150 million over App Tracking Transparency issues](https://www.bleepingcomputer.com/news/apple/apple-fined-150-million-over-app-tracking-transparency-issues/)
 * [Google rolls out easy end-to-end encryption for Gmail business users](https://www.bleepingcomputer.com/news/security/google-rolls-out-easy-end-to-end-encryption-for-gmail-business-users/)
 * [Nearly 24,000 IPs behind wave of Palo Alto Global Protect scans](https://www.bleepingcomputer.com/news/security/nearly-24-000-ips-behind-wave-of-palo-alto-global-protect-scans/)
 * [Apple backports zero-day patches to older iPhones and Macs](https://www.bleepingcomputer.com/news/security/apple-backports-zero-day-patches-to-older-iphones-and-macs/)
 * [Critical auth bypass bug in CrushFTP now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-auth-bypass-bug-in-crushftp-now-exploited-in-attacks/)
-* [VMware Workstation auto-updates broken after Broadcom URL redirect](https://www.bleepingcomputer.com/news/software/vmware-workstation-auto-updates-broken-after-broadcom-url-redirect/)
 <!--END_SECTION:feed-->
 
 <!--
