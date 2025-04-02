@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Counterfeit Android devices found preloaded With Triada malware](https://www.bleepingcomputer.com/news/security/counterfeit-android-devices-found-preloaded-with-triada-malware/)
 * [Cisco warns of CSLU backdoor admin account used in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-cslu-backdoor-admin-account-used-in-attacks/)
 * [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
 * [North Korean IT worker army expands operations in Europe](https://www.bleepingcomputer.com/news/security/north-korean-it-worker-army-expands-operations-in-europe/)
 * [We Smell a (DC)Rat: Revealing a Sophisticated Malware Delivery Chain](https://www.bleepingcomputer.com/news/security/we-smell-a-dcrat-revealing-a-sophisticated-malware-delivery-chain/)
-* [Apple fined €150 million over App Tracking Transparency issues](https://www.bleepingcomputer.com/news/apple/apple-fined-150-million-over-app-tracking-transparency-issues/)
 <!--END_SECTION:feed-->
 
 <!--
