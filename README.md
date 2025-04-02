@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Counterfeit Android devices found preloaded With Triada malware](https://www.bleepingcomputer.com/news/security/counterfeit-android-devices-found-preloaded-with-triada-malware/)
+* [ChatGPT is down worldwide with something went wrong error](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-with-something-went-wrong-error/)
+* [Police shuts down KidFlix child sexual exploitation platform](https://www.bleepingcomputer.com/news/security/police-shuts-down-kidflix-child-sexual-exploitation-platform/)
+* [The Reality Behind Security Control Failures—And How to Prevent Them](https://www.bleepingcomputer.com/news/security/the-reality-behind-security-control-failures-and-how-to-prevent-them/)
+* [Counterfeit Android devices found preloaded with Triada malware](https://www.bleepingcomputer.com/news/security/counterfeit-android-devices-found-preloaded-with-triada-malware/)
 * [Cisco warns of CSLU backdoor admin account used in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-cslu-backdoor-admin-account-used-in-attacks/)
-* [New Windows 11 trick lets you bypass Microsoft Account requirement](https://www.bleepingcomputer.com/news/microsoft/new-windows-11-trick-lets-you-bypass-microsoft-account-requirement/)
-* [North Korean IT worker army expands operations in Europe](https://www.bleepingcomputer.com/news/security/north-korean-it-worker-army-expands-operations-in-europe/)
-* [We Smell a (DC)Rat: Revealing a Sophisticated Malware Delivery Chain](https://www.bleepingcomputer.com/news/security/we-smell-a-dcrat-revealing-a-sophisticated-malware-delivery-chain/)
 <!--END_SECTION:feed-->
 
 <!--
