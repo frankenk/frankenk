@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft adds hotpatching support to Windows 11 Enterprise](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-hotpatching-support-to-windows-11-enterprise/)
 * [Royal Mail investigates data leak claims, no impact on operations](https://www.bleepingcomputer.com/news/security/royal-mail-investigates-data-leak-claims-no-impact-on-operations/)
 * [ChatGPT is down worldwide with something went wrong error](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-with-something-went-wrong-error/)
 * [Police shuts down KidFlix child sexual exploitation platform](https://www.bleepingcomputer.com/news/security/police-shuts-down-kidflix-child-sexual-exploitation-platform/)
 * [The Reality Behind Security Control Failures—And How to Prevent Them](https://www.bleepingcomputer.com/news/security/the-reality-behind-security-control-failures-and-how-to-prevent-them/)
-* [Counterfeit Android devices found preloaded with Triada malware](https://www.bleepingcomputer.com/news/security/counterfeit-android-devices-found-preloaded-with-triada-malware/)
 <!--END_SECTION:feed-->
 
 <!--
