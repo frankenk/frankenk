@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ivanti patches Connect Secure zero-day exploited since mid-March](https://www.bleepingcomputer.com/news/security/ivanti-patches-connect-secure-zero-day-exploited-since-mid-march/)
 * [Texas State Bar warns of data breach after INC ransomware claims attack](https://www.bleepingcomputer.com/news/security/texas-state-bar-warns-of-data-breach-after-inc-ransomware-claims-attack/)
 * [Oracle privately confirms Cloud breach to customers](https://www.bleepingcomputer.com/news/security/oracle-privately-confirms-cloud-breach-to-customers/)
 * [Recent GitHub supply chain attack traced to leaked SpotBugs token](https://www.bleepingcomputer.com/news/security/recent-github-supply-chain-attack-traced-to-leaked-spotbugs-token/)
 * [Genetic data site openSNP to close and delete data over privacy concerns](https://www.bleepingcomputer.com/news/security/genetic-data-site-opensnp-to-close-and-delete-data-over-privacy-concerns/)
-* [Verizon Call Filter API flaw exposed customers' incoming call history](https://www.bleepingcomputer.com/news/security/verizon-call-filter-api-flaw-exposed-customers-incoming-call-history/)
 <!--END_SECTION:feed-->
 
 <!--
