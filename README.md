@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI tests watermarking for ChatGPT-4o Image Generation model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-tests-watermarking-for-chatgpt-4o-image-generation-model/)
+* [Carding tool abusing WooCommerce API downloaded 34K times on PyPI](https://www.bleepingcomputer.com/news/security/carding-tool-abusing-woocommerce-api-downloaded-34k-times-on-pypi/)
 * [Coinbase to fix 2FA account activity entry freaking out users](https://www.bleepingcomputer.com/news/security/coinbase-to-fix-2fa-account-activity-entry-freaking-out-users/)
 * [WinRAR flaw bypasses Windows Mark of the Web security alerts](https://www.bleepingcomputer.com/news/security/winrar-flaw-bypasses-windows-mark-of-the-web-security-alerts/)
 * [Port of Seattle says ransomware breach impacts 90,000 people](https://www.bleepingcomputer.com/news/security/port-of-seattle-says-ransomware-breach-impacts-90-000-people/)
-* [PoisonSeed phishing campaign behind emails with wallet seed phrases](https://www.bleepingcomputer.com/news/security/poisonseed-phishing-campaign-behind-emails-with-wallet-seed-phrases/)
-* [Australian pension funds hit by wave of credential stuffing attacks](https://www.bleepingcomputer.com/news/security/australian-pension-funds-hit-by-wave-of-credential-stuffing-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
