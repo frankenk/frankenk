@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes Android zero-days exploited in attacks, 60 other flaws](https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-attacks-60-other-flaws/)
+* [Malicious VSCode extensions infect Windows with cryptominers](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-infect-windows-with-cryptominers/)
 * [Food giant WK Kellogg discloses data breach linked to Clop ransomware](https://www.bleepingcomputer.com/news/security/food-giant-wk-kellogg-discloses-data-breach-linked-to-clop-ransomware/)
+* [Windows 11 24H2 blocked on PCs with code-obfuscation driver BSODs](https://www.bleepingcomputer.com/news/security/windows-11-24h2-blocked-on-pcs-with-code-obfuscation-driver-bsods/)
+* [This * [Food giant WK Kellogg discloses data breach linked to Clop ransomware](https://www.bleepingcomputer.com/news/security/food-giant-wk-kellogg-discloses-data-breach-linked-to-clop-ransomware/)
 * [Windows 11 24H2 blocked on PCs with code-obfuscation driver BSODs](https://www.bleepingcomputer.com/news/security/windows-11-24h2-blocked-on-pcs-with-code-obfuscation-driver-bsods/)
 * [This * [Food giant WK Kellogg discloses data breach linked to Clop ransomware](https://www.bleepingcomputer.com/news/security/food-giant-wk-kellogg-discloses-data-breach-linked-to-clop-ransomware/)
 * [Windows 11 24H2 blocked on PCs with code-obfuscation driver BSODs](https://www.bleepingcomputer.com/news/security/windows-11-24h2-blocked-on-pcs-with-code-obfuscation-driver-bsods/)
@@ -13,7 +17,7 @@
 * [E-ZPass toll payment texts return in massive phishing wave](https://www.bleepingcomputer.com/news/security/toll-payment-text-scam-returns-in-massive-phishing-wave/)
 * [OpenAI tests watermarking for ChatGPT-4o Image Generation model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-tests-watermarking-for-chatgpt-4o-image-generation-model/)6 AdGuard plan protects your whole family from malicious ads](https://www.bleepingcomputer.com/news/security/this-16-adguard-plan-protects-your-whole-family-from-malicious-ads/)
 * [E-ZPass toll payment texts return in massive phishing wave](https://www.bleepingcomputer.com/news/security/toll-payment-text-scam-returns-in-massive-phishing-wave/)
-* [OpenAI tests watermarking for ChatGPT-4o Image Generation model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-tests-watermarking-for-chatgpt-4o-image-generation-model/)
+* [OpenAI tests watermarking for ChatGPT-4o Image Generation model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-tests-watermarking-for-chatgpt-4o-image-generation-model/)6 AdGuard plan protects your whole family from malicious ads](https://www.bleepingcomputer.com/news/security/this-16-adguard-plan-protects-your-whole-family-from-malicious-ads/)
 <!--END_SECTION:feed-->
 
 <!--
