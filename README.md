@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [EncryptHub's dual life: Cybercriminal vs Windows bug-bounty researcher](https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/)
 * [Microsoft delays WSUS driver sync deprecation indefinitely](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-wsus-driver-sync-deprecation-indefinitely/)
 * [Six arrested for AI-powered investment scams that stole $20 million](https://www.bleepingcomputer.com/news/security/six-arrested-for-ai-powered-investment-scams-that-stole-20-million/)
 * [Everest ransomware's dark web leak site defaced, now offline](https://www.bleepingcomputer.com/news/security/everest-ransomwares-dark-web-leak-site-defaced-now-offline/)
 * [Google fixes Android zero-days exploited in attacks, 60 other flaws](https://www.bleepingcomputer.com/news/security/google-fixes-android-zero-days-exploited-in-attacks-60-other-flaws/)
-* [Malicious VSCode extensions infect Windows with cryptominers](https://www.bleepingcomputer.com/news/security/malicious-vscode-extensions-infect-windows-with-cryptominers/)
 <!--END_SECTION:feed-->
 
 <!--
