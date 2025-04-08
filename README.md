@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Mirai botnet behind surge in TVT DVR exploitation](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-behind-surge-in-tvt-dvr-exploitation/)
 * [AWS rolls out ML-KEM to secure TLS from quantum threats](https://www.bleepingcomputer.com/news/security/aws-rolls-out-ml-kem-to-secure-tls-from-quantum-threats/)
 * [EncryptHub's dual life: Cybercriminal vs Windows bug-bounty researcher](https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/)
 * [Microsoft delays WSUS driver sync deprecation indefinitely](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-wsus-driver-sync-deprecation-indefinitely/)
 * [Six arrested for AI-powered investment scams that stole $20 million](https://www.bleepingcomputer.com/news/security/six-arrested-for-ai-powered-investment-scams-that-stole-20-million/)
-* [Everest ransomware's dark web leak site defaced, now offline](https://www.bleepingcomputer.com/news/security/everest-ransomwares-dark-web-leak-site-defaced-now-offline/)
 <!--END_SECTION:feed-->
 
 <!--
