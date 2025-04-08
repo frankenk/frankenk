@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft April 2025 Patch Tuesday fixes exploited zero-day, 134 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2025-patch-tuesday-fixes-exploited-zero-day-134-flaws/)
+* [Windows 10 KB5055518 update fixes random text when printing](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5055518-update-fixes-random-text-when-printing/)
+* [Windows 11 KB5055523 & KB5055528  cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5055523-and-kb5055528-cumulative-updates-released/)
+* [Hackers lurked in Treasury OCC’s systems since June 2023 breach](https://www.bleepingcomputer.com/news/security/hackers-lurked-in-treasury-occs-systems-since-june-2023-breach/)
 * [WhatsApp flaw can let attackers run malicious code on Windows PCs](https://www.bleepingcomputer.com/news/security/whatsapp-flaw-can-let-attackers-run-malicious-code-on-windows-pcs/)
-* [New Mirai botnet behind surge in TVT DVR exploitation](https://www.bleepingcomputer.com/news/security/new-mirai-botnet-behind-surge-in-tvt-dvr-exploitation/)
-* [AWS rolls out ML-KEM to secure TLS from quantum threats](https://www.bleepingcomputer.com/news/security/aws-rolls-out-ml-kem-to-secure-tls-from-quantum-threats/)
-* [EncryptHub's dual life: Cybercriminal vs Windows bug-bounty researcher](https://www.bleepingcomputer.com/news/security/encrypthubs-dual-life-cybercriminal-vs-windows-bug-bounty-researcher/)
-* [Microsoft delays WSUS driver sync deprecation indefinitely](https://www.bleepingcomputer.com/news/microsoft/microsoft-delays-wsus-driver-sync-deprecation-indefinitely/)
 <!--END_SECTION:feed-->
 
 <!--
