@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft investigates global Exchange Admin Center outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-global-exchange-admin-center-outage/)
+* [Who's calling? The threat of AI-powered vishing attacks ](https://www.bleepingcomputer.com/news/security/whos-calling-the-threat-of-ai-powered-vishing-attacks/)
 * [Microsoft: April 2025 updates break Windows Hello on some PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-april-2025-updates-break-windows-hello-on-some-pcs/)
 * [Phishing kits now vet victims in real-time before stealing credentials](https://www.bleepingcomputer.com/news/security/phishing-kits-now-vet-victims-in-real-time-before-stealing-credentials/)
 * [Police detains Smokeloader malware customers, seizes servers](https://www.bleepingcomputer.com/news/security/police-detains-smokeloader-malware-customers-seizes-servers/)
-* [Fake Microsoft Office add-in tools push malware via SourceForge](https://www.bleepingcomputer.com/news/security/fake-microsoft-office-add-in-tools-push-malware-via-sourceforge/)
-* [Microsoft fixes auth issues on Windows Server, Windows 11 24H2](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-auth-issues-on-windows-server-windows-11-24h2/)
 <!--END_SECTION:feed-->
 
 <!--
