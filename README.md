@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers target SSRF bugs in EC2-hosted sites to steal AWS credentials](https://www.bleepingcomputer.com/news/security/hackers-target-ssrf-bugs-in-ec2-hosted-sites-to-steal-aws-credentials/)
 * [Oracle says "obsolete servers" hacked, denies cloud breach](https://www.bleepingcomputer.com/news/security/oracle-says-obsolete-servers-hacked-denies-cloud-breach/)
 * [Windows 11 April update unexpectedly creates new 'inetpub' folder](https://www.bleepingcomputer.com/news/microsoft/windows-11-april-update-unexpectedly-creates-new-inetpub-folder/)
 * [Critical FortiSwitch flaw lets hackers change admin passwords remotely](https://www.bleepingcomputer.com/news/security/critical-fortiswitch-flaw-lets-hackers-change-admin-passwords-remotely/)
 * [CentreStack RCE exploited as zero-day to breach file sharing servers](https://www.bleepingcomputer.com/news/security/centrestack-rce-exploited-as-zero-day-to-breach-file-sharing-servers/)
-* [Microsoft investigates global Exchange Admin Center outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-global-exchange-admin-center-outage/)
 <!--END_SECTION:feed-->
 
 <!--
