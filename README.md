@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Claude copies ChatGPT with $200 Max plan, but users aren't happy](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-copies-chatgpt-with-200-max-plan-but-users-arent-happy/)
+* [Russian hackers attack Western military mission using malicious drive](https://www.bleepingcomputer.com/news/security/russian-hackers-attack-western-military-mission-using-malicious-drive/)
 * [Sensata Technologies hit by ransomware attack impacting operations](https://www.bleepingcomputer.com/news/security/sensata-technologies-hit-by-ransomware-attack-impacting-operations/)
 * [Flipper Zero maker unveils ‘Busy Bar,’ a new ADHD productivity tool](https://www.bleepingcomputer.com/news/technology/flipper-zero-maker-unveils-busy-bar-a-new-adhd-productivity-tool/)
 * [ChatGPT's o4-mini, o4-mini-high and o3 spotted ahead of release](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-o4-mini-o4-mini-high-and-o3-spotted-ahead-of-release/)
-* [Windows 11 tests sharing apps screen and files with Copilot AI](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-sharing-apps-screen-and-files-with-copilot-ai/)
-* [Google takes on Cursor with Firebase Studio, its AI builder for vibe coding](https://www.bleepingcomputer.com/news/google/google-takes-on-cursor-with-firebase-studio-its-ai-builder-for-vibe-coding/)
 <!--END_SECTION:feed-->
 
 <!--
