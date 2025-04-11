@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft Edge is now up to 9% faster](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-is-now-up-to-9-percent-faster/)
+* [US lab testing provider exposed health data of 1.6 million people](https://www.bleepingcomputer.com/news/security/us-lab-testing-provider-exposed-health-data-of-16-million-people/)
+* [Microsoft says Edge browser is now 9% faster after optimizations](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-edge-browser-is-now-9-percent-faster-after-optimizations/)
 * [Ransomware attack cost IKEA operator in Eastern Europe  $23 million](https://www.bleepingcomputer.com/news/security/ransomware-attack-cost-ikea-operator-in-eastern-europe-23-million/)
 * [Hackers exploit WordPress plugin auth bypass hours after disclosure](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-auth-bypass-hours-after-disclosure/)
 * [Microsoft releases emergency update to fix Office 2016 crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-update-to-fix-office-2016-crashes/)
-* [OpenAI wants ChatGPT to 'know you over your life' with new Memory update](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-know-you-over-your-life-with-new-memory-update/)
 <!--END_SECTION:feed-->
 
 <!--
