@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Leak confirms OpenAI's GPT 4.1 is coming before GPT 5.0](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-gpt-41-is-coming-before-gpt-50/)
+* [Tycoon2FA phishing kit targets Microsoft 365 with new tricks](https://www.bleepingcomputer.com/news/security/tycoon2fa-phishing-kit-targets-microsoft-365-with-new-tricks/)
+* [AI-hallucinated code dependencies become new supply chain risk](https://www.bleepingcomputer.com/news/security/ai-hallucinated-code-dependencies-become-new-supply-chain-risk/)
 * [Microsoft Defender will isolate undiscovered endpoints to block attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-will-isolate-undiscovered-endpoints-to-block-attacks/)
 * [Microsoft starts final Windows Recall testing before rollout](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-final-windows-recall-testing-before-rollout/)
-* [Western Sydney University discloses security breaches, data leak](https://www.bleepingcomputer.com/news/security/western-sydney-university-discloses-security-breaches-data-leak/)
-* [Fortinet: Hackers retain access to patched FortiGate VPNs using symlinks](https://www.bleepingcomputer.com/news/security/fortinet-hackers-retain-access-to-patched-fortigate-vpns-using-symlinks/)
-* [Microsoft: Windows 'inetpub' folder created by security fix, don’t delete](https://www.bleepingcomputer.com/news/security/microsoft-windows-inetpub-folder-created-by-security-fix-dont-delete/)
 <!--END_SECTION:feed-->
 
 <!--
