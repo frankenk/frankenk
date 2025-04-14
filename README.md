@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SSL/TLS certificate lifespans reduced to 47 days by 2029](https://www.bleepingcomputer.com/news/security/ssl-tls-certificate-lifespans-reduced-to-47-days-by-2029/)
 * [New ResolverRAT malware targets pharma and healthcare orgs worldwide](https://www.bleepingcomputer.com/news/security/new-resolverrat-malware-targets-pharma-and-healthcare-orgs-worldwide/)
 * [Meta to resume AI training on content shared by Europeans](https://www.bleepingcomputer.com/news/technology/meta-to-resume-ai-training-on-content-shared-by-europeans/)
 * [Kidney dialysis firm DaVita hit by weekend ransomware attack](https://www.bleepingcomputer.com/news/security/kidney-dialysis-firm-davita-hit-by-weekend-ransomware-attack/)
 * [Enhancing your DevSecOps with Wazuh, the open source XDR platform](https://www.bleepingcomputer.com/news/security/enhancing-your-devsecops-with-wazuh-the-open-source-xdr-platform/)
-* [Microsoft tells Windows users to ignore 0x80070643 WinRE errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-tells-windows-users-to-ignore-winre-install-errors/)
 <!--END_SECTION:feed-->
 
 <!--
