@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple fixes two zero-days exploited in targeted iPhone attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-days-exploited-in-targeted-iphone-attacks/)
 * [Google begins unifying search country domains to Google.com](https://www.bleepingcomputer.com/news/google/google-begins-unifying-search-country-domains-to-googlecom/)
 * [Jira Down: Atlassian users experiencing degraded performance](https://www.bleepingcomputer.com/news/security/jira-down-atlassian-users-experiencing-degraded-performance/)
 * [41% of Attacks Bypass Defenses: Adversarial Exposure Validation Fixes That](https://www.bleepingcomputer.com/news/security/41-percent-of-attacks-bypass-defenses-adversarial-exposure-validation-fixes-that/)
 * [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
-* [Microsoft warns of blue screen crashes caused by April updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-blue-screen-crashes-caused-by-april-updates/)
 <!--END_SECTION:feed-->
 
 <!--
