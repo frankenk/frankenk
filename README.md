@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ahold Delhaize confirms data theft after INC ransomware claims attack](https://www.bleepingcomputer.com/news/security/ahold-delhaize-confirms-data-theft-after-inc-ransomware-claims-attack/)
+* [CTM360 Tracks Global Surge in SMS-Based Reward and Toll Scams](https://www.bleepingcomputer.com/news/security/ctm360-tracks-global-surge-in-sms-based-reward-and-toll-scams/)
 * [Microsoft: Office 2016 and Office 2019 reach end of support in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-reach-end-of-support-in-october/)
 * [CISA warns of increased breach risks following Oracle Cloud leak](https://www.bleepingcomputer.com/news/security/cisa-warns-of-increased-breach-risks-following-oracle-cloud-leak/)
 * [New Windows Server emergency updates fix container launch issue](https://www.bleepingcomputer.com/news/microsoft/new-windows-server-emergency-updates-fix-container-launch-issue/)
-* [CISA tags SonicWall VPN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-sonicwall-vpn-flaw-as-actively-exploited-in-attacks/)
-* [Over 16,000 Fortinet devices compromised with symlink backdoor](https://www.bleepingcomputer.com/news/security/over-16-000-fortinet-devices-compromised-with-symlink-backdoor/)
 <!--END_SECTION:feed-->
 
 <!--
