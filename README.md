@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SonicWall SMA VPN devices targeted in attacks since January](https://www.bleepingcomputer.com/news/security/sonicwall-sma-vpn-devices-targeted-in-attacks-since-january/)
 * [Chinese hackers target Russian govt with upgraded RAT malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-russian-govt-with-upgraded-rat-malware/)
 * [7 Steps to Take After a Credential-Based cyberattack](https://www.bleepingcomputer.com/news/security/7-steps-to-take-after-a-credential-based-cyberattack/)
 * [Cisco Webex bug lets hackers gain code execution via meeting links](https://www.bleepingcomputer.com/news/security/cisco-webex-bug-lets-hackers-gain-code-execution-via-meeting-links/)
 * [Critical Erlang/OTP SSH pre-auth RCE is 'Surprisingly Easy' to exploit, patch now](https://www.bleepingcomputer.com/news/security/critical-erlang-otp-ssh-pre-auth-rce-is-surprisingly-easy-to-exploit-patch-now/)
-* [Entertainment services giant Legends International discloses data breach](https://www.bleepingcomputer.com/news/security/entertainment-services-giant-legends-international-discloses-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
