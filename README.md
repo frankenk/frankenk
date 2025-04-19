@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Widespread Microsoft Entra lockouts tied to new security feature rollout](https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/)
 * [New Android malware steals your credit cards for NFC relay attacks](https://www.bleepingcomputer.com/news/security/supercard-x-android-malware-use-stolen-cards-in-nfc-relay-attacks/)
 * [Critical Erlang/OTP SSH RCE bug now has public exploits, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-critical-erlang-otp-ssh-flaw-patch-now/)
 * [Google Gemini AI is getting ChatGPT-like Scheduled Actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/google-gemini-ai-is-getting-chatgpt-like-scheduled-actions-feature/)
 * [Interlock ransomware gang pushes fake IT tools in ClickFix attacks](https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-pushes-fake-it-tools-in-clickfix-attacks/)
-* [OpenAI details ChatGPT-o3, o4-mini, o4-mini-high usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-details-chatgpt-o3-o4-mini-o4-mini-high-usage-limits/)
 <!--END_SECTION:feed-->
 
 <!--
