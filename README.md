@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Android malware steals your credit cards for NFC relay attacks](https://www.bleepingcomputer.com/news/security/supercard-x-android-malware-use-stolen-cards-in-nfc-relay-attacks/)
+* [Critical Erlang/OTP SSH RCE bug now has public exploits, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-critical-erlang-otp-ssh-flaw-patch-now/)
 * [Google Gemini AI is getting ChatGPT-like Scheduled Actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/google-gemini-ai-is-getting-chatgpt-like-scheduled-actions-feature/)
 * [Interlock ransomware gang pushes fake IT tools in ClickFix attacks](https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-pushes-fake-it-tools-in-clickfix-attacks/)
 * [OpenAI details ChatGPT-o3, o4-mini, o4-mini-high usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-details-chatgpt-o3-o4-mini-o4-mini-high-usage-limits/)
-* [FBI: Scammers pose as FBI IC3 employees to 'help' recover lost funds](https://www.bleepingcomputer.com/news/security/fbi-scammers-pose-as-fbi-ic3-employees-to-help-recover-lost-funds/)
-* [ASUS warns of critical auth bypass flaw in routers using AiCloud](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-routers-using-aicloud/)
 <!--END_SECTION:feed-->
 
 <!--
