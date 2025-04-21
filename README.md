@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress ad-fraud plugins generated 1.4 billion ad requests per day](https://www.bleepingcomputer.com/news/security/scallywag-ad-fraud-operation-generated-14-billion-ad-requests-per-day/)
+* [Phishers abuse Google OAuth to spoof Google in DKIM replay attack](https://www.bleepingcomputer.com/news/security/phishers-abuse-google-oauth-to-spoof-google-in-dkim-replay-attack/)
+* [State-sponsored hackers embrace ClickFix social engineering tactic](https://www.bleepingcomputer.com/news/security/state-sponsored-hackers-embrace-clickfix-social-engineering-tactic/)
 * [Widespread Microsoft Entra lockouts tied to new security feature rollout](https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/)
 * [New Android malware steals your credit cards for NFC relay attacks](https://www.bleepingcomputer.com/news/security/supercard-x-android-malware-use-stolen-cards-in-nfc-relay-attacks/)
-* [Critical Erlang/OTP SSH RCE bug now has public exploits, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-critical-erlang-otp-ssh-flaw-patch-now/)
-* [Google Gemini AI is getting ChatGPT-like Scheduled Actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/google-gemini-ai-is-getting-chatgpt-like-scheduled-actions-feature/)
-* [Interlock ransomware gang pushes fake IT tools in ClickFix attacks](https://www.bleepingcomputer.com/news/security/interlock-ransomware-gang-pushes-fake-it-tools-in-clickfix-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
