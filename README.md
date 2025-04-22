@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers abuse Zoom remote control feature for crypto-theft attacks](https://www.bleepingcomputer.com/news/security/hackers-abuse-zoom-remote-control-feature-for-crypto-theft-attacks/)
+* [Windows 10 KB5055612 preview update fixes a GPU bug in WSL2](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5055612-preview-update-fixes-a-gpu-bug-in-wsl2/)
 * [SK Telecom warns customer USIM data exposed in malware attack](https://www.bleepingcomputer.com/news/security/sk-telecom-warns-customer-usim-data-exposed-in-malware-attack/)
 * [Ripple’s recommended XRP library xrpl.js hacked to steal wallets](https://www.bleepingcomputer.com/news/security/ripples-recommended-xrp-library-xrpljs-hacked-to-steal-wallets/)
 * [Cookie-Bite attack PoC uses Chrome extension to steal session tokens](https://www.bleepingcomputer.com/news/security/cookie-bite-attack-poc-uses-chrome-extension-to-steal-session-tokens/)
-* [Microsoft Entra account lockouts caused by user token logging mishap](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-account-lockouts-caused-by-user-token-logging-mishap/)
-* [WordPress ad-fraud plugins generated 1.4 billion ad requests per day](https://www.bleepingcomputer.com/news/security/scallywag-ad-fraud-operation-generated-14-billion-ad-requests-per-day/)
 <!--END_SECTION:feed-->
 
 <!--
