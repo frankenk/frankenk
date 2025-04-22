@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cookie-Bite attack PoC uses Chrome extension to steal session tokens](https://www.bleepingcomputer.com/news/security/cookie-bite-attack-poc-uses-chrome-extension-to-steal-session-tokens/)
 * [Microsoft Entra account lockouts caused by user token logging mishap](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-account-lockouts-caused-by-user-token-logging-mishap/)
 * [WordPress ad-fraud plugins generated 1.4 billion ad requests per day](https://www.bleepingcomputer.com/news/security/scallywag-ad-fraud-operation-generated-14-billion-ad-requests-per-day/)
 * [Phishers abuse Google OAuth to spoof Google in DKIM replay attack](https://www.bleepingcomputer.com/news/security/phishers-abuse-google-oauth-to-spoof-google-in-dkim-replay-attack/)
 * [State-sponsored hackers embrace ClickFix social engineering tactic](https://www.bleepingcomputer.com/news/security/state-sponsored-hackers-embrace-clickfix-social-engineering-tactic/)
-* [Widespread Microsoft Entra lockouts tied to new security feature rollout](https://www.bleepingcomputer.com/news/microsoft/widespread-microsoft-entra-lockouts-tied-to-new-security-feature-rollout/)
 <!--END_SECTION:feed-->
 
 <!--
