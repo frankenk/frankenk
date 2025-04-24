@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Frederick Health data breach impacts nearly 1 million patients](https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/)
 * [Microsoft now pays up to $30,000 for some AI vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-30-000-for-some-ai-vulnerabilities/)
 * [Interlock ransomware claims DaVita attack, leaks stolen data](https://www.bleepingcomputer.com/news/security/interlock-ransomware-claims-davita-attack-leaks-stolen-data/)
 * [Yale New Haven Health data breach affects 5.5 million patients](https://www.bleepingcomputer.com/news/security/yale-new-haven-health-data-breach-affects-55-million-patients/)
 * [Microsoft fixes bug causing incorrect 0x80070643 WinRE errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-incorrect-0x80070643-winre-errors/)
-* [Linux 'io_uring' security blindspot allows stealthy rootkit attacks](https://www.bleepingcomputer.com/news/security/linux-io-uring-security-blindspot-allows-stealthy-rootkit-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
