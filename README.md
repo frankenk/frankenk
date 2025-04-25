@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft announces fix for CPU spikes when typing in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/)
 * [Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/)
 * [Lazarus hackers breach six companies in watering hole attacks](https://www.bleepingcomputer.com/news/security/lazarus-hackers-breach-six-companies-in-watering-hole-attacks/)
 * [Microsoft fixes machine learning bug flagging Adobe emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-machine-learning-bug-flagging-adobe-emails-as-spam/)
 * [Frederick Health data breach impacts nearly 1 million patients](https://www.bleepingcomputer.com/news/security/frederick-health-data-breach-impacts-nearly-1-million-patients/)
-* [Microsoft now pays up to $30,000 for some AI vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-30-000-for-some-ai-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
