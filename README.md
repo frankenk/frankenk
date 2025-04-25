@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Marks & Spencer pauses online orders after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-pauses-online-orders-after-cyberattack/)
+* [Mobile provider MTN says cyberattack compromised customer data](https://www.bleepingcomputer.com/news/security/mobile-provider-mtn-says-cyberattack-compromised-customer-data/)
+* [Windows "inetpub" security fix can be abused to block future updates](https://www.bleepingcomputer.com/news/microsoft/windows-inetpub-security-fix-can-be-abused-to-block-future-updates/)
 * [Baltimore City Public Schools data breach affects over 31,000 people](https://www.bleepingcomputer.com/news/security/baltimore-city-public-schools-data-breach-affects-over-31-000-people/)
 * [SAP fixes suspected Netweaver zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/sap-fixes-suspected-netweaver-zero-day-exploited-in-attacks/)
-* [FBI seeks help to unmask Salt Typhoon hackers behind telecom breaches](https://www.bleepingcomputer.com/news/security/fbi-seeks-help-to-unmask-salt-typhoon-hackers-behind-telecom-breaches/)
-* [Microsoft announces fix for CPU spikes when typing in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-fix-for-cpu-spikes-when-typing-in-outlook/)
-* [Hackers abuse OAuth 2.0 workflows to hijack Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-abuse-oauth-20-workflows-to-hijack-microsoft-365-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
