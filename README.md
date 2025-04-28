@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare mitigates record number of DDoS attacks in 2025](https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-number-of-ddos-attacks-in-2025/)
 * [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/)
 * [Brave's Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/)
 * [DragonForce expands ransomware model with white-label branding scheme](https://www.bleepingcomputer.com/news/security/dragonforce-expands-ransomware-model-with-white-label-branding-scheme/)
 * [WooCommerce admins targeted by fake security patches that hijack sites](https://www.bleepingcomputer.com/news/security/woocommerce-admins-targeted-by-fake-security-patches-that-hijack-sites/)
-* [Windows 11's Recall AI is now rolling out on Copilot+ PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11s-recall-ai-is-now-rolling-out-on-copilot-plus-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
