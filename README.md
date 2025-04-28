@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 1,200 SAP NetWeaver servers vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-1-200-sap-netweaver-servers-vulnerable-to-actively-exploited-flaw/)
+* [Kali Linux warns of update failures after losing repo signing key](https://www.bleepingcomputer.com/news/linux/kali-linux-warns-of-update-failures-after-losing-repo-signing-key/)
 * [Microsoft fixes Outlook on the web search issues, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-on-the-web-search-issues-failures/)
 * [Cloudflare mitigates record number of DDoS attacks in 2025](https://www.bleepingcomputer.com/news/security/cloudflare-mitigates-record-number-of-ddos-attacks-in-2025/)
 * [Coinbase fixes 2FA log error making people think they were hacked](https://www.bleepingcomputer.com/news/security/coinbase-fixes-2fa-log-error-making-people-think-they-were-hacked/)
-* [Brave's Cookiecrumbler tool taps community to help block cookie notices](https://www.bleepingcomputer.com/news/security/braves-cookiecrumbler-tool-taps-community-to-help-block-cookie-notices/)
-* [DragonForce expands ransomware model with white-label branding scheme](https://www.bleepingcomputer.com/news/security/dragonforce-expands-ransomware-model-with-white-label-branding-scheme/)
 <!--END_SECTION:feed-->
 
 <!--
