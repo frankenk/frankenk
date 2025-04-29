@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Outlook paste, blank calendar rendering issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-paste-blank-calendar-rendering-issues/)
 * [CISA tags Broadcom Fabric OS, CommVault flaws as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-tags-broadcom-fabric-os-commvault-flaws-as-exploited-in-attacks/)
 * [Google: 97 zero-days exploited in 2024, over 50% in spyware attacks](https://www.bleepingcomputer.com/news/security/google-97-zero-days-exploited-in-2024-over-50-percent-in-spyware-attacks/)
 * [Marks & Spencer breach linked to Scattered Spider ransomware attack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-breach-linked-to-scattered-spider-ransomware-attack/)
 * [Hitachi Vantara takes servers offline after Akira ransomware attack](https://www.bleepingcomputer.com/news/security/hitachi-vantara-takes-servers-offline-after-akira-ransomware-attack/)
-* [VeriSource now says February data breach impacts 4 million people](https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
