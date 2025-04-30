@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows 11 24H2 updates fail with 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-updates-fail-with-0x80240069-errors/)
 * [Grinex exchange suspected rebrand of sanctioned Garantex crypto firm](https://www.bleepingcomputer.com/news/cryptocurrency/grinex-exchange-suspected-rebrand-of-sanctioned-garantex-crypto-firm/)
 * [Microsoft: Windows Server hotpatching to require subscription](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-hotpatching-to-require-subscription/)
 * [Hackers ramp up scans for leaked Git tokens and secrets](https://www.bleepingcomputer.com/news/security/hackers-ramp-up-scans-for-leaked-git-tokens-and-secrets/)
 * [France ties Russian APT28 hackers to 12 cyberattacks on French orgs](https://www.bleepingcomputer.com/news/security/france-ties-russian-apt28-hackers-to-12-cyberattacks-on-french-orgs/)
-* [Apple 'AirBorne' flaws can lead to zero-click AirPlay RCE attacks](https://www.bleepingcomputer.com/news/security/apple-airborne-flaws-can-lead-to-zero-click-airplay-rce-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
