@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Co-op confirms data theft after DragonForce ransomware claims attack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-theft-after-dragonforce-ransomware-claims-attack/)
 * [Magento supply chain attack compromises hundreds of e-stores](https://www.bleepingcomputer.com/news/security/magento-supply-chain-attack-compromises-hundreds-of-e-stores/)
 * [US indicts Black Kingdom ransomware admin for Microsoft Exchange attacks](https://www.bleepingcomputer.com/news/security/us-indicts-black-kingdom-ransomware-admin-for-microsoft-exchange-attacks/)
 * [UK NCSC: Cyberattacks impacting UK retailers are a wake-up call](https://www.bleepingcomputer.com/news/security/uk-ncsc-cyberattacks-impacting-uk-retailers-are-a-wake-up-call/)
 * [TikTok fined €530 million for sending European user data to China](https://www.bleepingcomputer.com/news/security/tiktok-fined-530-million-for-sending-european-user-data-to-china/)
-* [Microsoft fixes Exchange Online bug flagging Gmail emails as spam](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-online-bug-flagging-gmail-emails-as-spam/)
 <!--END_SECTION:feed-->
 
 <!--
