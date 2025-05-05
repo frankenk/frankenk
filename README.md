@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Luna Moth extortion hackers pose as IT help desks to breach US firms](https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/)
 * [New "Bring Your Own Installer" EDR bypass used in ransomware attack](https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/)
 * [Microsoft finds default Kubernetes Helm charts can expose data](https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/)
 * [Unofficial Signal app used by Trump officials investigates hack](https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/)
 * [Darcula PhaaS steals 884,000 credit cards via phishing texts](https://www.bleepingcomputer.com/news/security/darcula-phaas-steals-884-000-credit-cards-via-phishing-texts/)
-* [Microsoft is killing Skype today, pushes users to Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-killing-skype-today-pushes-users-to-teams/)
 <!--END_SECTION:feed-->
 
 <!--
