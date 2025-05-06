@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Linux wiper malware hidden in malicious Go modules on GitHub](https://www.bleepingcomputer.com/news/security/linux-wiper-malware-hidden-in-malicious-go-modules-on-github/)
 * [Microsoft pushes fix for Windows 11 update 0x80240069 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-pushes-fix-for-windows-11-update-0x80240069-errors/)
 * [Luna Moth extortion hackers pose as IT help desks to breach US firms](https://www.bleepingcomputer.com/news/security/luna-moth-extortion-hackers-pose-as-it-help-desks-to-breach-us-firms/)
 * [New "Bring Your Own Installer" EDR bypass used in ransomware attack](https://www.bleepingcomputer.com/news/security/new-bring-your-own-installer-edr-bypass-used-in-ransomware-attack/)
 * [Microsoft finds default Kubernetes Helm charts can expose data](https://www.bleepingcomputer.com/news/security/microsoft-finds-default-kubernetes-helm-charts-can-expose-data/)
-* [Unofficial Signal app used by Trump officials investigates hack](https://www.bleepingcomputer.com/news/security/unofficial-signal-app-used-by-trump-officials-investigates-hack/)
 <!--END_SECTION:feed-->
 
 <!--
