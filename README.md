@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [M&S says customer data stolen in cyberattack, forces password resets](https://www.bleepingcomputer.com/news/security/mands-says-customer-data-stolen-in-cyberattack-forces-password-resets/)
 * [ASUS DriverHub flaw let malicious sites run commands with admin rights](https://www.bleepingcomputer.com/news/security/asus-driverhub-flaw-let-malicious-sites-run-commands-with-admin-rights/)
 * [Windows 11 upgrade block lifted after Safe Exam Browser fix](https://www.bleepingcomputer.com/news/microsoft/windows-11-upgrade-block-lifted-after-safe-exam-browser-fix/)
 * [Hackers now testing ClickFix attacks against Linux targets](https://www.bleepingcomputer.com/news/security/hackers-now-testing-clickfix-attacks-against-linux-targets/)
 * [Output Messenger flaw exploited as zero-day in espionage attacks](https://www.bleepingcomputer.com/news/security/output-messenger-flaw-exploited-as-zero-day-in-espionage-attacks/)
-* [Moldova arrests suspect linked to DoppelPaymer ransomware attacks](https://www.bleepingcomputer.com/news/security/moldova-arrests-suspect-linked-to-doppelpaymer-ransomware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
