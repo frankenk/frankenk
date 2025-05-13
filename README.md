@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft May 2025 Patch Tuesday fixes 5 exploited zero-days, 72 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2025-patch-tuesday-fixes-5-exploited-zero-days-72-flaws/)
+* [Windows 11 KB5058411 and KB5058405 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5058411-and-kb5058405-cumulative-updates-released/)
+* [Android 16 expands 'Advanced Protection' with device-level security](https://www.bleepingcomputer.com/news/security/android-16-expands-advanced-protection-with-device-level-security/)
+* [Windows 10 KB5058379 update fixes SgrmBroker errors in Event Viewer](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-fixes-sgrmbroker-errors-in-event-viewer/)
 * [Fortinet fixes critical zero-day exploited in FortiVoice attacks](https://www.bleepingcomputer.com/news/security/fortinet-fixes-critical-zero-day-exploited-in-fortivoice-attacks/)
-* [Ivanti warns of critical Neurons for ITSM auth bypass flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-neurons-for-itsm-auth-bypass-flaw/)
-* [New Intel CPU flaws leak sensitive data from privileged memory](https://www.bleepingcomputer.com/news/security/new-intel-cpu-flaws-leak-sensitive-data-from-privileged-memory/)
-* [Microsoft will update Office apps on Windows 10 until 2028](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-update-office-apps-on-windows-10-until-2028/)
-* [Increase Red Team Operations 10X with Adversarial Exposure Validation](https://www.bleepingcomputer.com/news/security/increase-red-team-operations-10x-with-adversarial-exposure-validation/)
 <!--END_SECTION:feed-->
 
 <!--
