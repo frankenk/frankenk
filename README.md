@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gangs join ongoing SAP NetWeaver attacks](https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-ongoing-sap-netweaver-attacks/)
 * [Australian Human Rights Commission leaks docs to search engines](https://www.bleepingcomputer.com/news/security/australian-human-rights-commission-leaks-docs-to-search-engines/)
 * [Microsoft fixes Linux boot issues on dual-boot Windows systems](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-linux-boot-issues-on-dual-boot-windows-systems/)
 * [Steel giant Nucor Corporation facing disruptions after cyberattack](https://www.bleepingcomputer.com/news/security/steel-giant-nucor-corporation-facing-disruptions-after-cyberattack/)
 * [Focused Phishing: Attack Targets Victims With Trusted Sites and Live Validation](https://www.bleepingcomputer.com/news/security/focused-phishing-attack-targets-victims-with-trusted-sites-and-live-validation/)
-* [Fashion giant Dior discloses cyberattack, warns of data breach](https://www.bleepingcomputer.com/news/security/fashion-giant-dior-discloses-cyberattack-warns-of-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
