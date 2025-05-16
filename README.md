@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Leak confirms OpenAI's ChatGPT will integrate MCP](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openais-chatgpt-will-integrate-mcp/)
+* [ChatGPT will soon record, transcribe, and summarize your meetings](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-soon-record-transcribe-and-summarize-your-meetings/)
 * [Windows 10 KB5058379 update triggers BitLocker recovery on some devices](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5058379-update-triggering-bitlocker-recovery-after-install/)
 * [Government webmail hacked via XSS bugs in global spy campaign](https://www.bleepingcomputer.com/news/security/government-webmail-hacked-via-xss-bugs-in-global-spy-campaign/)
 * [FBI: US officials targeted in voice deepfake attacks since April](https://www.bleepingcomputer.com/news/security/fbi-us-officials-targeted-in-voice-deepfake-attacks-since-april/)
-* [Nova Scotia Power confirms hackers stole customer data in cyberattack](https://www.bleepingcomputer.com/news/security/nova-scotia-power-confirms-hackers-stole-customer-data-in-cyberattack/)
-* [Windows 11 and Red Hat Linux hacked on first day of Pwn2Own](https://www.bleepingcomputer.com/news/security/windows-11-and-red-hat-linux-virtualbox-hacked-on-first-day-of-pwn2own/)
 <!--END_SECTION:feed-->
 
 <!--
