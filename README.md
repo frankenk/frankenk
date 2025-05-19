@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft confirms new "Advanced" Settings for Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-new-advanced-settings-for-windows-11/)
+* [Microsoft open-sources Windows Subsystem for Linux at Build 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-open-sources-windows-subsystem-for-linux-at-build-2025/)
+* [UK Legal Aid Agency confirms applicant data stolen in data breach](https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-confirms-applicant-data-stolen-in-data-breach/)
 * [Mozilla fixes Firefox zero-days exploited at hacking contest](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/)
+* [Hackers earn * [Mozilla fixes Firefox zero-days exploited at hacking contest](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-days-exploited-at-hacking-contest/)
 * [Hackers earn * [Hackers earn * [New 'Defendnot' tool tricks Windows into disabling Microsoft Defender](https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/)
 * [Microsoft confirms May Windows 10 updates trigger BitLocker recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-may-windows-10-updates-trigger-bitlocker-recovery/)
 * [Israel arrests new suspect behind Nomad Bridge * [New 'Defendnot' tool tricks Windows into disabling Microsoft Defender](https://www.bleepingcomputer.com/news/microsoft/new-defendnot-tool-tricks-windows-into-disabling-microsoft-defender/)
@@ -1085,7 +1089,7 @@
 * [Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own](https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/)90M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/)
 * [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/)
 * [Hackers exploit VMware ESXi, Microsoft SharePoint zero-days at Pwn2Own](https://www.bleepingcomputer.com/news/security/hackers-exploit-vmware-esxi-microsoft-sharepoint-zero-days-at-pwn2own/)90M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/)
-* [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/)90M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/)
+* [ChatGPT rolls out Codex, an AI tool for software programming](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-codex-an-ai-tool-for-software-programming/)90M crypto hack](https://www.bleepingcomputer.com/news/legal/israel-arrests-new-suspect-behind-nomad-bridge-190m-crypto-hack/),078,750 for 28 zero-days at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/hackers-earn-1-078-750-for-28-zero-days-at-pwn2own-berlin/)
 <!--END_SECTION:feed-->
 
 <!--
