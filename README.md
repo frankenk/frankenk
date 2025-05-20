@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VanHelsing ransomware builder leaked online by old developer](https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-online-by-old-developer/)
 * [SK Telecom says malware breach lasted 3 years, impacted 27 million numbers](https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/)
 * [Hazy Hawk gang exploits DNS misconfigs to hijack trusted domains](https://www.bleepingcomputer.com/news/security/hazy-hawk-gang-exploits-dns-misconfigs-to-hijack-trusted-domains/)
 * [RVTools hit in supply chain attack to deliver Bumblebee malware](https://www.bleepingcomputer.com/news/security/rvtools-hit-in-supply-chain-attack-to-deliver-bumblebee-malware/)
 * [Service desks are under attack: What can you do about it?](https://www.bleepingcomputer.com/news/security/service-desks-are-under-attack-what-can-you-do-about-it/)
-* [OpenAI plans to combine multiple models into GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-combine-multiple-models-into-gpt-5/)
 <!--END_SECTION:feed-->
 
 <!--
