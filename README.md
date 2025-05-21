@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/)
 * [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/)
 * [Kettering Health hit by system-wide outage after ransomware attack](https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/)
 * [Marks & Spencer faces $402 million profit hit after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/)
 * [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/)
-* [PowerSchool hacker pleads guilty to student data extortion scheme](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/)
 <!--END_SECTION:feed-->
 
 <!--
