@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Lumma infostealer malware operation disrupted, 2,300 domains seized](https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-operation-disrupted-2-300-domains-seized/)
 * [Data-stealing Chrome extensions impersonate Fortinet, YouTube, VPNs](https://www.bleepingcomputer.com/news/security/data-stealing-chrome-extensions-impersonate-fortinet-youtube-vpns/)
 * [ThreatLocker Patch Management: A Security-First Approach to Closing Vulnerability Windows](https://www.bleepingcomputer.com/news/security/threatlocker-patch-management-a-security-first-approach-to-closing-vulnerability-windows/)
 * [European Union sanctions Stark Industries for enabling cyberattacks](https://www.bleepingcomputer.com/news/security/european-union-sanctions-stark-industries-for-enabling-cyberattacks/)
 * [Kettering Health hit by system-wide outage after ransomware attack](https://www.bleepingcomputer.com/news/security/kettering-health-hit-by-system-wide-outage-after-ransomware-attack/)
-* [Marks & Spencer faces $402 million profit hit after cyberattack](https://www.bleepingcomputer.com/news/security/marks-and-spencer-faces-402-million-profit-hit-after-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
