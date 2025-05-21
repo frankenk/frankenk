@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Coinbase says recent data breach impacts 69,461 customers](https://www.bleepingcomputer.com/news/security/coinbase-says-recent-data-breach-impacts-69-461-customers/)
 * [PowerSchool hacker pleads guilty to student data extortion scheme](https://www.bleepingcomputer.com/news/security/powerschool-hacker-pleads-guilty-to-student-data-extortion-scheme/)
 * [Mobile carrier Cellcom confirms cyberattack behind extended outages](https://www.bleepingcomputer.com/news/security/mobile-carrier-cellcom-confirms-cyberattack-behind-extended-outages/)
 * [Premium WordPress 'Motors' theme vulnerable to admin takeover attacks](https://www.bleepingcomputer.com/news/security/premium-wordpress-motors-theme-vulnerable-to-admin-takeover-attacks/)
 * [VanHelsing ransomware builder leaked on hacking forum](https://www.bleepingcomputer.com/news/security/vanhelsing-ransomware-builder-leaked-on-hacking-forum/)
-* [SK Telecom says malware breach lasted 3 years, impacted 27 million numbers](https://www.bleepingcomputer.com/news/security/sk-telecom-says-malware-breach-lasted-3-years-impacted-27-million-numbers/)
 <!--END_SECTION:feed-->
 
 <!--
