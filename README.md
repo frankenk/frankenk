@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Glitch to end app hosting and user profiles on July 8](https://www.bleepingcomputer.com/news/security/glitch-to-end-app-hosting-and-user-profiles-on-july-8/)
+* [Fake Zenmap. WinMRT sites target IT staff with Bumblebee malware](https://www.bleepingcomputer.com/news/security/bumblebee-malware-distributed-via-zenmap-winmrt-seo-poisoning/)
 * [OpenAI confirms Operator Agent is now more accurate with o3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-operator-agent-is-now-more-accurate-with-o3/)
 * [Dozens of malicious packages on NPM collect host and network data](https://www.bleepingcomputer.com/news/security/dozens-of-malicious-packages-on-npm-collect-host-and-network-data/)
 * [Hacker steals $223 million in Cetus Protocol cryptocurrency heist](https://www.bleepingcomputer.com/news/security/hacker-steals-223-million-in-cetus-protocol-cryptocurrency-heist/)
-* [FBI warns of Luna Moth extortion attacks targeting law firms](https://www.bleepingcomputer.com/news/security/fbi-warns-of-luna-moth-extortion-attacks-targeting-law-firms/)
-* [TikTok videos now push infostealer malware in ClickFix attacks](https://www.bleepingcomputer.com/news/security/tiktok-videos-now-push-infostealer-malware-in-clickfix-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
