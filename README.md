@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google claims users find ads in AI search 'helpful'](https://www.bleepingcomputer.com/news/google/google-claims-users-find-ads-in-ai-search-helpful/)
 * [OpenAI plans to ship an interesting ChatGPT product by 2026](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-plans-to-ship-an-interesting-chatgpt-product-by-2026/)
 * [Vibe coding company says Claude 4 reduced syntax errors by 25%](https://www.bleepingcomputer.com/news/artificial-intelligence/vibe-coding-company-says-claude-4-reduced-syntax-errors-by-25-percent/)
 * [Leak suggests xAI is getting ready to ship Grok 3.5](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-suggests-xai-is-getting-ready-to-ship-grok-35/)
 * [ChatGPT Deep Research can now pull data from Dropbox and Box](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-can-now-pull-data-from-dropbox-and-box/)
-* [Researchers claim ChatGPT o3 bypassed shutdown in controlled test](https://www.bleepingcomputer.com/news/artificial-intelligence/researchers-claim-chatgpt-o3-bypassed-shutdown-in-controlled-test/)
 <!--END_SECTION:feed-->
 
 <!--
