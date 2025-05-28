@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft introduces new Windows backup tool for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/)
 * [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/)
 * [Apple blocked over $9 billion in App Store fraud in five years](https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/)
 * [DragonForce ransomware abuses SimpleHelp in MSP supply chain attack](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/)
 * [Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years](https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/)
-* [Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable](https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/)
 <!--END_SECTION:feed-->
 
 <!--
