@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Botnet hacks 9,000+ ASUS routers to add persistent SSH backdoor](https://www.bleepingcomputer.com/news/security/botnet-hacks-9-000-plus-asus-routers-to-add-persistent-ssh-backdoor/)
+* [Dark Partners cybercrime gang fuels large-scale crypto heists](https://www.bleepingcomputer.com/news/security/dark-partners-cybercrime-gang-fuels-large-scale-crypto-heists/)
 * [Czechia blames China for Ministry of Foreign Affairs cyberattack](https://www.bleepingcomputer.com/news/security/czechia-blames-china-for-ministry-of-foreign-affairs-cyberattack/)
 * [Microsoft introduces new Windows backup tool for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-introduces-new-windows-backup-tool-for-businesses/)
 * [Microsoft wants Windows to update all software on your PC](https://www.bleepingcomputer.com/news/microsoft/microsoft-wants-windows-to-update-all-software-on-your-pc/)
-* [Apple blocked over $9 billion in App Store fraud in five years](https://www.bleepingcomputer.com/news/apple/apple-blocked-over-9-billion-in-apap-store-fraud-since-2020/)
-* [DragonForce ransomware abuses SimpleHelp in MSP supply chain attack](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/)
 <!--END_SECTION:feed-->
 
 <!--
