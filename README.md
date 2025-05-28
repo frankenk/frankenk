@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [DragonForce ransomware abuses MSP’s SimpleHelp RMM to encrypt customers](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-msps-simplehelp-rmm-to-encrypt-customers/)
+* [DragonForce ransomware abuses SimpleHelp in MSP supply chain attack](https://www.bleepingcomputer.com/news/security/dragonforce-ransomware-abuses-simplehelp-in-msp-supply-chain-attack/)
 * [Iranian pleads guilty to RobbinHood ransomware attacks, faces 30 years](https://www.bleepingcomputer.com/news/security/iranian-pleads-guilty-to-robbinhood-ransomware-attacks-faces-30-years/)
 * [Not Every CVE Deserves a Fire Drill: Focus on What’s Exploitable](https://www.bleepingcomputer.com/news/security/not-every-cve-deserves-a-fire-drill-focus-on-whats-exploitable/)
 * [MATLAB dev confirms ransomware attack behind service outage](https://www.bleepingcomputer.com/news/security/mathworks-blames-ransomware-attack-for-ongoing-outages/)
