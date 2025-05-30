@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Germany doxxes Conti ransomware and TrickBot ring leader](https://www.bleepingcomputer.com/news/security/germany-doxxes-conti-ransomware-and-trickbot-ring-leader/)
+* [Getting Exposure Management Right: Insights from 500 CISOs ](https://www.bleepingcomputer.com/news/security/getting-exposure-management-right-insights-from-500-cisos/)
 * [Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs](https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/)
 * [Microsoft Authenticator now warns to export passwords before July cutoff](https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/)
 * [ConnectWise breached in cyberattack linked to nation-state hackers](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/)
-* [Threat actors abuse Google Apps Script in evasive phishing attacks](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/)
-* [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
