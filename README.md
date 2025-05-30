@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mozilla releases Firefox 139.0.1 update to fix artifacts on Nvidia GPUs](https://www.bleepingcomputer.com/news/software/mozilla-releases-firefox-13901-update-to-fix-artifacts-on-nvidia-gpus/)
+* [Microsoft Authenticator now warns to export passwords before July cutoff](https://www.bleepingcomputer.com/news/security/microsoft-authenticator-now-warns-to-export-passwords-before-july-cutoff/)
 * [ConnectWise breached in cyberattack linked to nation-state hackers](https://www.bleepingcomputer.com/news/security/connectwise-breached-in-cyberattack-linked-to-nation-state-hackers/)
 * [Threat actors abuse Google Apps Script in evasive phishing attacks](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-google-apps-script-in-evasive-phishing-attacks/)
 * [Apple Safari exposes users to fullscreen browser-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/apple-safari-exposes-users-to-fullscreen-browser-in-the-middle-attacks/)
-* [US sanctions firm linked to cyber scams behind $200 million in losses](https://www.bleepingcomputer.com/news/security/us-sanctions-company-linked-to-hundreds-of-thousands-of-cyber-scam-sites/)
-* [Cybercriminals exploit AI hype to spread ransomware, malware](https://www.bleepingcomputer.com/news/security/cybercriminals-exploit-ai-hype-to-spread-ransomware-malware/)
 <!--END_SECTION:feed-->
 
 <!--
