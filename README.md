@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [ Microsoft ships emergency patch to fix Windows 11 installation issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/)
+* [Microsoft ships emergency patch to fix Windows 11 startup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-ships-emergency-patch-to-fix-windows-11-installation-issues/)
 * [Qualcomm fixes three Adreno GPU zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/qualcomm-fixes-three-adreno-gpu-zero-days-exploited-in-attacks/)
 * [Exploit details for max severity Cisco IOS XE flaw now public](https://www.bleepingcomputer.com/news/security/exploit-details-for-max-severity-cisco-ios-xe-flaw-now-public/)
 * [Hackers are exploiting critical flaw in vBulletin forum software](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-critical-flaw-in-vbulletin-forum-software/)
