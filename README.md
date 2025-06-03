@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mozilla launches new system to detect Firefox crypto drainer add-ons](https://www.bleepingcomputer.com/news/security/mozilla-launches-new-system-to-detect-firefox-crypto-drainer-add-ons/)
 * [Scattered Spider: Three things the news doesn’t tell you](https://www.bleepingcomputer.com/news/security/scattered-spider-three-things-the-news-doesnt-tell-you/)
 * [CISA warns of ConnectWise ScreenConnect bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-connectwise-screenconnect-bug-exploited-in-attacks/)
 * [Victoria’s Secret delays earnings release after security incident](https://www.bleepingcomputer.com/news/security/victorias-secret-delays-earnings-release-after-security-incident/)
 * [Google patches new Chrome zero-day bug exploited in attacks](https://www.bleepingcomputer.com/news/security/google-patches-new-chrome-zero-day-bug-exploited-in-attacks/)
-* [Android malware Crocodilus adds fake contacts to spoof trusted callers](https://www.bleepingcomputer.com/news/security/android-malware-crocodilus-adds-fake-contacts-to-spoof-trusted-callers/)
 <!--END_SECTION:feed-->
 
 <!--
