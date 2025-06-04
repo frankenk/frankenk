@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI: Play ransomware breached 900 victims, including critical orgs](https://www.bleepingcomputer.com/news/security/fbi-play-ransomware-breached-900-victims-including-critical-orgs/)
+* [Hacker arrested for breaching 5,000 hosting accounts to mine crypto](https://www.bleepingcomputer.com/news/security/hacker-arrested-for-breaching-5-000-hosting-accounts-to-mine-crypto/)
+* [Cisco warns of ISE and CCP flaws with public exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ise-and-ccp-flaws-with-public-exploit-code/)
 * [Ukraine claims it hacked Tupolev, Russia’s strategic warplane maker](https://www.bleepingcomputer.com/news/security/ukraine-claims-it-hacked-tupolev-russias-strategic-warplane-maker/)
 * [BidenCash carding market domains seized in international operation](https://www.bleepingcomputer.com/news/security/bidencash-carding-market-domains-seized-in-international-operation/)
-* [FBI warns of NFT airdrop scams targeting Hedera Hashgraph wallets](https://www.bleepingcomputer.com/news/security/fbi-warns-of-nft-airdrop-scams-targeting-hedera-hashgraph-wallets/)
-* [Media giant Lee Enterprises says data breach affects 39,000 people](https://www.bleepingcomputer.com/news/security/media-giant-lee-enterprises-says-data-breach-affects-39-000-people/)
-* [Google: Hackers target Salesforce accounts in data extortion attacks](https://www.bleepingcomputer.com/news/security/google-hackers-target-salesforce-accounts-in-data-extortion-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
