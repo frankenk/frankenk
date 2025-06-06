@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Fortinet flaws now exploited in Qilin ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/)
 * [Police arrests 20 suspects for distributing child sexual abuse content](https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/)
 * [Google’s upcoming Gemini Kingfall is allegedly a coding beast](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/)
 * [ChatGPT prepares o3-pro model for $200 Pro subscribers](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-prepares-o3-pro-model-for-200-pro-subscribers/)
 * [FBI: BADBOX 2.0 Android malware infects millions of consumer devices](https://www.bleepingcomputer.com/news/security/fbi-badbox-20-android-malware-infects-millions-of-consumer-devices/)
-* [Old AT&T data leak repackaged to link SSNs, DOBs to 49M phone numbers](https://www.bleepingcomputer.com/news/security/old-atandt-data-leak-repackaged-to-link-ssns-dobs-to-49m-phone-numbers/)
 <!--END_SECTION:feed-->
 
 <!--
