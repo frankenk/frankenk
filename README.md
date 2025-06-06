@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft shares script to restore inetpub folder you shouldn’t delete](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-script-to-restore-inetpub-folder-you-shouldnt-delete/)
+* [Tax resolution firm Optima Tax Relief hit by ransomware, data leaked](https://www.bleepingcomputer.com/news/security/tax-resolution-firm-optima-tax-relief-hit-by-ransomware-data-leaked/)
 * [Kettering Health confirms Interlock ransomware behind cyberattack](https://www.bleepingcomputer.com/news/security/kettering-health-confirms-interlock-ransomware-behind-cyberattack/)
 * [New PathWiper data wiper malware hits critical infrastructure in Ukraine](https://www.bleepingcomputer.com/news/security/new-pathwiper-data-wiper-malware-hits-critical-infrastructure-in-ukraine/)
 * [Critical Fortinet flaws now exploited in Qilin ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-flaws-now-exploited-in-qilin-ransomware-attacks/)
-* [Police arrests 20 suspects for distributing child sexual abuse content](https://www.bleepingcomputer.com/news/security/police-arrests-20-suspects-for-distributing-child-sexual-abuse-content/)
-* [Google’s upcoming Gemini Kingfall is allegedly a coding beast](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-upcoming-gemini-kingfall-is-allegedly-a-coding-beast/)
 <!--END_SECTION:feed-->
 
 <!--
