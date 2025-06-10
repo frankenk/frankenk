@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Outlook to block more risky attachments used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/)
+* [Texas Dept. of Transportation breached, 300k crash records stolen](https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/)
 * [FIN6 hackers pose as job seekers to backdoor recruiters’ devices](https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/)
 * [Ivanti Workspace Control hardcoded key flaws expose SQL credentials](https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/)
 * [Massive Heroku outage impacts web platforms worldwide](https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/)
-* [AI is a data-breach time bomb, reveals new report](https://www.bleepingcomputer.com/news/security/ai-is-a-data-breach-time-bomb-reveals-new-report/)
-* [OpenAI working to fix ChatGPT outage affecting users worldwide](https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/)
 <!--END_SECTION:feed-->
 
 <!--
