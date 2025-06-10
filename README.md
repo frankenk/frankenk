@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5060533 cumulative update released with 7 changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5060533-cumulative-update-released-with-7-changes-fixes/)
+* [Microsoft June 2025 Patch Tuesday fixes exploited zero-day, 66 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2025-patch-tuesday-fixes-exploited-zero-day-66-flaws/)
+* [Windows 11 KB5060842 and KB5060999 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060842-and-kb5060999-cumulative-updates-released/)
 * [Microsoft Outlook to block more risky attachments used in attacks](https://www.bleepingcomputer.com/news/security/microsoft-outlook-to-block-more-risky-attachments-used-in-attacks/)
 * [Texas Dept. of Transportation breached, 300k crash records stolen](https://www.bleepingcomputer.com/news/security/texas-dept-of-transportation-breached-300k-crash-records-stolen/)
-* [FIN6 hackers pose as job seekers to backdoor recruiters’ devices](https://www.bleepingcomputer.com/news/security/fin6-hackers-pose-as-job-seekers-to-backdoor-recruiters-devices/)
-* [Ivanti Workspace Control hardcoded key flaws expose SQL credentials](https://www.bleepingcomputer.com/news/security/ivanti-workspace-control-hardcoded-key-flaws-expose-sql-credentials/)
-* [Massive Heroku outage impacts web platforms worldwide](https://www.bleepingcomputer.com/news/technology/massive-heroku-outage-impacts-web-platforms-worldwide/)
 <!--END_SECTION:feed-->
 
 <!--
