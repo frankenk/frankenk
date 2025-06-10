@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI working to fix ChatGPT outage affecting users worldwide](https://www.bleepingcomputer.com/news/technology/openai-working-to-fix-chatgpt-outage-affecting-users-worldwide/)
 * [Five plead guilty to laundering $36 million stolen in investment scams](https://www.bleepingcomputer.com/news/security/five-plead-guilty-to-laundering-36-million-stolen-in-investment-scams/)
 * [Stolen Ticketmaster data from Snowflake attacks briefly for sale again](https://www.bleepingcomputer.com/news/security/stolen-ticketmaster-data-from-snowflake-attacks-briefly-for-sale-again/)
 * [Over 84,000 Roundcube instances vulnerable to actively exploited flaw](https://www.bleepingcomputer.com/news/security/over-84-000-roundcube-instances-vulnerable-to-actively-exploited-flaw/)
 * [Google patched bug leaking phone numbers tied to accounts](https://www.bleepingcomputer.com/news/security/google-patched-bug-leaking-phone-numbers-tied-to-accounts/)
-* [SentinelOne shares new details on China-linked breach attempt](https://www.bleepingcomputer.com/news/security/sentinelone-shares-new-details-on-china-linked-breach-attempt/)
 <!--END_SECTION:feed-->
 
 <!--
