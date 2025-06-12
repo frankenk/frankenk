@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Trend Micro fixes critical vulnerabilities in multiple products](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-six-critical-flaws-on-apex-central-endpoint-encryption-policyserver/)
 * [Google Cloud and Cloudflare hit by widespread service outages](https://www.bleepingcomputer.com/news/technology/google-cloud-and-cloudflare-hit-by-widespread-service-outages/)
 * [Graphite spyware used in Apple iOS zero-click attacks on journalists](https://www.bleepingcomputer.com/news/security/graphite-spyware-used-in-apple-ios-zero-click-attacks-on-journalists/)
 * [Password-spraying attacks target 80,000 Microsoft Entra ID accounts](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/)
 * [Microsoft Edge now offers secure password deployment for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/)
-* [GitLab patches high severity account takeover, missing auth issues](https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/)
 <!--END_SECTION:feed-->
 
 <!--
