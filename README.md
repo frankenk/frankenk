@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Password-spraying attacks target 80,000 Microsoft Entra ID accounts](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-target-80-000-microsoft-entra-id-accounts/)
 * [Microsoft Edge now offers secure password deployment for businesses](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-offers-secure-password-deployment-for-businesses/)
 * [GitLab patches high severity account takeover, missing auth issues](https://www.bleepingcomputer.com/news/security/gitlab-patches-high-severity-account-takeover-missing-auth-issues/)
 * [Windows 11 24H2 emergency update fixes Easy Anti-Cheat BSOD issue](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-emergency-update-fixes-easy-anti-cheat-bsod-issue/)
 * [Fog ransomware attack uses unusual mix of legitimate and open-source tools](https://www.bleepingcomputer.com/news/security/fog-ransomware-attack-uses-unusual-mix-of-legitimate-and-open-source-tools/)
-* [ChatGPT o3 API 80% price drop has no impact on performance](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-o3-api-80-percent-price-drop-has-no-impact-on-performance/)
 <!--END_SECTION:feed-->
 
 <!--
