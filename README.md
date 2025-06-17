@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Surface Hub boot issues with emergency update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/)
+* [How to automate IT ticket handling with AI and Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/)
+* [Hacker steals 1 million Cock.li user records in webmail data breach](https://www.bleepingcomputer.com/news/security/hacker-steals-1-million-cockli-user-records-in-webmail-data-breach/)
 * [Hackers switch to targeting U.S. insurance companies](https://www.bleepingcomputer.com/news/security/google-warns-scattered-spider-hackers-now-target-us-insurance-companies/)
 * [ASUS Armoury Crate bug lets attackers get Windows admin privileges](https://www.bleepingcomputer.com/news/security/asus-armoury-crate-bug-lets-attackers-get-windows-admin-privileges/)
-* [Washington Post's email system hacked, journalists' accounts compromised](https://www.bleepingcomputer.com/news/security/washington-posts-email-system-hacked-journalists-accounts-compromised/)
-* [Kali Linux 2025.2 released with 13 new tools, car hacking updates](https://www.bleepingcomputer.com/news/security/kali-linux-20252-released-with-13-new-tools-car-hacking-updates/)
-* [Zoomcar discloses security breach impacting 8.4 million users](https://www.bleepingcomputer.com/news/security/zoomcar-discloses-security-breach-impacting-84-million-users/)
 <!--END_SECTION:feed-->
 
 <!--
