@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Instagram 'BMO' ads use AI deepfakes to scam banking customers](https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/)
 * [New Veeam RCE flaw lets domain users hack backup servers](https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/)
 * [Sitecore CMS exploit chain starts with hardcoded 'b' password](https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/)
 * [UK fines 23andMe for ‘profoundly damaging’ breach exposing genetics data](https://www.bleepingcomputer.com/news/security/uk-fines-23andme-for-profoundly-damaging-breach-exposing-genetics-data/)
 * [Microsoft fixes Surface Hub boot issues with emergency update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-surface-hub-boot-issues-with-emergency-update/)
-* [How to automate IT ticket handling with AI and Tines](https://www.bleepingcomputer.com/news/security/how-to-automate-it-ticket-handling-with-ai-and-tines/)
 <!--END_SECTION:feed-->
 
 <!--
