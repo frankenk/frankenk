@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Asana warns MCP AI feature exposed customer data to other orgs](https://www.bleepingcomputer.com/news/security/asana-warns-mcp-ai-feature-exposed-customer-data-to-other-orgs/)
 * [ Paddle settles for $5 million over facilitating tech support scams](https://www.bleepingcomputer.com/news/security/paddle-settles-for-5-million-over-facilitating-tech-support-scams/)
 * [Scania confirms insurance claim data breach in extortion attempt](https://www.bleepingcomputer.com/news/security/scania-confirms-insurance-claim-data-breach-in-extortion-attempt/)
 * [Instagram 'BMO' ads use AI deepfakes to scam banking customers](https://www.bleepingcomputer.com/news/security/instagram-bmo-ads-use-ai-deepfakes-to-scam-banking-customers/)
 * [New Veeam RCE flaw lets domain users hack backup servers](https://www.bleepingcomputer.com/news/security/new-veeam-rce-flaw-lets-domain-users-hack-backup-servers/)
-* [Sitecore CMS exploit chain starts with hardcoded 'b' password](https://www.bleepingcomputer.com/news/security/sitecore-cms-exploit-chain-starts-with-hardcoded-b-password/)
 <!--END_SECTION:feed-->
 
 <!--
