@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Krispy Kreme says November data breach impacts over 160,000 people](https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/)
 * [Ryuk ransomware’s initial access expert extradited to the U.S.](https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/)
 * [Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto](https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/)
 * [North Korean hackers deepfake execs in Zoom call to spread Mac malware](https://www.bleepingcomputer.com/news/security/north-korean-hackers-deepfake-execs-in-zoom-call-to-spread-mac-malware/)
 * [Microsoft 365 to block file access via legacy auth protocols by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-to-block-file-access-via-legacy-auth-protocols-by-default/)
-* ['Stargazers' use fake Minecraft mods to steal player passwords](https://www.bleepingcomputer.com/news/security/stargazers-use-fake-minecraft-mods-to-steal-player-passwords/)
 <!--END_SECTION:feed-->
 
 <!--
