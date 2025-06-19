@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Webinar: Stolen credentials are the new front door to your network](https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/)
 * [OpenAI’s Sam Altman discusses GPT-5 release date](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/)
 * [US recovers $225 million of crypto stolen in investment scams](https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/)
 * [Special Webinar: Key Insights from Verizon’s 2025 DBIR](https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/)
 * [Microsoft unveils new security defaults for Windows 365 Cloud PCs](https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/)
-* [ChatGPT will analyze Gmail emails, manage schedule on Google Calendar](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/)
 <!--END_SECTION:feed-->
 
 <!--
