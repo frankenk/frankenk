@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Special Webinar: Key Insights from Verizon’s 2025 DBIR](https://www.bleepingcomputer.com/news/security/special-webinar-key-insights-from-verizons-2025-dbir/)
+* [Microsoft unveils new security defaults for Windows 365 Cloud PCs](https://www.bleepingcomputer.com/news/security/microsoft-unveils-new-security-defaults-for-windows-365-cloud-pcs/)
+* [ChatGPT will analyze Gmail emails, manage schedule on Google Calendar](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-will-analyze-gmail-emails-manage-schedule-on-google-calendar/)
 * [DuckDuckGo beefs up scam defense to block fake stores, crypto sites](https://www.bleepingcomputer.com/news/security/duckduckgo-beefs-up-scam-defense-to-block-fake-stores-crypto-sites/)
 * [Telecom giant Viasat breached by China's Salt Typhoon hackers](https://www.bleepingcomputer.com/news/security/telecom-giant-viasat-breached-by-chinas-salt-typhoon-hackers/)
-* [Krispy Kreme says November data breach impacts over 160,000 people](https://www.bleepingcomputer.com/news/security/krispy-kreme-says-november-data-breach-impacts-over-160-000-people/)
-* [Ryuk ransomware’s initial access expert extradited to the U.S.](https://www.bleepingcomputer.com/news/security/ryuk-ransomwares-initial-access-expert-extradited-to-the-us/)
-* [Pro-Israel hackers hit Iran's Nobitex exchange, burn $90M in crypto](https://www.bleepingcomputer.com/news/security/pro-israel-hackers-hit-irans-nobitex-exchange-burn-90m-in-crypto/)
 <!--END_SECTION:feed-->
 
 <!--
