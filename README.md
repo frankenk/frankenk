@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to remove legacy drivers from Windows Update for security boost](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-legacy-drivers-from-windows-update-for-security-boost/)
 * [No, the 16 billion credentials leak is not a new data breach](https://www.bleepingcomputer.com/news/security/no-the-16-billion-credentials-leak-is-not-a-new-data-breach/)
 * [Godfather Android malware now uses virtualization to hijack banking apps](https://www.bleepingcomputer.com/news/security/godfather-android-malware-now-uses-virtualization-to-hijack-banking-apps/)
 * [Webinar: Stolen credentials are the new front door to your network](https://www.bleepingcomputer.com/news/security/webinar-stolen-credentials-are-the-new-front-door-to-your-network/)
 * [OpenAI’s Sam Altman discusses GPT-5 release date](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-sam-altman-discusses-gpt-5-release-date/)
-* [US recovers $225 million of crypto stolen in investment scams](https://www.bleepingcomputer.com/news/legal/us-recovers-225-million-of-crypto-stolen-in-investment-scams/)
 <!--END_SECTION:feed-->
 
 <!--
