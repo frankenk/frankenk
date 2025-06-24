@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US House bans WhatsApp on staff devices over security concerns](https://www.bleepingcomputer.com/news/security/us-house-bans-whatsapp-on-staff-devices-over-security-concerns/)
 * [APT28 hackers use Signal chats to launch new malware attacks on Ukraine](https://www.bleepingcomputer.com/news/security/apt28-hackers-use-signal-chats-to-launch-new-malware-attacks-on-ukraine/)
 * [Malware on Google Play, Apple App Store stole your photos—and crypto](https://www.bleepingcomputer.com/news/security/malware-on-google-play-app-store-stole-your-photos-and-crypto/)
 * [US Homeland Security warns of escalating Iranian cyberattack risks](https://www.bleepingcomputer.com/news/security/us-homeland-security-warns-of-escalating-iranian-cyberattack-risks/)
 * [Canada says Salt Typhoon hacked telecom firm via Cisco flaw](https://www.bleepingcomputer.com/news/security/canada-says-salt-typhoon-hacked-telecom-firm-via-cisco-flaw/)
-* [Revil ransomware members released after time served on carding charges](https://www.bleepingcomputer.com/news/security/revil-hackers-released-after-time-served-on-carding-charges/)
 <!--END_SECTION:feed-->
 
 <!--
