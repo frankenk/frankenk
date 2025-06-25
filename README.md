@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks](https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/)
 * [New wave of ‘fake interviews’ use 35 npm packages to spread malware](https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/)
 * [Google releases Gemini CLI with free Gemini 2.5 Pro ](https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/)
 * [Citrix warns of NetScaler vulnerability exploited in DoS attacks](https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/)
 * [WinRAR patches bug letting malware launch from extracted archives](https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/)
-* [New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions](https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/)
 <!--END_SECTION:feed-->
 
 <!--
