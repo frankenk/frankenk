@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New wave of ‘fake interviews’ use 35 npm packages to spread malware](https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/)
 * [Google releases Gemini CLI with free Gemini 2.5 Pro ](https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/)
 * [Citrix warns of NetScaler vulnerability exploited in DoS attacks](https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/)
 * [WinRAR patches bug letting malware launch from extracted archives](https://www.bleepingcomputer.com/news/security/winrar-patches-bug-letting-malware-launch-from-extracted-archives/)
 * [New 'CitrixBleed 2' NetScaler flaw let hackers hijack sessions](https://www.bleepingcomputer.com/news/security/new-citrixbleed-2-netscaler-flaw-let-hackers-hijack-sessions/)
-* [BreachForums hacking forum operators reportedly arrested in France](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-operators-reportedly-arrested-in-france/)
 <!--END_SECTION:feed-->
 
 <!--
