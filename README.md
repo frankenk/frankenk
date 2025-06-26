@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: AMI MegaRAC bug enabling server hijacks exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-ami-megarac-bug-that-lets-hackers-brick-servers-now-actively-exploited/)
 * [Hacker 'IntelBroker' charged in US for global data theft breaches](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/)
 * [Hackers turn ScreenConnect into malware using Authenticode stuffing](https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/)
 * [Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks](https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/)
 * [New wave of ‘fake interviews’ use 35 npm packages to spread malware](https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/)
-* [Google releases Gemini CLI with free Gemini 2.5 Pro ](https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/)
 <!--END_SECTION:feed-->
 
 <!--
