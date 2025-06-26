@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [British hacker 'IntelBroker' charged with $25M in cybercrime damages](https://www.bleepingcomputer.com/news/security/british-hacker-intelbroker-charged-with-25m-in-cybercrime-damages/)
 * [Hackers turn ScreenConnect into malware using Authenticode stuffing](https://www.bleepingcomputer.com/news/security/hackers-turn-screenconnect-into-malware-using-authenticode-stuffing/)
 * [Hackers abuse Microsoft ClickOnce and AWS services for stealthy attacks](https://www.bleepingcomputer.com/news/security/oneclik-attacks-use-microsoft-clickonce-and-aws-to-target-energy-sector/)
 * [New wave of ‘fake interviews’ use 35 npm packages to spread malware](https://www.bleepingcomputer.com/news/security/new-wave-of-fake-interviews-use-35-npm-packages-to-spread-malware/)
 * [Google releases Gemini CLI with free Gemini 2.5 Pro ](https://www.bleepingcomputer.com/news/artificial-intelligence/google-releases-gemini-cli-with-free-gemini-25-pro/)
-* [Citrix warns of NetScaler vulnerability exploited in DoS attacks](https://www.bleepingcomputer.com/news/security/citrix-warns-of-netscaler-vulnerability-exploited-in-dos-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
