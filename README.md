@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Retail giant Ahold Delhaize says data breach affects 2.2 million people](https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-says-data-breach-affects-22-million-people/)
 * [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/)
+* [Whole Foods supplier UNFI restores core systems after cyberattack](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/)
+* [Hawaiian Airlines discloses cyberattack, flights not affected](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/)
+* [FTC approves * [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/)
 * [Whole Foods supplier UNFI restores core systems after cyberattack](https://www.bleepingcomputer.com/news/security/whole-foods-supplier-unfi-restores-core-systems-after-cyberattack/)
 * [Hawaiian Airlines discloses cyberattack, flights not affected](https://www.bleepingcomputer.com/news/security/hawaiian-airlines-discloses-cyberattack-flights-not-affected/)
 * [FTC approves * [Windows 11 KB5060829 update released with 38 new changes, fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5060829-update-released-with-38-new-changes-fixes/)
@@ -53,7 +57,7 @@
 * [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/)
 * [Ex-student charged over hacking university for cheap parking, data breaches](https://www.bleepingcomputer.com/news/security/ex-student-charged-over-hacking-university-for-cheap-parking-data-breaches/)26 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/)
 * [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/)26 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/)
-* [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/)
+* [Brother printer bug in 689 models exposes default admin passwords](https://www.bleepingcomputer.com/news/security/brother-printer-bug-in-689-models-exposes-default-admin-passwords/)26 million in Fortnite refunds over ‘dark patterns’](https://www.bleepingcomputer.com/news/legal/ftc-approves-126-million-in-fortnite-refunds-over-dark-patterns/)
 <!--END_SECTION:feed-->
 
 <!--
