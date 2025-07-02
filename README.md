@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Qantas discloses cyberattack amid Scattered Spider aviation breaches](https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/)
 * [AT&T rolls out "Wireless Lock" feature to block SIM swap attacks](https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/)
 * [Microsoft open-sources VS Code Copilot Chat extension on GitHub](https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/)
 * [Kelly Benefits says 2024 data breach impacts 550,000 customers](https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/)
 * [Aeza Group sanctioned for hosting ransomware, infostealer servers](https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/)
-* [New FileFix attack runs JScript while bypassing Windows MoTW alerts](https://www.bleepingcomputer.com/news/security/new-filefix-attack-runs-jscript-while-bypassing-windows-motw-alerts/)
 <!--END_SECTION:feed-->
 
 <!--
