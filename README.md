@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NimDoor crypto-theft macOS malware revives itself when killed](https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/)
+* [DOJ investigates ex-ransomware negotiator over extortion kickbacks](https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/)
 * [Spain arrests hackers who targeted politicians and journalists](https://www.bleepingcomputer.com/news/security/spain-arrests-hackers-who-targeted-politicians-and-journalists/)
 * [Cisco warns that Unified CM has hardcoded root SSH credentials](https://www.bleepingcomputer.com/news/security/cisco-removes-unified-cm-callManager-backdoor-root-account/)
 * [Citrix warns of login issues after NetScaler auth bypass patch](https://www.bleepingcomputer.com/news/security/citrix-warns-of-login-issues-after-netscaler-auth-bypass-patch/)
-* [Forminator plugin flaw exposes WordPress sites to takeover attacks](https://www.bleepingcomputer.com/news/security/forminator-plugin-flaw-exposes-wordpress-sites-to-takeover-attacks/)
-* [Microsoft fixes ‘Print to PDF’ feature broken by Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-print-to-pdf-feature-broken-by-windows-update/)
 <!--END_SECTION:feed-->
 
 <!--
