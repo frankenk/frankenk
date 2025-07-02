@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Dozens of fake wallet add-ons flood Firefox store to drain crypto](https://www.bleepingcomputer.com/news/security/dozens-of-fake-wallet-add-ons-flood-firefox-store-to-drain-crypto/)
+* [ Grok 4 spotted ahead of launch with special coding features](https://www.bleepingcomputer.com/news/artificial-intelligence/grok-4-spotted-ahead-of-launch-with-special-coding-features/)
+* [Microsoft: DNS issue blocks delivery of Exchange Online OTP codes](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-dns-issue-to-exchange-online-otp-delivery-failures/)
 * [Qantas discloses cyberattack amid Scattered Spider aviation breaches](https://www.bleepingcomputer.com/news/security/qantas-discloses-cyberattack-amid-scattered-spider-aviation-breaches/)
 * [AT&T rolls out "Wireless Lock" feature to block SIM swap attacks](https://www.bleepingcomputer.com/news/security/atandt-rolls-out-wireless-lock-feature-to-block-sim-swap-attacks/)
-* [Microsoft open-sources VS Code Copilot Chat extension on GitHub](https://www.bleepingcomputer.com/news/security/microsoft-open-sources-vs-code-copilot-chat-extension-on-github/)
-* [Kelly Benefits says 2024 data breach impacts 550,000 customers](https://www.bleepingcomputer.com/news/security/kelly-benefits-says-2024-data-breach-impacts-550-000-customers/)
-* [Aeza Group sanctioned for hosting ransomware, infostealer servers](https://www.bleepingcomputer.com/news/security/aeza-group-sanctioned-for-hosting-ransomware-infostealer-servers/)
 <!--END_SECTION:feed-->
 
 <!--
