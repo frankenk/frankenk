@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft investigates ongoing SharePoint Online access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-ongoing-sharepoint-online-access-issues/)
 * [Microsoft: Exchange Server Subscription Edition now available](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-server-subscription-edition-now-available/)
 * [Hunters International ransomware shuts down, releases free decryptors](https://www.bleepingcomputer.com/news/security/hunters-international-ransomware-shuts-down-after-world-leaks-rebrand/)
 * [Microsoft asks users to ignore Windows Firewall config errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-windows-firewall-config-errors/)
 * [NimDoor crypto-theft macOS malware revives itself when killed](https://www.bleepingcomputer.com/news/security/nimdoor-crypto-theft-macos-malware-revives-itself-when-killed/)
-* [DOJ investigates ex-ransomware negotiator over extortion kickbacks](https://www.bleepingcomputer.com/news/security/doj-investigates-ex-ransomware-negotiator-over-extortion-kickbacks/)
 <!--END_SECTION:feed-->
 
 <!--
