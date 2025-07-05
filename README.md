@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google's AI video maker Veo 3 is now available via $20 Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-ai-video-maker-veo-3-is-now-available-via-20-gemini/)
 * [ ChatGPT Deep Research tests new connectors for more context](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-deep-research-tests-new-connectors-for-more-context/)
 * [Ingram Micro suffers global outage as internal systems inaccessible](https://www.bleepingcomputer.com/news/security/ingram-micro-suffers-global-outage-as-internal-systems-inaccessible/)
 * [Hacker leaks Telefónica data allegedly stolen in a new breach](https://www.bleepingcomputer.com/news/security/hacker-leaks-telef-nica-data-allegedly-stolen-in-a-new-breach/)
 * [Leaks hint at Operator-like tool in ChatGPT ahead of GPT-5 launch](https://www.bleepingcomputer.com/news/artificial-intelligence/leaks-hint-at-operator-like-tool-in-chatgpt-ahead-of-gpt-5-launch/)
-* [xAI prepares Grok 4 Code as it plans to take on Claude and Gemini](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-prepares-grok-4-code-as-it-plans-to-take-on-claude-and-gemini/)
 <!--END_SECTION:feed-->
 
 <!--
