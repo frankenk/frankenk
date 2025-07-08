@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Alleged Chinese hacker tied to Silk Typhoon arrested for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-chinese-hacker-tied-to-silk-typhoon-arrested-for-cyberespionage/)
 * [Public exploits released for CitrixBleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/)
+* [Employee gets $920 for credentials used in * [Public exploits released for CitrixBleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/)
 * [Employee gets $920 for credentials used in * [Public exploits released for CitrixBleed 2 NetScaler flaw, patch now](https://www.bleepingcomputer.com/news/security/public-exploits-released-for-citrixbleed-2-netscaler-flaw-patch-now/)
 * [Employee gets $920 for credentials used in * [Employee gets $920 for credentials used in * [Employee gets $920 for credentials used in * [Employee gets $920 for credentials used in * [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/)
 * [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/)
@@ -25,7 +27,9 @@
 * ['Batavia' Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/)40 million bank heist](https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/)
 * [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/)
 * [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/)
-* ['Batavia' Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/)
+* ['Batavia' Windows spyware campaign targets dozens of Russian orgs](https://www.bleepingcomputer.com/news/security/batavia-windows-spyware-campaign-targets-dozens-of-russian-orgs/)40 million bank heist](https://www.bleepingcomputer.com/news/security/employee-gets-920-for-credentials-used-in-140-million-bank-heist/)
+* [Atomic macOS infostealer adds backdoor for persistent attacks](https://www.bleepingcomputer.com/news/security/atomic-macos-infostealer-adds-backdoor-for-persistent-attacks/)
+* [Qantas is being extorted in recent data-theft cyberattack](https://www.bleepingcomputer.com/news/security/qantas-is-being-extorted-in-recent-data-theft-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
