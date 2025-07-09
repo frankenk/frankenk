@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Treasury sanctions North Korean over IT worker malware scheme](https://www.bleepingcomputer.com/news/legal/treasury-sanctions-north-korean-over-it-worker-malware-scheme/)
 * [The MFA You Trust Is Lying to You – and Here's How Attackers Exploit It](https://www.bleepingcomputer.com/news/security/the-mfa-you-trust-is-lying-to-you-and-heres-how-attackers-exploit-it/)
 * [New ServiceNow flaw lets attackers enumerate restricted data](https://www.bleepingcomputer.com/news/security/new-servicenow-flaw-lets-attackers-enumerate-restricted-data/)
 * [Samsung announces major security enhancements coming to One UI 8](https://www.bleepingcomputer.com/news/security/samsung-announces-major-security-enhancements-coming-to-one-ui-8/)
 * [M&S confirms social engineering led to massive ransomware attack](https://www.bleepingcomputer.com/news/security/mands-confirms-social-engineering-led-to-massive-ransomware-attack/)
-* [New Android TapTrap attack fools users with invisible UI trick](https://www.bleepingcomputer.com/news/security/new-android-taptrap-attack-fools-users-with-invisible-ui-trick/)
 <!--END_SECTION:feed-->
 
 <!--
