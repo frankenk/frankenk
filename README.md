@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The zero-day that could've compromised every Cursor and Windsurf user](https://www.bleepingcomputer.com/news/security/the-zero-day-that-couldve-compromised-every-cursor-and-windsurf-user/)
+* [CISA tags Citrix Bleed 2 as exploited, gives agencies a day to patch](https://www.bleepingcomputer.com/news/security/cisa-tags-citrix-bleed-2-as-exploited-gives-agencies-a-day-to-patch/)
 * [Windows 11 now uses JScript9Legacy engine for improved security](https://www.bleepingcomputer.com/news/security/windows-11-now-uses-jscript9legacy-engine-for-improved-security/)
 * [Russian pro basketball player arrested for alleged role in ransomware attacks](https://www.bleepingcomputer.com/news/security/russian-pro-basketball-player-arrested-for-alleged-role-in-ransomware-attacks/)
 * [PerfektBlue Bluetooth flaws impact Mercedes, Volkswagen, Skoda cars](https://www.bleepingcomputer.com/news/security/perfektblue-bluetooth-flaws-impact-mercedes-volkswagen-skoda-cars/)
-* [FBI's CJIS demystified: Best practices for passwords, MFA & access control](https://www.bleepingcomputer.com/news/security/fbis-cjis-demystified-best-practices-for-passwords-mfa-and-access-control/)
-* [Four arrested in UK over M&S, Co-op, Harrods cyberattacks](https://www.bleepingcomputer.com/news/security/four-arrested-in-uk-over-mands-co-op-harrods-cyberattacks/)
 <!--END_SECTION:feed-->
 
 <!--
