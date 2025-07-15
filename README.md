@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI's image model gets built-in style feature on ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-image-model-gets-built-in-style-feature-on-chatgpt/)
 * [Abacus dark web drug market goes offline in suspected exit scam](https://www.bleepingcomputer.com/news/security/abacus-dark-web-drug-market-goes-offline-in-suspected-exit-scam/)
 * [Windows KB5064489 emergency update fixes Azure VM launch issues](https://www.bleepingcomputer.com/news/microsoft/windows-kb5064489-emergency-update-fixes-azure-vm-launch-issues/)
 * [North Korean XORIndex malware hidden in 67 malicious npm packages](https://www.bleepingcomputer.com/news/security/north-korean-xorindex-malware-hidden-in-67-malicious-npm-packages/)
 * [Police disrupt “Diskstation” ransomware gang attacking NAS devices](https://www.bleepingcomputer.com/news/security/police-disrupt-diskstation-ransomware-gang-attacking-nas-devices/)
-* [Android malware Konfety uses malformed APKs to evade detection](https://www.bleepingcomputer.com/news/security/android-malware-konfety-uses-malformed-apks-to-evade-detection/)
 <!--END_SECTION:feed-->
 
 <!--
