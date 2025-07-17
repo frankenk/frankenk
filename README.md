@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/)
+* [Microsoft Teams voice calls abused to push Matanbuchus malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/)
 * [Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices](https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/)
 * [LameHug malware uses AI LLM to craft Windows data-theft commands in real-time](https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/)
 * [Hacker steals $27 million in BigONE exchange crypto breach](https://www.bleepingcomputer.com/news/security/hacker-steals-27-million-in-bigone-exchange-crypto-breach/)
-* [Chinese hackers breached National Guard to steal network configurations](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/)
-* [Max severity Cisco ISE bug allows pre-auth command execution, patch now](https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
