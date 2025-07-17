@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers breached National Guard to steal network configurations](https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-national-guard-to-steal-network-configurations/)
+* [Max severity Cisco ISE bug allows pre-auth command execution, patch now](https://www.bleepingcomputer.com/news/security/max-severity-cisco-ise-bug-allows-pre-auth-command-execution-patch-now/)
 * [Co-op confirms data of 6.5 million members stolen in cyberattack](https://www.bleepingcomputer.com/news/security/co-op-confirms-data-of-65-million-members-stolen-in-cyberattack/)
 * [U.S. Army soldier pleads guilty to extorting 10 tech, telecom firms](https://www.bleepingcomputer.com/news/security/us-army-soldier-pleads-guilty-to-extorting-10-tech-telecom-firms/)
 * [Louis Vuitton says regional data breaches tied to same cyberattack](https://www.bleepingcomputer.com/news/security/louis-vuitton-says-regional-data-breaches-tied-to-same-cyberattack/)
-* [Cloudflare says 1.1.1.1 outage not caused by attack or BGP hijack](https://www.bleepingcomputer.com/news/security/cloudflare-says-1111-outage-not-caused-by-attack-or-bgp-hijack/)
-* [SonicWall SMA devices hacked with OVERSTEP rootkit tied to ransomware](https://www.bleepingcomputer.com/news/security/sonicwall-sma-devices-hacked-with-overstep-rootkit-tied-to-ransomware/)
 <!--END_SECTION:feed-->
 
 <!--
