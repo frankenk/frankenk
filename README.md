@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK ties GRU to stealthy Microsoft 365 credential-stealing malware](https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/)
+* [Microsoft mistakenly tags Windows Firewall error log bug as fixed](https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/)
 * [New ChatGPT o3-alpha model hints at coding upgrade](https://www.bleepingcomputer.com/news/artificial-intelligence/new-chatgpt-o3-alpha-model-hints-at-coding-upgrade/)
 * [Russian alcohol retailer WineLab closes stores after ransomware attack](https://www.bleepingcomputer.com/news/security/russian-alcohol-retailer-winelab-closes-stores-after-ransomware-attack/)
 * [New Phobos and 8base ransomware decryptor recover files for free](https://www.bleepingcomputer.com/news/security/new-phobos-ransomware-decryptor-lets-victims-recover-files-for-free/)
-* [Hackers scanning for TeleMessage Signal clone flaw exposing passwords](https://www.bleepingcomputer.com/news/security/hackers-scanning-for-telemessage-signal-clone-flaw-exposing-passwords/)
-* [OpenAI: GPT-5 is coming, "we'll see" if it creates a shockwave](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/)
 <!--END_SECTION:feed-->
 
 <!--
