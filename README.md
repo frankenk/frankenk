@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI: GPT-5 is coming, "we'll see" if it creates a shockwave](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-gpt-5-is-coming-well-see-if-it-creates-a-shockwave/)
 * [Citrix Bleed 2 exploited weeks before PoCs as Citrix denied attacks](https://www.bleepingcomputer.com/news/security/citrix-bleed-2-exploited-weeks-before-pocs-as-citrix-denied-attacks/)
 * [VMware fixes four ESXi zero-day bugs exploited at Pwn2Own Berlin](https://www.bleepingcomputer.com/news/security/vmware-fixes-four-esxi-zero-day-bugs-exploited-at-pwn2own-berlin/)
 * [Microsoft Teams voice calls abused to push Matanbuchus malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-voice-calls-abused-to-push-matanbuchus-malware/)
 * [Google sues to disrupt BadBox 2.0 botnet infecting 10 million devices](https://www.bleepingcomputer.com/news/security/google-sues-to-disrupt-badbox-20-botnet-infecting-10-million-devices/)
-* [LameHug malware uses AI LLM to craft Windows data-theft commands in real-time](https://www.bleepingcomputer.com/news/security/lamehug-malware-uses-ai-llm-to-craft-windows-data-theft-commands-in-real-time/)
 <!--END_SECTION:feed-->
 
 <!--
