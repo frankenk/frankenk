@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [CrushFTP zero-day exploited in attacks to gain admin access on servers](https://www.bleepingcomputer.com/news/security/crushftp-zero-day-exploited-in-attacks-to-gain-admin-access-on-servers/)
+* [New CrushFTP zero-day exploited in attacks to hijack servers](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/)
 * [Arch Linux pulls AUR packages that installed Chaos RAT malware](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/)
 * [UK ties GRU to stealthy Microsoft 365 credential-stealing malware](https://www.bleepingcomputer.com/news/security/uk-ties-russian-gru-to-authentic-antics-credential-stealing-malware/)
 * [Microsoft mistakenly tags Windows Firewall error log bug as fixed](https://www.bleepingcomputer.com/news/microsoft/microsoft-mistakenly-tags-windows-firewall-error-log-bug-as-fixed/)
