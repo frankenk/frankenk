@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/)
 * [Popular npm linter packages hijacked via phishing to drop malware](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/)
 * [ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/)
 * [OpenAI, Anthropic, Google may disrupt education market with new AI tools](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-anthropic-google-may-disrupt-education-market-with-new-ai-tools/)
 * [New CrushFTP zero-day exploited in attacks to hijack servers](https://www.bleepingcomputer.com/news/security/new-crushftp-zero-day-exploited-in-attacks-to-hijack-servers/)
-* [Arch Linux pulls AUR packages that installed Chaos RAT malware](https://www.bleepingcomputer.com/news/security/arch-linux-pulls-aur-packages-that-installed-chaos-rat-malware/)
 <!--END_SECTION:feed-->
 
 <!--
