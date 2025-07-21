@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/)
 * [Microsoft SharePoint zero-day exploited in RCE attacks, no patch available](https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/)
 * [HPE warns of hardcoded passwords in Aruba access points](https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/)
 * [Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/)
 * [Popular npm linter packages hijacked via phishing to drop malware](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/)
-* [ChatGPT"s GPT-5-reasoning-alpha model spotted ahead of launch](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-reasoning-alpha-model-spotted-ahead-of-launch/)
 <!--END_SECTION:feed-->
 
 <!--
