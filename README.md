@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Intel announces end of Clear Linux OS project, archives GitHub repos](https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/)
 * [Ring denies breach after users report suspicious logins](https://www.bleepingcomputer.com/news/security/ring-denies-breach-after-users-report-suspicious-logins/)
 * [ExpressVPN bug leaked user IPs in Remote Desktop sessions](https://www.bleepingcomputer.com/news/security/expressvpn-bug-leaked-user-ips-in-remote-desktop-sessions/)
 * [Veeam Recovery Orchestrator users locked out after MFA rollout](https://www.bleepingcomputer.com/news/technology/veeam-recovery-orchestrator-users-locked-out-after-mfa-rollout/)
 * [Dior begins sending data breach notifications to U.S. customers](https://www.bleepingcomputer.com/news/security/dior-begins-sending-data-breach-notifications-to-us-customers/)
-* [Over 1,000 CrushFTP servers exposed to ongoing hijack attacks](https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
