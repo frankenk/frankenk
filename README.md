@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 1,000 CrushFTP servers exposed to ongoing hijack attacks](https://www.bleepingcomputer.com/news/security/over-1-000-crushftp-servers-exposed-to-ongoing-hijack-attacks/)
+* [Learn 14 Languages from Babbel with this exclusive StackSocial deal](https://www.bleepingcomputer.com/news/security/learn-14-languages-from-babbel-with-this-exclusive-stacksocial-deal/)
+* [Dell confirms breach of test lab platform by World Leaks extortion group](https://www.bleepingcomputer.com/news/security/dell-confirms-breach-of-test-lab-platform-by-world-leaks-extortion-group/)
 * [Microsoft releases emergency patches for SharePoint RCE flaws exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-patches-for-sharepoint-rce-flaws-exploited-in-attacks/)
 * [Microsoft SharePoint zero-day exploited in RCE attacks, no patch available](https://www.bleepingcomputer.com/news/microsoft/microsoft-sharepoint-zero-day-exploited-in-rce-attacks-no-patch-available/)
-* [HPE warns of hardcoded passwords in Aruba access points](https://www.bleepingcomputer.com/news/security/hpe-warns-of-hardcoded-passwords-in-aruba-access-points/)
-* [Threat actors downgrade FIDO2 MFA auth in PoisonSeed phishing attack](https://www.bleepingcomputer.com/news/security/threat-actors-downgrade-fido2-mfa-auth-in-poisonseed-phishing-attack/)
-* [Popular npm linter packages hijacked via phishing to drop malware](https://www.bleepingcomputer.com/news/security/popular-npm-linter-packages-hijacked-via-phishing-to-drop-malware/)
 <!--END_SECTION:feed-->
 
 <!--
