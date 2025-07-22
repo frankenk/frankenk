@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 11 gets new Black Screen of Death, auto recovery tool](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-black-screen-of-death-auto-recovery-tool/)
 * [Coyote malware abuses Windows accessibility framework for data theft](https://www.bleepingcomputer.com/news/security/coyote-malware-abuses-windows-accessibility-framework-for-data-theft/)
 * [CISA and FBI warn of escalating Interlock ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-escalating-interlock-ransomware-attacks/)
 * [Major European healthcare network discloses security breach](https://www.bleepingcomputer.com/news/security/major-european-healthcare-network-discloses-security-breach/)
 * [Cisco: Maximum-severity ISE RCE flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/)
-* [UK to ban public sector orgs from paying ransomware gangs](https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/)
 <!--END_SECTION:feed-->
 
 <!--
