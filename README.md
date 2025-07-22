@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Coyote malware abuses Windows accessibility framework for data theft](https://www.bleepingcomputer.com/news/security/coyote-malware-abuses-windows-accessibility-framework-for-data-theft/)
+* [CISA and FBI warn of escalating Interlock ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-and-fbi-warn-of-escalating-interlock-ransomware-attacks/)
+* [Major European healthcare network discloses security breach](https://www.bleepingcomputer.com/news/security/major-european-healthcare-network-discloses-security-breach/)
 * [Cisco: Maximum-severity ISE RCE flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-maximum-severity-ise-rce-flaws-now-exploited-in-attacks/)
 * [UK to ban public sector orgs from paying ransomware gangs](https://www.bleepingcomputer.com/news/security/uk-to-ban-public-sector-orgs-from-paying-ransomware-gangs/)
-* [Microsoft links Sharepoint attacks to Chinese hacking groups](https://www.bleepingcomputer.com/news/security/microsoft-sharepoint-toolshell-attacks-linked-to-chinese-hackers/)
-* [Microsoft: Windows Server KB5062557 causes cluster, VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-kb5062557-causes-cluster-vm-issues/)
-* [Intel announces end of Clear Linux OS project, archives GitHub repos](https://www.bleepingcomputer.com/news/security/intel-announces-end-of-clear-linux-os-project-archives-github-repos/)
 <!--END_SECTION:feed-->
 
 <!--
