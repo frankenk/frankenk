@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NPM package ‘is’ with 2.8M weekly downloads infected devs with malware](https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/)
+* [US nuclear weapons agency reportedly hacked in SharePoint attacks](https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-reportedly-hacked-in-sharepoint-attacks/)
 * [OpenAI confirms ChatGPT's new study feature, helps with exams](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/)
 * [How to harden your Active Directory against Kerberoasting](https://www.bleepingcomputer.com/news/security/how-to-harden-your-active-directory-against-kerberoasting/)
 * [OpenAI prepares Sora 2 to take on Google's Veo 3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/)
-* [Ukraine arrests suspected admin of XSS Russian hacking forum](https://www.bleepingcomputer.com/news/security/ukraine-arrests-suspected-admin-of-xss-russian-hacking-forum/)
-* [CISA warns of hackers exploiting SysAid vulnerabilities in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-sysaid-vulnerabilities-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
