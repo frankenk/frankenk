@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI confirms ChatGPT's new study feature, helps with exams](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/)
+* [OpenAI prepares Sora 2 to take on Google's Veo 3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/)
+* [Ukraine arrests suspected admin of XSS Russian hacking forum](https://www.bleepingcomputer.com/news/security/ukraine-arrests-suspected-admin-of-xss-russian-hacking-forum/)
+* [CISA warns of hackers exploiting SysAid vulnerabilities in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-sysaid-vulnerabilities-in-attacks/)
 * [npm 'accidentally' removes Stylus package, breaks builds and pipelines](https://www.bleepingcomputer.com/news/security/npm-accidentally-removes-stylus-package-breaks-builds-and-pipelines/)
-* [Operator of Jetflix illegal streaming service gets 7 years in prison](https://www.bleepingcomputer.com/news/technology/operator-of-jetflix-illegal-streaming-service-gets-7-years-in-prison/)
-* [Microsoft fixes bug behind incorrect Windows Firewall errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-incorrect-windows-firewall-errors/)
-* [Lumma infostealer malware returns after law enforcement disruption](https://www.bleepingcomputer.com/news/security/lumma-infostealer-malware-returns-after-law-enforcement-disruption/)
-* [Windows 11 KB5062660 update brings new 'Windows Resilience' features](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5062660-update-brings-new-windows-resilience-features/)
 <!--END_SECTION:feed-->
 
 <!--
