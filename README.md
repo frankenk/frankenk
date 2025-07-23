@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ChatGPT is rolling out 'personality' toggles to become your assistant](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-rolling-out-personality-toggles-to-become-your-assistant/)
 * [NPM package ‘is’ with 2.8M weekly downloads infected devs with malware](https://www.bleepingcomputer.com/news/security/npm-package-is-with-28m-weekly-downloads-infected-devs-with-malware/)
-* [US nuclear weapons agency reportedly hacked in SharePoint attacks](https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-reportedly-hacked-in-sharepoint-attacks/)
+* [US nuclear weapons agency hacked in Microsoft SharePoint attacks](https://www.bleepingcomputer.com/news/security/us-nuclear-weapons-agency-hacked-in-microsoft-sharepoint-attacks/)
 * [OpenAI confirms ChatGPT's new study feature, helps with exams](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpts-new-study-feature-helps-with-exams/)
 * [How to harden your Active Directory against Kerberoasting](https://www.bleepingcomputer.com/news/security/how-to-harden-your-active-directory-against-kerberoasting/)
-* [OpenAI prepares Sora 2 to take on Google's Veo 3](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-sora-2-to-take-on-googles-veo-3/)
 <!--END_SECTION:feed-->
 
 <!--
