@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [BlackSuit ransomware leak sites seized in Operation Checkmate](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/)
+* [BlackSuit ransomware extortion sites seized in Operation Checkmate](https://www.bleepingcomputer.com/news/security/law-enforcement-seizes-blacksuit-ransomware-leak-sites/)
 * [OpenAI confirms ChatGPT Agent is now rolling out for $20 Plus users](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-agent-is-now-rolling-out-for-20-plus-users/)
 * [New Koske Linux malware hides in cute panda images](https://www.bleepingcomputer.com/news/security/new-koske-linux-malware-hides-in-cute-panda-images/)
 * [Hacker sneaks infostealer malware into early access Steam game](https://www.bleepingcomputer.com/news/security/hacker-sneaks-infostealer-malware-into-early-access-steam-game/)
