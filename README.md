@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Allianz Life confirms data breach impacts majority of 1.4 million customers](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/)
+* [Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/)
 * [Amazon AI coding agent hacked to inject data wiping commands ](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/)
 * [Microsoft investigates outage affecting Microsoft 365 admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/)
 * [The role of the cybersecurity PM in incident-driven development](https://www.bleepingcomputer.com/news/security/the-role-of-the-cybersecurity-pm-in-incident-driven-development/)
-* [US sanctions North Korean firm, nationals behind IT worker schemes](https://www.bleepingcomputer.com/news/security/us-sanctions-north-korean-firm-nationals-behind-it-worker-schemes/)
-* [Woman gets 8 years for aiding North Koreans infiltrate 300 US firms](https://www.bleepingcomputer.com/news/security/us-woman-sentenced-to-8-years-in-prison-for-running-laptop-farm-helping-north-koreans-infiltrate-300-firms/)
 <!--END_SECTION:feed-->
 
 <!--
