@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA flags PaperCut RCE bug as exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/cisa-flags-papercut-rce-bug-as-exploited-in-attacks-patch-now/)
 * [Microsoft will stop supporting Windows 11 22H2 in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-stop-supporting-windows-11-22h2-in-october/)
 * [OpenAI prepares GPT-5 for roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-gpt-5-for-roll-out/)
 * [France's warship builder Naval Group investigates 1TB data breach](https://www.bleepingcomputer.com/news/security/frances-warship-builder-naval-group-investigates-1tb-data-breach/)
 * [OpenAI could rival Google Shopping with ChatGPT Shop](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-could-rival-google-shopping-with-chatgpt-shop/)
-* [Internet Archive is now a US federal depository library](https://www.bleepingcomputer.com/news/technology/internet-archive-is-now-a-us-federal-depository-library/)
 <!--END_SECTION:feed-->
 
 <!--
