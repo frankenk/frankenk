@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Free Tool Autoswagger Finds The API Flaws Attackers Hope You Miss](https://www.bleepingcomputer.com/news/security/free-tool-autoswagger-finds-the-api-flaws-attackers-hope-you-miss/)
-* [Scattered Spider is running a VMware ESXi hacking spree](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/)
-* [Allianz Life confirms data breach impacts majority of 1.4 million customers](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/)
-* [Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/)
-* [Amazon AI coding agent hacked to inject data wiping commands ](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/)
+* [Microsoft will stop supporting Windows 11 22H2 in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-stop-supporting-windows-11-22h2-in-october/)
+* [OpenAI prepares GPT-5 for roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-gpt-5-for-roll-out/)
+* [France's warship builder Naval Group investigates 1TB data breach](https://www.bleepingcomputer.com/news/security/frances-warship-builder-naval-group-investigates-1tb-data-breach/)
+* [OpenAI could rival Google Shopping with ChatGPT Shop](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-could-rival-google-shopping-with-chatgpt-shop/)
+* [Internet Archive is now a US federal depository library](https://www.bleepingcomputer.com/news/technology/internet-archive-is-now-a-us-federal-depository-library/)
 <!--END_SECTION:feed-->
 
 <!--
