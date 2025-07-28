@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Free Tool Autoswagger Finds The API Flaws Attackers Hope You Miss](https://www.bleepingcomputer.com/news/security/free-tool-autoswagger-finds-the-api-flaws-attackers-hope-you-miss/)
 * [Scattered Spider is running a VMware ESXi hacking spree](https://www.bleepingcomputer.com/news/security/scattered-spider-is-running-a-vmware-esxi-hacking-spree/)
 * [Allianz Life confirms data breach impacts majority of 1.4 million customers](https://www.bleepingcomputer.com/news/security/allianz-life-confirms-data-breach-impacts-majority-of-14-million-customers/)
 * [Post SMTP plugin flaw exposes 200K WordPress sites to hijacking attacks](https://www.bleepingcomputer.com/news/security/post-smtp-plugin-flaw-exposes-200k-wordpress-sites-to-hijacking-attacks/)
 * [Amazon AI coding agent hacked to inject data wiping commands ](https://www.bleepingcomputer.com/news/security/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands/)
-* [Microsoft investigates outage affecting Microsoft 365 admin center](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-admin-center/)
 <!--END_SECTION:feed-->
 
 <!--
