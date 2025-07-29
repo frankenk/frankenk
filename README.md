@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Edge now an 'AI-powered browser' with Copilot Mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-an-ai-powered-browser-with-copilot-mode/)
+* [French telecom giant Orange discloses cyberattack](https://www.bleepingcomputer.com/news/security/french-telecommunications-giant-orange-discloses-cyberattack/)
 * [FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation](https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/)
 * [How attackers are still phishing "phishing-resistant" authentication](https://www.bleepingcomputer.com/news/security/how-attackers-are-still-phishing-phishing-resistant-authentication/)
 * [Lovense sex toy app flaw leaks private user email addresses](https://www.bleepingcomputer.com/news/security/lovense-sex-toy-app-flaw-leaks-private-user-email-addresses/)
-* [Tea app leak worsens with second database exposing user chats](https://www.bleepingcomputer.com/news/security/tea-app-leak-worsens-with-second-database-exposing-user-chats/)
-* [Flaw in Gemini CLI AI coding assistant allowed stealthy code execution](https://www.bleepingcomputer.com/news/security/flaw-in-gemini-cli-ai-coding-assistant-allowed-stealthy-code-execution/)
 <!--END_SECTION:feed-->
 
 <!--
