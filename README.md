@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian airline Aeroflot grounds dozens of flights after cyberattack](https://www.bleepingcomputer.com/news/security/russian-airline-aeroflot-grounds-dozens-of-flights-after-cyberattack/)
 * [Hackers exploit SAP NetWeaver bug to deploy Linux Auto-Color malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-sap-netweaver-bug-to-deploy-linux-auto-color-malware/)
 * [Microsoft Edge now an 'AI-powered browser' with Copilot Mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-now-an-ai-powered-browser-with-copilot-mode/)
 * [French telecom giant Orange discloses cyberattack](https://www.bleepingcomputer.com/news/security/french-telecommunications-giant-orange-discloses-cyberattack/)
 * [FBI seizes $2.4M in Bitcoin from new Chaos ransomware operation](https://www.bleepingcomputer.com/news/security/fbi-seizes-24m-in-bitcoin-from-new-chaos-ransomware-operation/)
-* [How attackers are still phishing "phishing-resistant" authentication](https://www.bleepingcomputer.com/news/security/how-attackers-are-still-phishing-phishing-resistant-authentication/)
 <!--END_SECTION:feed-->
 
 <!--
