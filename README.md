@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft now pays up to $40,000 for some .NET vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/)
 * [CISA open-sources Thorium platform for malware, forensic analysis](https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/)
 * [Microsoft: Russian hackers use ISP access to hack embassies in AiTM attacks](https://www.bleepingcomputer.com/news/security/microsoft-russian-hackers-use-isp-access-to-hack-embassies-in-aitm-attacks/)
 * [Inside a Real Clickfix Attack: How This Social Engineering Hack Unfolds](https://www.bleepingcomputer.com/news/security/inside-a-real-clickfix-attack-how-this-social-engineering-hack-unfolds/)
 * [Spikes in malicious activity precede new security flaws in 80% of cases](https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/)
-* [Proton launches free standalone cross-platform Authenticator app](https://www.bleepingcomputer.com/news/security/proton-launches-free-standalone-cross-platform-authenticator-app/)
 <!--END_SECTION:feed-->
 
 <!--
