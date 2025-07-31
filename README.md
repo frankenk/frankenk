@@ -2,7 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Inside a Real Clickfix Attack: How This Social Engineering Hack Unfolds](https://www.bleepingcomputer.com/news/security/inside-a-real-clickfix-attack-how-this-social-engineering-hack-unfolds/)
-* [Spikes in malicious activity precede new CVEs in 80% of cases](https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/)
+* [Spikes in malicious activity precede new security flaws in 80% of cases](https://www.bleepingcomputer.com/news/security/spikes-in-malicious-activity-precede-new-cves-in-80-percent-of-cases/)
 * [Proton launches free standalone cross-platform Authenticator app](https://www.bleepingcomputer.com/news/security/proton-launches-free-standalone-cross-platform-authenticator-app/)
 * [ShinyHunters behind Salesforce data theft attacks at Qantas, Allianz Life, and LVMH](https://www.bleepingcomputer.com/news/security/shinyhunters-behind-salesforce-data-theft-attacks-at-qantas-allianz-life-and-lvmh/)
 * [Hackers target Python devs in phishing attacks using fake PyPI site](https://www.bleepingcomputer.com/news/security/hackers-target-python-devs-in-phishing-attacks-using-fake-pypi-site/)
