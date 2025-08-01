@@ -4,6 +4,9 @@
 * [SonicWall firewall devices hit in surge of Akira ransomware attacks](https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/)
 * [Pi-hole discloses data breach triggered by WordPress plugin flaw](https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/)
 * [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
+* [Pwn2Own hacking contest pays * [SonicWall firewall devices hit in surge of Akira ransomware attacks](https://www.bleepingcomputer.com/news/security/surge-of-akira-ransomware-attacks-hits-sonicwall-firewall-devices/)
+* [Pi-hole discloses data breach triggered by WordPress plugin flaw](https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/)
+* [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
 * [Pwn2Own hacking contest pays * [Pi-hole discloses data breach triggered by WordPress plugin flaw](https://www.bleepingcomputer.com/news/security/pi-hole-discloses-data-breach-via-givewp-wordpress-plugin-flaw/)
 * [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
 * [Pwn2Own hacking contest pays * [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
@@ -37,6 +40,7 @@
 * [Microsoft now pays up to $40,000 for some .NET vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/) million for WhatsApp exploit](https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/)
 * [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
 * [Microsoft to disable Excel workbook links to blocked file types](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/) million for WhatsApp exploit](https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/)
+* [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/) million for WhatsApp exploit](https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/)
 * [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
 <!--END_SECTION:feed-->
 
