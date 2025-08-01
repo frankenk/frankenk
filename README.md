@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
+* [AI-powered Cursor IDE vulnerable to prompt-injection attacks](https://www.bleepingcomputer.com/news/security/ai-powered-cursor-ide-vulnerable-to-prompt-injection-attacks/)
+* [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Pwn2Own hacking contest pays * [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
 * [Microsoft to disable Excel workbook links to blocked file types](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/)
 * [Microsoft now pays up to $40,000 for some .NET vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/)
 * [CISA open-sources Thorium platform for malware, forensic analysis](https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/)
@@ -21,7 +22,10 @@
 * [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
 * [Microsoft to disable Excel workbook links to blocked file types](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/)
 * [Microsoft now pays up to $40,000 for some .NET vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/)
-* [CISA open-sources Thorium platform for malware, forensic analysis](https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/)
+* [CISA open-sources Thorium platform for malware, forensic analysis](https://www.bleepingcomputer.com/news/security/cisa-open-sources-thorium-platform-for-malware-forensic-analysis/) million for WhatsApp exploit](https://www.bleepingcomputer.com/news/security/pwn2own-hacking-contest-pays-1-million-for-whatsapp-exploit/)
+* [Kali Linux can now run in Apple containers on macOS systems](https://www.bleepingcomputer.com/news/security/kali-linux-can-now-run-in-apple-containers-on-macos-systems/)
+* [Microsoft to disable Excel workbook links to blocked file types](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-external-workbook-links-to-blocked-file-types/)
+* [Microsoft now pays up to $40,000 for some .NET vulnerabilities](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-pays-up-to-40-000-for-some-net-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
