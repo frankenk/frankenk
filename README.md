@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CTM360 spots Malicious ‘ClickTok’ Campaign Targeting TikTok Shop users](https://www.bleepingcomputer.com/news/security/ctm360-spots-malicious-clicktok-campaign-targeting-tiktok-shop-users/)
 * [New Plague Linux malware stealthily maintains SSH access](https://www.bleepingcomputer.com/news/security/new-plague-malware-backdoors-linux-devices-removes-ssh-session-traces/)
 * [Ransomware gangs join attacks targeting Microsoft SharePoint servers](https://www.bleepingcomputer.com/news/security/ransomware-gangs-join-attacks-targeting-microsoft-sharepoint-servers/)
 * [Mozilla warns of phishing attacks targeting add-on developers](https://www.bleepingcomputer.com/news/security/mozilla-warns-of-phishing-attacks-targeting-add-on-developers/)
 * [Attackers exploit link-wrapping services to steal Microsoft 365 logins](https://www.bleepingcomputer.com/news/security/attackers-exploit-link-wrapping-services-to-steal-microsoft-365-logins/)
-* [OpenAI prepares new open weight models along with GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-prepares-new-open-weight-models-along-with-gpt-5/)
 <!--END_SECTION:feed-->
 
 <!--
