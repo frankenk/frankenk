@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Ghost Calls tactic abuses Zoom and Microsoft Teams for C2 operations](https://www.bleepingcomputer.com/news/security/new-ghost-calls-tactic-abuses-zoom-and-microsoft-teams-for-c2-operations/)
 * [Hacker extradited to US for stealing $3.3 million from taxpayers](https://www.bleepingcomputer.com/news/security/hacker-extradited-to-us-for-stealing-33-million-from-taxpayers/)
 * [MFA matters… But it isn’t enough on its own ](https://www.bleepingcomputer.com/news/security/mfa-matters-but-it-isnt-enough-on-its-own/)
 * [Google suffers data breach in ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/google-suffers-data-breach-in-ongoing-salesforce-data-theft-attacks/)
 * [National Bank of Canada online systems down due to 'technical issue'](https://www.bleepingcomputer.com/news/technology/national-bank-of-canada-online-systems-down-due-to-technical-issue/)
-* [ReVault flaws let hackers bypass Windows login on Dell laptops](https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/)
 <!--END_SECTION:feed-->
 
 <!--
