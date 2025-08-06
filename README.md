@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [National Bank of Canada online systems down due to 'technical issue'](https://www.bleepingcomputer.com/news/technology/national-bank-of-canada-online-systems-down-due-to-technical-issue/)
 * [ReVault flaws let hackers bypass Windows login on Dell laptops](https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/)
+* [WhatsApp adds new security feature to protect against scams](https://www.bleepingcomputer.com/news/security/whatsapp-adds-new-security-feature-to-protect-against-scams/)
+* [Trend Micro warns of Apex One zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-endpoint-protection-zero-day-exploited-in-attacks/)
+* [Microsoft pays record * [ReVault flaws let hackers bypass Windows login on Dell laptops](https://www.bleepingcomputer.com/news/security/revault-flaws-let-hackers-bypass-windows-login-on-dell-laptops/)
 * [WhatsApp adds new security feature to protect against scams](https://www.bleepingcomputer.com/news/security/whatsapp-adds-new-security-feature-to-protect-against-scams/)
 * [Trend Micro warns of Apex One zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-endpoint-protection-zero-day-exploited-in-attacks/)
 * [Microsoft pays record * [WhatsApp adds new security feature to protect against scams](https://www.bleepingcomputer.com/news/security/whatsapp-adds-new-security-feature-to-protect-against-scams/)
@@ -17,7 +21,7 @@
 * [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)7 million in bounties over the last 12 months](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/)
 * [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
 * [PBS confirms data breach after employee info leaked on Discord servers](https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/)7 million in bounties over the last 12 months](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/)
-* [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
+* [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)7 million in bounties over the last 12 months](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/)
 <!--END_SECTION:feed-->
 
 <!--
