@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
+* [Trend Micro warns of Apex One zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-endpoint-protection-zero-day-exploited-in-attacks/)
+* [Microsoft pays record * [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
 * [PBS confirms data breach after employee info leaked on Discord servers](https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/)
 * [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)
 * [The Heat Wasn't Just Outside: Cyber Attacks Spiked in Summer 2025](https://www.bleepingcomputer.com/news/security/the-heat-wasnt-just-outside-cyber-attacks-spiked-in-summer-2025/)
-* [Cisco discloses data breach impacting Cisco.com user accounts](https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/)
+* [Cisco discloses data breach impacting Cisco.com user accounts](https://www.bleepingcomputer.com/news/security/cisco-discloses-data-breach-impacting-ciscocom-user-accounts/)7 million in bounties over the last 12 months](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-record-17-million-in-bounties-over-the-last-12-months/)
+* [Pandora confirms data breach amid ongoing Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/pandora-confirms-data-breach-amid-ongoing-salesforce-data-theft-attacks/)
+* [PBS confirms data breach after employee info leaked on Discord servers](https://www.bleepingcomputer.com/news/security/pbs-confirms-data-breach-after-employee-info-leaked-on-discord-servers/)
+* [Adobe issues emergency fixes for AEM Forms zero-days after PoCs released](https://www.bleepingcomputer.com/news/security/adobe-issues-emergency-fixes-for-aem-forms-zero-days-after-pocs-released/)
 <!--END_SECTION:feed-->
 
 <!--
