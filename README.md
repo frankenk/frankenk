@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New EDR killer tool used by eight different ransomware groups](https://www.bleepingcomputer.com/news/security/new-edr-killer-tool-used-by-eight-different-ransomware-groups/)
+* [Bouygues Telecom confirms data breach impacting 6.4 million customers](https://www.bleepingcomputer.com/news/security/bouygues-telecom-confirms-data-breach-impacting-64-million-customers/)
 * [SonicWall finds no SSLVPN zero-day, links ransomware attacks to 2024 flaw](https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/)
 * [Wave of 150 crypto-draining extensions hits Firefox add-on store](https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/)
 * [Cryptomixer founders pled guilty to laundering money for cybercriminals](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/)
-* [Massive IPTV piracy service with 28,000 channels taken offline](https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/)
-* [Air France and KLM disclose data breaches impacting customers](https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/)
 <!--END_SECTION:feed-->
 
 <!--
