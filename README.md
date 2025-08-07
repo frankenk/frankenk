@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SonicWall finds no SSLVPN zero-day, links ransomware attacks to 2024 flaw](https://www.bleepingcomputer.com/news/security/sonicwall-finds-no-sslvpn-zero-day-links-ransomware-attacks-to-2024-flaw/)
+* [Wave of 150 crypto-draining extensions hits Firefox add-on store](https://www.bleepingcomputer.com/news/security/wave-of-150-crypto-draining-extensions-hits-firefox-add-on-store/)
 * [Cryptomixer founders pled guilty to laundering money for cybercriminals](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-pled-guilty-to-laundering-money-for-cybercriminals/)
 * [Massive IPTV piracy service with 28,000 channels taken offline](https://www.bleepingcomputer.com/news/technology/massive-illegal-iptv-service-provider-rare-breed-tv-taken-offline/)
 * [Air France and KLM disclose data breaches impacting customers](https://www.bleepingcomputer.com/news/security/air-france-and-klm-disclose-data-breaches-impacting-customers/)
-* [Microsoft warns of high-severity flaw in hybrid Exchange deployments](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-high-severity-flaw-in-hybrid-exchange-deployments/)
-* [Microsoft accidentally confirms GPT-5, GPT-5-Mini, GPT-5-Nano ahead of launch](https://www.bleepingcomputer.com/news/artificial-intelligence/microsoft-accidentally-confirms-gpt-5-gpt-5-mini-gpt-5-nano-ahead-of-launch/)
 <!--END_SECTION:feed-->
 
 <!--
