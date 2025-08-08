@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC: older adults lost record $700 million to scammers in 2024](https://www.bleepingcomputer.com/news/security/ftc-older-adults-lost-record-700-million-to-scammers-in-2024/)
 * [U.S. Judiciary confirms breach of court electronic records service](https://www.bleepingcomputer.com/news/security/us-judiciary-confirms-breach-of-court-electronic-records-service/)
 * [Microsoft 365 apps to soon block file access via FPRPC by default](https://www.bleepingcomputer.com/news/security/microsoft-365-apps-to-soon-block-file-access-via-insecure-fprpc-legacy-auth-protocol-by-default/)
 * [Microsoft will kill the Lens PDF scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/)
 * [Columbia University data breach impacts nearly 870,000 individuals](https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/)
-* [Royal and BlackSuit ransomware gangs hit over 450 US companies](https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/)
 <!--END_SECTION:feed-->
 
 <!--
