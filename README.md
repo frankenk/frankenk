@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft will kill the Lens PDF scanner app for iOS, Android](https://www.bleepingcomputer.com/news/microsoft/microsoft-will-kill-the-microsoft-lens-pdf-scanner-app-for-ios-android-in-september/)
 * [Columbia University data breach impacts nearly 870,000 individuals](https://www.bleepingcomputer.com/news/security/columbia-university-data-breach-impacts-nearly-870-000-students-applicants-employees/)
 * [Royal and BlackSuit ransomware gangs hit over 450 US companies](https://www.bleepingcomputer.com/news/security/royal-and-blacksuit-ransomware-gangs-hit-over-450-us-companies/)
 * [Fake WhatsApp developer libraries hide destructive data-wiping code](https://www.bleepingcomputer.com/news/security/fake-whatsapp-developer-libraries-hide-destructive-data-wiping-code/)
 * [CISA orders fed agencies to patch new Exchange flaw by Monday](https://www.bleepingcomputer.com/news/security/cisa-orders-fed-agencies-to-patch-new-cve-2025-53786-exchange-flaw/)
-* [ChatGPT's GPT-5 models released: everything you need to know](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-gpt-5-models-released-everything-you-need-to-know/)
 <!--END_SECTION:feed-->
 
 <!--
