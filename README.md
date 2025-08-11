@@ -1,31 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft tests cloud-based Windows 365 disaster recovery PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-cloud-based-windows-365-disaster-recovery-pcs/)
+* [OpenAI is testing 3,000-per-week limit for GPT-5 Thinking](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-3-000-per-week-limit-for-gpt-5-thinking/)
 * [OneNote finally gets "paste text only" feature on Windows and Mac](https://www.bleepingcomputer.com/news/microsoft/onenote-finally-gets-paste-text-only-feature-on-windows-and-mac/)
 * [xAI is testing Grok 4.20 to take on GPT-5, may launch this month](https://www.bleepingcomputer.com/news/artificial-intelligence/xai-is-testing-grok-420-to-take-on-gpt-5-may-launch-this-month/)
-* [MuddyWater’s DarkBit ransomware cracked for free data recovery](https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/)
-* ['Chairmen' of * [MuddyWater’s DarkBit ransomware cracked for free data recovery](https://www.bleepingcomputer.com/news/security/muddywaters-darkbit-ransomware-cracked-for-free-data-recovery/)
-* ['Chairmen' of * ['Chairmen' of * ['Chairmen' of * ['Chairmen' of * [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-* [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
-* [How to restore GPT-4o when you've GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)
-* [Google Calendar invites let researchers hijack Gemini to leak user data](https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/)
-* [Google confirms data breach exposed potential Google Ads customers' info](https://www.bleepingcomputer.com/news/security/google-confirms-data-breach-exposed-potential-google-ads-customers-info/)00 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-* [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-* [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
-* [How to restore GPT-4o when you've GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)
-* [Google Calendar invites let researchers hijack Gemini to leak user data](https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/)00 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-* [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-* [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
-* [How to restore GPT-4o when you've GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)
-* [Google Calendar invites let researchers hijack Gemini to leak user data](https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/)00 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-* [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-* [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
-* [How to restore GPT-4o when you've GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)
-* [Google Calendar invites let researchers hijack Gemini to leak user data](https://www.bleepingcomputer.com/news/security/google-calendar-invites-let-researchers-hijack-gemini-to-leak-user-data/)00 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-* [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
-* [Connex Credit Union data breach impacts 172,000 members](https://www.bleepingcomputer.com/news/security/connex-credit-union-discloses-data-breach-impacting-172-000-people/)
-* [How to restore GPT-4o when you've GPT-5](https://www.bleepingcomputer.com/news/artificial-intelligence/how-to-restore-gpt-4o-when-youve-gpt-5/)00 million scam operation extradited to US](https://www.bleepingcomputer.com/news/security/us-charges-ghanaians-linked-to-theft-of-100-million-in-romance-scams-bec-attacks/)
-* [Over 29,000 Exchange servers unpatched against high-severity flaw](https://www.bleepingcomputer.com/news/security/over-29-000-exchange-servers-unpatched-against-high-severity-flaw/)
+* [The Rise of Native Phishing: Microsoft 365 Apps Abused in Attacks](https://www.bleepingcomputer.com/news/security/the-rise-of-native-phishing-microsoft-365-apps-abused-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
