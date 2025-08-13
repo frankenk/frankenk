@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spike in Fortinet VPN brute-force attacks raises zero-day concerns](https://www.bleepingcomputer.com/news/security/spike-in-fortinet-vpn-brute-force-attacks-raises-zero-day-concerns/)
+* [Pennsylvania attorney general's email, site down after cyberattack](https://www.bleepingcomputer.com/news/security/pennsylvania-attorney-generals-email-site-down-after-cyberattack/)
 * [Microsoft removes PowerShell 2.0 from Windows 11, Windows Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-powershell-20-from-windows-11-windows-server/)
 * [Microsoft asks users to ignore certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/)
 * [OpenAI adds new GPT-5 models, restores o3, o4-mini and it's a mess all over again](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/)
-* [Claude gets 1M tokens support via API to take on Gemini 2.5 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-gets-1m-tokens-support-via-api-to-take-on-gemini-25-pro/)
-* [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
