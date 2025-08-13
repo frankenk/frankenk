@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft asks users to ignore certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-certificate-enrollment-errors/)
 * [OpenAI adds new GPT-5 models, restores o3, o4-mini and it's a mess all over again](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-adds-new-gpt-5-models-restores-o3-o4-mini-and-its-a-mess-all-over-again/)
 * [Claude gets 1M tokens support via API to take on Gemini 2.5 Pro](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-gets-1m-tokens-support-via-api-to-take-on-gemini-25-pro/)
 * [Hackers leak Allianz Life data stolen in Salesforce attacks](https://www.bleepingcomputer.com/news/security/hackers-leak-allianz-life-data-stolen-in-salesforce-attacks/)
 * [OpenAI rolls out Gmail, Calendar, and Contacts integration in ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gmail-calendar-and-contacts-integration-in-chatgpt/)
-* [ChatGPT's new subscription costs less than $5, but it's not for everyone](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpts-new-subscription-costs-less-than-5-but-its-not-for-everyone/)
 <!--END_SECTION:feed-->
 
 <!--
