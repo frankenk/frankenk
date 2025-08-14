@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Booking.com phishing campaign uses sneaky 'ん' character to trick you](https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/)
+* [When Theft Replaces Encryption: Blue Report 2025 on Ransomware & Infostealers](https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/)
 * [Canada’s House of Commons investigating data breach after cyberattack](https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/)
 * [Leak: OpenAI's browser will use ChatGPT Agent to control the browser](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/)
 * [CISA warns of N-able N-central flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/)
-* [Microsoft fixes Windows 11 24H2 updates failing with 0x80240069 error](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/)
-* [Google Gemini's Deep Research is finally coming to API](https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/)
 <!--END_SECTION:feed-->
 
 <!--
