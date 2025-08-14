@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Canada’s House of Commons investigating data breach after cyberattack](https://www.bleepingcomputer.com/news/security/canadas-house-of-commons-investigating-data-breach-after-cyberattack/)
 * [Leak: OpenAI's browser will use ChatGPT Agent to control the browser](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-openais-browser-will-use-chatgpt-agent-to-control-the-browser/)
 * [CISA warns of N-able N-central flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-n-able-n-central-flaws-exploited-in-zero-day-attacks/)
 * [Microsoft fixes Windows 11 24H2 updates failing with 0x80240069 error](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-24h2-updates-failing-with-0x80240069-error/)
 * [Google Gemini's Deep Research is finally coming to API](https://www.bleepingcomputer.com/news/artificial-intelligence/google-geminis-deep-research-is-finally-coming-to-api/)
-* [OpenAI relaxes GPT-5 rate limit, promises to improve the personality](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-relaxes-gpt-5-rate-limit-promises-to-improve-the-personality/)
 <!--END_SECTION:feed-->
 
 <!--
