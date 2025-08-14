@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over $300 million in cybercrime crypto seized in anti-fraud effort](https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/)
 * [Crypto24 ransomware hits large orgs with custom EDR evasion tool](https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/)
 * [Pro-Russian hackers blamed for water dam sabotage in Norway](https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/)
 * [Microsoft fixes Windows Server bug causing cluster, VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/)
 * [Booking.com phishing campaign uses sneaky 'ん' character to trick you](https://www.bleepingcomputer.com/news/security/bookingcom-phishing-campaign-uses-sneaky-character-to-trick-you/)
-* [When Theft Replaces Encryption: Blue Report 2025 on Ransomware & Infostealers](https://www.bleepingcomputer.com/news/security/when-theft-replaces-encryption-blue-report-2025-on-ransomware-and-infostealers/)
 <!--END_SECTION:feed-->
 
 <!--
