@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Plex warns users to patch security vulnerability immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/)
 * [US sanctions Grinex crypto-exchange, successor to Garantex](https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/)
 * [Over $300 million in cybercrime crypto seized in anti-fraud effort](https://www.bleepingcomputer.com/news/security/over-300-million-in-cybercrime-crypto-seized-in-anti-fraud-effort/)
 * [Crypto24 ransomware hits large orgs with custom EDR evasion tool](https://www.bleepingcomputer.com/news/security/crypto24-ransomware-hits-large-orgs-with-custom-edr-evasion-tool/)
 * [Pro-Russian hackers blamed for water dam sabotage in Norway](https://www.bleepingcomputer.com/news/security/pro-russian-hackers-blamed-for-water-dam-sabotage-in-norway/)
-* [Microsoft fixes Windows Server bug causing cluster, VM issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-bug-causing-cluster-vm-issues/)
 <!--END_SECTION:feed-->
 
 <!--
