@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Leak: ChatGPT cheaper plan costs $4 or £3.50, might release everywhere](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-chatgpt-cheaper-plan-costs-4-or-350-might-release-everywhere/)
+* [OpenAI is improving ChatGPT voice mode](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-improving-chatgpt-voice-mode/)
+* [Researcher to release exploit for full auth bypass on FortiWeb](https://www.bleepingcomputer.com/news/security/researcher-to-release-exploit-for-full-auth-bypass-on-fortiweb/)
+* [Microsoft Teams to protect against malicious URLs, dangerous file types](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-protect-against-malicious-urls-dangerous-file-types/)
 * [Colt Telecom attack claimed by WarLock ransomware, data up for sale](https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/)
-* [Cisco warns of max severity flaw in Firewall Management Center](https://www.bleepingcomputer.com/news/security/cisco-warns-of-max-severity-flaw-in-firewall-management-center/)
-* [Microsoft reminds of Windows 10 support ending in two months](https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-users-of-windows-10-retirement-in-october/)
-* [Plex warns users to patch security vulnerability immediately](https://www.bleepingcomputer.com/news/security/plex-warns-users-to-patch-security-vulnerability-immediately/)
-* [US sanctions Grinex crypto-exchange, successor to Garantex](https://www.bleepingcomputer.com/news/security/us-sanctions-grinex-crypto-exchange-garantexs-successor/)
 <!--END_SECTION:feed-->
 
 <!--
