@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK sentences “serial hacker” of 3,000 sites to 20 months in prison](https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/)
+* [Over 800 N-able servers left unpatched against critical flaws](https://www.bleepingcomputer.com/news/security/over-800-n-able-servers-left-unpatched-against-critical-flaws/)
 * [Mozilla warns Germany could soon declare ad blockers illegal](https://www.bleepingcomputer.com/news/legal/mozilla-warns-germany-could-soon-declare-ad-blockers-illegal/)
 * [Microsoft: Recent Windows updates may fail to install via WUSA](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/)
 * [HR giant Workday discloses data breach after Salesforce attack](https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/)
-* [OpenAI releases warmer GPT-5 personality, but only for non thinking model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/)
-* [Google is adding "Projects" feature to Gemini to run research tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/)
 <!--END_SECTION:feed-->
 
 <!--
