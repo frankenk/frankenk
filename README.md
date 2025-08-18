@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Recent Windows updates may fail to install via WUSA](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-windows-server-2025-updates-may-fail-from-network-shares/)
 * [HR giant Workday discloses data breach after Salesforce attack](https://www.bleepingcomputer.com/news/security/hr-giant-workday-discloses-data-breach-amid-salesforce-attacks/)
 * [OpenAI releases warmer GPT-5 personality, but only for non thinking model](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-warmer-gpt-5-personality-but-only-for-non-thinking-model/)
 * [Google is adding "Projects" feature to Gemini to run research tasks](https://www.bleepingcomputer.com/news/artificial-intelligence/google-is-adding-projects-feature-to-gemini-to-run-research-tasks/)
 * [U.S. seizes $2.8 million in crypto from Zeppelin ransomware operator](https://www.bleepingcomputer.com/news/security/us-seizes-28-million-in-crypto-from-zeppelin-ransomware-operator/)
-* [Anthropic: Claude can now end conversations to prevent harmful uses](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-claude-can-now-end-conversations-to-prevent-harmful-uses/)
 <!--END_SECTION:feed-->
 
 <!--
