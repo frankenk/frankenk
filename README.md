@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: August security updates break Windows recovery, reset](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-security-updates-break-windows-recovery-reset/)
 * [NY Business Council discloses data breach affecting 47,000 people](https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/)
 * [Massive Allianz Life data breach impacts 1.1 million people](https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/)
 * [XenoRAT malware campaign hits multiple embassies in South Korea](https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/)
 * [Nebraska man gets 1 year in prison for $3.5M cryptojacking scheme](https://www.bleepingcomputer.com/news/security/nebraska-man-gets-1-year-in-prison-for-35m-cryptojacking-scheme/)
-* [ERMAC Android malware source code leak exposes banking trojan infrastructure](https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/)
 <!--END_SECTION:feed-->
 
 <!--
