@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NY Business Council discloses data breach affecting 47,000 people](https://www.bleepingcomputer.com/news/security/business-council-of-new-york-state-discloses-data-breach-affecting-47-000-people/)
 * [Massive Allianz Life data breach impacts 1.1 million people](https://www.bleepingcomputer.com/news/security/massive-allianz-life-data-breach-impacts-11-million-people/)
 * [XenoRAT malware campaign hits multiple embassies in South Korea](https://www.bleepingcomputer.com/news/security/xenorat-malware-campaign-hits-multiple-embassies-in-south-korea/)
 * [Nebraska man gets 1 year in prison for $3.5M cryptojacking scheme](https://www.bleepingcomputer.com/news/security/nebraska-man-gets-1-year-in-prison-for-35m-cryptojacking-scheme/)
 * [ERMAC Android malware source code leak exposes banking trojan infrastructure](https://www.bleepingcomputer.com/news/security/ermac-android-malware-source-code-leak-exposes-banking-trojan-infrastructure/)
-* [UK sentences “serial hacker” of 3,000 sites to 20 months in prison](https://www.bleepingcomputer.com/news/legal/uk-sentences-serial-hacker-of-3-000-sites-to-20-months-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
