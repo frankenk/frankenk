@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [“Rapper Bot” malware seized, alleged developer identified and charged](https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/)
+* [Perplexity’s Comet AI browser tricked into buying fake items online](https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/)
 * [Hackers steal Microsoft logins using legitimate ADFS redirects](https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/)
 * [Major password managers can leak logins in clickjacking attacks](https://www.bleepingcomputer.com/news/security/major-password-managers-can-leak-logins-in-clickjacking-attacks/)
 * [Microsoft investigates outage impacting Copilot, Office.com](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-impacting-copilot-officecom/)
-* [Why email security needs its EDR moment to move beyond prevention](https://www.bleepingcomputer.com/news/security/why-email-security-needs-its-edr-moment-to-move-beyond-prevention/)
-* [Microsoft reportedly fixing SSD failures caused by Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-reportedly-fixing-ssd-failures-caused-by-windows-updates/)
 <!--END_SECTION:feed-->
 
 <!--
