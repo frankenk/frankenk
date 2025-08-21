@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI says GPT-6 is coming and it'll be better than GPT-5 (obviously)](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/)
 * [AI website builder Lovable increasingly abused for malicious activity](https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/)
 * [Apple fixes new zero-day flaw exploited in targeted attacks](https://www.bleepingcomputer.com/news/apple/apple-emergency-updates-fix-new-actively-exploited-zero-day/)
 * [“Rapper Bot” malware seized, alleged developer identified and charged](https://www.bleepingcomputer.com/news/legal/rapper-bot-malware-seized-alleged-developer-identified-and-charged/)
 * [Perplexity’s Comet AI browser tricked into buying fake items online](https://www.bleepingcomputer.com/news/security/perplexitys-comet-ai-browser-tricked-into-buying-fake-items-online/)
-* [Hackers steal Microsoft logins using legitimate ADFS redirects](https://www.bleepingcomputer.com/news/security/hackers-steal-microsoft-logins-using-legitimate-adfs-redirects/)
 <!--END_SECTION:feed-->
 
 <!--
