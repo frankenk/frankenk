@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Why Certified VMware Pros Are Driving the Future of IT](https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/)
 * [FBI warns of Russian hackers exploiting 7-year-old Cisco flaw](https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/)
 * [Scattered Spider hacker gets sentenced to 10 years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-hacker-gets-sentenced-to-10-years-in-prison/)
 * [Orange Belgium discloses data breach impacting 850,000 customers](https://www.bleepingcomputer.com/news/security/orange-belgium-discloses-data-breach-impacting-850-000-customers/)
 * [OpenAI says GPT-6 is coming and it'll be better than GPT-5 (obviously)](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-is-coming-and-itll-be-better-than-gpt-5-obviously/)
-* [AI website builder Lovable increasingly abused for malicious activity](https://www.bleepingcomputer.com/news/security/ai-website-builder-lovable-increasingly-abused-for-malicious-activity/)
 <!--END_SECTION:feed-->
 
 <!--
