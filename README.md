@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Murky Panda hackers exploit cloud trust to hack downstream customers](https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/)
 * [APT36 hackers abuse Linux .desktop files to install malware in new attacks](https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/)
 * [Fake Mac fixes trick users into installing new Shamos infostealer](https://www.bleepingcomputer.com/news/security/fake-mac-fixes-trick-users-into-installing-new-shamos-infostealer/)
 * [Microsoft: August Windows updates cause severe streaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-cause-severe-ndi-streaming-issues/)
 * [Massive anti-cybercrime operation leads to over 1,200 arrests in Africa](https://www.bleepingcomputer.com/news/security/massive-anti-cybercrime-operation-leads-to-over-1-200-arrests-in-africa/)
-* [DaVita says ransomware gang stole data of nearly 2.7 million people](https://www.bleepingcomputer.com/news/security/davita-ransomware-attack-exposed-data-of-nearly-27-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
