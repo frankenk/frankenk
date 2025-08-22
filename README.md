@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Dev gets 4 years for creating kill switch on ex-employer's systems](https://www.bleepingcomputer.com/news/security/dev-gets-4-years-for-creating-kill-switch-on-ex-employers-systems/)
 * [Colt confirms customer data stolen as Warlock ransomware auctions files](https://www.bleepingcomputer.com/news/security/colt-confirms-customer-data-stolen-as-warlock-ransomware-auctions-files/)
 * [Europol confirms $50,000 Qilin ransomware reward is fake](https://www.bleepingcomputer.com/news/security/europol-confirms-that-qilin-ransomware-reward-is-fake/)
 * [Microsoft asks customers for feedback on reported SSD failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-customers-for-feedback-on-ssd-failure-issues/)
 * [Why Certified VMware Pros Are Driving the Future of IT](https://www.bleepingcomputer.com/news/security/why-certified-vmware-pros-are-driving-the-future-of-it/)
-* [FBI warns of Russian hackers exploiting 7-year-old Cisco flaw](https://www.bleepingcomputer.com/news/security/fbi-warns-of-russian-hackers-exploiting-cisco-flaw-in-critical-infrastructure-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
