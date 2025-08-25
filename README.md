@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Defending against malware persistence techniques with Wazuh](https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/)
 * [New Android malware poses as antivirus from Russian intelligence agency](https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/)
 * [FTC warns tech giants not to bow to foreign pressure on encryption](https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/)
 * [Microsoft working on fix for ongoing Outlook email issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-fix-for-ongoing-outlook-email-issues/)
 * [Murky Panda hackers exploit cloud trust to hack downstream customers](https://www.bleepingcomputer.com/news/security/murky-panda-hackers-exploit-cloud-trust-to-hack-downstream-customers/)
-* [APT36 hackers abuse Linux .desktop files to install malware in new attacks](https://www.bleepingcomputer.com/news/security/apt36-hackers-abuse-linux-desktop-files-to-install-malware/)
 <!--END_SECTION:feed-->
 
 <!--
