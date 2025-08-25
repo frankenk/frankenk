@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Auchan retailer data breach impacts hundreds of thousands of customers](https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/)
 * [Malicious Android apps with 19M installs removed from Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/)
 * [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 * [Defending against malware persistence techniques with Wazuh](https://www.bleepingcomputer.com/news/security/defending-against-malware-persistence-techniques-with-wazuh/)
 * [New Android malware poses as antivirus from Russian intelligence agency](https://www.bleepingcomputer.com/news/security/new-android-malware-poses-as-antivirus-from-russian-intelligence-agency/)
-* [FTC warns tech giants not to bow to foreign pressure on encryption](https://www.bleepingcomputer.com/news/security/ftc-warns-tech-giants-not-to-bow-to-foreign-pressure-on-encryption/)
 <!--END_SECTION:feed-->
 
 <!--
