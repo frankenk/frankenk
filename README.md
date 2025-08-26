@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Surge in coordinated scans targets Microsoft RDP auth servers](https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/)
 * [New AI attack hides data-theft prompts in downscaled images](https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/)
 * [Farmers Insurance data breach impacts 1.1M people after Salesforce attack](https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/)
 * [Auchan retailer data breach impacts hundreds of thousands of customers](https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/)
 * [Malicious Android apps with 19M installs removed from Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/)
-* [Critical Docker Desktop flaw lets attackers hijack Windows hosts](https://www.bleepingcomputer.com/news/security/critical-docker-desktop-flaw-lets-attackers-hijack-windows-hosts/)
 <!--END_SECTION:feed-->
 
 <!--
