@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Nissan confirms design studio data breach claimed by Qilin ransomware](https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/)
 * [Surge in coordinated scans targets Microsoft RDP auth servers](https://www.bleepingcomputer.com/news/security/surge-in-coordinated-scans-targets-microsoft-rdp-auth-servers/)
 * [New AI attack hides data-theft prompts in downscaled images](https://www.bleepingcomputer.com/news/security/new-ai-attack-hides-data-theft-prompts-in-downscaled-images/)
 * [Farmers Insurance data breach impacts 1.1M people after Salesforce attack](https://www.bleepingcomputer.com/news/security/farmers-insurance-data-breach-impacts-11m-people-after-salesforce-attack/)
 * [Auchan retailer data breach impacts hundreds of thousands of customers](https://www.bleepingcomputer.com/news/security/auchan-retailer-data-breach-impacts-hundreds-of-thousands-of-customers/)
-* [Malicious Android apps with 19M installs removed from Google Play](https://www.bleepingcomputer.com/news/security/malicious-android-apps-with-19m-installs-removed-from-google-play/)
 <!--END_SECTION:feed-->
 
 <!--
