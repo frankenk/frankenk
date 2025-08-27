@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [IT system supplier cyberattack impacts 200 municipalities in Sweden](https://www.bleepingcomputer.com/news/security/it-system-supplier-cyberattack-impacts-200-municipalities-in-sweden/)
 * [Global Salt Typhoon hacking campaigns linked to Chinese tech firms](https://www.bleepingcomputer.com/news/security/global-salt-typhoon-hacking-campaigns-linked-to-chinese-tech-firms/)
 * [Over 28,000 Citrix devices vulnerable to new exploited RCE flaw](https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/)
 * [Why zero trust is never 'done' and is an ever-evolving process](https://www.bleepingcomputer.com/news/security/why-zero-trust-is-never-done-and-is-an-ever-evolving-process/)
 * [Healthcare Services Group data breach impacts 624,000 people](https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/)
-* [Google to verify all Android devs to protect users from malware](https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-protect-users-from-malware/)
 <!--END_SECTION:feed-->
 
 <!--
