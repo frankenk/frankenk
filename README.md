@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Over 28,000 Citrix devices vulnerable to new exploited RCE flaw](https://www.bleepingcomputer.com/news/security/over-28-200-citrix-instances-vulnerable-to-actively-exploited-rce-bug/)
 * [Why zero trust is never 'done' and is an ever-evolving process](https://www.bleepingcomputer.com/news/security/why-zero-trust-is-never-done-and-is-an-ever-evolving-process/)
 * [Healthcare Services Group data breach impacts 624,000 people](https://www.bleepingcomputer.com/news/security/healthcare-services-group-data-breach-impacts-624-000-people/)
 * [Google to verify all Android devs to block malware on Google Play](https://www.bleepingcomputer.com/news/security/google-to-verify-all-android-devs-to-block-malware-on-google-play/)
 * [Citrix fixes critical NetScaler RCE flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/citrix-fixes-critical-netscaler-rce-flaw-exploited-in-zero-day-attacks/)
-* [Silk Typhoon hackers hijack network captive portals in diplomat attacks](https://www.bleepingcomputer.com/news/security/silk-typhoon-hackers-hijack-network-captive-portals-in-diplomat-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
