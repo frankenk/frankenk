@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes bug behind Windows certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/)
 * [WhatsApp patches vulnerability exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/)
 * [Microsoft to enforce MFA for Azure resource management in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-azure-resource-management-in-october/)
 * [Microsoft says recent Windows update didn't kill your SSD](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-KB5063878-windows-update-didnt-kill-your-ssd/)
 * [Google warns Salesloft breach impacted some Workspace accounts](https://www.bleepingcomputer.com/news/security/google-warns-salesloft-breach-impacted-some-workspace-accounts/)
-* [US targets North Korean IT worker army with new sanctions](https://www.bleepingcomputer.com/news/legal/us-targets-north-korean-it-worker-army-with-new-sanctions/)
 <!--END_SECTION:feed-->
 
 <!--
