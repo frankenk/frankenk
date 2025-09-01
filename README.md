@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Brokewell Android malware delivered through fake TradingView ads](https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/)
+* [OpenAI releases big upgrade for ChatGPT Codex for agentic coding](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-big-upgrade-for-chatgpt-codex-for-agentic-coding/)
+* [Anthropic is testing GPT Codex-like Claude Code web app](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-gpt-codex-like-claude-code-web-app/)
+* [ChatGPT can now create flashcards quiz on any topic](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-create-flashcards-quiz-on-any-topic/)
 * [OpenAI is testing "Thinking effort" for ChatGPT](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-thinking-effort-for-chatgpt/)
-* [TamperedChef infostealer delivered through fraudulent PDF Editor](https://www.bleepingcomputer.com/news/security/tamperedchef-infostealer-delivered-through-fraudulent-pdf-editor/)
-* [Windows 11 KB5064081 update clears up CPU usage metrics in Task Manager](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5064081-update-clears-up-cpu-usage-metrics-in-task-manager/)
-* [Microsoft fixes bug behind Windows certificate enrollment errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-certificate-enrollment-errors/)
-* [WhatsApp patches vulnerability exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/whatsapp-patches-vulnerability-exploited-in-zero-day-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
