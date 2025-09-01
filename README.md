@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Zscaler data breach exposes customer info after Salesloft Drift compromise](https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/)
 * [Amazon disrupts Russian APT29 hackers targeting Microsoft 365](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/)
 * [Brokewell Android malware delivered through fake TradingView ads](https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/)
 * [OpenAI releases big upgrade for ChatGPT Codex for agentic coding](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-releases-big-upgrade-for-chatgpt-codex-for-agentic-coding/)
 * [Anthropic is testing GPT Codex-like Claude Code web app](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-gpt-codex-like-claude-code-web-app/)
-* [ChatGPT can now create flashcards quiz on any topic](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-create-flashcards-quiz-on-any-topic/)
 <!--END_SECTION:feed-->
 
 <!--
