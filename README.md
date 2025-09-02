@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [No, Google did not warn 2.5 billion Gmail users to reset passwords](https://www.bleepingcomputer.com/news/technology/no-google-did-not-warn-25-billion-gmail-users-to-reset-passwords/)
+* [Jaguar Land Rover says cyberattack ‘severely disrupted’ production](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-says-cyberattack-severely-disrupted-production/)
 * [Pennsylvania AG Office says ransomware attack behind recent outage](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-office-says-ransomware-attack-behind-recent-outage/)
 * [Palo Alto Networks data breach exposes customer info, support cases](https://www.bleepingcomputer.com/news/security/palo-alto-networks-data-breach-exposes-customer-info-support-cases/)
 * [Zscaler data breach exposes customer info after Salesloft Drift compromise](https://www.bleepingcomputer.com/news/security/zscaler-data-breach-exposes-customer-info-after-salesloft-drift-compromise/)
-* [Amazon disrupts Russian APT29 hackers targeting Microsoft 365](https://www.bleepingcomputer.com/news/security/amazon-disrupts-russian-apt29-hackers-targeting-microsoft-365/)
-* [Brokewell Android malware delivered through fake TradingView ads](https://www.bleepingcomputer.com/news/security/brokewell-android-malware-delivered-through-fake-tradingview-ads/)
 <!--END_SECTION:feed-->
 
 <!--
