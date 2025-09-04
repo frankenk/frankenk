@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tire giant Bridgestone confirms cyberattack impacts manufacturing](https://www.bleepingcomputer.com/news/security/tire-giant-bridgestone-confirms-cyberattack-impacts-manufacturing/)
 * [Microsoft says recent Windows updates cause app install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/)
+* [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
+* [US offers * [Microsoft says recent Windows updates cause app install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/)
 * [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
 * [US offers * [Microsoft says recent Windows updates cause app install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-windows-updates-cause-app-install-issues-due-to-unexpected-admin-UAC-prompts/)
 * [Threat actors abuse X’s Grok AI to spread malicious links](https://www.bleepingcomputer.com/news/security/threat-actors-abuse-xs-grok-ai-to-spread-malicious-links/)
@@ -77,7 +80,8 @@
 * [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
 * [US sues robot toy maker for exposing children's data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)0 million bounty for info on Russian FSB hackers](https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/)
 * [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
-* [US sues robot toy maker for exposing children's data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)
+* [US sues robot toy maker for exposing children's data to Chinese devs](https://www.bleepingcomputer.com/news/security/us-sues-robot-toy-maker-for-exposing-childrens-data-to-chinese-devs/)0 million bounty for info on Russian FSB hackers](https://www.bleepingcomputer.com/news/security/us-offers-10-million-bounty-for-info-on-russian-fsb-hackers/)
+* [Hackers use new HexStrike-AI tool to rapidly exploit n-day flaws](https://www.bleepingcomputer.com/news/security/hackers-use-new-hexstrike-ai-tool-to-rapidly-exploit-n-day-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
