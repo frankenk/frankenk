@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [iCloud Calendar abused to send phishing emails from Apple’s servers](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/)
+* [Czech cyber agency warns against Chinese tech in critical infrastructure](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/)
 * [VirusTotal finds hidden malware phishing campaign in SVG files](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/)
 * [AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/)
 * [Microsoft now enforces MFA on Azure Portal sign-ins for all tenants](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/)
-* [EU fines Google $3.5 billion for anti-competitive ad practices](https://www.bleepingcomputer.com/news/google/eu-fines-google-35-billion-for-anti-competitive-ad-practices/)
-* [Financial services firm Wealthsimple discloses data breach](https://www.bleepingcomputer.com/news/security/financial-services-firm-wealthsimple-discloses-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
