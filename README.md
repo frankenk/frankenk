@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/)
+* [Signal adds secure cloud backups to save and restore chats](https://www.bleepingcomputer.com/news/security/signal-adds-secure-cloud-backups-to-save-and-restore-chats/)
 * [Lovesac confirms data breach after ransomware attack claims](https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/)
 * [Sports streaming piracy service with 123M yearly visits shut down](https://www.bleepingcomputer.com/news/security/massive-calcio-sports-streaming-piracy-service-with-123m-yearly-visits-shut-down/)
 * [Hackers hijack npm packages with 2 billion weekly downloads in supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-hijack-npm-packages-with-2-billion-weekly-downloads-in-supply-chain-attack/)
-* [Salesloft: March GitHub repo breach led to Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/salesloft-march-github-repo-breach-led-to-salesforce-data-theft-attacks/)
-* [Action1 vs. Microsoft WSUS: A Better Approach to Modern Patch Management](https://www.bleepingcomputer.com/news/security/action1-vs-microsoft-wsus-a-better-approach-to-modern-patch-management/)
 <!--END_SECTION:feed-->
 
 <!--
