@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google to make it easier to access AI Mode as default](https://www.bleepingcomputer.com/news/google/google-to-make-it-easier-to-access-ai-mode-as-default/)
+* [ChatGPT makes Projects feature free, adds a toggle to split chat](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-makes-projects-feature-free-adds-a-toggle-to-split-chat/)
 * [iCloud Calendar abused to send phishing emails from Apple’s servers](https://www.bleepingcomputer.com/news/security/icloud-calendar-abused-to-send-phishing-emails-from-apples-servers/)
 * [Czech cyber agency warns against Chinese tech in critical infrastructure](https://www.bleepingcomputer.com/news/security/czech-cyber-agency-warns-against-chinese-tech-in-critical-infrastructure/)
 * [VirusTotal finds hidden malware phishing campaign in SVG files](https://www.bleepingcomputer.com/news/security/virustotal-finds-hidden-malware-phishing-campaign-in-svg-files/)
-* [AI-powered malware hit 2,180 GitHub accounts in “s1ngularity” attack](https://www.bleepingcomputer.com/news/security/ai-powered-malware-hit-2-180-github-accounts-in-s1ngularity-attack/)
-* [Microsoft now enforces MFA on Azure Portal sign-ins for all tenants](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-enforces-mfa-on-azure-portal-sign-ins-for-all-tenants/)
 <!--END_SECTION:feed-->
 
 <!--
