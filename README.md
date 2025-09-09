@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft testing new AI features in Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/)
 * [Plex tells users to reset passwords after new data breach](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
 * [Surge in networks scans targeting Cisco ASA devices raise concerns](https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/)
 * [Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/)
 * [Signal adds secure cloud backups to save and restore chats](https://www.bleepingcomputer.com/news/security/signal-adds-secure-cloud-backups-to-save-and-restore-chats/)
-* [Lovesac confirms data breach after ransomware attack claims](https://www.bleepingcomputer.com/news/security/lovesac-confirms-data-breach-after-ransomware-attack-claims/)
 <!--END_SECTION:feed-->
 
 <!--
