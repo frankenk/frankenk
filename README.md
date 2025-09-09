@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Windows 10 KB5065429 update includes 14 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-10-kb5065429-update-includes-14-changes-and-fixes/)
+* [Microsoft September 2025 Patch Tuesday fixes 81 flaws, two zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-patch-tuesday-fixes-81-flaws-two-zero-days/)
+* [Windows 11 KB5065426 & KB5065431 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065426-and-kb5065431-cumulative-updates-released/)
+* [Kosovo hacker pleads guilty to running BlackDB cybercrime marketplace](https://www.bleepingcomputer.com/news/security/kosovo-hacker-pleads-guilty-to-running-blackdb-cybercrime-marketplace/)
 * [US charges admin of LockerGoga, MegaCortex, Nefilim ransomware](https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/)
-* [Adobe patches critical SessionReaper flaw in Magento eCommerce platform](https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/)
-* [How External Attack Surface Management helps enterprises manage cyber risk](https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/)
-* [Microsoft: Anti-spam bug blocks links in Exchange Online, Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/)
-* [SAP fixes maximum severity NetWeaver command execution flaw](https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
