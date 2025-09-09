@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Anti-spam bug blocks links in Exchange Online, Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/)
 * [SAP fixes maximum severity NetWeaver command execution flaw](https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/)
 * [Microsoft testing new AI features in Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/)
 * [Plex tells users to reset passwords after new data breach](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
 * [Surge in networks scans targeting Cisco ASA devices raise concerns](https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/)
-* [Hackers steal 3,325 secrets in GhostAction GitHub supply chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-3-325-secrets-in-ghostaction-github-supply-chain-attack/)
 <!--END_SECTION:feed-->
 
 <!--
