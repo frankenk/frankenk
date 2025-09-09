@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US charges admin of LockerGoga, MegaCortex, Nefilim ransomware](https://www.bleepingcomputer.com/news/security/us-charges-admin-of-lockergoga-megacortex-nefilim-ransomware/)
+* [Adobe patches critical SessionReaper flaw in Magento eCommerce platform](https://www.bleepingcomputer.com/news/security/adobe-patches-critical-sessionreaper-flaw-in-magento-ecommerce-platform/)
+* [How External Attack Surface Management helps enterprises manage cyber risk](https://www.bleepingcomputer.com/news/security/how-external-attack-surface-management-helps-enterprises-manage-cyber-risk/)
 * [Microsoft: Anti-spam bug blocks links in Exchange Online, Teams](https://www.bleepingcomputer.com/news/microsoft/microsoft-anti-spam-bug-blocks-links-in-exchange-online-teams/)
 * [SAP fixes maximum severity NetWeaver command execution flaw](https://www.bleepingcomputer.com/news/security/sap-fixes-maximum-severity-netweaver-command-execution-flaw/)
-* [Microsoft testing new AI features in Windows 11 File Explorer](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-ai-features-in-windows-11-file-explorer/)
-* [Plex tells users to reset passwords after new data breach](https://www.bleepingcomputer.com/news/security/plex-tells-users-to-reset-passwords-after-new-data-breach/)
-* [Surge in networks scans targeting Cisco ASA devices raise concerns](https://www.bleepingcomputer.com/news/security/surge-in-networks-scans-targeting-cisco-asa-devices-raise-concerns/)
 <!--END_SECTION:feed-->
 
 <!--
