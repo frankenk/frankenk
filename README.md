@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers left empty-handed after massive NPM supply-chain attack](https://www.bleepingcomputer.com/news/security/hackers-left-empty-handed-after-massive-npm-supply-chain-attack/)
+* [Pixel 10 fights AI fakes with new Android photo verification tech](https://www.bleepingcomputer.com/news/security/pixel-10-fights-ai-fakes-with-new-android-photo-verification-tech/)
+* [Cursor AI editor lets repos “autorun” malicious code on devices](https://www.bleepingcomputer.com/news/security/cursor-ai-editor-lets-repos-autorun-malicious-code-on-devices/)
 * [Jaguar Land Rover confirms data theft after recent cyberattack](https://www.bleepingcomputer.com/news/security/jaguar-land-rover-jlr-confirms-data-theft-after-recent-cyberattack/)
 * [Can I have a new password, please? The $400M question.](https://www.bleepingcomputer.com/news/security/can-i-have-a-new-password-please-the-400m-question/)
-* [Microsoft fixes streaming issues triggered by Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-streaming-issues-triggered-by-windows-updates/)
-* [Microsoft fixes app install issues caused by August Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-app-install-issues-caused-by-august-windows-updates/)
-* [U.S. sanctions cyber scammers who stole billions from Americans](https://www.bleepingcomputer.com/news/security/us-sanctions-cyber-scammers-who-stole-billions-from-americans/)
 <!--END_SECTION:feed-->
 
 <!--
