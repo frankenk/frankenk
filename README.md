@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Apple warns customers targeted in recent spyware attacks](https://www.bleepingcomputer.com/news/security/apple-warns-customers-targeted-in-recent-spyware-attacks/)
+* [Panama Ministry of Economy discloses breach claimed by INC ransomware](https://www.bleepingcomputer.com/news/security/panama-ministry-of-economy-discloses-breach-claimed-by-inc-ransomware/)
 * [Microsoft adds malicious link warnings to Teams private chats](https://www.bleepingcomputer.com/news/security/microsoft-adds-malicious-link-warnings-to-teams-private-chats/)
 * [Akira ransomware exploiting critical SonicWall SSLVPN bug again](https://www.bleepingcomputer.com/news/security/akira-ransomware-exploiting-critical-sonicwall-sslvpn-bug-again/)
 * [New VMScape attack breaks guest-host isolation on AMD, Intel CPUs](https://www.bleepingcomputer.com/news/security/new-vmscape-attack-breaks-guest-host-isolation-on-amd-intel-cpus/)
-* [The Buyer’s Guide to Browser Extension Management](https://www.bleepingcomputer.com/news/security/the-buyers-guide-to-browser-extension-management/)
-* [DDoS defender targeted in 1.5 Bpps denial-of-service attack](https://www.bleepingcomputer.com/news/security/ddos-defender-targeted-in-15-bpps-denial-of-service-attack/)
 <!--END_SECTION:feed-->
 
 <!--
