@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FinWise insider breach impacts 689K American First Finance customers](https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/)
 * [New Phoenix attack bypasses Rowhammer defenses in DDR5 memory](https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/)
 * [Microsoft: Exchange 2016 and 2019 reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/)
 * [Microsoft to force install the Microsoft 365 Copilot app in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-the-microsoft-365-copilot-app-in-october/)
 * [Stop waiting on NVD — get real-time vulnerability alerts now](https://www.bleepingcomputer.com/news/security/stop-waiting-on-nvd-get-real-time-vulnerability-alerts-now/)
-* [Microsoft fixes Windows 11 audio issues confirmed in December](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-11-audio-issues-confirmed-in-december/)
 <!--END_SECTION:feed-->
 
 <!--
