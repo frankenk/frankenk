@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Google confirms hackers gained access to law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-hackers-gained-access-to-law-enforcement-portal/)
+* [Google confirms fraudulent account created in law enforcement portal](https://www.bleepingcomputer.com/news/security/google-confirms-fraudulent-account-created-in-law-enforcement-portal/)
 * [FinWise insider breach impacts 689K American First Finance customers](https://www.bleepingcomputer.com/news/security/finwise-insider-breach-impacts-689k-american-first-finance-customers/)
 * [New Phoenix attack bypasses Rowhammer defenses in DDR5 memory](https://www.bleepingcomputer.com/news/security/new-phoenix-attack-bypasses-rowhammer-defenses-in-ddr5-memory/)
 * [Microsoft: Exchange 2016 and 2019 reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-reach-end-of-support-in-30-days/)
