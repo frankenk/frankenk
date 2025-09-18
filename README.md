@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [UK arrests 'Scattered Spider' teens linked to Transport for London hack](https://www.bleepingcomputer.com/news/security/uk-arrests-scattered-spider-teens-linked-to-transport-for-london-hack/)
+* [SystemBC malware turns infected VPS systems into proxy highway](https://www.bleepingcomputer.com/news/security/systembc-malware-turns-infected-vps-systems-into-proxy-highway/)
+* [Target-rich environment: Why Microsoft 365 has become the biggest risk](https://www.bleepingcomputer.com/news/security/target-rich-environment-why-microsoft-365-has-become-the-biggest-risk/)
 * [Notepad gets free AI features on Copilot+ PCs with Windows 11](https://www.bleepingcomputer.com/news/microsoft/notepad-gets-free-ai-features-on-copilot-plus-pcs-with-windows-11/)
 * [PyPI invalidates tokens stolen in GhostAction supply chain attack](https://www.bleepingcomputer.com/news/security/pypi-invalidates-tokens-stolen-in-ghostaction-supply-chain-attack/)
-* [WatchGuard warns of critical vulnerability in Firebox firewalls](https://www.bleepingcomputer.com/news/security/watchguard-warns-of-critical-vulnerability-in-firebox-firewalls/)
-* [Google patches sixth Chrome zero-day exploited in attacks this year](https://www.bleepingcomputer.com/news/security/google-patches-sixth-chrome-zero-day-exploited-in-attacks-this-year/)
-* [ShinyHunters claims 1.5 billion Salesforce records stolen in Drift hacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-15-billion-salesforce-records-stolen-in-drift-hacks/)
 <!--END_SECTION:feed-->
 
 <!--
