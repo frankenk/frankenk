@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FBI warns of cybercriminals using fake FBI crime reporting portals](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fbi-crime-complaint-portals-used-for-cybercrime/)
 * [CISA exposes malware kits deployed in Ivanti EPMM attacks](https://www.bleepingcomputer.com/news/security/cisa-exposes-malware-kits-deployed-in-ivanti-epmm-attacks/)
 * [Fortra warns of max severity flaw in GoAnywhere MFT’s License Servlet](https://www.bleepingcomputer.com/news/security/fortra-warns-of-max-severity-flaw-in-goanywhere-mfts-license-servlet/)
 * [Known. Emerging. Unstoppable? Ransomware Attacks Still Evade Defenses](https://www.bleepingcomputer.com/news/security/known-emerging-unstoppable-ransomware-attacks-still-evade-defenses/)
 * [Steam will stop running on Windows 32-bit in January 2026](https://www.bleepingcomputer.com/news/software/steam-will-stop-running-on-windows-32-bit-in-january-2026/)
-* [OpenAI's $4 GPT Go plan may expand to more regions](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-4-gpt-go-plan-may-expand-to-more-regions/)
 <!--END_SECTION:feed-->
 
 <!--
