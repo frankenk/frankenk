@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Mozilla now lets Firefox add-on devs roll back bad updates](https://www.bleepingcomputer.com/news/software/mozilla-now-lets-firefox-add-on-devs-roll-back-bad-updates/)
+* [LastPass: Fake password managers infect Mac users with malware](https://www.bleepingcomputer.com/news/security/lastpass-fake-password-managers-infect-mac-users-with-malware/)
+* [Why attackers are moving beyond email-based phishing attacks](https://www.bleepingcomputer.com/news/security/why-attackers-are-moving-beyond-email-based-phishing-attacks/)
 * [Microsoft says recent updates cause DRM video playback issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-recent-updates-cause-drm-video-playback-issues/)
 * [Verified Steam game steals streamer's cancer treatment donations](https://www.bleepingcomputer.com/news/security/verified-steam-game-steals-streamers-cancer-treatment-donations/)
-* [Microsoft Entra ID flaw allowed hijacking any company's tenant](https://www.bleepingcomputer.com/news/security/microsoft-entra-id-flaw-allowed-hijacking-any-companys-tenant/)
-* [Canada dismantles TradeOgre exchange, seizes $40 million in crypto](https://www.bleepingcomputer.com/news/security/canada-dismantles-tradeogre-exchange-seizes-40-million-in-crypto/)
-* [Microsoft starts rolling out Gaming Copilot on Windows 11 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-rolling-out-gaming-copilot-on-windows-11-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
