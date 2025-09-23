@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA says hackers breached federal agency using GeoServer exploit](https://www.bleepingcomputer.com/news/security/cisa-says-hackers-breached-federal-agency-using-geoserver-exploit/)
+* [Police dismantles crypto fraud ring linked to €100 million in losses](https://www.bleepingcomputer.com/news/security/police-dismantles-crypto-fraud-ring-linked-to-100-million-in-losses/)
+* [5 ways to streamline Identity Governance with this free tool](https://www.bleepingcomputer.com/news/security/5-ways-to-streamline-identity-governance-with-this-free-tool/)
 * [SolarWinds releases third patch to fix Web Help Desk RCE bug](https://www.bleepingcomputer.com/news/security/solarwinds-releases-third-patch-to-fix-web-help-desk-rce-bug/)
 * [SonicWall releases SMA100 firmware update to wipe rootkit malware](https://www.bleepingcomputer.com/news/security/sonicwall-releases-sma100-firmware-update-to-wipe-rootkit-malware/)
-* [GitHub tightens npm security with mandatory 2FA, access tokens](https://www.bleepingcomputer.com/news/security/github-tightens-npm-security-with-mandatory-2fa-access-tokens/)
-* [NPM package caught using QR Code to fetch cookie-stealing malware](https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/)
-* [Airport disruptions in Europe caused by a ransomware attack](https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
