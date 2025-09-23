@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [NPM package caught using QR Code to fetch cookie-stealing malware](https://www.bleepingcomputer.com/news/security/npm-package-caught-using-qr-code-to-fetch-cookie-stealing-malware/)
 * [Airport disruptions in Europe caused by a ransomware attack](https://www.bleepingcomputer.com/news/security/airport-disruptions-in-europe-caused-by-a-ransomware-attack/)
 * [American Archive of Public Broadcasting fixes bug exposing restricted media](https://www.bleepingcomputer.com/news/security/american-archive-of-public-broadcasting-fixes-bug-exposing-restricted-media/)
 * [Automaker giant Stellantis confirms data breach after Salesforce hack](https://www.bleepingcomputer.com/news/security/automaker-giant-stellantis-confirms-data-breach-after-salesforce-hack/)
 * [New EDR-Freeze tool uses Windows WER to suspend security software](https://www.bleepingcomputer.com/news/security/new-edr-freeze-tool-uses-windows-wer-to-suspend-security-software/)
-* [Microsoft lifts Windows 11 update block after face detection fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-windows-11-safeguard-hold-after-fixing-face-detection-bug/)
 <!--END_SECTION:feed-->
 
 <!--
