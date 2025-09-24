@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Unpatched flaw in OnePlus phones lets rogue apps text messages](https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/)
+* [Police seizes $439 million stolen by cybercrime rings worldwide](https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/)
 * [Obscura, an obscure new ransomware variant](https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/)
 * [Google: Brickstone malware used to steal U.S. orgs' data for over a year](https://www.bleepingcomputer.com/news/security/google-brickstone-malware-used-to-steal-us-orgs-data-for-over-a-year/)
 * [UK arrests suspect for RTX ransomware attack causing airport disruptions](https://www.bleepingcomputer.com/news/security/uk-arrests-suspect-for-rtx-ransomware-attack-causing-airport-disruptions/)
-* [PyPI urges users to reset credentials after new phishing attacks](https://www.bleepingcomputer.com/news/security/pypi-urges-users-to-reset-credentials-after-new-phishing-attacks/)
-* [GitHub notifications abused to impersonate Y Combinator for crypto theft](https://www.bleepingcomputer.com/news/security/github-notifications-abused-to-impersonate-y-combinator-for-crypto-theft/)
 <!--END_SECTION:feed-->
 
 <!--
