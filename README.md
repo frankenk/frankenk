@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI is testing a new GPT-5-based AI agent "GPT-Alpha"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-a-new-gpt-5-based-ai-agent-gpt-alpha/)
 * [Kali Linux 2025.3 released with 10 new tools, wifi enhancements](https://www.bleepingcomputer.com/news/security/kali-linux-20253-released-with-10-new-tools-wifi-enhancements/)
 * [Cisco warns of IOS zero-day vulnerability exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-ios-zero-day-vulnerability-exploited-in-attacks/)
 * [Unpatched flaw in OnePlus phones lets rogue apps text messages](https://www.bleepingcomputer.com/news/security/unpatched-flaw-in-oneplus-phones-lets-rogue-apps-text-messages/)
 * [Police seizes $439 million stolen by cybercrime rings worldwide](https://www.bleepingcomputer.com/news/security/police-seizes-439-million-stolen-by-cybercrime-rings-worldwide/)
-* [Obscura, an obscure new ransomware variant](https://www.bleepingcomputer.com/news/security/obscura-an-obscure-new-ransomware-variant/)
 <!--END_SECTION:feed-->
 
 <!--
