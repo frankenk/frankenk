@@ -2,6 +2,7 @@
 
 <!--START_SECTION:feed-->
 * [Unofficial Postmark MCP npm silently stole users' emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
+* [Co-op says it lost * [Unofficial Postmark MCP npm silently stole users' emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
 * [Co-op says it lost * [Co-op says it lost * [Co-op says it lost * [Co-op says it lost * [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
 * [Amazon pays $2.5 billion to settle Prime memberships lawsuit](https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/)
 * [Malicious Rust packages on Crates.io steal crypto wallet keys](https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/)
@@ -19,6 +20,9 @@
 * [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
 * [Amazon pays $2.5 billion to settle Prime memberships lawsuit](https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/)
 * [Malicious Rust packages on Crates.io steal crypto wallet keys](https://www.bleepingcomputer.com/news/security/malicious-rust-packages-on-cratesio-steal-crypto-wallet-keys/)07 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
+* [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
+* [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
+* [Amazon pays $2.5 billion to settle Prime memberships lawsuit](https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/)07 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
 * [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
 * [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
 * [Amazon pays $2.5 billion to settle Prime memberships lawsuit](https://www.bleepingcomputer.com/news/technology/amazon-pays-25-billion-to-settle-prime-memberships-lawsuit/)
