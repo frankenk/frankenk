@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft’s new AI feature will organize your photos automatically](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/)
 * [US investors to take over TikTok operations in the country](https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/)
 * [Microsoft shares temp fix for Outlook encrypted email errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/)
 * [Microsoft Edge to block malicious sideloaded extensions](https://www.bleepingcomputer.com/news/security/microsoft-edge-to-block-malicious-sideloaded-extensions/)
 * [The hidden cyber risks of deploying generative AI](https://www.bleepingcomputer.com/news/security/the-hidden-cyber-risks-of-deploying-generative-ai/)
-* [Maximum severity GoAnywhere MFT flaw exploited as zero day](https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/)
 <!--END_SECTION:feed-->
 
 <!--
