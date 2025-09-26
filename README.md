@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Maximum severity GoAnywhere MFT flaw exploited as zero day](https://www.bleepingcomputer.com/news/security/maximum-severity-goanywhere-mft-flaw-exploited-as-zero-day/)
+* [Microsoft releases the final Windows 10 22H2 preview update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-the-final-windows-10-22h2-preview-update/)
 * [Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/)
+* [Unofficial Postmark MCP npm silently stole users' emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
+* [Co-op says it lost * [Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/)
 * [Unofficial Postmark MCP npm silently stole users' emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
 * [Co-op says it lost * [Microsoft warns of new XCSSET macOS malware variant targeting Xcode devs](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-xcsset-macos-malware-variant-targeting-xcode-devs/)
 * [Unofficial Postmark MCP npm silently stole users' emails](https://www.bleepingcomputer.com/news/security/unofficial-postmark-mcp-npm-silently-stole-users-emails/)
@@ -81,7 +85,7 @@
 * [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
 * [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)07 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
 * [CISA orders agencies to patch Cisco flaws exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-agencies-to-patch-cisco-flaws-exploited-in-zero-day-attacks/)
-* [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)
+* [Cisco warns of ASA firewall zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-firewall-zero-days-exploited-in-attacks/)07 million after Scattered Spider attack](https://www.bleepingcomputer.com/news/security/co-op-says-it-lost-107-million-after-scattered-spider-attack/)
 <!--END_SECTION:feed-->
 
 <!--
