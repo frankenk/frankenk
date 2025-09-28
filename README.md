@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [EU probes SAP over anti-competitive ERP support practices](https://www.bleepingcomputer.com/news/legal/eu-probes-sap-over-anti-competitive-erp-support-practices/)
 * [Fake Microsoft Teams installers push Oyster malware via malvertising](https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-installers-push-oyster-malware-via-malvertising/)
 * [Dutch teens arrested for trying to spy on Europol for Russia](https://www.bleepingcomputer.com/news/security/dutch-teens-arrested-for-trying-to-spy-on-europol-for-russia/)
 * [Microsoft’s new AI feature will organize your photos automatically](https://www.bleepingcomputer.com/news/microsoft/microsofts-new-ai-feature-will-organize-your-photos-automatically/)
 * [US investors to take over TikTok operations in the country](https://www.bleepingcomputer.com/news/government/us-investors-to-take-over-tiktok-operations-in-the-country/)
-* [Microsoft shares temp fix for Outlook encrypted email errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temp-fix-for-outlook-encrypted-email-errors/)
 <!--END_SECTION:feed-->
 
 <!--
