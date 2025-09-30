@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [VMware Certification Is Surging in a Shifting IT Landscape](https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/)
+* [Microsoft fixes Windows DRM video playback issues for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/)
+* [CISA warns of critical Linux Sudo flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/)
 * [Windows 11 KB5065789 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/)
 * [Broadcom fixes high-severity VMware NSX bugs reported by NSA](https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/)
-* [UK convicts "Bitcoin Queen" in world’s largest cryptocurrency seizure](https://www.bleepingcomputer.com/news/security/uk-convicts-bitcoin-queen-in-worlds-largest-cryptocurrency-seizure/)
-* [Japan's largest brewer suspends operations due to cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-brewer-suspends-operations-due-to-cyberattack/)
-* [Ransomware gang sought BBC reporter’s help in hacking media giant](https://www.bleepingcomputer.com/news/security/ransomware-gang-sought-bbc-reporters-help-in-hacking-media-giant/)
 <!--END_SECTION:feed-->
 
 <!--
