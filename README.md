@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Chinese hackers exploiting VMware zero-day since October 2024](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploiting-vmware-zero-day-since-october-2024/)
 * [VMware Certification Is Surging in a Shifting IT Landscape](https://www.bleepingcomputer.com/news/security/vmware-certification-is-surging-in-a-shifting-it-landscape/)
 * [Microsoft fixes Windows DRM video playback issues for some users](https://www.bleepingcomputer.com/news/microsoft/microsoft-drm-video-playback-issues-now-partially-resolved/)
 * [CISA warns of critical Linux Sudo flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-linux-sudo-flaw-exploited-in-attacks/)
 * [Windows 11 KB5065789 update released with 41 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5065789-update-released-with-41-changes-and-fixes/)
-* [Broadcom fixes high-severity VMware NSX bugs reported by NSA](https://www.bleepingcomputer.com/news/security/broadcom-fixes-high-severity-vmware-nsx-bugs-reported-by-nsa/)
 <!--END_SECTION:feed-->
 
 <!--
