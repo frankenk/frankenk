@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Data breach at dealership software provider impacts 766k clients](https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/)
 * [Adobe Analytics bug leaked customer tracking data to other tenants](https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/)
 * [New bug in classic Outlook can only be fixed via Microsoft support](https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/)
 * [Android malware uses VNC to give attackers hands-on access](https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/)
 * [F-Droid project threatened by Google's new dev registration rules](https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/)
-* [Microsoft to force install Microsoft 365 companion apps in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/)
 <!--END_SECTION:feed-->
 
 <!--
