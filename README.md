@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New bug in classic Outlook can only be fixed via Microsoft support](https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/)
+* [Android malware uses VNC to give attackers hands-on access](https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/)
 * [F-Droid project threatened by Google's new dev registration rules](https://www.bleepingcomputer.com/news/security/f-droid-project-threatened-by-googles-new-dev-registration-rules/)
 * [Microsoft to force install Microsoft 365 companion apps in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-force-install-microsoft-365-companion-apps-in-october/)
 * [WestJet data breach exposes travel details of 1.2 million customers](https://www.bleepingcomputer.com/news/security/westjet-data-breach-exposes-travel-details-of-12-million-customers/)
-* [Google Drive for desktop gets AI-powered ransomware detection](https://www.bleepingcomputer.com/news/security/google-drive-for-desktop-gets-ai-powered-ransomware-detection/)
-* [Allianz Life says July data breach impacts 1.5 million people](https://www.bleepingcomputer.com/news/security/allianz-life-says-july-data-breach-impacts-15-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
