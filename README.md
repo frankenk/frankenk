@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HackerOne paid $81 million in bug bounties over the past year](https://www.bleepingcomputer.com/news/security/hackerone-paid-81-million-in-bug-bounties-over-the-past-year/)
 * [Brave browser surpasses the 100 million active monthly users mark](https://www.bleepingcomputer.com/news/software/brave-browser-surpasses-the-100-million-active-monthly-users-mark/)
 * [Microsoft Defender bug triggers erroneous BIOS update alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-bug-triggers-erroneous-bios-update-alerts/)
 * [Your Service Desk is the New Attack Vector—Here's How to Defend It.](https://www.bleepingcomputer.com/news/security/your-service-desk-is-the-new-attack-vector-heres-how-to-defend-it/)
 * [Android spyware campaigns impersonate Signal and ToTok messengers](https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/)
-* [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 <!--END_SECTION:feed-->
 
 <!--
