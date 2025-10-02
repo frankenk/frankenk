@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Android spyware campaigns impersonate Signal and ToTok messengers](https://www.bleepingcomputer.com/news/security/android-spyware-campaigns-impersonate-signal-and-totok-messengers/)
+* [Red Hat confirms security incident after hackers claim GitHub breach](https://www.bleepingcomputer.com/news/security/red-hat-confirms-security-incident-after-hackers-claim-github-breach/)
 * [Clop extortion emails claim theft of Oracle E-Business Suite data](https://www.bleepingcomputer.com/news/security/clop-extortion-emails-claim-theft-of-oracle-e-business-suite-data/)
 * [Data breach at dealership software provider impacts 766k clients](https://www.bleepingcomputer.com/news/security/data-breach-at-dealership-software-provider-impacts-766k-clients/)
 * [Adobe Analytics bug leaked customer tracking data to other tenants](https://www.bleepingcomputer.com/news/security/adobe-analytics-bug-leaked-customer-tracking-data-to-other-tenants/)
-* [New bug in classic Outlook can only be fixed via Microsoft support](https://www.bleepingcomputer.com/news/microsoft/new-bug-in-classic-outlook-can-only-be-fixed-via-microsoft-support/)
-* [Android malware uses VNC to give attackers hands-on access](https://www.bleepingcomputer.com/news/security/android-malware-uses-vnc-to-give-attackers-hands-on-access/)
 <!--END_SECTION:feed-->
 
 <!--
