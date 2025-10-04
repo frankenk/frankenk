@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Leaked Apple iPad Pro M5 benchmark shows it's faster than some laptop CPUs](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-its-faster-than-some-laptop-cpus/)
+* [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
 * [ChatGPT social could be a thing, as leak shows direct messages support](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/)
 * [OpenAI rolls out GPT Codex Alpha with early access to new models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-gpt-codex-alpha-with-early-access-to-new-models/)
 * [OpenAI wants ChatGPT to be your emotional support](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-wants-chatgpt-to-be-your-emotional-support/)
