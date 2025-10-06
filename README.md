@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Steam and Microsoft warn of Unity flaw exposing gamers to attacks](https://www.bleepingcomputer.com/news/security/steam-and-microsoft-warn-of-unity-flaw-exposing-gamers-to-attacks/)
 * [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
+* [Oracle patches EBS zero-day exploited in Clop data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/)
+* [Hackers exploited Zimbra flaw as zero-day using iCalendar files](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/)
+* [ParkMobile pays... * [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
 * [Oracle patches EBS zero-day exploited in Clop data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-patches-ebs-zero-day-exploited-in-clop-data-theft-attacks/)
 * [Hackers exploited Zimbra flaw as zero-day using iCalendar files](https://www.bleepingcomputer.com/news/security/hackers-exploited-zimbra-flaw-as-zero-day-using-icalendar-files/)
 * [ParkMobile pays... * [XWorm malware resurfaces with ransomware module, over 35 plugins](https://www.bleepingcomputer.com/news/security/xworm-malware-resurfaces-with-ransomware-module-over-35-plugins/)
@@ -101,7 +105,7 @@
 * [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
 * [ChatGPT social could be a thing, as leak shows direct messages support](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-social-could-be-a-thing-as-leak-shows-direct-messages-support/) each for 2021 data breach that hit 22 million](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/)
 * [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/) each for 2021 data breach that hit 22 million](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/)
-* [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/)
+* [Leaked Apple iPad Pro M5 benchmark shows massive improvements](https://www.bleepingcomputer.com/news/technology/leaked-apple-ipad-pro-m5-benchmark-shows-massive-improvements/) each for 2021 data breach that hit 22 million](https://www.bleepingcomputer.com/news/security/parkmobile-pays-1-each-for-2021-data-breach-that-hit-22-million/)
 <!--END_SECTION:feed-->
 
 <!--
