@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Critical GoAnywhere bug exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-critical-goanywhere-bug-exploited-in-ransomware-attacks/)
+* [Microsoft: Running multiple Office apps causes Copilot issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-running-multiple-office-apps-causes-copilot-issues/)
+* [Zeroday Cloud hacking contest offers $4.5 million in bounties](https://www.bleepingcomputer.com/news/security/zeroday-cloud-hacking-contest-offers-45-million-in-bounties/)
 * [ChatGPT Pulse is coming to the web, but no word on free or Plus roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-pulse-is-coming-to-the-web-but-no-word-on-free-or-plus-roll-out/)
 * [OpenAI is testing ChatGPT-powered Agent Builder](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-testing-chatgpt-powered-agent-builder/)
-* [Redis warns of critical flaw impacting thousands of instances](https://www.bleepingcomputer.com/news/security/redis-warns-of-max-severity-flaw-impacting-thousands-of-instances/)
-* [LinkedIn sues ProAPIs for using 1M fake accounts to scrape user data](https://www.bleepingcomputer.com/news/legal/linkedin-sues-proapis-for-using-1m-fake-accounts-to-scrape-user-data/)
-* [The role of Artificial Intelligence in today’s cybersecurity landscape](https://www.bleepingcomputer.com/news/security/the-role-of-artificial-intelligence-in-todays-cybersecurity-landscape/)
 <!--END_SECTION:feed-->
 
 <!--
