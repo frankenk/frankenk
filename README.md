@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Clop exploited Oracle zero-day for data theft since early August](https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/)
 * [North Korean hackers stole over $2 billion in crypto this year](https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/)
 * [Electronics giant Avnet confirms breach, says stolen data unreadable](https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/)
 * [Microsoft kills more Microsoft Account bypasses in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/)
 * [Redefining Security Validation with AI-Powered Breach and Attack Simulation](https://www.bleepingcomputer.com/news/security/redefining-security-validation-with-ai-powered-breach-and-attack-simulation/)
-* [Google's new AI bug bounty program pays up to $30,000 for flaws](https://www.bleepingcomputer.com/news/google/googles-new-ai-bug-bounty-program-pays-up-to-30-000-for-flaws/)
 <!--END_SECTION:feed-->
 
 <!--
