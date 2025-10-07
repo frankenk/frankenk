@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google won’t fix new ASCII smuggling attack in Gemini](https://www.bleepingcomputer.com/news/security/google-wont-fix-new-ascii-smuggling-attack-in-gemini/)
 * [DraftKings warns of account breaches in credential stuffing attacks](https://www.bleepingcomputer.com/news/security/draftkings-warns-of-account-breaches-in-credential-stuffing-attacks/)
 * [Clop exploited Oracle zero-day for data theft since early August](https://www.bleepingcomputer.com/news/security/oracle-zero-day-exploited-in-clop-data-theft-attacks-since-early-august/)
 * [North Korean hackers stole over $2 billion in crypto this year](https://www.bleepingcomputer.com/news/cryptocurrency/north-korean-hackers-stole-over-2-billion-in-crypto-this-year/)
 * [Electronics giant Avnet confirms breach, says stolen data unreadable](https://www.bleepingcomputer.com/news/security/electronics-giant-avnet-confirms-breach-says-stolen-data-unreadable/)
-* [Microsoft kills more Microsoft Account bypasses in Windows 11](https://www.bleepingcomputer.com/news/microsoft/microsoft-blocks-more-tricks-to-skip-microsoft-account-setup-in-windows-11/)
 <!--END_SECTION:feed-->
 
 <!--
