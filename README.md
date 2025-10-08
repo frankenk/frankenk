@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Qilin ransomware claims Asahi brewery attack, leaks data](https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/)
+* [Microsoft 365 outage blocks access to Teams, Exchange Online](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/)
 * [Microsoft enables Exchange Online auto-archiving by default](https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-exchange-online-auto-archiving-by-default-to-fight-overflowing-mailboxes/)
 * [Crimson Collective hackers target AWS cloud instances for data theft](https://www.bleepingcomputer.com/news/security/crimson-collective-hackers-target-aws-cloud-instances-for-data-theft/)
 * [Hackers exploit auth bypass in Service Finder WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-in-service-finder-wordpress-theme/)
-* [London police arrests suspects linked to nursery breach, child doxing](https://www.bleepingcomputer.com/news/security/london-police-arrests-suspects-linked-to-nursery-breach-child-doxing/)
-* [Defend the Target, Not Just the Door: A Modern Plan for Google Workspace](https://www.bleepingcomputer.com/news/security/defend-the-target-not-just-the-door-a-modern-plan-for-google-workspace/)
 <!--END_SECTION:feed-->
 
 <!--
