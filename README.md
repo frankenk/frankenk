@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Defender mistakenly flags SQL Server as end-of-life](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-mistakenly-flags-sql-server-as-end-of-life/)
+* [RondoDox botnet targets 56 n-day flaws in worldwide attacks](https://www.bleepingcomputer.com/news/security/rondodox-botnet-targets-56-n-day-flaws-in-worldwide-attacks/)
 * [Microsoft: Windows Backup now available for enterprise users](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-backup-now-available-for-enterprise-users/)
 * [SonicWall: Firewall configs stolen for all cloud backup customers](https://www.bleepingcomputer.com/news/security/sonicwall-firewall-configs-stolen-for-all-cloud-backup-customers/)
 * [From infostealer to full RAT: dissecting the PureRAT attack chain](https://www.bleepingcomputer.com/news/security/from-infostealer-to-full-rat-dissecting-the-purerat-attack-chain/)
-* [Azure outage blocks access to Microsoft 365 services, admin portals](https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/)
-* [Hacktivists target critical infrastructure, hit decoy plant](https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/)
 <!--END_SECTION:feed-->
 
 <!--
