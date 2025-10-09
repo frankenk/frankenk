@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Azure outage blocks access to Microsoft 365 services, admin portals](https://www.bleepingcomputer.com/news/microsoft/azure-outage-blocks-access-to-microsoft-365-services-admin-portals/)
 * [Hacktivists target critical infrastructure, hit decoy plant](https://www.bleepingcomputer.com/news/security/hacktivists-target-critical-infrastructure-hit-decoy-plant/)
 * [Hackers claim Discord breach exposed data of 5.5 million users](https://www.bleepingcomputer.com/news/security/hackers-claim-discord-breach-exposed-data-of-55-million-users/)
 * [New FileFix attack uses cache smuggling to evade security software](https://www.bleepingcomputer.com/news/security/new-filefix-attack-uses-cache-smuggling-to-evade-security-software/)
 * [Qilin ransomware claims Asahi brewery attack, leaks data](https://www.bleepingcomputer.com/news/security/qilin-ransomware-claims-asahi-brewery-attack-leaks-data/)
-* [Microsoft 365 outage blocks access to Teams, Exchange Online](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-blocks-access-to-teams-exchange-online/)
 <!--END_SECTION:feed-->
 
 <!--
