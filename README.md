@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fake 'Inflation Refund' texts target New Yorkers in new scam](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/)
+* [Spain dismantles “GXC Team” cybercrime syndicate, arrests leader](https://www.bleepingcomputer.com/news/security/spain-dismantles-gxc-team-cybercrime-syndicate-arrests-leader/)
 * [Windows 11 23H2 Home and Pro reach end of support in 30 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-23h2-home-and-pro-reach-end-of-support-in-30-days/)
 * [Hackers exploiting zero-day in Gladinet file sharing software](https://www.bleepingcomputer.com/news/security/hackers-exploiting-zero-day-in-gladinet-file-sharing-software/)
 * [Cybersecurity For Dummies, 3rd Edition eBook FREE for a Limited Time](https://www.bleepingcomputer.com/news/security/cybersecurity-for-dummies-3rd-edition-ebook-free-for-a-limited-time/)
-* [Google Chrome to revoke notification access for inactive sites](https://www.bleepingcomputer.com/news/google/google-chrome-to-revoke-notification-access-for-inactive-sites/)
-* [Apple now offers $2 million for zero-click RCE vulnerabilities](https://www.bleepingcomputer.com/news/security/apple-now-offers-2-million-for-zero-click-rce-vulnerabilities/)
 <!--END_SECTION:feed-->
 
 <!--
