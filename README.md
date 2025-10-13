@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SonicWall VPN accounts breached using stolen creds in widespread attacks](https://www.bleepingcomputer.com/news/security/sonicwall-vpn-accounts-breached-using-stolen-creds-in-widespread-attacks/)
+* [Microsoft investigates outage affecting Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-outage-affecting-microsoft-365-apps/)
 * [Oracle releases emergency patch for new E-Business Suite flaw](https://www.bleepingcomputer.com/news/security/oracle-releases-emergency-patch-for-new-e-business-suite-flaw/)
 * [Meet Varonis Interceptor: AI-Native Email Security](https://www.bleepingcomputer.com/news/security/meet-varonis-interceptor-ai-native-email-security/)
 * [Microsoft: Windows 11 Media Creation Tool broken on Windows 10 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-media-creation-tool-broken-on-windows-10-pcs/)
-* [Harvard investigating breach linked to Oracle zero-day exploit](https://www.bleepingcomputer.com/news/security/harvard-investigating-breach-linked-to-oracle-zero-day-exploit/)
-* [Fake 'Inflation Refund' texts target New Yorkers in new scam](https://www.bleepingcomputer.com/news/security/fake-inflation-refund-texts-target-new-yorkers-in-new-scam/)
 <!--END_SECTION:feed-->
 
 <!--
