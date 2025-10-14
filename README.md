@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Secure Boot bypass risk on nearly 200,000 Linux Framework sytems](https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/)
+* [When AI Agents Join the Teams: The Hidden Security Shifts No One Expects ](https://www.bleepingcomputer.com/news/security/when-ai-agents-join-the-teams-the-hidden-security-shifts-no-one-expects/)
+* [Secure Boot bypass risk threatens nearly 200,000 Linux Framework laptops](https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/)
 * [Chinese hackers abuse geo-mapping tool for year-long persistence](https://www.bleepingcomputer.com/news/security/chinese-hackers-abuse-geo-mapping-tool-for-year-long-persistence/)
 * [Microsoft restricts IE mode access in Edge after zero-day attacks](https://www.bleepingcomputer.com/news/security/microsoft-restricts-ie-mode-access-in-edge-after-zero-day-attacks/)
 * [SimonMed says 1.2 million patients impacted in January data breach](https://www.bleepingcomputer.com/news/security/simonmed-says-12-million-patients-impacted-in-january-data-breach/)
-* [Massive multi-country botnet targets RDP services in the US](https://www.bleepingcomputer.com/news/security/massive-multi-country-botnet-targets-rdp-services-in-the-us/)
 <!--END_SECTION:feed-->
 
 <!--
