@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [F5 releases BIG-IP patches for stolen security vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-releases-big-ip-patches-for-stolen-security-vulnerabilities/)
 * [Microsoft: Sept Windows Server updates cause Active Directory issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2025-windows-server-updates-cause-active-directory-issues/)
 * [Clothing giant MANGO discloses data breach exposing customer info](https://www.bleepingcomputer.com/news/security/clothing-giant-mango-discloses-data-breach-exposing-customer-info/)
 * [How to spot dark web threats on your network using NDR](https://www.bleepingcomputer.com/news/security/how-to-spot-dark-web-threats-on-your-network-using-ndr/)
 * [F5 says hackers stole undisclosed BIG-IP flaws, source code](https://www.bleepingcomputer.com/news/security/hackers-breach-f5-to-steal-undisclosed-big-ip-flaws-source-code/)
-* [Malicious crypto-stealing VSCode extensions resurface on OpenVSX](https://www.bleepingcomputer.com/news/security/malicious-crypto-stealing-vscode-extensions-resurface-on-openvsx/)
 <!--END_SECTION:feed-->
 
 <!--
