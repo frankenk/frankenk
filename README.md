@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA: Maximum-severity Adobe flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/)
+* [Unified Exposure Management Platforms: The Future of Preemptive Cyber Defense](https://www.bleepingcomputer.com/news/security/unified-exposure-management-platforms-the-future-of-preemptive-cyber-defense/)
+* [North Korean hackers use EtherHiding to hide malware on the blockchain](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-etherhiding-to-hide-malware-on-the-blockchain/)
 * [Microsoft adds Copilot voice activation on Windows 11 PCs](https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/)
 * [Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks](https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/)
-* [YouTube is down worldwide with playback error](https://www.bleepingcomputer.com/news/google/youtube-is-down-worldwide-with-playback-error/)
-* [Capita to pay £14 million for data breach impacting 6.6 million people](https://www.bleepingcomputer.com/news/security/capita-to-pay-14-million-for-data-breach-impacting-66-million-people/)
-* [PowerSchool hacker gets sentenced to four years in prison](https://www.bleepingcomputer.com/news/security/powerschool-hacker-gets-sentenced-to-four-years-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
