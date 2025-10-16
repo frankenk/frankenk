@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Office 2016 and Office 2019 have reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/)
+* [Gladinet fixes actively exploited zero-day in file-sharing software](https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/)
 * [CISA: Maximum-severity Adobe flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/)
 * [Unified Exposure Management Platforms: The Future of Preemptive Cyber Defense](https://www.bleepingcomputer.com/news/security/unified-exposure-management-platforms-the-future-of-preemptive-cyber-defense/)
 * [North Korean hackers use EtherHiding to hide malware on the blockchain](https://www.bleepingcomputer.com/news/security/north-korean-hackers-use-etherhiding-to-hide-malware-on-the-blockchain/)
-* [Microsoft adds Copilot voice activation on Windows 11 PCs](https://www.bleepingcomputer.com/news/security/microsoft-adds-hey-copilot-wake-word-to-windows-11-pcs/)
-* [Microsoft debuts Copilot Actions for agentic AI-driven Windows tasks](https://www.bleepingcomputer.com/news/microsoft/microsoft-debuts-copilot-actions-for-agentic-ai-driven-windows-tasks/)
 <!--END_SECTION:feed-->
 
 <!--
