@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Auction giant Sotheby’s says data breach exposed customer information](https://www.bleepingcomputer.com/news/security/auction-giant-sothebys-says-data-breach-exposed-customer-information/)
+* [Have I Been Pwned: Prosper data breach impacts 17.6 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-warns-of-prosper-data-breach-impacting-176-million-accounts/)
 * [Hackers exploit Cisco SNMP flaw to deploy rootkit on switches](https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-snmp-flaw-to-deploy-rootkit-on-switches/)
 * [Microsoft disrupts ransomware attacks targeting Teams users](https://www.bleepingcomputer.com/news/microsoft/microsoft-disrupts-ransomware-attacks-targeting-teams-users/)
 * [Microsoft: Office 2016 and Office 2019 have reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-office-2016-and-office-2019-have-reach-end-of-support/)
-* [Gladinet fixes actively exploited zero-day in file-sharing software](https://www.bleepingcomputer.com/news/security/gladinet-fixes-actively-exploited-zero-day-in-file-sharing-software/)
-* [CISA: Maximum-severity Adobe flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-maximum-severity-adobe-flaw-now-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
