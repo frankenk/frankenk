@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OpenAI confirms GPT-6 is not shipping in 2025](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/)
 * [Google ads for fake Homebrew, LogMeIn sites push infostealers](https://www.bleepingcomputer.com/news/security/google-ads-for-fake-homebrew-logmein-sites-push-infostealers/)
 * [ConnectWise fixes Automate bug allowing AiTM update attacks](https://www.bleepingcomputer.com/news/security/connectwise-fixes-automate-bug-allowing-aitm-update-attacks/)
 * [American Airlines subsidiary Envoy confirms Oracle data theft attack](https://www.bleepingcomputer.com/news/security/american-airlines-subsidiary-envoy-confirms-oracle-data-theft-attack/)
 * [Microsoft lifts more safeguard holds blocking Windows 11 updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-lifts-more-safeguard-holds-blocking-windows-11-updates/)
-* [Europol dismantles SIM box operation renting numbers for cybercrime](https://www.bleepingcomputer.com/news/security/europol-dismantles-sim-box-operation-renting-numbers-for-cybercrime/)
 <!--END_SECTION:feed-->
 
 <!--
