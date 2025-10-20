@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [AWS outage crashes Amazon, PrimeVideo, Fortnite, Perplexity and more](https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/)
+* [AWS outage crashes Amazon, Prime Video, Fortnite, Perplexity and more](https://www.bleepingcomputer.com/news/technology/aws-outage-crashes-amazon-primevideo-fortnite-perplexity-and-more/)
 * [TikTok videos continue to push infostealers in ClickFix attacks](https://www.bleepingcomputer.com/news/security/tiktok-videos-continue-to-push-infostealers-in-clickfix-attacks/)
 * [Experian fined $3.2 million for mass-collecting personal data](https://www.bleepingcomputer.com/news/legal/experian-fined-32-million-for-mass-collecting-personal-data/)
 * [OpenAI confirms GPT-6 is not shipping in 2025](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-6-is-not-shipping-in-2025/)
