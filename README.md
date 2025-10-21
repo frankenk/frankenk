@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit 34 zero-days on first day of Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-exploit-34-zero-days-on-first-day-of-pwn2own-ireland/)
+* [Microsoft: Recent Windows updates cause login issues on some PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-login-issues-on-pcs-sharing-security-ids/)
 * [Russian hackers evolve malware pushed in "I am not a robot" captchas](https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/)
 * [Maximizing gateway security: Beyond the basic configuration](https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/)
 * [Microsoft fixes bug preventing users from opening classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/)
-* [Windows 11 KB5070773 emergency update fixes Windows Recovery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/)
-* [DNS0.EU private DNS service shuts down over sustainability issues](https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/)
 <!--END_SECTION:feed-->
 
 <!--
