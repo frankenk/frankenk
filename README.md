@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian hackers evolve malware pushed in "I am not a robot" captchas](https://www.bleepingcomputer.com/news/security/russian-hackers-evolve-malware-pushed-in-i-am-not-a-robot-clickfix-attacks/)
 * [Maximizing gateway security: Beyond the basic configuration](https://www.bleepingcomputer.com/news/security/maximizing-gateway-security-beyond-the-basic-configuration/)
 * [Microsoft fixes bug preventing users from opening classic Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-preventing-users-from-opening-classic-outlook/)
 * [Windows 11 KB5070773 emergency update fixes Windows Recovery issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-issue-that-made-windows-recovery-unusable/)
 * [DNS0.EU private DNS service shuts down over sustainability issues](https://www.bleepingcomputer.com/news/security/dns0eu-private-dns-service-shuts-down-over-sustainability-issues/)
-* [Microsoft: October updates break USB input in Windows Recovery](https://www.bleepingcomputer.com/news/microsoft/microsoft-october-updates-break-usb-mice-and-keyboards-in-windows-recovery/)
 <!--END_SECTION:feed-->
 
 <!--
