@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Meta launches new anti-scam tools for WhatsApp and Messenger](https://www.bleepingcomputer.com/news/security/meta-launches-new-anti-scam-tools-for-whatsapp-and-messenger/)
+* [FinWise data breach shows why encryption is your last defense](https://www.bleepingcomputer.com/news/security/finwise-data-breach-shows-why-encryption-is-your-last-defense/)
 * [PhantomCaptcha ClickFix attack targets Ukraine war relief orgs](https://www.bleepingcomputer.com/news/security/phantomcaptcha-clickfix-attack-targets-ukraine-war-relief-orgs/)
 * [Sharepoint ToolShell attacks targeted orgs across four continents](https://www.bleepingcomputer.com/news/security/sharepoint-toolshell-attacks-targeted-orgs-across-four-continents/)
 * [Vidar Stealer 2.0 adds multi-threaded data theft, better evasion](https://www.bleepingcomputer.com/news/security/vidar-stealer-20-adds-multi-threaded-data-theft-better-evasion/)
-* [TP-Link warns of critical command injection flaw in Omada gateways](https://www.bleepingcomputer.com/news/security/tp-link-warns-of-critical-command-injection-flaw-in-omada-gateways/)
-* [CISA confirms hackers exploited Oracle E-Business Suite SSRF flaw](https://www.bleepingcomputer.com/news/security/cisa-confirms-hackers-exploited-oracle-e-business-suite-ssrf-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
