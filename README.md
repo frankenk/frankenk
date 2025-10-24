@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 * [Amazon: This week’s AWS outage caused by major DNS failure](https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/)
 * [Fake LastPass death claims used to breach password vaults](https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/)
 * [How to reduce costs with self-service password resets](https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/)
 * [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
-* [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
