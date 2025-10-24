@@ -3,6 +3,8 @@
 <!--START_SECTION:feed-->
 * [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
 * [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
+* [Hackers earn * [Mozilla: New Firefox extensions must disclose data collection practices](https://www.bleepingcomputer.com/news/software/mozilla-new-firefox-extensions-must-disclose-data-collection-practices/)
+* [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 * [Hackers earn * [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 * [Hackers earn * [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
 * [Hackers earn * [Windows Server emergency patches fix WSUS bug with PoC exploit](https://www.bleepingcomputer.com/news/security/microsoft-releases-windows-server-emergency-updates-for-critical-wsus-rce-flaw/)
@@ -32,6 +34,8 @@
 * [Toys “R” Us Canada warns customers' info leaked in data breach](https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/)
 * [HP pulls update that broke Microsoft Entra ID auth on some AI PCs](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/)
 * [Meet the new Clippy: Microsoft unveils Copilot's "Mico" avatar](https://www.bleepingcomputer.com/news/microsoft/meet-the-new-clippy-microsoft-unveils-copilots-mico-avatar/),024,750 for 73 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/)
+* [Toys “R” Us Canada warns customers' info leaked in data breach](https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/)
+* [HP pulls update that broke Microsoft Entra ID auth on some AI PCs](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/),024,750 for 73 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1-024-750-for-73-zero-days-at-pwn2own-ireland/)
 * [Toys “R” Us Canada warns customers' info leaked in data breach](https://www.bleepingcomputer.com/news/security/toys-r-us-canada-warns-customers-info-leaked-in-data-breach/)
 * [HP pulls update that broke Microsoft Entra ID auth on some AI PCs](https://www.bleepingcomputer.com/news/microsoft/hp-pulls-update-that-broke-microsoft-entra-id-auth-on-some-ai-pcs/)
 <!--END_SECTION:feed-->
