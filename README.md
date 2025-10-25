@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New CoPhish attack steals OAuth tokens via Copilot Studio agents](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/)
 * [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
 * [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 * [Amazon: This week’s AWS outage caused by major DNS failure](https://www.bleepingcomputer.com/news/technology/amazon-this-weeks-aws-outage-caused-by-major-dns-failure/)
 * [Fake LastPass death claims used to breach password vaults](https://www.bleepingcomputer.com/news/security/fake-lastpass-death-claims-used-to-breach-password-vaults/)
-* [How to reduce costs with self-service password resets](https://www.bleepingcomputer.com/news/security/how-to-reduce-costs-with-self-service-password-resets/)
 <!--END_SECTION:feed-->
 
 <!--
