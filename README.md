@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google says everyone will be able to vibe code video games ](https://www.bleepingcomputer.com/news/google/google-says-everyone-will-be-able-to-vibe-code-video-games/)
+* [Microsoft: New policy removes pre-installed Microsoft Store apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-remove-pre-installed-microsoft-store-apps-via-policy/)
+* [The State of Exposure Management in 2025: Insights From 3,000+ Organizations](https://www.bleepingcomputer.com/news/security/the-state-of-exposure-management-in-2025-insights-from-3-000-plus-organizations/)
 * [CISA orders feds to patch Windows Server WSUS flaw used in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-server-wsus-flaw-exploited-in-attacks/)
 * [Hackers steal Discord accounts with RedTiger-based infostealer](https://www.bleepingcomputer.com/news/security/hackers-steal-discord-accounts-with-redtiger-based-infostealer/)
-* [New CoPhish attack steals OAuth tokens via Copilot Studio agents](https://www.bleepingcomputer.com/news/security/new-cophish-attack-steals-oauth-tokens-via-copilot-studio-agents/)
-* [Hackers launch mass attacks exploiting outdated WordPress plugins](https://www.bleepingcomputer.com/news/security/hackers-launch-mass-attacks-exploiting-outdated-wordpress-plugins/)
-* [Critical WSUS flaw in Windows Server now exploited in attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-critical-windows-server-wsus-flaw-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
