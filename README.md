@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs](https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/)
+* [Google Chrome to warn users before opening insecure HTTP sites](https://www.bleepingcomputer.com/news/google/google-chrome-to-warn-users-before-opening-insecure-http-sites/)
 * [BiDi Swap: The bidirectional text trick that makes fake URLs look real](https://www.bleepingcomputer.com/news/security/bidi-swap-the-bidirectional-text-trick-that-makes-fake-urls-look-real/)
 * [New Atroposia malware comes with a local vulnerability scanner](https://www.bleepingcomputer.com/news/security/new-atroposia-malware-comes-with-a-local-vulnerability-scanner/)
 * [New Herodotus Android malware fakes human typing to avoid detection](https://www.bleepingcomputer.com/news/security/new-herodotus-android-malware-fakes-human-typing-to-avoid-detection/)
-* [Google disputes false claims of massive Gmail data breach](https://www.bleepingcomputer.com/news/security/google-disputes-false-claims-of-massive-gmail-data-breach/)
-* [X: Re-enroll 2FA security keys by November 10 or get locked out](https://www.bleepingcomputer.com/news/security/x-re-enroll-2fa-security-keys-by-november-10-or-get-locked-out/)
 <!--END_SECTION:feed-->
 
 <!--
