@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
 * [Qilin ransomware abuses WSL to run Linux encryptors in Windows](https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/)
 * [CISA warns of two more actively exploited Dassault vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/)
 * [Microsoft: Copilot now lets you build apps, automate workflows](https://www.bleepingcomputer.com/news/microsoft/microsoft-copilot-now-lets-you-build-apps-automate-workflows/)
 * [Microsoft sued for allegedly tricking millions into Copilot M365 subscriptions](https://www.bleepingcomputer.com/news/microsoft/microsoft-sued-for-allegedly-tricking-millions-into-copilot-m365-subscriptions/)
-* [TEE.Fail attack breaks confidential computing on Intel, AMD, NVIDIA CPUs](https://www.bleepingcomputer.com/news/security/teefail-attack-breaks-confidential-computing-on-intel-amd-nvidia-cpus/)
 <!--END_SECTION:feed-->
 
 <!--
