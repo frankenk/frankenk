@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes Media Creation Tool broken on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/)
 * [Microsoft: DNS outage impacts Azure and Microsoft 365 services](https://www.bleepingcomputer.com/news/microsoft/microsoft-dns-outage-impacts-azure-and-microsoft-365-services/)
 * [PhantomRaven attack floods npm with credential-stealing packages](https://www.bleepingcomputer.com/news/security/phantomraven-attack-floods-npm-with-credential-stealing-packages/)
 * [Microsoft fixes 0x800F081F errors causing Windows update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/)
 * [Visibility Gaps: Streamlining Patching and Vulnerability Remediation](https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/)
-* [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
 <!--END_SECTION:feed-->
 
 <!--
