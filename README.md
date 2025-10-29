@@ -4,6 +4,9 @@
 * [Microsoft fixes 0x800F081F errors causing Windows update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/)
 * [Visibility Gaps: Streamlining Patching and Vulnerability Remediation](https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/)
 * [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
+* [Python rejects * [Microsoft fixes 0x800F081F errors causing Windows update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-0x800f081f-errors-causing-windows-update-failures/)
+* [Visibility Gaps: Streamlining Patching and Vulnerability Remediation](https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/)
+* [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
 * [Python rejects * [Visibility Gaps: Streamlining Patching and Vulnerability Remediation](https://www.bleepingcomputer.com/news/security/visibility-gaps-streamlining-patching-and-vulnerability-remediation/)
 * [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
 * [Python rejects * [Windows 11 KB5067036 update rolls out Administrator Protection feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5067036-update-rolls-out-administrator-protection-feature/)
@@ -69,6 +72,7 @@
 * [CISA warns of two more actively exploited Dassault vulnerabilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-two-more-actively-exploited-dassault-vulnerabilities/).5M grant from U.S. govt. fearing ethical compromise](https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/)
 * [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
 * [Qilin ransomware abuses WSL to run Linux encryptors in Windows](https://www.bleepingcomputer.com/news/security/qilin-ransomware-abuses-wsl-to-run-linux-encryptors-in-windows/).5M grant from U.S. govt. fearing ethical compromise](https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/)
+* [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/).5M grant from U.S. govt. fearing ethical compromise](https://www.bleepingcomputer.com/news/software/python-rejects-15m-grant-from-us-govt-fearing-ethical-compromise/)
 * [Advertising giant Dentsu reports data breach at subsidiary Merkle](https://www.bleepingcomputer.com/news/security/advertising-giant-dentsu-reports-data-breach-at-subsidiary-merkle/)
 <!--END_SECTION:feed-->
 
