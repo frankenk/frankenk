@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA and NSA share tips on securing Microsoft Exchange servers](https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/)
+* [Rethinking identity security in the age of autonomous AI agents](https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/)
+* [LinkedIn phishing targets finance execs with fake board invites](https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/)
 * [Microsoft promises more Copilot features in Microsoft 365 companion apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-promises-more-copilot-features-in-microsoft-365-companion-apps/)
 * [Malicious NPM packages fetch infostealer for Windows, Linux, macOS](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-fetch-infostealer-for-windows-linux-macos/)
-* [WordPress security plugin exposes private data to site subscribers](https://www.bleepingcomputer.com/news/security/wordpress-security-plugin-exposes-private-data-to-site-subscribers/)
-* [Canada says hacktivists breached water and energy facilities](https://www.bleepingcomputer.com/news/security/canada-says-hacktivists-breached-water-and-energy-facilities/)
-* [Microsoft fixes Media Creation Tool broken on some Windows PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-media-creation-tool-broken-on-some-windows-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
