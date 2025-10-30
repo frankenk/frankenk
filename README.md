@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Major telecom services provider Ribbon breached by state hackers](https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/)
+* [BPO giant Conduent confirms data breach impacts 10.5 million people](https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/)
 * [WhatsApp adds passwordless chat backups on iOS and Android](https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/)
 * [Ex-L3Harris exec guilty of selling cyber exploits to Russian broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/)
 * [CISA and NSA share tips on securing Microsoft Exchange servers](https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/)
-* [Rethinking identity security in the age of autonomous AI agents](https://www.bleepingcomputer.com/news/security/rethinking-identity-security-in-the-age-of-autonomous-ai-agents/)
-* [LinkedIn phishing targets finance execs with fake board invites](https://www.bleepingcomputer.com/news/security/linkedin-phishing-targets-finance-execs-with-fake-board-invites/)
 <!--END_SECTION:feed-->
 
 <!--
