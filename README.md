@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/)
 * [Major telecom services provider Ribbon breached by state hackers](https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/)
 * [BPO giant Conduent confirms data breach impacts 10.5 million people](https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/)
 * [WhatsApp adds passwordless chat backups on iOS and Android](https://www.bleepingcomputer.com/news/security/whatsapp-adds-passwordless-chat-backups-on-ios-and-android/)
 * [Ex-L3Harris exec guilty of selling cyber exploits to Russian broker](https://www.bleepingcomputer.com/news/security/ex-l3harris-exec-guilty-of-selling-cyber-exploits-to-russian-broker/)
-* [CISA and NSA share tips on securing Microsoft Exchange servers](https://www.bleepingcomputer.com/news/security/cisa-and-nsa-share-tips-on-securing-microsoft-exchange-servers/)
 <!--END_SECTION:feed-->
 
 <!--
