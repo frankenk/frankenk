@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Edge gets scareware sensor for faster scam detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/)
 * [Australia warns of BadCandy infections on unpatched Cisco devices](https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/)
 * [Why password controls still matter in cybersecurity](https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/)
 * [Alleged Meduza Stealer malware admins arrested after hacking Russian org](https://www.bleepingcomputer.com/news/security/alleged-meduza-stealer-malware-admins-arrested-after-hacking-russian-org/)
 * [CISA: High-severity Linux flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-linux-privilege-escalation-flaw-now-exploited-in-ransomware-attacks/)
-* [Google says Search AI Mode will know everything about you](https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/)
 <!--END_SECTION:feed-->
 
 <!--
