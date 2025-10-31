@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google says Search AI Mode will know everything about you](https://www.bleepingcomputer.com/news/google/google-says-search-ai-mode-will-know-everything-about-you/)
+* [Windows zero-day actively exploited to spy on European diplomats](https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-windows-zero-day-to-spy-on-european-diplomats/)
 * [Ukrainian extradited from Ireland on Conti ransomware charges](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/)
 * [OpenAI confirms GPT-5 is now better at handling mental and emotional distress](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/)
 * [Massive surge of NFC relay malware steals Europeans’ credit cards](https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/)
-* [CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/)
-* [Major telecom services provider Ribbon breached by state hackers](https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
