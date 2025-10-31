@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ukrainian extradited from Ireland on Conti ransomware charges](https://www.bleepingcomputer.com/news/security/ukrainian-extradited-from-ireland-on-conti-ransomware-charges/)
 * [OpenAI confirms GPT-5 is now better at handling mental and emotional distress](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-gpt-5-is-now-better-at-handling-mental-and-emotional-distress/)
 * [Massive surge of NFC relay malware steals Europeans’ credit cards](https://www.bleepingcomputer.com/news/security/massive-surge-of-nfc-relay-malware-steals-europeans-credit-cards/)
 * [CISA orders feds to patch VMware Tools flaw exploited by Chinese hackers](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-vmware-tools-flaw-exploited-since-october-2024/)
 * [Major telecom services provider Ribbon breached by state hackers](https://www.bleepingcomputer.com/news/security/major-telecom-services-provider-ribbon-breached-by-state-hackers/)
-* [BPO giant Conduent confirms data breach impacts 10.5 million people](https://www.bleepingcomputer.com/news/security/bpo-giant-conduent-confirms-data-breach-impacts-105-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
