@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [China-linked hackers exploited Lanscope flaw as a zero-day in attacks](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/)
 * [Windows 11 tests shared Bluetooth audio support, but only for AI PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/)
 * [‘We got hacked’ emails threaten to leak University of Pennsylvania data](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/)
 * [Microsoft Edge gets scareware sensor for faster scam detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/)
 * [Australia warns of BadCandy infections on unpatched Cisco devices](https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/)
-* [Why password controls still matter in cybersecurity](https://www.bleepingcomputer.com/news/security/why-password-controls-still-matter-in-cybersecurity/)
 <!--END_SECTION:feed-->
 
 <!--
