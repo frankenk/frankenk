@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google confirms AI search will have ads, but they may look different](https://www.bleepingcomputer.com/news/google/google-confirms-ai-search-will-have-ads-but-they-may-look-different/)
+* [Windows 11 Build 26220.7051 released with three features for Insiders](https://www.bleepingcomputer.com/news/microsoft/windows-11-build-262207051-released-with-three-features-for-insiders/)
 * [China-linked hackers exploited Lanscope flaw as a zero-day in attacks](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-lanscope-flaw-as-a-zero-day-in-attacks/)
 * [Windows 11 tests shared Bluetooth audio support, but only for AI PCs](https://www.bleepingcomputer.com/news/microsoft/windows-11-tests-shared-bluetooth-audio-support-but-only-for-ai-pcs/)
 * [‘We got hacked’ emails threaten to leak University of Pennsylvania data](https://www.bleepingcomputer.com/news/security/offensive-we-got-hacked-emails-sent-in-penn-security-incident/)
-* [Microsoft Edge gets scareware sensor for faster scam detection](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-gets-scareware-sensor-for-faster-scam-detection/)
-* [Australia warns of BadCandy infections on unpatched Cisco devices](https://www.bleepingcomputer.com/news/security/australia-warns-of-badcandy-infections-on-unpatched-cisco-devices/)
 <!--END_SECTION:feed-->
 
 <!--
