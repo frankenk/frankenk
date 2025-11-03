@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks](https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/)
 * [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)
 * [Hackers use RMM tools to breach freighters and steal cargo shipments](https://www.bleepingcomputer.com/news/security/hackers-use-rmm-tools-to-breach-freighters-and-steal-cargo-shipments/)
 * [Microsoft: Patch for WSUS flaw disabled Windows Server hotpatching](https://www.bleepingcomputer.com/news/microsoft/microsoft-patch-for-wsus-flaw-disabled-windows-server-hotpatching/)
 * [OAuth Device Code Phishing: Azure vs. Google Compared](https://www.bleepingcomputer.com/news/security/oauth-device-code-phishing-azure-vs-google-compared/)
-* [Microsoft: Windows Task Manager won’t quit after KB5067036 update](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-task-manager-wont-quit-after-kb5067036-update/)
 <!--END_SECTION:feed-->
 
 <!--
