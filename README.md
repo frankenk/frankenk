@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian hackers abuse Hyper-V to hide malware in Linux VMs](https://www.bleepingcomputer.com/news/security/russian-hackers-abuse-hyper-v-to-hide-malware-in-linux-vms/)
+* [Windows 10 update bug triggers incorrect end-of-support alerts](https://www.bleepingcomputer.com/news/microsoft/windows-10-update-bug-triggers-incorrect-end-of-support-alerts/)
 * [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
+* [Hacker steals over * [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
 * [Hacker steals over * [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
 * [Hacker steals over * [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
 * [Hacker steals over * [Hackers exploit critical auth bypass flaw in JobMonster WordPress theme](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-flaw-in-jobmonster-wordpress-theme/)
@@ -65,7 +68,8 @@
 * [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)20 million from Balancer DeFi crypto protocol](https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/)
 * [Fake Solidity VSCode extension on Open VSX backdoors developers](https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/)
 * [Microsoft: SesameOp malware abuses OpenAI Assistants API in attacks](https://www.bleepingcomputer.com/news/security/microsoft-sesameop-malware-abuses-openai-assistants-api-in-attacks/)
-* [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)
+* [US cybersecurity experts indicted for BlackCat ransomware attacks](https://www.bleepingcomputer.com/news/security/us-cybersecurity-experts-indicted-for-blackcat-ransomware-attacks/)20 million from Balancer DeFi crypto protocol](https://www.bleepingcomputer.com/news/cryptocurrency/hacker-steals-over-120-million-from-balancer-defi-crypto-protocol/)
+* [Fake Solidity VSCode extension on Open VSX backdoors developers](https://www.bleepingcomputer.com/news/security/fake-solidity-vscode-extension-on-open-vsx-backdoors-developers/)
 <!--END_SECTION:feed-->
 
 <!--
