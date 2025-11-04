@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit WordPress plugin Post SMTP to hijack admin accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-wordpress-plugin-post-smtp-to-hijack-admin-accounts/)
+* [Apache OpenOffice disputes data breach claims by ransomware gang](https://www.bleepingcomputer.com/news/security/apache-openoffice-disputes-data-breach-claims-by-ransomware-gang/)
 * [Malicious Android apps on Google Play downloaded 42 million times](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/)
 * [Microsoft removing Defender Application Guard from Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/)
 * [Data breach at major Swedish software supplier impacts 1.5 million](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
-* [Media giant Nikkei reports data breach impacting 17,000 people](https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/)
-* [Police arrests suspects linked to €600 million crypto fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/)
 <!--END_SECTION:feed-->
 
 <!--
