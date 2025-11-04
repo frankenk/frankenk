@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Malicious Android apps on Google Play downloaded 42 million times](https://www.bleepingcomputer.com/news/security/malicious-android-apps-on-google-play-downloaded-42-million-times/)
 * [Microsoft removing Defender Application Guard from Office](https://www.bleepingcomputer.com/news/microsoft/microsoft-removing-defender-application-guard-from-office/)
 * [Data breach at major Swedish software supplier impacts 1.5 million](https://www.bleepingcomputer.com/news/security/data-breach-at-major-swedish-software-supplier-impacts-15-million/)
 * [Media giant Nikkei reports data breach impacting 17,000 people](https://www.bleepingcomputer.com/news/security/media-giant-nikkei-reports-data-breach-impacting-17-000-people/)
 * [Police arrests suspects linked to €600 million crypto fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-600-million-crypto-investment-fraud-ring/)
-* [The Top 3 Browser Sandbox Threats That Slip Past Modern Security Tools](https://www.bleepingcomputer.com/news/security/the-top-3-browser-sandbox-threats-that-slip-past-modern-security-tools/)
 <!--END_SECTION:feed-->
 
 <!--
