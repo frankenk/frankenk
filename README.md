@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Gootloader malware is back with new tricks after 7-month break](https://www.bleepingcomputer.com/news/security/gootloader-malware-is-back-with-new-tricks-after-7-month-break/)
+* [Hyundai AutoEver America data breach exposes SSNs, drivers licenses](https://www.bleepingcomputer.com/news/security/hyundai-autoever-america-data-breach-exposes-ssns-drivers-licenses/)
 * [CISA warns of critical CentOS Web Panel bug exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-centos-web-panel-bug-exploited-in-attacks/)
 * [Windows 11 Store gets Ninite-style multi-app installer feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-store-gets-ninite-style-multi-app-installer-feature/)
 * [SonicWall says state-sponsored hackers behind September security breach](https://www.bleepingcomputer.com/news/security/sonicwall-says-state-sponsored-hackers-behind-security-breach-in-september/)
-* [UK carriers to block spoofed phone numbers in fraud crackdown](https://www.bleepingcomputer.com/news/security/uk-carriers-to-block-spoofed-phone-numbers-in-fraud-crackdown/)
-* [University of Pennsylvania confirms data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-stolen-in-cyberattack/)
 <!--END_SECTION:feed-->
 
 <!--
