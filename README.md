@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [AI-Slop ransomware test sneaks on to VS Code marketplace](https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/)
 * [How a ransomware gang encrypted Nevada government's systems](https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/)
 * [Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense](https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/)
 * [ClickFix malware attacks evolve with multi-OS support, video tutorials](https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/)
 * [Critical Cisco UCCX flaw lets attackers run commands as root](https://www.bleepingcomputer.com/news/security/critical-cisco-uccx-flaw-lets-hackers-run-commands-as-root/)
-* [Sandworm hackers use data wipers to disrupt Ukraine's grain sector](https://www.bleepingcomputer.com/news/security/sandworm-hackers-use-data-wipers-to-disrupt-ukraines-grain-sector/)
 <!--END_SECTION:feed-->
 
 <!--
