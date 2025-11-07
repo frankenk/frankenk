@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Leak confirms Google Gemini 3 Pro and Nano Banana 2 could launch soon](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-google-gemini-3-pro-and-nano-banana-2-could-launch-soon/)
 * [U.S. Congressional Budget Office hit by suspected foreign cyberattack](https://www.bleepingcomputer.com/news/security/us-congressional-budget-office-hit-by-suspected-foreign-cyberattack/)
 * [AI-Slop ransomware test sneaks on to VS Code marketplace](https://www.bleepingcomputer.com/news/security/ai-slop-ransomware-test-sneaks-on-to-vs-code-marketplace/)
 * [How a ransomware gang encrypted Nevada government's systems](https://www.bleepingcomputer.com/news/security/how-a-ransomware-gang-encrypted-nevada-governments-systems/)
 * [Continuous Purple Teaming: Turning Red-Blue Rivalry into Real Defense](https://www.bleepingcomputer.com/news/security/continuous-purple-teaming-turning-red-blue-rivalry-into-real-defense/)
-* [ClickFix malware attacks evolve with multi-OS support, video tutorials](https://www.bleepingcomputer.com/news/security/clickfix-malware-attacks-evolve-with-multi-os-support-video-tutorials/)
 <!--END_SECTION:feed-->
 
 <!--
