@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SAP fixes hardcoded credentials flaw in SQL Anywhere Monitor](https://www.bleepingcomputer.com/news/security/sap-fixes-hardcoded-credentials-flaw-in-sql-anywhere-monitor/)
+* [GlobalLogic warns 10,000 employees of data theft after Oracle breach](https://www.bleepingcomputer.com/news/security/globallogic-warns-10-000-employees-of-data-theft-after-oracle-breach/)
+* [How a CPU spike led to uncovering a RansomHub ransomware attack](https://www.bleepingcomputer.com/news/security/how-a-cpu-spike-led-to-uncovering-a-ransomhub-ransomware-attack/)
 * [Webinar: Modern Patch Management – Strategies to patch faster with less risk](https://www.bleepingcomputer.com/news/security/webinar-modern-patch-management-strategies-to-patch-faster-with-less-risk/)
 * [APT37 hackers abuse Google Find Hub in Android data-wiping attacks](https://www.bleepingcomputer.com/news/security/apt37-hackers-abuse-google-find-hub-in-android-data-wiping-attacks/)
-* [Mozilla Firefox gets new anti-fingerprinting defenses](https://www.bleepingcomputer.com/news/security/mozilla-firefox-gets-new-anti-fingerprinting-defenses/)
-* [Quantum Route Redirect PhaaS targets Microsoft 365 users worldwide](https://www.bleepingcomputer.com/news/security/quantum-route-redirect-phaas-targets-microsoft-365-users-worldwide/)
-* [CISA orders feds to patch Samsung zero-day used in spyware attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-samsung-zero-day-used-in-spyware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
