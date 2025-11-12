@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft fixes bug causing false Windows 10 end-of-support alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/)
+* [Extending Zero Trust to AI Agents: “Never Trust, Always Verify” Goes Autonomous](https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/)
 * [New UK laws to strengthen critical infrastructure cyber defenses](https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/)
 * [Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/)
 * [Synnovis notifies of data breach after 2024 ransomware attack](https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/)
-* [Microsoft fixes Windows Task Manager bug affecting performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/)
-* [Rhadamanthys infostealer disrupted as cybercriminals lose server access](https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/)
 <!--END_SECTION:feed-->
 
 <!--
