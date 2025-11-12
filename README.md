@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DanaBot malware is back to infecting Windows after 6-month break](https://www.bleepingcomputer.com/news/security/danabot-malware-is-back-to-infecting-windows-after-6-month-break/)
 * [Microsoft fixes bug causing false Windows 10 end-of-support alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-false-windows-10-end-of-support-alerts/)
 * [Extending Zero Trust to AI Agents: “Never Trust, Always Verify” Goes Autonomous](https://www.bleepingcomputer.com/news/security/extending-zero-trust-to-ai-agents-never-trust-always-verify-goes-autonomous/)
 * [New UK laws to strengthen critical infrastructure cyber defenses](https://www.bleepingcomputer.com/news/security/new-uk-laws-to-strengthen-critical-infrastructure-cyber-defenses/)
 * [Hackers exploited Citrix, Cisco ISE flaws in zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-exploited-citrix-cisco-ise-flaws-in-zero-day-attacks/)
-* [Synnovis notifies of data breach after 2024 ransomware attack](https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
