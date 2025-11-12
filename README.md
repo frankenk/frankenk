@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Synnovis notifies of data breach after 2024 ransomware attack](https://www.bleepingcomputer.com/news/security/synnovis-notifies-of-data-breach-after-2024-ransomware-attack/)
 * [Microsoft fixes Windows Task Manager bug affecting performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-task-manager-bug-affecting-performance/)
 * [Rhadamanthys infostealer disrupted as cybercriminals lose server access](https://www.bleepingcomputer.com/news/security/rhadamanthys-infostealer-disrupted-as-cybercriminals-lose-server-access/)
 * [Synology fixes BeeStation zero-days demoed at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/synology-fixes-beestation-zero-days-demoed-at-pwn2own-ireland/)
 * [Hackers abuse Triofox antivirus feature to deploy remote access tools](https://www.bleepingcomputer.com/news/security/hackers-abuse-triofox-antivirus-feature-to-deploy-remote-access-tools/)
-* [Microsoft: Windows 11 23H2 Home and Pro reach end of support](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-23h2-home-and-pro-reach-end-of-support/)
 <!--END_SECTION:feed-->
 
 <!--
