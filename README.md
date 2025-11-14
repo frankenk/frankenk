@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US announces new strike force targeting Chinese crypto scammers](https://www.bleepingcomputer.com/news/security/us-announces-new-strike-force-targeting-chinese-crypto-scammers/)
 * [Google backpedals on new Android developer registration rules](https://www.bleepingcomputer.com/news/google/google-backpedals-on-new-android-developer-registration-rules/)
 * [ASUS warns of critical auth bypass flaw in DSL series routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-auth-bypass-flaw-in-dsl-series-routers/)
 * [DoorDash hit by new data breach in October exposing user information](https://www.bleepingcomputer.com/news/security/doordash-hit-by-new-data-breach-in-october-exposing-user-information/)
 * [Fortinet FortiWeb flaw with public PoC exploited to create admin users](https://www.bleepingcomputer.com/news/security/fortiweb-flaw-with-public-poc-actively-exploited-to-create-admin-users/)
-* [Kraken ransomware benchmarks systems for optimal encryption choice](https://www.bleepingcomputer.com/news/security/kraken-ransomware-benchmarks-systems-for-optimal-encryption-choice/)
 <!--END_SECTION:feed-->
 
 <!--
