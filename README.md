@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [DoorDash email spoofing vulnerability sparks messy disclosure dispute](https://www.bleepingcomputer.com/news/security/doordash-email-spoofing-vulnerability-sparks-messy-disclosure-dispute/)
 * [Pennsylvania AG confirms data breach after INC Ransom attack](https://www.bleepingcomputer.com/news/security/pennsylvania-ag-confirms-data-breach-after-inc-ransom-attack/)
 * [Microsoft: Windows bug blocks Microsoft 365 desktop app installs](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-bug-blocks-microsoft-365-desktop-app-installs/)
 * [Google to flag Android apps with excessive battery use on the Play Store](https://www.bleepingcomputer.com/news/security/google-to-flag-android-apps-with-excessive-battery-use-on-the-play-store/)
 * [Microsoft: Windows 10 KB5068781 ESU update may fail with 0x800f0922 errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5068781-esu-update-may-fail-with-0x800f0922-errors/)
-* [Decades-old ‘Finger’ protocol abused in ClickFix malware attacks](https://www.bleepingcomputer.com/news/security/decades-old-finger-protocol-abused-in-clickfix-malware-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
