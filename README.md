@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Thunderbird adds native support for Microsoft Exchange accounts](https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/)
 * [New ShadowRay attacks convert Ray clusters into crypto miners](https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/)
 * [Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/)
 * [Fortinet warns of new FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/)
 * [Microsoft to integrate Sysmon directly into Windows 11, Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/)
-* [Microsoft Teams to let users report messages wrongly flagged as threats](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/)
 <!--END_SECTION:feed-->
 
 <!--
