@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare hit by outage affecting global network services](https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/)
 * [Google fixes new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/)
 * [Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/)
 * [Malicious NPM packages abuse Adspect redirects to evade security](https://www.bleepingcomputer.com/news/security/malicious-npm-packages-abuse-adspect-redirects-to-evade-security/)
 * [xAI's Grok 4.1 rolls out with improved quality and speed for free](https://www.bleepingcomputer.com/news/artificial-intelligence/xais-grok-41-rolls-out-with-improved-quality-and-speed-for-free/)
-* [RondoDox botnet malware now hacks servers using XWiki flaw](https://www.bleepingcomputer.com/news/security/rondodox-botnet-malware-now-hacks-servers-using-xwiki-flaw/)
 <!--END_SECTION:feed-->
 
 <!--
