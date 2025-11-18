@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to integrate Sysmon directly into Windows 11, Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-integrate-sysmon-directly-into-windows-11-server-2025/)
+* [Microsoft Teams to let users report messages wrongly flagged as threats](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-let-users-report-messages-wrongly-flagged-as-threats/)
 * [French agency Pajemploi reports data breach affecting 1.2M people](https://www.bleepingcomputer.com/news/security/french-agency-pajemploi-reports-data-breach-affecting-12m-people/)
 * [The Tycoon 2FA Phishing Platform and the Collapse of Legacy MFA](https://www.bleepingcomputer.com/news/security/the-tycoon-2fa-phishing-platform-and-the-collapse-of-legacy-mfa/)
 * [Cloudflare hit by outage affecting global network services](https://www.bleepingcomputer.com/news/technology/cloudflare-hit-by-outage-affecting-global-network-services/)
-* [Google fixes new Chrome zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/google-fixes-new-chrome-zero-day-flaw-exploited-in-attacks/)
-* [Microsoft: Windows 10 KB5072653 OOB update fixes ESU install errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-10-kb5072653-oob-update-fixes-esu-install-errors/)
 <!--END_SECTION:feed-->
 
 <!--
