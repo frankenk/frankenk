@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare blames this week's massive outage on database issues](https://www.bleepingcomputer.com/news/technology/cloudflare-blames-this-weeks-massive-outage-on-database-issues/)
 * [‘PlushDaemon’ hackers hijack software updates in supply-chain attacks](https://www.bleepingcomputer.com/news/security/plushdaemon-hackers-hijack-software-updates-in-supply-chain-attacks/)
 * [Thunderbird adds native support for Microsoft Exchange accounts](https://www.bleepingcomputer.com/news/software/thunderbird-adds-native-support-for-microsoft-exchange-accounts/)
 * [New ShadowRay attacks convert Ray clusters into crypto miners](https://www.bleepingcomputer.com/news/security/new-shadowray-attacks-convert-ray-clusters-into-crypto-miners/)
 * [Windows 11 gets new Cloud Rebuild, Point-in-Time Restore tools](https://www.bleepingcomputer.com/news/microsoft/windows-11-gets-new-cloud-rebuild-point-in-time-restore-tools/)
-* [Fortinet warns of new FortiWeb zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-new-fortiweb-zero-day-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
