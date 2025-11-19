@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack](https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/)
 * [Google's Gemini 3 is living up to the hype and creating games in one shot](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/)
 * [Google Search is now using AI to create interactive UI to answer your questions](https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/)
 * [W3 Total Cache WordPress plugin vulnerable to PHP command injection](https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/)
 * [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/)
-* [New WrtHug campaign hijacks thousands of end-of-life ASUS routers](https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/)
 <!--END_SECTION:feed-->
 
 <!--
