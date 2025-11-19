@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/)
 * [New WrtHug campaign hijacks thousands of end-of-life ASUS routers](https://www.bleepingcomputer.com/news/security/new-wrthug-campaign-hijacks-thousands-of-end-of-life-asus-routers/)
 * [The hidden risks in your DevOps stack data—and how to address them](https://www.bleepingcomputer.com/news/security/the-hidden-risks-in-your-devops-stack-data-and-how-to-address-them/)
 * [CISA gives govt agencies 7 days to patch new Fortinet flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-govt-agencies-7-days-to-patch-new-fortinet-flaw/)
 * [Meet ShinySp1d3r: New Ransomware-as-a-Service created by ShinyHunters](https://www.bleepingcomputer.com/news/security/meet-shinysp1d3r-new-ransomware-as-a-service-created-by-shinyhunters/)
-* [California man admits to laundering crypto stolen in $230M heist](https://www.bleepingcomputer.com/news/security/california-man-admits-to-laundering-crypto-stolen-in-230m-heist/)
 <!--END_SECTION:feed-->
 
 <!--
