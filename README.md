@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Multi-threat Android malware Sturnus steals Signal, WhatsApp messages](https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/)
+* [OpenAI says its latest GPT-5.1 Codex can code independently for hours](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/)
 * [Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack](https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/)
 * [Google's Gemini 3 is living up to the hype and creating games in one shot](https://www.bleepingcomputer.com/news/artificial-intelligence/googles-gemini-3-is-living-up-to-the-hype-and-creating-games-in-one-shot/)
 * [Google Search is now using AI to create interactive UI to answer your questions](https://www.bleepingcomputer.com/news/artificial-intelligence/google-search-is-now-using-ai-to-create-interactive-ui-to-answer-your-questions/)
-* [W3 Total Cache WordPress plugin vulnerable to PHP command injection](https://www.bleepingcomputer.com/news/security/w3-total-cache-wordpress-plugin-vulnerable-to-php-command-injection/)
-* [Russian bulletproof hosting provider sanctioned over ransomware ties](https://www.bleepingcomputer.com/news/security/us-sanctions-russian-bulletproof-hosting-provider-media-land-over-ransomware-ties/)
 <!--END_SECTION:feed-->
 
 <!--
