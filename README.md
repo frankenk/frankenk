@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New SonicWall SonicOS flaw allows hackers to crash firewalls](https://www.bleepingcomputer.com/news/security/new-sonicwall-sonicos-flaw-allows-hackers-to-crash-firewalls/)
+* [D-Link warns of new RCE flaws in end-of-life DIR-878 routers](https://www.bleepingcomputer.com/news/security/d-link-warns-of-new-rce-flaws-in-end-of-life-dir-878-routers/)
+* [Turn your Windows 11 migration into a security opportunity](https://www.bleepingcomputer.com/news/security/turn-your-windows-11-migration-into-a-security-opportunity/)
 * [TV streaming piracy service with 26M yearly visits shut down](https://www.bleepingcomputer.com/news/security/tv-streaming-piracy-service-photocall-with-26m-yearly-visits-shut-down/)
 * [Crypto mixer founders sent to prison for laundering over $237 million](https://www.bleepingcomputer.com/news/security/samourai-cryptomixer-founders-sent-to-prison-for-laundering-over-237-million/)
-* [Multi-threat Android malware Sturnus steals Signal, WhatsApp messages](https://www.bleepingcomputer.com/news/security/multi-threat-android-malware-sturnus-steals-signal-whatsapp-messages/)
-* [OpenAI says its latest GPT-5.1 Codex can code independently for hours](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-latest-gpt-51-codex-can-code-independently-for-hours/)
-* [Sneaky2FA PhaaS kit now uses redteamers' Browser-in-the-Browser attack](https://www.bleepingcomputer.com/news/security/sneaky2fa-phaas-kit-now-uses-redteamers-browser-in-the-browser-attack/)
 <!--END_SECTION:feed-->
 
 <!--
