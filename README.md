@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop](https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/)
+* [Grafana warns of max severity admin spoofing vulnerability](https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/)
 * [CrowdStrike catches insider feeding information to hackers](https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/)
 * [FCC rolls back cybersecurity rules for telcos, despite state-hacking risks](https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/)
 * ['Scattered Spider' teens plead not guilty to UK transport hack](https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/)
-* [Avast Makes AI-Driven Scam Defense Available for Free Worldwide](https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/)
-* [Google begins showing ads in AI Mode (AI answers)](https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/)
 <!--END_SECTION:feed-->
 
 <!--
