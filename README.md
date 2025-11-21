@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CrowdStrike catches insider feeding information to hackers](https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/)
 * [FCC rolls back cybersecurity rules for telcos, despite state-hacking risks](https://www.bleepingcomputer.com/news/security/fcc-rolls-back-cybersecurity-rules-for-telcos-despite-state-hacking-risks/)
 * ['Scattered Spider' teens plead not guilty to UK transport hack](https://www.bleepingcomputer.com/news/security/scattered-spider-teens-plead-not-guilty-to-uk-transport-hack/)
 * [Avast Makes AI-Driven Scam Defense Available for Free Worldwide](https://www.bleepingcomputer.com/news/security/avast-makes-ai-driven-scam-defense-available-for-free-worldwide/)
 * [Google begins showing ads in AI Mode (AI answers)](https://www.bleepingcomputer.com/news/artificial-intelligence/google-begins-showing-ads-in-ai-mode-ai-answers/)
-* [Google exposes BadAudio malware used in APT24 espionage campaigns](https://www.bleepingcomputer.com/news/security/google-exposes-badaudio-malware-used-in-apt24-espionage-campaigns/)
 <!--END_SECTION:feed-->
 
 <!--
