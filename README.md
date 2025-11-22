@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WhatsApp API flaw let researchers scrape 3.5 billion accounts](https://www.bleepingcomputer.com/news/security/whatsapp-api-flaw-let-researchers-scrape-35-billion-accounts/)
+* [Cox Enterprises discloses Oracle E-Business Suite data breach](https://www.bleepingcomputer.com/news/security/cox-enterprises-discloses-oracle-e-business-suite-data-breach/)
+* [Piecing Together the Puzzle: A Qilin Ransomware Investigation](https://www.bleepingcomputer.com/news/security/piecing-together-the-puzzle-a-qilin-ransomware-investigation/)
 * [CISA warns Oracle Identity Manager RCE flaw is being actively exploited](https://www.bleepingcomputer.com/news/security/cisa-warns-oracle-identity-manager-rce-flaw-is-being-actively-exploited/)
 * [Nvidia confirms October Windows updates cause gaming issues](https://www.bleepingcomputer.com/news/technology/nvidia-fixes-gaming-issues-caused-by-october-windows-update/)
-* [Microsoft: Out-of-band update fixes Windows 11 hotpatch install loop](https://www.bleepingcomputer.com/news/microsoft/microsoft-out-of-band-update-fixes-windows-11-hotpatch-install-loop/)
-* [Grafana warns of max severity admin spoofing vulnerability](https://www.bleepingcomputer.com/news/security/grafana-warns-of-max-severity-admin-spoofing-vulnerability/)
-* [CrowdStrike catches insider feeding information to hackers](https://www.bleepingcomputer.com/news/security/crowdstrike-catches-insider-feeding-information-to-hackers/)
 <!--END_SECTION:feed-->
 
 <!--
