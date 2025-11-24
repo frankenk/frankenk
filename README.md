@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft tests File Explorer preloading for faster performance](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-preloading-for-faster-launches/)
 * [Microsoft to remove WINS support after Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-remove-wins-support-after-windows-server-2025/)
 * [Microsoft: Windows 11 24H2 bug crashes Explorer and Start Menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-bug-crashes-key-system-components/)
 * [Google enables Pixel-to-iPhone file sharing via Quick Share, AirDrop](https://www.bleepingcomputer.com/news/mobile/google-enables-pixel-to-iphone-file-sharing-via-quick-share-airdrop/)
 * [Enterprise password security and secrets management with Passwork 7](https://www.bleepingcomputer.com/news/security/enterprise-password-security-and-secrets-management-with-passwork-7/)
-* [Iberia discloses customer data leak after vendor security breach](https://www.bleepingcomputer.com/news/security/iberia-discloses-customer-data-leak-after-vendor-security-breach/)
 <!--END_SECTION:feed-->
 
 <!--
