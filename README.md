@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Tor switches to new Counter Galois Onion relay encryption algorithm](https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/)
+* [Microsoft: Exchange Online outage blocks access to Outlook mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/)
 * [Microsoft is speeding up the Teams desktop client for Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/)
 * [Year-end approaches: How to maximize your cyber spend](https://www.bleepingcomputer.com/news/security/year-end-approaches-how-to-maximize-your-cyber-spend/)
 * [Code beautifiers expose credentials from banks, govt, tech orgs](https://www.bleepingcomputer.com/news/security/code-beautifiers-expose-credentials-from-banks-govt-tech-orgs/)
-* [Dartmouth College confirms data breach after Clop extortion attack](https://www.bleepingcomputer.com/news/security/dartmouth-college-confirms-data-breach-after-clop-extortion-attack/)
-* [Malicious Blender model files deliver StealC infostealing malware](https://www.bleepingcomputer.com/news/security/malicious-blender-model-files-deliver-stealc-infostealing-malware/)
 <!--END_SECTION:feed-->
 
 <!--
