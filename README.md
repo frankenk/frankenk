@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide](https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/)
 * [The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals](https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/)
 * [FBI: Cybercriminals stole $262M by impersonating bank support teams](https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/)
 * [Tor switches to new Counter Galois Onion relay encryption algorithm](https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/)
 * [Microsoft: Exchange Online outage blocks access to Outlook mailboxes](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-outlook-mailboxes/)
-* [Microsoft is speeding up the Teams desktop client for Windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-boost-teams-performance-with-new-call-handler/)
 <!--END_SECTION:feed-->
 
 <!--
