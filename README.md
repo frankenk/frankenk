@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft to secure Entra ID sign-ins from script injection attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-secure-entra-id-sign-ins-from-external-script-injection-attacks/)
 * [ASUS warns of new critical auth bypass flaw in AiCloud routers](https://www.bleepingcomputer.com/news/security/asus-warns-of-new-critical-auth-bypass-flaw-in-aicloud-routers/)
 * [OnSolve CodeRED cyberattack disrupts emergency alert systems nationwide](https://www.bleepingcomputer.com/news/security/onsolve-codered-cyberattack-disrupts-emergency-alert-systems-nationwide/)
 * [The Black Friday 2025 Cybersecurity, IT, VPN, & Antivirus Deals](https://www.bleepingcomputer.com/news/security/the-black-friday-2025-cybersecurity-it-vpn-and-antivirus-deals/)
 * [FBI: Cybercriminals stole $262M by impersonating bank support teams](https://www.bleepingcomputer.com/news/security/fbi-cybercriminals-stole-262-million-by-impersonating-bank-support-teams-since-january/)
-* [Tor switches to new Counter Galois Onion relay encryption algorithm](https://www.bleepingcomputer.com/news/security/tor-switches-to-new-counter-galois-onion-relay-encryption-algorithm/)
 <!--END_SECTION:feed-->
 
 <!--
