@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft: Windows updates make password login option invisible](https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-updates-hide-password-icon-on-lock-screen/)
+* [Public GitLab repositories exposed more than 17,000 secrets](https://www.bleepingcomputer.com/news/security/public-gitlab-repositories-exposed-more-than-17-000-secrets/)
 * [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/)
 * [Malicious LLMs empower inexperienced hackers with advanced tools](https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/)
 * [GreyNoise launches free scanner to check if you're part of a botnet](https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/)
-* [OpenAI discloses API customer data breach via Mixpanel vendor hack](https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/)
-* [New ShadowV2 botnet malware used AWS outage as a test opportunity](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/)
 <!--END_SECTION:feed-->
 
 <!--
