@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [French Football Federation discloses data breach after cyberattack](https://www.bleepingcomputer.com/news/security/french-football-federation-fff-discloses-data-breach-after-cyberattack/)
 * [Malicious LLMs empower inexperienced hackers with advanced tools](https://www.bleepingcomputer.com/news/security/malicious-llms-empower-inexperienced-hackers-with-advanced-tools/)
 * [GreyNoise launches free scanner to check if you're part of a botnet](https://www.bleepingcomputer.com/news/security/greynoise-launches-free-scanner-to-check-if-youre-part-of-a-botnet/)
 * [OpenAI discloses API customer data breach via Mixpanel vendor hack](https://www.bleepingcomputer.com/news/security/openai-discloses-api-customer-data-breach-via-mixpanel-vendor-hack/)
 * [New ShadowV2 botnet malware used AWS outage as a test opportunity](https://www.bleepingcomputer.com/news/security/new-shadowv2-botnet-malware-used-aws-outage-as-a-test-opportunity/)
-* [NordVPN Black Friday Deal: Unlock 77% off VPN plans in 2025](https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-unlock-77-percent-off-vpn-plans-in-2025/)
 <!--END_SECTION:feed-->
 
 <!--
