@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ShadyPanda browser extensions amass 4.3M installs in malicious campaign](https://www.bleepingcomputer.com/news/security/shadypanda-browser-extensions-amass-43m-installs-in-malicious-campaign/)
 * [Google deletes X post after getting caught using a ‘stolen’ AI recipe infographic](https://www.bleepingcomputer.com/news/artificial-intelligence/google-deletes-x-post-after-getting-caught-using-a-stolen-ai-recipe-infographic/)
 * [Police takes down Cryptomixer cryptocurrency mixing service](https://www.bleepingcomputer.com/news/security/police-takes-down-cryptomixer-cryptocurrency-mixing-service/)
 * [Japanese beer giant Asahi says data breach hit 1.5 million people](https://www.bleepingcomputer.com/news/security/japanese-beer-giant-asahi-says-data-breach-hit-15-million-people/)
 * [Leak confirms OpenAI is preparing ads on ChatGPT for public roll out](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-preparing-ads-on-chatgpt-for-public-roll-out/)
-* [Man behind in-flight Evil Twin WiFi attacks gets 7 years in prison](https://www.bleepingcomputer.com/news/security/man-behind-in-flight-evil-twin-wifi-attacks-gets-7-years-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
