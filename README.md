@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [North Korea lures engineers to rent identities in fake IT worker scheme](https://www.bleepingcomputer.com/news/security/north-korea-lures-engineers-to-rent-identities-in-fake-it-worker-scheme/)
+* [Google fixes two Android zero days exploited in attacks, 107 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-two-android-zero-days-exploited-in-attacks-107-flaws/)
+* [Fake Calendly invites spoof top brands to hijack ad manager accounts](https://www.bleepingcomputer.com/news/security/fake-calendly-invites-spoof-top-brands-to-hijack-ad-manager-accounts/)
 * [Microsoft: KB5070311 triggers File Explorer white flash in dark mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5070311-triggers-file-explorer-bright-white-flashes-in-dark-mode/)
 * [University of Pennsylvania confirms new data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/)
-* [Windows 11 KB5070311 update fixes File Explorer freezes, search issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/)
-* [Glassworm malware returns in third wave of malicious VS Code packages](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/)
-* [SmartTube YouTube app for Android TV breached to push malicious update](https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/)
 <!--END_SECTION:feed-->
 
 <!--
