@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [University of Pennsylvania confirms new data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-pennsylvania-confirms-data-theft-after-oracle-ebs-hack/)
 * [Windows 11 KB5070311 update fixes File Explorer freezes, search issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5070311-update-fixes-file-explorer-freezes-search-issues/)
 * [Glassworm malware returns in third wave of malicious VS Code packages](https://www.bleepingcomputer.com/news/security/glassworm-malware-returns-in-third-wave-of-malicious-vs-code-packages/)
 * [SmartTube YouTube app for Android TV breached to push malicious update](https://www.bleepingcomputer.com/news/security/smarttube-youtube-app-for-android-tv-breached-to-push-malicious-update/)
 * [Microsoft says new Outlook can't open some Excel attachments](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-new-outlook-cant-open-some-excel-attachments/)
-* [Retail giant Coupang data breach impacts 33.7 million customers](https://www.bleepingcomputer.com/news/security/retail-giant-coupang-suffers-data-breach-impacting-337-million-people/)
 <!--END_SECTION:feed-->
 
 <!--
