@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Deep dive into DragonForce ransomware and its Scattered Spider connection](https://www.bleepingcomputer.com/news/security/deep-dive-into-dragonforce-ransomware-and-its-scattered-spider-connection/)
 * [Aisuru botnet behind new record-breaking 29.7 Tbps DDoS attack](https://www.bleepingcomputer.com/news/security/aisuru-botnet-behind-new-record-breaking-297-tbps-ddos-attack/)
 * [University of Phoenix discloses data breach after Oracle hack](https://www.bleepingcomputer.com/news/security/university-of-phoenix-discloses-data-breach-after-oracle-hack/)
 * [Korea arrests suspects selling intimate videos from hacked IP cameras](https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/)
 * [FTC settlement requires Illuminate to delete unnecessary student data](https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/)
-* [ChatGPT is down worldwide, conversations disappeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/)
 <!--END_SECTION:feed-->
 
 <!--
