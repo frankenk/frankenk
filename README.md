@@ -3,7 +3,7 @@
 <!--START_SECTION:feed-->
 * [Korea arrests suspects selling intimate videos from hacked IP cameras](https://www.bleepingcomputer.com/news/security/korea-arrests-suspects-selling-intimate-videos-from-hacked-ip-cameras/)
 * [FTC settlement requires Illuminate to delete unnecessary student data](https://www.bleepingcomputer.com/news/security/ftc-settlement-requires-illuminate-to-delete-unnecessary-student-data/)
-* [ChatGPT is down worldwide, conversations dissapeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-dissapeared-for-users/)
+* [ChatGPT is down worldwide, conversations disappeared for users](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-is-down-worldwide-conversations-disappeared-for-users/)
 * [Shai-Hulud 2.0 NPM malware attack exposed up to 400,000 dev secrets](https://www.bleepingcomputer.com/news/security/shai-hulud-20-npm-malware-attack-exposed-up-to-400-000-dev-secrets/)
 * [Microsoft Defender portal outage disrupts threat hunting alerts](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-portal-outage-blocks-access-to-security-alerts/)
 <!--END_SECTION:feed-->
