@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Marquis data breach impacts over 74 US banks, credit unions](https://www.bleepingcomputer.com/news/security/marquis-data-breach-impacts-over-74-us-banks-credit-unions/)
+* [Critical flaw in WordPress add-on for Elementor exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-flaw-in-wordpress-add-on-for-elementor-exploited-in-attacks/)
 * [French DIY retail giant Leroy Merlin discloses a data breach](https://www.bleepingcomputer.com/news/security/french-diy-retail-giant-leroy-merlin-discloses-a-data-breach/)
 * [Freedom Mobile discloses data breach exposing customer data](https://www.bleepingcomputer.com/news/security/freedom-mobile-discloses-data-breach-exposing-customer-data/)
 * [Russia blocks Roblox over distribution of LGBT "propaganda"](https://www.bleepingcomputer.com/news/security/russia-blocks-roblox-over-distribution-of-lgbt-propaganda/)
-* [Google expands Android scam protection feature to Chase, Cash App in U.S.](https://www.bleepingcomputer.com/news/security/google-expands-android-scam-protection-feature-to-chase-cash-app-in-us/)
-* [Microsoft "mitigates" Windows LNK flaw exploited as zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-mitigates-windows-lnk-flaw-exploited-as-zero-day/)
 <!--END_SECTION:feed-->
 
 <!--
