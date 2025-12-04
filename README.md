@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers are exploiting ArrayOS AG VPN flaw to plant webshells](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/)
+* [NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices](https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/)
 * [Predator spyware uses new infection vector for zero-click attacks](https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/)
 * [Russia blocks FaceTime and Snapchat for alleged use by terrorists](https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/)
 * [CISA warns of Chinese "BrickStorm" malware attacks on VMware servers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/)
-* [Contractors with hacking records accused of wiping 96 govt databases](https://www.bleepingcomputer.com/news/security/contractors-with-hacking-records-accused-of-wiping-96-govt-databases/)
-* [Critical React, Next.js flaw lets hackers execute code on servers](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-in-react-nextjs-lets-hackers-run-javascript-code/)
 <!--END_SECTION:feed-->
 
 <!--
