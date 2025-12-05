@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [EU fines X * [EU fines X * [Cloudflare blames today's outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
+* [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
+* [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
+* [EU fines X * [EU fines X * [EU fines X * [Cloudflare blames today's outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
 * [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 * [React2Shell critical flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
 * [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
@@ -13,7 +15,9 @@
 * [Cloudflare blames today's outage on emergency React2Shell patch](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
 * [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 * [Critical React2Shell flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
-* [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
+* [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
+* [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
+* [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
