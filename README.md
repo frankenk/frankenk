@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
 * [Hackers are exploiting ArrayOS AG VPN flaw to plant webshells](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/)
 * [NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices](https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/)
 * [Predator spyware uses new infection vector for zero-click attacks](https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/)
 * [Russia blocks FaceTime and Snapchat for alleged use by terrorists](https://www.bleepingcomputer.com/news/security/russia-blocks-facetime-and-snapchat-over-use-in-terrorist-attacks/)
-* [CISA warns of Chinese "BrickStorm" malware attacks on VMware servers](https://www.bleepingcomputer.com/news/security/cisa-warns-of-chinese-brickstorm-malware-attacks-on-vmware-servers/)
 <!--END_SECTION:feed-->
 
 <!--
