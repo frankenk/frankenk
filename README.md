@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/)
 * [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
+* [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
+* [EU fines X * [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
 * [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
 * [EU fines X * [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
 * [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
@@ -21,7 +24,8 @@
 * [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
 * [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
 * [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
-* [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
+* [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
+* [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
 <!--END_SECTION:feed-->
 
 <!--
