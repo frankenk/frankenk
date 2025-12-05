@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Pharma firm Inotiv discloses data breach after ransomware attack](https://www.bleepingcomputer.com/news/security/pharma-firm-inotiv-discloses-data-breach-after-ransomware-attack/)
 * [React2Shell critical flaw actively exploited in China-linked attacks](https://www.bleepingcomputer.com/news/security/react2shell-critical-flaw-actively-exploited-in-china-linked-attacks/)
 * [Cloudflare down, websites offline with 500 Internal Server Error](https://www.bleepingcomputer.com/news/technology/cloudflare-down-websites-offline-with-500-internal-server-error/)
 * [Hackers are exploiting ArrayOS AG VPN flaw to plant webshells](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-arrayos-ag-vpn-flaw-to-plant-webshells/)
 * [NCSC's ‘Proactive Notifications’ warns orgs of flaws in exposed devices](https://www.bleepingcomputer.com/news/security/ncscs-proactive-notifications-warns-orgs-of-flaws-in-exposed-devices/)
-* [Predator spyware uses new infection vector for zero-click attacks](https://www.bleepingcomputer.com/news/security/predator-spyware-uses-new-infection-vector-for-zero-click-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
