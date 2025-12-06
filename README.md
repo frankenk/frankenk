@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New wave of VPN login attempts targets Palo Alto GlobalProtect portals](https://www.bleepingcomputer.com/news/security/new-wave-of-vpn-login-attempts-targets-palo-alto-globalprotect-portals/)
 * [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/)
+* [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
+* [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
+* [EU fines X * [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/)
 * [FBI warns of virtual kidnapping scams using altered social media photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-virtual-kidnapping-ransom-scams-using-altered-social-media-photos/)
 * [A Practical Guide to Continuous Attack Surface Visibility ](https://www.bleepingcomputer.com/news/security/a-practical-guide-to-continuous-attack-surface-visibility/)
 * [EU fines X * [Barts Health NHS discloses data breach after Oracle zero-day hack](https://www.bleepingcomputer.com/news/security/barts-health-nhs-discloses-data-breach-after-oracle-zero-day-hack/)
@@ -113,7 +117,7 @@
 * [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
 * [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
 * [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
-* [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)
+* [Cloudflare blames today's outage on React2Shell mitigations](https://www.bleepingcomputer.com/news/security/cloudflare-blames-todays-outage-on-emergency-react2shell-patch/)40 million over deceptive blue checkmarks](https://www.bleepingcomputer.com/news/security/eu-fines-x-140-million-over-deceptive-blue-checkmarks-transparency-violations/)
 <!--END_SECTION:feed-->
 
 <!--
