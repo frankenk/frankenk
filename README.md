@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft December 2025 Patch Tuesday fixes 3 zero-days, 57 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-2025-patch-tuesday-fixes-3-zero-days-57-flaws/)
+* [Fortinet warns of critical FortiCloud SSO login auth bypass flaws](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-forticloud-sso-login-auth-bypass-flaws/)
+* [Windows 11 KB5072033 & KB5071417 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5072033-and-kb5071417-cumulative-updates-released/)
 * [Ivanti warns of critical Endpoint Manager code execution flaw](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-critical-endpoint-manager-code-execution-flaw/)
 * [Maintaining enterprise IT hygiene using Wazuh SIEM/XDR](https://www.bleepingcomputer.com/news/security/maintaining-enterprise-it-hygiene-using-wazuh-siem-xdr/)
-* [Spain arrests teen who stole 64 million personal data records](https://www.bleepingcomputer.com/news/security/spain-arrests-teen-who-stole-64-million-personal-data-records/)
-* [North Korean hackers exploit React2Shell flaw in EtherRAT malware attacks](https://www.bleepingcomputer.com/news/security/north-korean-hackers-exploit-react2shell-flaw-in-etherrat-malware-attacks/)
-* [Ransomware IAB abuses EDR for stealthy malware execution](https://www.bleepingcomputer.com/news/security/ransomware-iab-abuses-edr-for-stealthy-malware-execution/)
 <!--END_SECTION:feed-->
 
 <!--
