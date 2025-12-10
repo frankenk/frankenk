@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New DroidLock malware locks Android devices and demands a ransom](https://www.bleepingcomputer.com/news/security/new-droidlock-malware-locks-android-devices-and-demands-a-ransom/)
 * [Microsoft Teams to warn of suspicious traffic with external domains](https://www.bleepingcomputer.com/news/security/microsoft-teams-to-warn-of-suspicious-traffic-with-external-domains/)
 * [Over 10,000 Docker Hub images found leaking credentials, auth keys](https://www.bleepingcomputer.com/news/security/over-10-000-docker-hub-images-found-leaking-credentials-auth-keys/)
 * [Why a secure software development life cycle is critical for manufacturers](https://www.bleepingcomputer.com/news/security/why-a-secure-software-development-life-cycle-is-critical-for-manufacturers/)
 * [New Spiderman phishing service targets dozens of European banks](https://www.bleepingcomputer.com/news/security/new-spiderman-phishing-service-targets-dozens-of-european-banks/)
-* [Ukrainian hacker charged with helping Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/ukrainian-hacker-charged-with-helping-russian-hacktivist-groups/)
 <!--END_SECTION:feed-->
 
 <!--
