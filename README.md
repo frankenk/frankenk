@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft bounty program now includes any flaw impacting its services](https://www.bleepingcomputer.com/news/microsoft/microsoft-bounty-program-now-includes-any-flaw-impacting-its-services/)
 * [New ConsentFix attack hijacks Microsoft accounts via Azure CLI](https://www.bleepingcomputer.com/news/security/new-consentfix-attack-hijacks-microsoft-accounts-via-azure-cli/)
+* [AI is accelerating cyberattacks. Is your network prepared?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-cyberattacks-is-your-network-prepared/)
 * [Hackers exploit unpatched Gogs zero-day to breach 700 servers](https://www.bleepingcomputer.com/news/security/unpatched-gogs-zero-day-rce-flaw-actively-exploited-in-attacks/)
 * [Microsoft fixes Windows Explorer white flashes in dark mode](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-explorer-white-flashes-in-dark-mode/)
-* [Google fixes eighth Chrome zero-day exploited in attacks in 2025](https://www.bleepingcomputer.com/news/security/google-fixes-eighth-chrome-zero-day-exploited-in-attacks-in-2025/)
-* [Google ads for shared ChatGPT, Grok guides push macOS infostealer malware](https://www.bleepingcomputer.com/news/security/google-ads-for-shared-chatgpt-grok-guides-push-macos-infostealer-malware/)
 <!--END_SECTION:feed-->
 
 <!--
