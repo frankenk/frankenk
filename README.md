@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
+* [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
 * [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 * [Coupang data breach traced to ex-employee who retained system access](https://www.bleepingcomputer.com/news/security/coupang-data-breach-traced-to-ex-employee-who-retained-system-access/)
 * [Fake ‘One Battle After Another’ torrent hides malware in subtitles](https://www.bleepingcomputer.com/news/security/fake-one-battle-after-another-torrent-hides-malware-in-subtitles/)
-* [Kali Linux 2025.4 released with 3 new tools, desktop updates](https://www.bleepingcomputer.com/news/security/kali-linux-20254-released-with-3-new-tools-desktop-updates/)
-* [Shadow spreadsheets: The security gap your tools can’t see](https://www.bleepingcomputer.com/news/security/shadow-spreadsheets-the-security-gap-your-tools-cant-see/)
 <!--END_SECTION:feed-->
 
 <!--
