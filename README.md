@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google links more Chinese hacking groups to React2Shell attacks](https://www.bleepingcomputer.com/news/security/google-links-more-chinese-hacking-groups-to-react2shell-attacks/)
 * [French Interior Ministry confirms cyberattack on email servers](https://www.bleepingcomputer.com/news/security/france-interior-ministry-confirms-cyberattack-on-email-servers/)
 * [Microsoft: December security updates cause Message Queuing failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-december-security-updates-cause-message-queuing-failures/)
 * [Beware: PayPal subscriptions abused to send fake purchase emails](https://www.bleepingcomputer.com/news/security/beware-paypal-subscriptions-abused-to-send-fake-purchase-emails/)
 * [CyberVolk’s ransomware debut stumbles on cryptography weakness](https://www.bleepingcomputer.com/news/security/cybervolks-ransomware-debut-stumbles-on-cryptography-weakness/)
-* [Apple fixes two zero-day flaws exploited in 'sophisticated' attacks](https://www.bleepingcomputer.com/news/security/apple-fixes-two-zero-day-flaws-exploited-in-sophisticated-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
