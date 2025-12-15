@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
 * [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
 * [Ongoing SoundCloud issue blocks VPN users with 403 server error](https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/)
 * [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
 * [2025’s Top Phishing Trends and What They Mean for Your Security Strategy](https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/)
-* [Microsoft: Recent Windows updates break VPN access for WSL users](https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-wsl-networking-issues/)
 <!--END_SECTION:feed-->
 
 <!--
