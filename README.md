@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [SoundCloud confirms breach after member data stolen, VPN access disrupted](https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/)
+* [Google is shutting down its dark web report feature in January](https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/)
+* [Askul confirms theft of 740k customer records in ransomware attack](https://www.bleepingcomputer.com/news/security/askul-confirms-theft-of-740k-customer-records-in-ransomhouse-attack/)
 * [New SantaStealer malware steals data from browsers, crypto wallets](https://www.bleepingcomputer.com/news/security/new-santastealer-malware-steals-data-from-browsers-crypto-wallets/)
 * [PornHub extorted after hackers steal Premium member activity data](https://www.bleepingcomputer.com/news/security/pornhub-extorted-after-hackers-steal-premium-member-activity-data/)
-* [Ongoing SoundCloud issue blocks VPN users with 403 server error](https://www.bleepingcomputer.com/news/security/ongoing-soundcloud-issue-blocks-vpn-users-with-403-server-error/)
-* [700Credit data breach impacts 5.8 million vehicle dealership customers](https://www.bleepingcomputer.com/news/security/700credit-data-breach-impacts-58-million-vehicle-dealership-customers/)
-* [2025’s Top Phishing Trends and What They Mean for Your Security Strategy](https://www.bleepingcomputer.com/news/security/2025s-top-phishing-trends-and-what-they-mean-for-your-security-strategy/)
 <!--END_SECTION:feed-->
 
 <!--
