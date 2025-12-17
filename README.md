@@ -3,7 +3,7 @@
 <!--START_SECTION:feed-->
 * [Critical React2Shell flaw exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/critical-react2shell-flaw-exploited-in-ransomware-attacks/)
 * [Your MFA Is Costing You Millions. It Doesn't Have To.](https://www.bleepingcomputer.com/news/security/your-mfa-is-costing-you-millions-it-doesnt-have-to/)
-* [Microsoft asks IT admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
+* [Microsoft asks admins to reach out for Windows IIS failures fix](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-it-admins-to-reach-out-for-windows-iis-failures-fix/)
 * [Cellik Android malware builds malicious versions from Google Play apps](https://www.bleepingcomputer.com/news/security/cellik-android-malware-builds-malicious-versions-from-google-play-apps/)
 * [GhostPoster attacks hide malicious JavaScript in Firefox addon logos](https://www.bleepingcomputer.com/news/security/ghostposter-attacks-hide-malicious-javascript-in-firefox-addon-logos/)
 <!--END_SECTION:feed-->
