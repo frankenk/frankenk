@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Are Copilot prompt injection flaws vulnerabilities or AI limits?](https://www.bleepingcomputer.com/news/security/are-copilot-prompt-injection-flaws-vulnerabilities-or-ai-limits/)
 * [Cloud file-sharing sites targeted for corporate data theft attacks](https://www.bleepingcomputer.com/news/security/cloud-file-sharing-sites-targeted-for-corporate-data-theft-attacks/)
 * [ClickFix attack uses fake Windows BSOD screens to push malware](https://www.bleepingcomputer.com/news/security/clickfix-attack-uses-fake-windows-bsod-screens-to-push-malware/)
 * [US broadband provider Brightspeed investigates breach claims](https://www.bleepingcomputer.com/news/security/us-broadband-provider-brightspeed-investigates-breach-claims/)
 * [VSCode IDE forks expose users to "recommended extension" attacks](https://www.bleepingcomputer.com/news/security/vscode-ide-forks-expose-users-to-recommended-extension-attacks/)
-* [Ledger customers impacted by third-party Global-e data breach](https://www.bleepingcomputer.com/news/security/ledger-customers-impacted-by-third-party-global-e-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
