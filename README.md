@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Logitech Options+, G HUB macOS apps break after certificate expires](https://www.bleepingcomputer.com/news/hardware/logitech-options-plus-g-hub-macos-apps-break-after-certificate-expires/)
+* [Max severity Ni8mare flaw lets hackers hijack n8n servers](https://www.bleepingcomputer.com/news/security/max-severity-ni8mare-flaw-lets-hackers-hijack-n8n-servers/)
 * [Microsoft: Classic Outlook bug prevents opening encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-classic-outlook-bug-prevents-opening-encrypted-emails/)
 * [In 2026, Hackers Want AI: Threat Intel on Vibe Hacking & HackGPT](https://www.bleepingcomputer.com/news/security/in-2026-hackers-want-ai-threat-intel-on-vibe-hacking-and-hackgpt/)
 * [ownCloud urges users to enable MFA after credential theft reports](https://www.bleepingcomputer.com/news/security/owncloud-urges-users-to-enable-mfa-after-credential-theft-reports/)
-* [New Veeam vulnerabilities expose backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerabilities-expose-backup-servers-to-rce-attacks/)
-* [Google Search AI hallucinations push Google to hire "AI Answers Quality" engineers](https://www.bleepingcomputer.com/news/google/google-search-ai-hallucinations-push-google-to-hire-ai-answers-quality-engineers/)
 <!--END_SECTION:feed-->
 
 <!--
