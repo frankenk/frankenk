@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Texas court blocks Samsung from collecting smart TV viewing data](https://www.bleepingcomputer.com/news/security/texas-court-blocks-samsung-from-collecting-smart-tv-viewing-data/)
 * [Six for 2026: The cyber threats you can’t ignore](https://www.bleepingcomputer.com/news/security/six-for-2026-the-cyber-threats-you-cant-ignore/)
 * [Microsoft Exchange Online outage blocks access to mailboxes via IMAP4](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-blocks-access-to-mailboxes-via-imap4/)
 * [Microsoft to enforce MFA for Microsoft 365 admin center sign-ins](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enforce-mfa-for-microsoft-365-admin-center-sign-ins/)
 * [Cisco warns of Identity Service Engine flaw with exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-flaw-with-exploit-code/)
-* [CISA tags max severity HPE OneView flaw as actively exploited](https://www.bleepingcomputer.com/news/security/cisa-tags-max-severity-hpe-oneview-flaw-as-actively-exploited/)
 <!--END_SECTION:feed-->
 
 <!--
