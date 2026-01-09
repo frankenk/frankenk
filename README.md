@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers target misconfigured proxies to access paid LLM services](https://www.bleepingcomputer.com/news/security/hackers-target-misconfigured-proxies-to-access-paid-llm-services/)
 * [Illinois Department of Human Services data breach affects 700K people](https://www.bleepingcomputer.com/news/security/illinois-department-of-human-services-data-breach-affects-700k-people/)
 * [Email security needs more seatbelts: Why click rate is the wrong metric](https://www.bleepingcomputer.com/news/security/email-security-needs-more-seatbelts-why-click-rate-is-the-wrong-metric/)
 * [Illinois man charged with hacking Snapchat accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/illinois-man-charged-with-hacking-snapchat-accounts-to-steal-nude-photos/)
 * [Trend Micro warns of critical Apex Central RCE vulnerability](https://www.bleepingcomputer.com/news/security/trend-micro-fixes-critical-rce-flaw-in-apex-central-console/)
-* [CISA retires 10 emergency cyber orders in rare bulk closure](https://www.bleepingcomputer.com/news/security/cisa-retires-10-emergency-cyber-orders-in-rare-bulk-closure/)
 <!--END_SECTION:feed-->
 
 <!--
