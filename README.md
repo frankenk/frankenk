@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Instagram denies breach amid claims of 17 million account data leak](https://www.bleepingcomputer.com/news/security/instagram-denies-breach-amid-claims-of-17-million-account-data-leak/)
+* [California bans data broker reselling health data of millions](https://www.bleepingcomputer.com/news/legal/california-bans-data-broker-reselling-health-data-of-millions/)
 * [Microsoft is retiring 'Send to Kindle' in Word](https://www.bleepingcomputer.com/news/microsoft/microsoft-is-retiring-send-to-kindle-in-word/)
 * [BreachForums hacking forum database leaked, exposing 324,000 accounts](https://www.bleepingcomputer.com/news/security/breachforums-hacking-forum-database-leaked-exposing-324-000-accounts/)
 * [Spain arrests 34 suspects linked to Black Axe cyber crime](https://www.bleepingcomputer.com/news/security/spain-arrests-34-suspects-linked-to-black-axe-cyber-crime/)
-* [Ireland recalls almost 13,000 passports over missing 'IRL' code](https://www.bleepingcomputer.com/news/security/ireland-recalls-almost-13-000-passports-over-missing-irl-code/)
-* [Anthropic: Viral Claude “Banned and reported to authorities” message isn’t real](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-viral-claude-banned-and-reported-to-authorities-message-isnt-real/)
 <!--END_SECTION:feed-->
 
 <!--
