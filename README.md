@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
+* [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
+* [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
+* [Google confirms Android bug causing volume key issues](https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/)
 * [Betterment confirms data breach after wave of crypto scam emails](https://www.bleepingcomputer.com/news/security/betterment-confirms-data-breach-after-wave-of-crypto-scam-emails/)
-* [Convincing LinkedIn comment-reply tactic used in new phishing](https://www.bleepingcomputer.com/news/security/convincing-linkedin-comment-reply-tactic-used-in-new-phishing/)
-* [Target employees confirm leaked code after 'accelerated' Git lockdown](https://www.bleepingcomputer.com/news/security/target-employees-confirm-leaked-code-after-accelerated-git-lockdown/)
-* [Hacker gets seven years for breaching Rotterdam and Antwerp ports](https://www.bleepingcomputer.com/news/security/hacker-gets-seven-years-for-breaching-rotterdam-and-antwerp-ports/)
-* [Facebook login thieves now using browser-in-browser trick](https://www.bleepingcomputer.com/news/security/facebook-login-thieves-now-using-browser-in-browser-trick/)
 <!--END_SECTION:feed-->
 
 <!--
