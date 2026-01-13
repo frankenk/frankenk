@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Central Maine Healthcare breach exposed data of over 145,000 people](https://www.bleepingcomputer.com/news/security/central-maine-healthcare-breach-exposed-data-of-over-145-000-people/)
+* [Belgian hospital AZ Monica shuts down servers after cyberattack](https://www.bleepingcomputer.com/news/security/belgian-hospital-az-monica-shuts-down-servers-after-cyberattack/)
 * [New Windows updates replace expiring Secure Boot certificates](https://www.bleepingcomputer.com/news/security/microsoft-rolls-out-new-secure-boot-certificates-for-windows-devices/)
 * [Microsoft releases Windows 10 KB5073724 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5073724-extended-security-update/)
 * [Windows 11 KB5074109 & KB5073455 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074109-and-kb5073455-cumulative-updates-released/)
-* [Microsoft January 2026 Patch Tuesday fixes 3 zero-days, 114 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-january-2026-patch-tuesday-fixes-3-zero-days-114-flaws/)
-* [Google confirms Android bug causing volume key issues](https://www.bleepingcomputer.com/news/google/google-confirms-android-bug-causing-volume-key-issues/)
 <!--END_SECTION:feed-->
 
 <!--
