@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/)
 * [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/)
 * [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/)
 * [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/)
 * [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
-* [Verizon starts issuing $20 credits after nationwide outage](https://www.bleepingcomputer.com/news/mobile/verizon-starts-issuing-20-credits-after-nationwide-outage/)
 <!--END_SECTION:feed-->
 
 <!--
