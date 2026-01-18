@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google Chrome now lets you turn off on-device AI model powering scam detection](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-now-lets-you-turn-off-on-device-ai-model-powering-scam-detection/)
+* [Credential-stealing Chrome extensions target enterprise HR platforms](https://www.bleepingcomputer.com/news/security/credential-stealing-chrome-extensions-target-enterprise-hr-platforms/)
+* [Malicious GhostPoster browser extensions found with 840,000 installs](https://www.bleepingcomputer.com/news/security/malicious-ghostposter-browser-extensions-found-with-840-000-installs/)
 * [ChatGPT Go subscription rolls out worldwide at $8, but it'll show you ads](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-subscription-rolls-out-worldwide-at-8-but-itll-show-you-ads/)
 * [OpenAI says its new ChatGPT ads won't influence answers](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-chatgpt-ads-wont-influence-answers/)
-* [StealC hackers hacked as researchers hijack malware control panels](https://www.bleepingcomputer.com/news/security/stealc-hackers-hacked-as-researchers-hijack-malware-control-panels/)
-* [Black Basta boss makes it onto Interpol's 'Red Notice' list](https://www.bleepingcomputer.com/news/security/black-basta-boss-makes-it-onto-interpols-red-notice-list/)
-* [China-linked hackers exploited Sitecore zero-day for initial access](https://www.bleepingcomputer.com/news/security/china-linked-hackers-exploited-sitecore-zero-day-for-initial-access/)
 <!--END_SECTION:feed-->
 
 <!--
