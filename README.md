@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New PDFSider Windows malware deployed on Fortune 100 firm's network](https://www.bleepingcomputer.com/news/security/new-pdfsider-windows-malware-deployed-on-fortune-100-firms-network/)
 * [UK govt. warns about ongoing Russian hacktivist group attacks](https://www.bleepingcomputer.com/news/security/uk-govt-warns-about-ongoing-russian-hacktivist-group-attacks/)
 * [Hacker admits to leaking stolen Supreme Court data on Instagram](https://www.bleepingcomputer.com/news/security/hacker-admits-to-leaking-stolen-supreme-court-data-on-instagram/)
 * [Jordanian pleads guilty to selling access to 50 corporate networks](https://www.bleepingcomputer.com/news/security/jordanian-pleads-guilty-to-selling-access-to-50-corporate-networks/)
 * [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
-* [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
 <!--END_SECTION:feed-->
 
 <!--
