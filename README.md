@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ingram Micro says ransomware attack affected 42,000 people](https://www.bleepingcomputer.com/news/security/ingram-micro-says-ransomware-attack-affected-42-000-people/)
 * [OpenAI hostname hints at a new ChatGPT feature codenamed "Sonata"](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-hostname-hints-at-a-new-chatgpt-feature-codenamed-sonata/)
 * [New OpenAI leak hints at upcoming ChatGPT features](https://www.bleepingcomputer.com/news/artificial-intelligence/new-openai-leak-hints-at-upcoming-chatgpt-features/)
 * [Microsoft releases OOB Windows updates to fix shutdown, Cloud PC bugs](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-oob-windows-updates-to-fix-shutdown-cloud-pc-bugs/)
 * [CIRO confirms data breach exposed info on 750,000 Canadian investors](https://www.bleepingcomputer.com/news/security/ciro-data-breach-last-year-exposed-info-on-750-000-canadian-investors/)
-* [Google Chrome tests Gemini-powered AI "Skills"](https://www.bleepingcomputer.com/news/artificial-intelligence/google-chrome-tests-gemini-powered-ai-skills/)
 <!--END_SECTION:feed-->
 
 <!--
