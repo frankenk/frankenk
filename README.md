@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Gemini AI assistant tricked into leaking Google Calendar data](https://www.bleepingcomputer.com/news/security/gemini-ai-assistant-tricked-into-leaking-google-calendar-data/)
 * [Microsoft PowerToys adds new CursorWrap mouse 'teleport' tool](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-new-cursorwrap-mouse-teleport-tool/)
 * [Make Identity Threat Detection your security strategy for 2026](https://www.bleepingcomputer.com/news/security/make-identity-threat-detection-your-security-strategy-for-2026/)
 * [Webinar: Aligning cybersecurity purchases with what your SOC team needs](https://www.bleepingcomputer.com/news/security/webinar-aligning-cybersecurity-purchases-with-what-your-soc-team-needs/)
 * [ChatGPT Go now unlocks unlimited access to GPT-5.2 Instant for $8](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-go-now-unlocks-unlimited-access-to-gpt-52-instant-for-8/)
-* [You can get ChatGPT's $20 Plus subscription for free for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/you-can-get-chatgpts-20-plus-subscription-for-free-for-a-limited-time/)
 <!--END_SECTION:feed-->
 
 <!--
