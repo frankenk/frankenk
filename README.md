@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
+* [GitLab warns of high-severity 2FA bypass, denial-of-service flaws](https://www.bleepingcomputer.com/news/security/gitlab-warns-of-high-severity-2fa-bypass-denial-of-service-flaws/)
 * [Tesla hacked, 37 zero-days demoed at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/tesla-hacked-37-zero-days-demoed-at-pwn2own-automotive-2026/)
 * [OpenAI's ChatGPT Atlas browser is testing actions feature](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-atlas-browser-is-testing-actions-feature/)
 * [Google says Gemini won’t have ads, as ChatGPT prepares to add them](https://www.bleepingcomputer.com/news/artificial-intelligence/google-says-gemini-wont-have-ads-as-chatgpt-prepares-to-add-them/)
-* [OpenAI rolls out age prediction model on ChatGPT to detect your age](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-age-prediction-model-on-chatgpt-to-detect-your-age/)
-* [ACF plugin bug gives hackers admin on 50,000 WordPress sites](https://www.bleepingcomputer.com/news/security/acf-plugin-bug-gives-hackers-admin-on-50-000-wordpress-sites/)
 <!--END_SECTION:feed-->
 
 <!--
