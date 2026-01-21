@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Online retailer PcComponentes says data breach claims are fake](https://www.bleepingcomputer.com/news/security/online-retailer-pccomponentes-says-data-breach-claims-are-fake/)
 * [Fortinet admins report patched FortiGate firewalls getting hacked](https://www.bleepingcomputer.com/news/security/fortinet-admins-report-patched-fortigate-firewalls-getting-hacked/)
 * [Fake Lastpass emails pose as password vault backup alerts](https://www.bleepingcomputer.com/news/security/fake-lastpass-emails-pose-as-password-vault-backup-alerts/)
 * [Microsoft shares workaround for Outlook freezes after Windows update](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-outlook-freezes-after-windows-update/)
 * [You Got Phished? Of Course! You're Human...](https://www.bleepingcomputer.com/news/security/you-got-phished-of-course-youre-human/)
-* [Hackers exploit security testing apps to breach Fortune 500 firms](https://www.bleepingcomputer.com/news/security/hackers-exploit-security-testing-apps-to-breach-fortune-500-firms/)
 <!--END_SECTION:feed-->
 
 <!--
