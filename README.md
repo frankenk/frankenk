@@ -1,11 +1,15 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
+* [Microsoft: Outlook for iOS crashes, freezes due to coding error](https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-for-ios-crashes-freezes-due-to-coding-error/)
+* [Hackers get * [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
 * [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
 * [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 * [SmarterMail auth bypass flaw now exploited to hijack admin accounts](https://www.bleepingcomputer.com/news/security/smartermail-auth-bypass-flaw-now-exploited-to-hijack-admin-accounts/)
-* [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/)
+* [Microsoft Teams to add brand impersonation warnings to calls](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-add-brand-impersonation-warnings-to-calls/),047,000 for 76 zero-days at Pwn2Own Automotive 2026](https://www.bleepingcomputer.com/news/security/hackers-get-1-047-000-for-76-zero-days-at-pwn2own-automotive-2026/)
+* [Fortinet confirms critical FortiCloud auth bypass not fully patched](https://www.bleepingcomputer.com/news/security/fortinet-confirms-critical-forticloud-auth-bypass-not-fully-patched/)
+* [Okta SSO accounts targeted in vishing-based data theft attacks](https://www.bleepingcomputer.com/news/security/okta-sso-accounts-targeted-in-vishing-based-data-theft-attacks/)
+* [Curl ending bug bounty program after flood of AI slop reports](https://www.bleepingcomputer.com/news/security/curl-ending-bug-bounty-program-after-flood-of-ai-slop-reports/)
 <!--END_SECTION:feed-->
 
 <!--
