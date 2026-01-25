@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft releases emergency OOB update to fix Outlook freezes](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-oob-update-to-fix-outlook-freezes/)
 * [Sandworm hackers linked to failed wiper attack on Poland’s energy systems](https://www.bleepingcomputer.com/news/security/sandworm-hackers-linked-to-failed-wiper-attack-on-polands-energy-systems/)
 * [Konni hackers target blockchain engineers with AI-built malware](https://www.bleepingcomputer.com/news/security/konni-hackers-target-blockchain-engineers-with-ai-built-malware/)
-* [ShinyHunters claim to be behind SSO-account data theft attacks](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
+* [ShinyHunters claim hacks of Okta, Microsoft SSO accounts for data theft](https://www.bleepingcomputer.com/news/security/shinyhunters-claim-to-be-behind-sso-account-data-theft-attacks/)
 * [Malicious AI extensions on VSCode Marketplace steal developer data](https://www.bleepingcomputer.com/news/security/malicious-ai-extensions-on-vscode-marketplace-steal-developer-data/)
-* [CISA confirms active exploitation of four enterprise software bugs](https://www.bleepingcomputer.com/news/security/cisa-confirms-active-exploitation-of-four-enterprise-software-bugs/)
 <!--END_SECTION:feed-->
 
 <!--
