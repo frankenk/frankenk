@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
+* [Critical sandbox escape flaw found in popular vm2 NodeJS library](https://www.bleepingcomputer.com/news/security/critical-sandbox-escape-flaw-discovered-in-popular-vm2-nodejs-library/)
+* [US charges 31 more suspects linked to ATM malware attacks](https://www.bleepingcomputer.com/news/security/us-charges-31-more-suspects-linked-to-atm-malware-attacks/)
 * [From Cipher to Fear: The psychology behind modern ransomware extortion ](https://www.bleepingcomputer.com/news/security/from-cipher-to-fear-the-psychology-behind-modern-ransomware-extortion/)
 * [Over 6,000 SmarterMail servers exposed to automated hijacking attacks ](https://www.bleepingcomputer.com/news/security/over-6-000-smartermail-servers-exposed-to-automated-hijacking-attacks/)
-* [Have I Been Pwned: SoundCloud data breach impacts 29.8 million accounts](https://www.bleepingcomputer.com/news/security/have-i-been-pwned-soundcloud-data-breach-impacts-298-million-accounts/)
-* [New malware service guarantees phishing extensions on Chrome web store](https://www.bleepingcomputer.com/news/security/new-malware-service-guarantees-phishing-extensions-on-chrome-web-store/)
-* [New ClickFix attacks abuse Windows App-V scripts to push malware](https://www.bleepingcomputer.com/news/security/new-clickfix-attacks-abuse-windows-app-v-scripts-to-push-malware/)
 <!--END_SECTION:feed-->
 
 <!--
