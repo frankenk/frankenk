@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New WhatsApp lockdown feature protects high-risk users from hackers](https://www.bleepingcomputer.com/news/security/whatsapp-gets-new-lockdown-feature-that-blocks-cyberattacks/)
 * [OpenAI's ChatGPT ad costs are on par with live NFL broadcasts](https://www.bleepingcomputer.com/news/artificial-intelligence/openais-chatgpt-ad-costs-are-on-par-with-live-nfl-broadcasts/)
 * [Fortinet blocks exploited FortiCloud SSO zero day until patch is ready](https://www.bleepingcomputer.com/news/security/fortinet-blocks-exploited-forticloud-sso-zero-day-until-patch-is-ready/)
 * [Chinese Mustang Panda hackers deploy infostealers via CoolClient backdoor](https://www.bleepingcomputer.com/news/security/chinese-mustang-panda-hackers-deploy-infostealers-via-coolclient-backdoor/)
 * [WinRAR path traversal flaw still exploited by numerous hackers](https://www.bleepingcomputer.com/news/security/winrar-path-traversal-flaw-still-exploited-by-numerous-hackers/)
-* [Nike investigates data breach after extortion gang leaks files](https://www.bleepingcomputer.com/news/security/nike-investigates-data-breach-after-extortion-gang-leaks-files/)
 <!--END_SECTION:feed-->
 
 <!--
