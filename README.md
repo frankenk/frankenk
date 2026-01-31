@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
+* [Mandiant details how ShinyHunters abuse SSO to steal cloud data](https://www.bleepingcomputer.com/news/security/mandiant-details-how-shinyhunters-abuse-sso-to-steal-cloud-data/)
+* [Researcher reveals evidence of private Instagram profiles leaking photos](https://www.bleepingcomputer.com/news/security/researcher-reveals-evidence-of-private-instagram-profiles-leaking-photos/)
+* [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Crypto wallets received a record * [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
 * [Operation Switch Off dismantles major pirate TV streaming services](https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/)
 * [Microsoft fixes Outlook bug blocking access to encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/)
 * [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
@@ -77,7 +79,9 @@
 * [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
 * [Operation Switch Off dismantles major pirate TV streaming services](https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/)
 * [Microsoft fixes Outlook bug blocking access to encrypted emails](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outlook-bug-blocking-access-to-encrypted-emails/)
-* [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)
+* [Windows 11 KB5074105 update fixes boot, sign-in, and activation issues](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5074105-update-fixes-boot-sign-in-and-activation-issues/)58 billion in illicit funds last year](https://www.bleepingcomputer.com/news/security/crypto-wallets-received-a-record-158-billion-in-illicit-funds-last-year/)
+* [Microsoft to disable NTLM by default in future Windows releases](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-disable-ntlm-by-default-in-future-windows-releases/)
+* [Operation Switch Off dismantles major pirate TV streaming services](https://www.bleepingcomputer.com/news/legal/operation-switch-off-dismantles-major-pirate-tv-streaming-services/)
 <!--END_SECTION:feed-->
 
 <!--
