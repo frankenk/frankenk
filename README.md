@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware gang uses ISPsystem VMs for stealthy payload delivery](https://www.bleepingcomputer.com/news/security/ransomware-gang-uses-ispsystem-vms-for-stealthy-payload-delivery/)
 * [Microsoft to shut down Exchange Online EWS in April 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-shut-down-exchange-web-services-in-cloud-in-2027/)
 * [Italian university La Sapienza goes offline after cyberattack](https://www.bleepingcomputer.com/news/security/italian-university-la-sapienza-goes-offline-after-cyberattack/)
 * [Romanian oil pipeline operator Conpet discloses cyberattack](https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/)
 * [When cloud logs fall short, the network tells the truth ](https://www.bleepingcomputer.com/news/security/when-cloud-logs-fall-short-the-network-tells-the-truth/)
-* [Newsletter platform Substack notifies users of data breach](https://www.bleepingcomputer.com/news/security/newsletter-platform-substack-notifies-users-of-data-breach/)
 <!--END_SECTION:feed-->
 
 <!--
