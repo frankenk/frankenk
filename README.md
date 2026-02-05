@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 * [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 * [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
 * [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
 * [The Double-Edged Sword of Non-Human Identities](https://www.bleepingcomputer.com/news/security/the-double-edged-sword-of-non-human-identities/)
-* [EDR killer tool uses signed kernel driver from forensic software](https://www.bleepingcomputer.com/news/security/edr-killer-tool-uses-signed-kernel-driver-from-forensic-software/)
 <!--END_SECTION:feed-->
 
 <!--
