@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Data breach at fintech firm Betterment exposes 1.4 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-fintech-firm-betterment-exposes-14-million-accounts/)
 * [Zendesk spam wave returns, floods users with 'Activate account' emails](https://www.bleepingcomputer.com/news/security/zendesk-spam-wave-returns-floods-users-with-activate-account-emails/)
 * [Hackers compromise NGINX servers to redirect user traffic](https://www.bleepingcomputer.com/news/security/hackers-compromise-nginx-servers-to-redirect-user-traffic/)
 * [Critical n8n flaws disclosed along with public exploits](https://www.bleepingcomputer.com/news/security/critical-n8n-flaws-disclosed-along-with-public-exploits/)
 * [CISA: VMware ESXi flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-vmware-esxi-flaw-now-exploited-in-ransomware-attacks/)
-* [CISA warns of five-year-old GitLab flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-five-year-old-gitlab-flaw-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
