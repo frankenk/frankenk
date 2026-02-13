@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Turning IBM QRadar Alerts into Action with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-ibm-qradar-alerts-into-action-with-criminal-ip/)
 * [CISA flags critical Microsoft SCCM flaw as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-microsoft-configmgr-rce-flaw-as-exploited-in-attacks/)
 * [Microsoft fixes bug that blocked Google Chrome from launching](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-family-safety-bug-that-blocks-google-chrome-from-launching/)
 * [Russia tries to block WhatsApp, Telegram in communication blockade](https://www.bleepingcomputer.com/news/security/russia-tries-to-block-whatsapp-telegram-in-communication-blockade/)
 * [Bitwarden introduces ‘Cupid Vault’ for secure password sharing](https://www.bleepingcomputer.com/news/security/bitwarden-introduces-cupid-vault-for-secure-password-sharing/)
-* [Critical BeyondTrust RCE flaw now exploited in attacks, patch now](https://www.bleepingcomputer.com/news/security/critical-beyondtrust-rce-flaw-now-exploited-in-attacks-patch-now/)
 <!--END_SECTION:feed-->
 
 <!--
