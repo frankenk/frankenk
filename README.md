@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft Teams outage affects users in United States, Europe](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-outage-affects-users-in-united-states-europe/)
+* [What 5 Million Apps Revealed About Secrets in JavaScript](https://www.bleepingcomputer.com/news/security/what-5-million-apps-revealed-about-secrets-in-javascript/)
 * [New Keenadu backdoor found in Android firmware, Google Play apps](https://www.bleepingcomputer.com/news/security/new-keenadu-backdoor-found-in-android-firmware-google-play-apps/)
 * [Poland arrests suspect linked to Phobos ransomware operation](https://www.bleepingcomputer.com/news/security/poland-arrests-suspect-linked-to-phobos-ransomware-operation/)
 * [Ireland now also investigating X over Grok-made sexual images](https://www.bleepingcomputer.com/news/security/ireland-now-also-investigating-x-over-grok-made-sexual-images/)
-* [Washington Hotel in Japan discloses ransomware infection incident](https://www.bleepingcomputer.com/news/security/washington-hotel-in-japan-discloses-ransomware-infection-incident/)
-* [Eurail says stolen traveler data now up for sale on dark web](https://www.bleepingcomputer.com/news/security/eurail-says-stolen-traveler-data-now-up-for-sale-on-dark-web/)
 <!--END_SECTION:feed-->
 
 <!--
