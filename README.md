@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Spain arrests suspected hacktivists for DDoSing govt sites](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-anonymous-fenix-hacktivists-for-ddosing-govt-sites/)
 * [Microsoft says bug in classic Outlook hides the mouse pointer](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-bug-in-classic-outlook-hides-the-mouse-pointer/)
 * [Ad tech firm Optimizely confirms data breach after vishing attack](https://www.bleepingcomputer.com/news/security/ad-tech-firm-optimizely-confirms-data-breach-after-vishing-attack/)
 * [When identity isn’t the weak link, access still is](https://www.bleepingcomputer.com/news/security/when-identity-isnt-the-weak-link-access-still-is/)
 * [CISA: Recently patched RoundCube flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-recently-patched-roundcube-flaws-now-exploited-in-attacks/)
-* [Arkanix Stealer pops up as short-lived AI info-stealer experiment](https://www.bleepingcomputer.com/news/security/arkanix-stealer-pops-up-as-short-lived-ai-info-stealer-experiment/)
 <!--END_SECTION:feed-->
 
 <!--
