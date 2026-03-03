@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Paint maker giant AkzoNobel confirms cyberattack on U.S. site](https://www.bleepingcomputer.com/news/security/paint-maker-giant-akzonobel-confirms-cyberattack-on-us-site/)
+* [Facebook accounts unavailable in worldwide outage](https://www.bleepingcomputer.com/news/technology/facebook-hit-with-worldwide-outage-stating-accounts-are-unavailable/)
 * [Microsoft: Hackers abuse OAuth error flows to spread malware](https://www.bleepingcomputer.com/news/security/microsoft-hackers-abuse-oauth-error-flows-to-spread-malware/)
 * [Google Chrome shifts to two-week release cycle for increased stability](https://www.bleepingcomputer.com/news/security/google-chrome-shifts-to-two-week-release-cycle-for-increased-stability/)
 * [LexisNexis confirms data breach as hackers leak stolen files](https://www.bleepingcomputer.com/news/security/lexisnexis-confirms-data-breach-as-hackers-leak-stolen-files/)
-* [Compromised Site Management Panels are a Hot Item in Cybercrime Markets](https://www.bleepingcomputer.com/news/security/compromised-site-management-panels-are-a-hot-item-in-cybercrime-markets/)
-* [Amazon: Drone strikes damaged AWS data centers in Middle East](https://www.bleepingcomputer.com/news/technology/amazon-drone-strikes-damaged-aws-data-centers-in-middle-east/)
 <!--END_SECTION:feed-->
 
 <!--
