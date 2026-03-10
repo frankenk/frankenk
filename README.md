@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft Teams phishing targets employees with backdoors](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
+* [Microsoft Teams phishing targets employees with A0Backdoor malware](https://www.bleepingcomputer.com/news/security/microsoft-teams-phishing-targets-employees-with-backdoors/)
 * [Google: Cloud attacks exploit flaws more than weak credentials](https://www.bleepingcomputer.com/news/security/google-cloud-attacks-exploit-flaws-more-than-weak-credentials/)
 * [Dutch govt warns of Signal, WhatsApp account hijacking attacks](https://www.bleepingcomputer.com/news/security/dutch-govt-warns-of-signal-whatsapp-account-hijacking-attacks/)
 * [Ericsson US discloses data breach after service provider hack](https://www.bleepingcomputer.com/news/security/ericsson-us-discloses-data-breach-after-service-provider-hack/)
