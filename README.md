@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Google paid * [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
+* [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
+* [Google paid * [Google paid * [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 * [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
 * [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
 * [WhatsApp introduces parent-managed accounts for pre-teens](https://www.bleepingcomputer.com/news/security/whatsapp-introduces-parent-managed-accounts-for-pre-teens/)
@@ -9,7 +10,10 @@
 * [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
 * [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
 * [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
-* [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)
+* [US charges another ransomware negotiator linked to BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-charges-another-ransomware-negotiator-linked-to-blackcat-attacks/)7.1 million for vulnerability reports in 2025](https://www.bleepingcomputer.com/news/google/google-paid-171-million-for-vulnerability-reports-in-2025/)
+* [Telus Digital confirms breach after hacker claims 1 petabyte data theft](https://www.bleepingcomputer.com/news/security/telus-digital-confirms-breach-after-hacker-claims-1-petabyte-data-theft/)
+* [Going the Extra Mile: Travel Rewards Turn into Underground Currency.](https://www.bleepingcomputer.com/news/security/going-the-extra-mile-travel-rewards-turn-into-underground-currency/)
+* [Apple patches older iPhones and iPads against Coruna exploits](https://www.bleepingcomputer.com/news/apple/apple-patches-older-iphones-and-ipads-against-coruna-exploits/)
 <!--END_SECTION:feed-->
 
 <!--
