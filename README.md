@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google fixes two new Chrome zero-days exploited in attacks](https://www.bleepingcomputer.com/news/google/google-fixes-two-new-chrome-zero-days-exploited-in-attacks/)
 * [Canadian retail giant Loblaw notifies customers of data breach](https://www.bleepingcomputer.com/news/security/canadian-retail-giant-loblaw-notifies-customers-of-data-breach/)
 * [England Hockey investigating ransomware data breach](https://www.bleepingcomputer.com/news/security/england-hockey-investigating-ransomware-data-breach/)
 * [AI-generated Slopoly malware used in Interlock ransomware attack](https://www.bleepingcomputer.com/news/security/ai-generated-slopoly-malware-used-in-interlock-ransomware-attack/)
 * [Veeam warns of critical flaws exposing backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/veeam-warns-of-critical-flaws-exposing-backup-servers-to-rce-attacks/)
-* [US disrupts SocksEscort proxy network powered by Linux malware](https://www.bleepingcomputer.com/news/security/us-disrupts-socksescort-proxy-network-powered-by-linux-malware/)
 <!--END_SECTION:feed-->
 
 <!--
