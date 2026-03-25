@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Kali Linux 2026.1 released with 8 new tools, new BackTrack mode](https://www.bleepingcomputer.com/news/linux/kali-linux-20261-released-with-8-new-tools-new-backtrack-mode/)
 * [TP-Link warns users to patch critical router auth bypass flaw](https://www.bleepingcomputer.com/news/security/tp-link-warns-users-to-patch-critical-router-auth-bypass-flaw/)
 * [Manager of botnet used in ransomware attacks gets 2 years in prison](https://www.bleepingcomputer.com/news/security/russian-man-sentenced-for-operating-botnet-used-in-ransomware-attacks/)
 * [PTC warns of imminent threat from critical Windchill, FlexPLM RCE bug](https://www.bleepingcomputer.com/news/security/ptc-warns-of-imminent-threat-from-critical-windchill-flexplm-rce-bug/)
 * [Popular LiteLLM PyPI package backdoored to steal credentials, auth tokens](https://www.bleepingcomputer.com/news/security/popular-litellm-pypi-package-compromised-in-teampcp-supply-chain-attack/)
-* [FCC bans new routers made outside the USA over security risks](https://www.bleepingcomputer.com/news/security/fcc-bans-new-routers-made-outside-the-usa-over-security-risks/)
 <!--END_SECTION:feed-->
 
 <!--
