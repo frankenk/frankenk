@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Suspected RedLine infostealer malware admin extradited to US](https://www.bleepingcomputer.com/news/security/suspected-redline-infostealer-administrator-extradited-to-us/)
-* [GitHub adds AI-powered bug detection to expand security coverage](https://www.bleepingcomputer.com/news/security/github-adds-ai-powered-bug-detection-to-expand-security-coverage/)
-* [PolyShell attacks target 56% of all vulnerable Magento stores](https://www.bleepingcomputer.com/news/security/polyshell-attacks-target-56-percent-of-all-vulnerable-magento-stores/)
-* [Bubble AI app builder abused to steal Microsoft account credentials](https://www.bleepingcomputer.com/news/security/bubble-ai-app-builder-abused-to-steal-microsoft-account-credentials/)
-* [New Torg Grabber infostealer malware targets 728 crypto wallets](https://www.bleepingcomputer.com/news/security/new-torg-grabber-infostealer-malware-targets-728-crypto-wallets/)
+* [TikTok for Business accounts targeted in new phishing campaign](https://www.bleepingcomputer.com/news/security/tiktok-for-business-accounts-targeted-in-new-phishing-campaign/)
+* [WhatsApp rolls out more AI features, iOS multi-account support](https://www.bleepingcomputer.com/news/software/whatsapp-rolls-out-more-ai-features-ios-multi-account-support/)
+* [Inside a Modern Fraud Attack: From Bot Signups to Account Takeovers](https://www.bleepingcomputer.com/news/security/inside-a-modern-fraud-attack-from-bot-signups-to-account-takeovers/)
+* [Coruna iOS exploit framework linked to Triangulation attacks](https://www.bleepingcomputer.com/news/security/coruna-ios-exploit-framework-linked-to-triangulation-attacks/)
+* [Russia arrests suspected owner of LeakBase cybercrime forum](https://www.bleepingcomputer.com/news/security/russia-arrests-suspected-owner-and-admin-of-leakbase-cybercrime-forum/)
 <!--END_SECTION:feed-->
 
 <!--
