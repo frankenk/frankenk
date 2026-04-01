@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Claude Code source code accidentally leaked in NPM package](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-code-source-code-accidentally-leaked-in-npm-package/)
 * [Google now allows you to change your @gmail.com address](https://www.bleepingcomputer.com/news/google/google-now-allows-you-to-change-your-gmailcom-address/)
 * [Proton launches new "Meet" privacy-focused conferencing platform](https://www.bleepingcomputer.com/news/security/proton-launches-new-meet-privacy-focused-conferencing-platform/)
 * [GIGABYTE Control Center vulnerable to arbitrary file write flaw](https://www.bleepingcomputer.com/news/security/gigabyte-control-center-vulnerable-to-arbitrary-file-write-flaw/)
 * [Claude AI finds Vim, Emacs RCE bugs that trigger on file open](https://www.bleepingcomputer.com/news/security/claude-ai-finds-vim-emacs-rce-bugs-that-trigger-on-file-open/)
-* [Cisco source code stolen in Trivy-linked dev environment breach](https://www.bleepingcomputer.com/news/security/cisco-source-code-stolen-in-trivy-linked-dev-environment-breach/)
 <!--END_SECTION:feed-->
 
 <!--
