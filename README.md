@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 * [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
 * [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
 * [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
 * [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
-* [Hackers exploit TrueConf zero-day to push malicious software updates](https://www.bleepingcomputer.com/news/security/hackers-exploit-trueconf-zero-day-to-push-malicious-software-updates/)
 <!--END_SECTION:feed-->
 
 <!--
