@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
+* [New Progress ShareFile flaws can be chained in pre-auth RCE attacks](https://www.bleepingcomputer.com/news/security/new-progress-sharefile-flaws-can-be-chained-in-pre-auth-rce-attacks/)
+* [Medtech giant Stryker fully operational after data-wiping attack](https://www.bleepingcomputer.com/news/security/medtech-giant-stryker-fully-operational-after-data-wiping-attack/)
 * [Critical Cisco IMC auth bypass gives attackers Admin access](https://www.bleepingcomputer.com/news/security/critical-cisco-imc-auth-bypass-gives-attackers-admin-access/)
 * [Microsoft links Classic Outlook issue to email delivery problems](https://www.bleepingcomputer.com/news/microsoft/microsoft-links-classic-outlook-bug-to-email-delivery-issues/)
-* [Over 14,000 F5 BIG-IP APM instances still exposed to RCE attacks](https://www.bleepingcomputer.com/news/security/over-14-000-f5-big-ip-apm-instances-still-exposed-to-rce-attacks/)
-* [New CrystalRAT malware adds RAT, stealer and prankware features](https://www.bleepingcomputer.com/news/security/new-crystalrat-malware-adds-rat-stealer-and-prankware-features/)
-* [Apple expands iOS 18 updates to more iPhones to block DarkSword attacks](https://www.bleepingcomputer.com/news/security/apple-expands-ios-18-updates-to-more-iphones-to-block-darksword-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
