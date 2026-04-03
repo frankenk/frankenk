@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
 * [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 * [Claude Code leak used to push infostealer malware on GitHub](https://www.bleepingcomputer.com/news/security/claude-code-leak-used-to-push-infostealer-malware-on-github/)
 * [Drift loses $280 million North Korean hackers seize Security Council powers](https://www.bleepingcomputer.com/news/security/drift-loses-280-million-north-korean-hackers-seize-security-council-powers/)
 * [Residential proxies evaded IP reputation checks in 78% of 4B sessions](https://www.bleepingcomputer.com/news/security/residential-proxies-evaded-ip-reputation-checks-in-78-percent-of-4b-sessions/)
-* [Adversaries Exploit Vacant Homes to Intercept Mail in Hybrid Cybercrime](https://www.bleepingcomputer.com/news/security/adversaries-exploit-vacant-homes-to-intercept-mail-in-hybrid-cybercrime/)
 <!--END_SECTION:feed-->
 
 <!--
