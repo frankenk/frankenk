@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Die Linke German political party confirms data stolen by Qilin ransomware](https://www.bleepingcomputer.com/news/security/die-linke-german-political-party-confirms-data-stolen-by-qilin-ransomware/)
 * [Evolution of Ransomware: Multi-Extortion Ransomware Attacks](https://www.bleepingcomputer.com/news/security/evolution-of-ransomware-multi-extortion-ransomware-attacks/)
 * [Microsoft still working to fix Exchange Online mailbox access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-still-working-to-fix-exchange-online-mailbox-access-issues/)
 * [Man admits to locking thousands of Windows devices in extortion plot](https://www.bleepingcomputer.com/news/security/man-admits-to-extortion-plot-locking-coworkers-out-of-thousands-of-windows-devices/)
 * [Microsoft now force upgrades unmanaged Windows 11 24H2 PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-force-upgrades-unmanaged-windows-11-24h2-pcs/)
-* [CERT-EU: European Commission hack exposes data of 30 EU entities](https://www.bleepingcomputer.com/news/security/cert-eu-european-commission-hack-exposes-data-of-30-eu-entities/)
 <!--END_SECTION:feed-->
 
 <!--
