@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Google: New UNC6783 hackers steal corporate Zendesk support tickets](https://www.bleepingcomputer.com/news/security/google-new-unc6783-hackers-steal-corporate-zendesk-support-tickets/)
 * [New macOS stealer campaign uses Script Editor in ClickFix attack](https://www.bleepingcomputer.com/news/security/new-macos-stealer-campaign-uses-script-editor-in-clickfix-attack/)
 * [CISA orders feds to patch exploited Ivanti EPMM flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-ivanti-epmm-flaw-by-sunday/)
 * [13-year-old bug in ActiveMQ lets hackers remotely execute commands](https://www.bleepingcomputer.com/news/security/13-year-old-bug-in-activemq-lets-hackers-remotely-execute-commands/)
 * [Is a $30,000 GPU Good at Password Cracking?](https://www.bleepingcomputer.com/news/security/is-a-30-000-gpu-good-at-password-cracking/)
-* [Microsoft rolls out fix for broken Windows Start Menu search](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-broken-windows-start-menu-search/)
 <!--END_SECTION:feed-->
 
 <!--
