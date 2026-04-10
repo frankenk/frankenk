@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
+* [Supply chain attack at CPUID pushes malware with CPU-Z/HWMonitor](https://www.bleepingcomputer.com/news/security/supply-chain-attack-at-cpuid-pushes-malware-with-cpu-z-hwmonitor/)
 * [Microsoft: Canadian employees targeted in payroll pirate attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-canadian-employees-targeted-in-payroll-pirate-attacks/)
 * [Google rolls out Gmail end-to-end encryption on mobile devices](https://www.bleepingcomputer.com/news/google/google-rolls-out-gmail-end-to-end-encryption-on-mobile-devices/)
 * [New ‘LucidRook’ malware used in targeted attacks on NGOs, universities](https://www.bleepingcomputer.com/news/security/new-lucidrook-malware-used-in-targeted-attacks-on-ngos-universities/)
-* [New VENOM phishing attacks steal senior executives' Microsoft logins](https://www.bleepingcomputer.com/news/security/new-venom-phishing-attacks-steal-senior-executives-microsoft-logins/)
-* [Healthcare IT solutions provider ChipSoft hit by ransomware attack](https://www.bleepingcomputer.com/news/security/healthcare-it-solutions-provider-chipsoft-hit-by-ransomware-attack/)
 <!--END_SECTION:feed-->
 
 <!--
