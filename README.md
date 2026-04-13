@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The silent “Storm”: New infostealer hijacks sessions, decrypts server-side](https://www.bleepingcomputer.com/news/security/the-silent-storm-new-infostealer-hijacks-sessions-decrypts-server-side/)
 * [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
+* [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
+* [ChatGPT rolls out new * [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 * [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
 * [ChatGPT rolls out new * [Critical Marimo pre-auth RCE flaw now under active exploitation](https://www.bleepingcomputer.com/news/security/critical-marimo-pre-auth-rce-flaw-now-under-active-exploitation/)
 * [Over 20,000 crypto fraud victims identified in international crackdown](https://www.bleepingcomputer.com/news/security/police-identifies-20-000-victims-in-international-crypto-fraud-crackdown/)
@@ -189,7 +192,8 @@
 * [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 * [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)00 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
 * [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
-* [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)
+* [Analysis of one billion CISA KEV remediation records exposes limits of human-scale security](https://www.bleepingcomputer.com/news/security/analysis-of-one-billion-cisa-kev-remediation-records-exposes-limits-of-human-scale-security/)00 Pro subscription to challenge Claude](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-rolls-out-new-100-pro-subscription-to-challenge-claude/)
+* [Nearly 4,000 US industrial devices exposed to Iranian cyberattacks](https://www.bleepingcomputer.com/news/security/nearly-4-000-us-industrial-devices-exposed-to-iranian-cyberattacks/)
 <!--END_SECTION:feed-->
 
 <!--
