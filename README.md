@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [WordPress plugin suite hacked to push malware to thousands of sites](https://www.bleepingcomputer.com/news/security/wordpress-plugin-suite-hacked-to-push-malware-to-thousands-of-sites/)
 * [Signed software abused to deploy antivirus-killing scripts](https://www.bleepingcomputer.com/news/security/signed-software-abused-to-deploy-antivirus-killing-scripts/)
 * [Microsoft pays $2.3M for cloud and AI flaws at Zero Day Quest](https://www.bleepingcomputer.com/news/microsoft/microsoft-pays-23-million-for-cloud-and-ai-flaws-at-zero-day-quest/)
 * [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 * [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
-* [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
 <!--END_SECTION:feed-->
 
 <!--
