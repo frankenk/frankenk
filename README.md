@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA flags Windows Task Host vulnerability as exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-windows-task-host-vulnerability-as-exploited-in-attacks/)
 * [Rolling Networks: Securing the Transportation Sector](https://www.bleepingcomputer.com/news/security/rolling-networks-securing-the-transportation-sector/)
 * [Microsoft: April updates trigger BitLocker key prompts on some servers](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-windows-servers-ask-for-bitlocker-key-after-april-updates/)
 * [Microsoft fixes bug behind Windows Server 2025 automatic upgrades](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-behind-windows-server-2025-automatic-upgrades/)
 * [Microsoft adds Windows protections for malicious Remote Desktop files](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-windows-protections-for-malicious-remote-desktop-files/)
-* [Crypto-exchange Kraken extorted by hackers after insider breach](https://www.bleepingcomputer.com/news/security/crypto-exchange-kraken-extorted-by-hackers-after-insider-breach/)
 <!--END_SECTION:feed-->
 
 <!--
