@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Hackers exploit Marimo flaw to deploy NKAbuse malware from Hugging Face](https://www.bleepingcomputer.com/news/security/hackers-exploit-marimo-flaw-to-deploy-nkabuse-malware-from-hugging-face/)
 * [Google expands Gemini AI use to fight malicious ads on its platform](https://www.bleepingcomputer.com/news/google/google-expands-gemini-ai-use-to-fight-malicious-ads-on-its-platform/)
 * [New ATHR vishing platform uses AI voice agents for automated attacks](https://www.bleepingcomputer.com/news/security/new-athr-vishing-platform-uses-ai-voice-agents-for-automated-attacks/)
 * [Most "AI SOCs" Are Just Faster Triage. That's Not Enough.](https://www.bleepingcomputer.com/news/security/most-ai-socs-are-just-faster-triage-thats-not-enough/)
 * [Cisco says critical Webex Services flaw requires customer action](https://www.bleepingcomputer.com/news/security/cisco-says-critical-webex-services-flaw-requires-customer-action/)
-* [Data breach at edtech giant McGraw Hill affects 13.5 million accounts](https://www.bleepingcomputer.com/news/security/data-breach-at-edtech-giant-mcgraw-hill-affects-135-million-accounts/)
 <!--END_SECTION:feed-->
 
 <!--
