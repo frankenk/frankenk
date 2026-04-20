@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Seiko USA website defaced as hacker claims customer data theft](https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/)
 * [Microsoft: Teams increasingly abused in helpdesk impersonation attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/)
 * [The backup myth that is putting businesses at risk](https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/)
 * [British Scattered Spider hacker pleads guilty to crypto theft charges](https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/)
 * [Microsoft tests Windows Explorer speed, performance improvements](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/)
-* [Microsoft pulls service update causing Teams launch failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/)
 <!--END_SECTION:feed-->
 
 <!--
