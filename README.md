@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
+* [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
 * [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 * [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 * [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
-* [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
-* [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
 <!--END_SECTION:feed-->
 
 <!--
