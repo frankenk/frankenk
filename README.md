@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
 * [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 * [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 * [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
 * [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
-* [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
