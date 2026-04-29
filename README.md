@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 * [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 * [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 * [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 * [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
-* [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 <!--END_SECTION:feed-->
 
 <!--
