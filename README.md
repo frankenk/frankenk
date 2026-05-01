@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 * [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 * [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 * [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 * [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
-* [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 <!--END_SECTION:feed-->
 
 <!--
