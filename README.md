@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 * [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 * [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
 * [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
 * [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
-* [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 <!--END_SECTION:feed-->
 
 <!--
