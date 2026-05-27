@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
 * [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 * [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
 * [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
 * [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
-* [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
 <!--END_SECTION:feed-->
 
 <!--
