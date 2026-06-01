@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
-* [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
-* [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
-* [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
-* [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
+* [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
+* [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
+* [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
+* [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
+* [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
 <!--END_SECTION:feed-->
 
 <!--
