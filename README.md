@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+* [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+* [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
 * [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
 * [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
-* [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
-* [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
-* [ CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
 <!--END_SECTION:feed-->
 
 <!--
