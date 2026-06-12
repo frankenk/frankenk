@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 * [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 * [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
 * [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 * [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
-* [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 <!--END_SECTION:feed-->
 
 <!--
