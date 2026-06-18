@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
 * [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
 * [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
 * [5 reasons Microsoft 365 backup isn’t enough for business data protection](https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/)
 * [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
-* [ShapedPlugin update flow hacked to infect WordPress sites](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
 <!--END_SECTION:feed-->
 
 <!--
