@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
 * [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
 * [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
 * [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
 * [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
-* [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
 <!--END_SECTION:feed-->
 
 <!--
