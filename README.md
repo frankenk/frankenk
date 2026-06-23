@@ -1,35 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
+* [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
+* [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
 * [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
 * [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-* [JaredFromSubway MEV bot hacked in * [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-* [JaredFromSubway MEV bot hacked in * [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-* [JaredFromSubway MEV bot hacked in * [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-* [JaredFromSubway MEV bot hacked in * [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
-* [JaredFromSubway MEV bot hacked in * [JaredFromSubway MEV bot hacked in * [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
-* [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
-* [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
-* [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
-* [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
-* [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)5 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
-* [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
-* [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
 <!--END_SECTION:feed-->
 
 <!--
