@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
+* [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
 * [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
 * [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
 * [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
-* [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
-* [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
 <!--END_SECTION:feed-->
 
 <!--
