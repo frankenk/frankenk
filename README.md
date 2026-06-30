@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New BioShocking attack manipulates AI browser into data theft](https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/)
+* [Microsoft accelerates quantum-safe roadmap as risks grow](https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/)
+* [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
 * [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
 * [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
-* [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
-* [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
-* [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
 <!--END_SECTION:feed-->
 
 <!--
