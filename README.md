@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
+* [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 * [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
 * [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
 * [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
-* [Phishing poses as big-brand job interview to steal Google accounts](https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/)
-* [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
 <!--END_SECTION:feed-->
 
 <!--
