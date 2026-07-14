@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
+* [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
 * [You Don't Have to Run an Exploit to Know If You're Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
 * [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
 * [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
-* [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
-* [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
 <!--END_SECTION:feed-->
 
 <!--
