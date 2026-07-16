@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [CISA orders feds to patch actively exploited Oracle flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/)
+* [Russian hackers trojanize WebEx, Zoom apps to push Starland malware](https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/)
+* [New Spirals ransomware encrypts victim network in under 24 hours](https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/)
 * [Dutch police bust investment fraud ring stealing over €100 million](https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/)
 * [Zoom warns of critical account takeover vulnerability](https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/)
-* [Google Gemini CLI abused as a hacking agent, malware botnet operator](https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/)
-* [AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
-* [We built a vulnerability vending machine: AI tokens in, zero-days out](https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/)
 <!--END_SECTION:feed-->
 
 <!--
