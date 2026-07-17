@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
 * [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
 * [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
 * [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
 * [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
-* [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
 <!--END_SECTION:feed-->
 
 <!--
