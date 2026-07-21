@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
 * [FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware](https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/)
 * [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/)
 * [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
 * [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
-* [Closing the Identity Gaps in Critical Infrastructure Security](https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/)
 <!--END_SECTION:feed-->
 
 <!--
