@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
 * [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
+* [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
+* [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
+* [Upbound says hack caused * [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
 * [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
 * [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
 * [Upbound says hack caused * [Upbound says hack caused * [Upbound says hack caused * [Upbound says hack caused * [Upbound says hack caused * [Upbound says hack caused * [Upbound says hack caused * [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
@@ -1281,7 +1285,7 @@
 * [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)2.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
 * [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
 * [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)3 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
-* [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
+* [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)3 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
 <!--END_SECTION:feed-->
 
 <!--
