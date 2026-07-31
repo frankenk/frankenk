@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
+* [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
 * [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
 * [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 * [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
-* [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
-* [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
 <!--END_SECTION:feed-->
 
 <!--
