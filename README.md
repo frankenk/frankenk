@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 * [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
 * [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
 * [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
 * [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
-* [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
 <!--END_SECTION:feed-->
 
 <!--
