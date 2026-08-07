@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
 * [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
 * [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 * [Real emails, hijacked payments: Two H1 2026 attack chains ](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
 * [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
-* [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 <!--END_SECTION:feed-->
 
 <!--
