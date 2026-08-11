@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
 * [Hackers breached a small Polish energy plant via private APN last year](https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/)
 * [BdThemes plugins supply-chain hack creates rogue WordPress admins](https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/)
 * [OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users](https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/)
 * [New StormEncryptor ransomware used by former Medusa affiliate](https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/)
-* [CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/)
 <!--END_SECTION:feed-->
 
 <!--
