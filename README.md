@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
 * [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
 * [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
 * [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
 * [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
-* [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
 <!--END_SECTION:feed-->
 
 <!--
