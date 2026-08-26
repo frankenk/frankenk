@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Meta agrees to * [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
+* [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
+* [Meta agrees to * [Meta agrees to * [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
 * [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
 * [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
 * [Snowflake ends service-account passwords. Now comes the hard part ](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
@@ -9,7 +10,10 @@
 * [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
 * [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
 * [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
-* [Snowflake ends service-account passwords. Now comes the hard part ](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
+* [Snowflake ends service-account passwords. Now comes the hard part ](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)8 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
+* [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
+* [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
+* [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
 <!--END_SECTION:feed-->
 
 <!--
