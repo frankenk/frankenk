@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
-* [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
-* [Carhartt data breach exposes information of 12.9 million accounts](https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/)
-* [CISA orders feds to patch Citrix NetScaler RCE flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploiting-citrix-netscaler-rce-flaw-in-attacks/)
-* [ATF confirms “major incident” after recent Qilin breach claims](https://www.bleepingcomputer.com/news/security/atf-confirms-major-incident-after-recent-qilin-breach-claims/)
+* [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
+* [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
+* [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
+* [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
+* [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
 <!--END_SECTION:feed-->
 
 <!--
