@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Ransomware protection for MSPs: A 6-point checklist for faster recovery](https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/)
+* [Dropbox accounts breached through Lenovo email verification flaw](https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/)
+* [Microsoft Defender flags legitimate Google search links as malicious](https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/)
 * [US charges Russian for infecting 80,000 freelancers with malware](https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/)
 * [Sality botnet infrastructure dismantled in joint global takedown](https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/)
-* [SonicWall warns of actively exploited SMA1000 zero-day flaws](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/)
-* [Hackers abuse Faronics Deploy admin tool to install ScreenConnect](https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/)
-* [Aesto Health says data breach affects over 9.5 million patients](https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/)
 <!--END_SECTION:feed-->
 
 <!--
