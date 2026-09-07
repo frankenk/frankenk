@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Magento StyleSmuggler zero-day exploited to deploy Linux backdoor](https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/)
 * [BigBear Microsoft 365 phishing service bypassed MFA at 258 organizations](https://www.bleepingcomputer.com/news/security/bigbear-microsoft-365-phishing-service-bypassed-mfa-at-258-organizations/)
 * [Mathspace discloses data breach affecting over 1 million people](https://www.bleepingcomputer.com/news/security/mathspace-discloses-data-breach-affecting-over-1-million-people/)
 * [Trezor data breach impact now reaches 81,000 customers](https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/)
 * [ChatGPT can now connect to your personal apps to mimic writing style](https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/)
-* [Hackers exploit new MikroTik RouterOS flaws to hijack routers](https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/)
 <!--END_SECTION:feed-->
 
 <!--
