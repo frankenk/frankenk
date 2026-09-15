@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Suspected Black Axe gang leaders face cybercrime charges in the US](https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/)
-* [Microsoft confirms KB5002914 Excel update breaks copy and paste](https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/)
-* [Cisco patches Secure Email Gateway zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/)
-* [Microsoft releases emergency Windows updates to fix RDS failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/)
-* [Japan's Digital Agency says VPN flaw exposed 246,000 personnel records](https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/)
+* [CenterPoint Energy confirms customer data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/)
+* [BambooToken malware controls Windows and Linux systems via MQTT](https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/)
+* [Hackers target WordPress sites via third-party WooCommerce plugin](https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/)
+* [What Zero-Day Response Should Be in the Post-Mythos Era](https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/)
+* [CISA: Critical VMware RCE flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/)
 <!--END_SECTION:feed-->
 
 <!--
