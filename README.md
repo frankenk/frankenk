@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Calling viral AI actress Tilly Norwood? Agree to a face scan first](https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/)
 * [Gyazo server flaw exploited to steal 23.6 million user records](https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/)
 * [Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer](https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/)
 * [Secure enterprise sharing with access reviews for Microsoft 365](https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/)
 * [Microsoft Teams will let admins block custom file extensions](https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/)
-* [Webinar: Which Google Workspace security controls actually matter?](https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/)
 <!--END_SECTION:feed-->
 
 <!--
