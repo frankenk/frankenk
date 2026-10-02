@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [The EDR blind spot: 3 ways browser attacks evade endpoint telemetry  ](https://www.bleepingcomputer.com/news/security/the-edr-blind-spot-3-ways-browser-attacks-evade-endpoint-telemetry/)
+* [Dell asks admins to patch max severity CSM flaws as soon as possible](https://www.bleepingcomputer.com/news/security/new-max-severity-dell-csm-flaws-give-hackers-admin-privileges/)
+* [Microsoft’s X account hacked in crypto pump-and-dump scheme](https://www.bleepingcomputer.com/news/security/microsofts-x-account-hacked-in-crypto-token-pump-and-dump-scheme/)
 * [Fortinet warns of critical FortiMail flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/)
 * [Autonomous AI agents tried to hack US, Canadian government websites](https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/)
-* [Microsoft says threat actors are ahead in the early AI race](https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/)
-* [Police dismantle KillSec ransomware gang allegedly led by 16-year-old](https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/)
-* [The Day-One Hole in Zero Trust Architecture](https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/)
 <!--END_SECTION:feed-->
 
 <!--
