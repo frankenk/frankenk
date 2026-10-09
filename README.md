@@ -1,15 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Citrix warns admins to patch new NetScaler RCE flaw immediately](https://www.bleepingcomputer.com/news/security/citrix-warns-admins-to-patch-new-netscaler-rce-flaw-immediately/)
-* [Hackers get * [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
-* [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
-* [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
-* [FakeGit malware campaign returns with 17,610 malicious GitHub repos](https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/)
-* [Cisco warns of critical flaws allowing Nexus switch takeover](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/),262,000 for 98 zero-days at Pwn2Own Ireland](https://www.bleepingcomputer.com/news/security/hackers-earn-1262000-for-98-zero-days-at-pwn2own-ireland/)
-* [FBI disrupts Chinese hacking tools used to breach critical infrastructure](https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/)
-* [Ransomware attack disrupts Japan's IDCF Cloud used by govt clients](https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/)
-* [Low-cost Android phones ship with residential proxy malware](https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/)
+* [Germany arrests alleged core Qilin ransomware member after extradition](https://www.bleepingcomputer.com/news/security/germany-arrests-alleged-core-qilin-ransomware-member-after-extradition/)
+* [How to keep AI agents within their permissions](https://www.bleepingcomputer.com/news/security/how-to-keep-ai-agents-within-their-permissions/)
+* [Max severity SonicWall SMA1000 flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sonicwall-sma1000-flaw-now-exploited-in-attacks/)
+* [Man admits to running network of 15,000 money mules for cybercriminals](https://www.bleepingcomputer.com/news/security/ukrainian-russian-dual-citizen-admits-to-laundering-millions-for-cybercriminals/)
+* [Microsoft: Outdated Windows devices will stop receiving security updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-outdated-windows-devices-will-lose-security-protection-next-year/)
 <!--END_SECTION:feed-->
 
 <!--
