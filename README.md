@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
+* [Microsoft releases Windows OOB updates to distrust eMudhra certificates](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/)
+* [Warp discloses breach exposing AI agent logs, user telemetry data](https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/)
+* [Tailscale warns of SSH flaws allowing root privilege escalation](https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/)
+* [The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest](https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/)
 * [Apple backports CoreGraphics zero-day patches to older iPhones](https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/)
-* [Energy giant ENGIE discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/)
-* [CISA confirms PHP2Shell vulnerabilities now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/)
-* [University of Copenhagen data breach exposes data of 525,000 people](https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/)
-* [Former pentester used ARTEX AI to steal 8.2 million data records](https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/)
 <!--END_SECTION:feed-->
 
 <!--
