@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--START_SECTION:feed-->
-* [Linux kernel exploit enables remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/linux-kernel-exploit-enables-remote-root-attacks-on-mptcp-servers/)
+* [Critical Linux kernel flaw allows remote root attacks on MPTCP servers](https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/)
 * [Trezor warns of suspected crypto-theft implant in hardware wallet](https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/)
 * [Malicious Claude Code extension on Cursor planted SSH backdoors](https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/)
 * [ SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone](https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/)
